@@ -2634,3 +2634,141 @@ console.error: BroadcastService:
 1542205751706	Marionette	INFO	Stopped listening on port 34503
 console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
 [Parent 14330, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542260282667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MW1WbhmOq6YN"
+1542260292663	Marionette	INFO	Listening on port 44739
+1542260292678	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2436): dconf-WARNING **: 07:38:19.561: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Error while calling actor 'frameTarget's method 'detach'" "this.walker is null"
+console.error: "get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:69:5\nparent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:826:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:911:20\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1006:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:78:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:928:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1006:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:928:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1006:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:242:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:204:7\nremoveActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1492:27\nremoveActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1492:9\n_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js:891:7\ndetach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js:932:10\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+Handler function threw an exception: TypeError: this.threadActor is null
+Stack: exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js:514:7
+frameTargetPrototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/frame.js:80:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js:499:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:242:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:204:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1820:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1820:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:62:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1431:7
+onDisconnect<@resource://devtools/server/startup/frame.js:122:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 514, column: 7
+console.error: "Handler function threw an exception: TypeError: this.threadActor is null\nStack: exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js:514:7\nframeTargetPrototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/frame.js:80:3\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js:499:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:242:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:204:7\nonClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1820:35\nonClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1820:5\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:62:5\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1431:7\nonDisconnect<@resource://devtools/server/startup/frame.js:122:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 514, column: 7"
+1542265316904	Marionette	INFO	Stopped listening on port 44739
+1542265454245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CCE7WnngfvVn"
+1542265467248	Marionette	INFO	Listening on port 34405
+1542265467481	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4491): dconf-WARNING **: 09:04:30.016: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542266665160	Marionette	INFO	Stopped listening on port 34405
+[Parent 4314, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 4314, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542268007281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1QWJAhCv0vhn"
+1542268010652	Marionette	INFO	Listening on port 46155
+1542268010707	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5069): dconf-WARNING **: 09:46:56.930: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542268614800	Marionette	INFO	Stopped listening on port 46155
+[Child 5069, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1542268791032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sXCGWrjjRhXi"
+1542268795278	Marionette	INFO	Listening on port 38331
+1542268795347	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5542): dconf-WARNING **: 09:59:57.149: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1542268854354	Marionette	INFO	Stopped listening on port 38331
+[Parent 5399, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542268941779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qb03W1SheoE3"
+1542268945112	Marionette	INFO	Listening on port 36661
+1542268945194	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5809): dconf-WARNING **: 10:02:30.340: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1542269002134	Marionette	INFO	Stopped listening on port 36661
+[Parent 5681, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542269651461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bj796S31IpVC"
+1542269654896	Marionette	INFO	Listening on port 40487
+1542269654977	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6158): dconf-WARNING **: 10:14:21.714: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542269785277	Marionette	INFO	Stopped listening on port 40487
+[Parent 6028, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6028, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542270150434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kqpMaFq3nhFC"
+1542270153977	Marionette	INFO	Listening on port 42695
+1542270154047	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6468): dconf-WARNING **: 10:22:36.118: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1542270316978	Marionette	INFO	Stopped listening on port 42695
+[Parent 6338, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6338, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542271084201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aAUPzLfpkywN"
+1542271087509	Marionette	INFO	Listening on port 35327
+1542271087673	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6822): dconf-WARNING **: 10:38:09.542: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1542271144658	Marionette	INFO	Stopped listening on port 35327
+[Parent 6691, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6691, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1542271307168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.o3NzrXnXoucU"
+1542271310869	Marionette	INFO	Listening on port 37139
+1542271310888	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7087): dconf-WARNING **: 10:41:52.773: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1542271339608	Marionette	INFO	Stopped listening on port 37139
+[Parent 6965, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6965, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542271380232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DlbQHfIBEA8N"
+1542271383746	Marionette	INFO	Listening on port 33737
+1542271383878	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7343): dconf-WARNING **: 10:43:05.495: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542276402536	Marionette	INFO	Stopped listening on port 33737

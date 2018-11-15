@@ -1,0 +1,132 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}, 'button': {'id': 'RVVacVZyS5KDYPnMg1dPcw', 'label': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}, 'button': {'id': 'V2N5eA0UTWa2yr91Xi4dHA', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}, 'button': {'id': 'ksjEuXXCRwixUPXlpYXCBg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}, 'button': {'id': 'Uk1r6YVKTCSrgJ0dJnzFqg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'yeM4eBb1RDiPjkg0PDcn6w', 'name': 'Start'}, 'report': {'id': 'rLdeHBu4R3GWHSYyDOk3lw', 'type': 'MSG'}, 'page': {'id': 'Fz47pc71Sne51acj7tMHzw', 'caption': 'It’s time to play Knock Down Skittles. 🎳'}}
+msgid "It’s time to play Knock Down Skittles. 🎳"
+msgstr "Dis tyd om ‘Gooi die Kegels om’ (Knock Down Skittles) te speel. 🎳"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Arm & Hand Control\r\n"
+"✔️Numbers , Shapes and Sizes"
+msgstr ""
+"✔️Arm- en handbeheer\r\n"
+"✔️Getalle, vorms en groottes"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid ""
+"This is a great to get the children playing in groups together so that they can make new friends.\r\n"
+"\r\n"
+"1. A set of skittles (3 to 5). You can make these out of empty drinking bottles, but not glass. \r\n"
+"2. A ball (you can make this out of plastic bags and onion bags).\r\n"
+"3. Space to play skittles.\r\n"
+"\r\n"
+msgstr ""
+"Dis ’n goeie speletjie om kinders in groepe te laat saamspeel sodat hulle nuwe maats kan maak.\r\n"
+"\r\n"
+"1. ’n Stel kegels (3 tot 5). Jy kan leë bottels hiervoor gebruik, maar nie glasbottels nie. \r\n"
+"2. ’n Bal (jy kan een van plastieksakke of uiesakke maak).\r\n"
+"3. Ruimte om kegelspel te speel."
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid ""
+"It’s also really straightforward, and you can play it over and over. All you have to do is:\r\n"
+"\r\n"
+"1. Line the skittles up in a row.\r\n"
+"2. Line the children up in front of the skittles.\r\n"
+"3. Together take 5 steps back and count out loud as they step backwards.\r\n"
+"4. Give each child a turn to roll the ball towards the skittles.\r\n"
+"5. The ball should not leave the ground.\r\n"
+"6. Reset the skittles when they have been knocked over.\r\n"
+"7. This time take six steps back.\r\n"
+"8. Have the children throw under arm first.\r\n"
+"9. Then throw overarm.\r\n"
+"10. Throw ball with two hands.\r\n"
+"11. Throw ball with one hand."
+msgstr ""
+"Dis regtig eenvoudig en jy kan dit oor en oor speel. Al wat jy moet doen:\r\n"
+"\r\n"
+"1. Stel die kegels in ’n ry op.\r\n"
+"2. Laat die kinders in ’n ry voor die kegels staan.\r\n"
+"3. Almal neem 5 treë agteruit en tel hardop soos hul terugtree.\r\n"
+"4. Gee elke kind ’n beurt om die bal na die kegels te rol.\r\n"
+"5. Die bal moet heeltyd op die grond bly.\r\n"
+"6. Stel weer die kegels op nadat dit omgegooi is.\r\n"
+"7. Neem nou ses treë agteruit.\r\n"
+"8. Laat die kinders eers onderarm gooi.\r\n"
+"9. En dan oorarm.\r\n"
+"10. Gooi die bal met twee hande.\r\n"
+"11. Gooi die bal met een hand."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+msgid ""
+"But it’s not just physical, you can also use these questions to help the kids learn more:\r\n"
+"\r\n"
+"Before you start:\r\n"
+"• How many skittles can you see?\r\n"
+"• What colours are they?\r\n"
+"\r\n"
+"While you’re taking turns:\r\n"
+"• How many did you knock over?\r\n"
+"• How many are left?\r\n"
+"• Can you catch the ball with 2 hands?\r\n"
+"\r\n"
+"Before you start the next round:\r\n"
+"• How many steps should we take now?\r\n"
+"• Is that more or less than last time?\r\n"
+"• Can you catch the ball 1-handed?\r\n"
+msgstr ""
+"Dit gaan nie net oor die fisiese nie. Jy kan ook hierdie vrae stel om die kinders ander dinge te leer:\r\n"
+"\r\n"
+"Voordat julle begin:\r\n"
+"• Hoeveel kegels sien jy?\r\n"
+"• Watter kleur is hulle?\r\n"
+"\r\n"
+"Terwyl hulle beurte neem:\r\n"
+"• Hoeveel het jy omgegooi?\r\n"
+"• Hoeveel bly oor?\r\n"
+"• Kan jy die bal met 2 hande vang?\r\n"
+"\r\n"
+"Voor die volgende rondte begin:\r\n"
+"• Hoeveel treë moet ons nou neem?\r\n"
+"• Is dit meer of minder as die vorige keer?\r\n"
+"• Kan jy die bal met 1 hand vang?"
+

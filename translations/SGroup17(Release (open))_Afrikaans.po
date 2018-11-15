@@ -1,0 +1,133 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}, 'button': {'id': '8uigfAAjQgWPEPJN3qDYjA', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}, 'button': {'id': 'yq38n3KaREOQC0Mjf0aODw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}, 'button': {'id': 'pevMWDdYRa2JWcAFG1-1PQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}, 'button': {'id': 'X-RI1iLWSai6qIfEUbaPWg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}}
+msgid ""
+"Here’s what you’ll need to keep the kids busy:\r\n"
+"\r\n"
+"1. A pre-drawn picture of a dinosaur for each child.\r\n"
+"2. Squares about the size of a stamp in 2 or 3 different colours. \r\n"
+"3. Glue.\r\n"
+"4. Scissors.\r\n"
+msgstr ""
+"Hier is wat jy nodig het om die kinders besig te hou:\r\n"
+"\r\n"
+"1. ’n Vooraf getekende prent van ’n dinosourus vir elke kind\r\n"
+"2. Vierkante min of meer so groot soos ’n posseël in 2 of 3 verskillende kleure.\r\n"
+"3. Gom\r\n"
+"4. ’n Skêr"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'eGYsmy1bT2Wp__Vgx7cNoA', 'name': 'Start'}, 'report': {'id': 'vSt4G_pHTJ-Lg3jpbnYTPQ', 'type': 'MSG'}, 'page': {'id': 'oDAtMnaTQm2bc2r4Kqh-dw', 'caption': 'We started from the ground up by making dinosaur footprints in the last activity, so how about we move on to Making Dinosaurs? \U0001f995'}}
+msgid "We started from the ground up by making dinosaur footprints in the last activity, so how about we move on to Making Dinosaurs? 🦕"
+msgstr "Ons het in die vorige aktiwiteit van onder af begin deur voetspore van dinosourusse te maak. Kom ons beweeg nou verder en Maak ’n Dinosourus (Making Dinosaurs). 🦕"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Numbers , Shapes & Sizes\r\n"
+"✔️Skills for Learning\r\n"
+msgstr ""
+"✔️Getalle, vorms en groottes\r\n"
+"✔️Vaardighede vir leer"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}}
+msgid ""
+"Keep the kids wide awake by encouraging them to make dinosaur noises while they work. 🦖🦕\r\n"
+"\r\n"
+"1. Give each child a picture of a dinosaur.\r\n"
+"2. Cut out the colourful squares for younger children.\r\n"
+"3. Let older children cut their own little squares.\r\n"
+"4. Sort the little squares into piles depending on their colour.\r\n"
+"5. Show the children how to stick the squares onto their dinosaurs.\r\n"
+"6. Help the younger ones while encouraging the older ones.\r\n"
+"7. Help them make a pattern using colours (red, blue, red, blue, red, etc).\r\n"
+msgstr ""
+"Hou die kinders wawyd wakker – moedig hulle aan om dinosourusgeluide te maak terwyl hulle werk. 🦖🦕\r\n"
+"\r\n"
+"1. Gee elke kind ’n prent van ’n dinosourus.\r\n"
+"2. Knip die kleurvolle vierkante vir jonger kinders uit.\r\n"
+"3. Laat ouer kinders hul eie klein vierkante uitknip.\r\n"
+"4. Sorteer die klein vierkante in hopies volgens kleur.\r\n"
+"5. Wys die kinders hoe om die vierkante op hul dinosourusse te plak.\r\n"
+"6. Help die jongeres terwyl jy die ouer kinders aanmoedig.\r\n"
+"7. Help hulle om ’n patroon met kleure te maak (rooi, blou, rooi, blou, rooi, ens.)."
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}}
+msgid ""
+"Not sure what to ask the children next? Here are some ideas:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What does this dinosaur need?\r\n"
+"• Where will these spikes go?\r\n"
+"• How many do you need?\r\n"
+"• What colours will you choose?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What pattern will you make?\r\n"
+"• Which one shall we start with?\r\n"
+"• When did dinosaurs live? (The answer can be something like: a long, long time ago).\r\n"
+"• Are there still dinosaurs on earth? (Answer: no, they have all died).\r\n"
+"• What do they eat? (Answer: some eat plants, some eat other animals).\r\n"
+"\r\n"
+"Level 3\r\n"
+"• What sound does dinosaur start with? (da)\r\n"
+"• What else starts with ‘da’?\r\n"
+"• Do you know the names of different types of dinosaurs? (Answer: T. rex, brontosaurus, triceratops).\r\n"
+msgstr ""
+"Nie seker watter vrae om die kinders te vra nie? Hier is ’n paar idees:\r\n"
+"\r\n"
+"Vlak 1\r\n"
+"• Wat het hierdie dinosourus nodig?\r\n"
+"• Waar moet hierdie penne (spikes) wees?\r\n"
+"• Hoeveel het jy nodig?\r\n"
+"• Watter kleure sal jy kies?\r\n"
+"\r\n"
+"Vlak 2\r\n"
+"• Watter patroon sal jy maak?\r\n"
+"• Met watter een moet ons begin?\r\n"
+"• Wanneer het dinosourusse gelewe? (Die antwoord kan iets wees soos: baie, baie lank gelede.)\r\n"
+"• Lewe dinosourusse nog op aarde? (Antwoord: Nee, hulle is almal dood en het uitgesterf).\r\n"
+"• Wat het hulle geëet? (Antwoord: Party het plante geëet, en ander het diere geëet.)\r\n"
+"\r\n"
+"Vlak 3\r\n"
+"• Met watter klank begin dinosourus? (de)\r\n"
+"• Wat anders begin met ‘de’?\r\n"
+"• Ken jy die name van verskillende soorte dinosourusse? (Antwoord: T. rex, brontosourus, trikeratops.)"
+

@@ -1,0 +1,58 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': 'YJjWnhlwRTqpsxYRHDVXpQ', 'name': 'Your league'}, 'report': {'id': 'ZkE2FOGZR1ijI2K469jDsg', 'type': 'MSG'}, 'page': {'id': 'cLu9sjYKQqubzfcClUflmA', 'caption': ''}, 'button': {'id': 'T81TOFPuR--eRKpU8FpaMA', 'label': 'Main menu'}}
+msgid "Main menu"
+msgstr "Gaan na hoofspyskaart"
+
+#f: {'context': 'label', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': '7vQVn5AkSNWMkHS0gg1MFg', 'name': 'Category?'}, 'report': {'id': 'N_dDQpgBRVO1_8f2n2UFLw', 'type': 'MSG'}, 'page': {'id': 'C5yPxzIaRROj_lBt3roSMQ', 'caption': 'Which category best describes the activity you just did?'}, 'button': {'id': 's9AKVRuaRCaBETKX_TkT0Q', 'label': 'Creativity'}}
+msgid "Creativity"
+msgstr "Kreatiwiteit"
+
+#f: {'context': 'text', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': 'TtfX5et8T5Gyt0vNm8jiBA', 'name': 'Timeout error'}, 'report': {'id': 'S6s8XVRMSLmzmyAKnJiprg', 'type': 'MSG'}, 'page': {'id': 'XxaBms72R--WcBlW4_d4ww', 'caption': ''}}
+msgid "Sorry something went wrong, please retry."
+msgstr "Iets het nie reg gewerk nie. Probeer asseblief weer."
+
+#f: {'context': 'label', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': '7vQVn5AkSNWMkHS0gg1MFg', 'name': 'Category?'}, 'report': {'id': 'N_dDQpgBRVO1_8f2n2UFLw', 'type': 'MSG'}, 'page': {'id': 'C5yPxzIaRROj_lBt3roSMQ', 'caption': 'Which category best describes the activity you just did?'}, 'button': {'id': 'Z4Gl9Pb-Samv65VEJMHoug', 'label': 'Taking Action'}}
+msgid "Taking Action"
+msgstr "Neem aksie"
+
+#f: {'context': 'label', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': 'YJjWnhlwRTqpsxYRHDVXpQ', 'name': 'Your league'}, 'report': {'id': 'ZkE2FOGZR1ijI2K469jDsg', 'type': 'MSG'}, 'page': {'id': 'cLu9sjYKQqubzfcClUflmA', 'caption': ''}, 'button': {'id': '9LBdYco7SRCaVQeN5b1Ndg', 'label': 'Share activity'}}
+msgid "Share activity"
+msgstr "Deel aktiwiteit"
+
+#f: {'context': 'text', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': 'YJjWnhlwRTqpsxYRHDVXpQ', 'name': 'Your league'}, 'report': {'id': 'ZkE2FOGZR1ijI2K469jDsg', 'type': 'MSG'}, 'page': {'id': 'cLu9sjYKQqubzfcClUflmA', 'caption': ''}}
+msgid "You can improve your score in the league by sharing photos and stories about your club activities. 🏆"
+msgstr "Jy kan jou telling in die liga verhoog deur foto’s en stories oor jou klubaktiwiteite te deel. 🏆"
+
+#f: {'context': 'text', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': 'A4BQZ3cvREqzMRBJ7Fq9OA', 'name': 'Upload pic'}, 'report': {'id': 'BBSaW5PISS2706ZoehPH5A', 'type': 'MSG'}, 'page': {'id': 'miPq7ITRS-CIiKRL-bdYWw', 'caption': ''}}
+msgid "Great! I’m excited to see the photo. Can you upload it now please?  📸"
+msgstr "Wonderlik! Ek sien uit daarna om die foto te sien. Kan jy dit asseblief nou oplaai?  📸"
+
+#f: {'context': 'caption', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': '7vQVn5AkSNWMkHS0gg1MFg', 'name': 'Category?'}, 'report': {'id': 'N_dDQpgBRVO1_8f2n2UFLw', 'type': 'MSG'}, 'page': {'id': 'C5yPxzIaRROj_lBt3roSMQ', 'caption': 'Which category best describes the activity you just did?'}}
+msgid "Which category best describes the activity you just did?"
+msgstr "Watter kategorie is die beste beskrywing van die aktiwiteit wat jy nou net gedoen het?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': 'xEP_FVzLRYCPugZaxcDMwg', 'name': 'Photo story'}, 'report': {'id': 'xJNAWw-BRXyG30uQYDHXzg', 'type': 'MSG'}, 'page': {'id': 'wMGIs7cQRPmvteR2v8YHYw', 'caption': 'That’s a great photo! What’s the story behind it?'}}
+msgid "That’s a great photo! What’s the story behind it?"
+msgstr "Dit is ’n oulike foto! Wat is die storie daaragter?"
+
+#f: {'context': 'text', 'workflow': {'id': 'Fukqk6TLRbq1dG6zLJELQw', 'name': 'League'}, 'state': {'id': '6M2CuvxxS9W2QkCCD1zrLA', 'name': 'Thank you'}, 'report': {'id': '34tUlxo9S2mknhrbE5XZuQ', 'type': 'MSG'}, 'page': {'id': 'fsRMdNBGR1KAr5ma5OfQJw', 'caption': ''}}
+msgid "Thank you for sharing, keep up the good work! 💪"
+msgstr "Dankie dat jy gedeel het. Hou aan met die goeie werk!💪"
+

@@ -1,0 +1,129 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tsn\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}, 'button': {'id': 'tR2ITX2MRESw2w3xP4zTTw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dintlha"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}, 'button': {'id': 'dV65HDeESzi3NlDXJzp9vw', 'label': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se tlhokang"
+
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}, 'button': {'id': 'WgExlgPuQcClz1HYd8g-lg', 'label': 'See how it works'}}
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona kafa o tshamekiwang ka teng"
+
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}, 'button': {'id': 'Bh8XXVQCSLS0wDOPqfqSyQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Boela kwa mmenyung"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'chAOGt5xS2G7c0GMU6atFA', 'name': 'Start'}, 'report': {'id': 'vuoHOFZ1QMChWMiX3Ab1pA', 'type': 'MSG'}, 'page': {'id': '3Wt612SfThWcdrAPd142Ig', 'caption': 'Find the budding scientists and engineers in the class with the game Making Tunnels. 👩🏿\u200d🔬👨🏿\u200d🔬'}}
+msgid "Find the budding scientists and engineers in the class with the game Making Tunnels. 👩🏿‍🔬👨🏿‍🔬"
+msgstr "Batla borasaense ba ba santseng ba ithuta le diinjineere mo phaposing ya borutelo ka motshameko wa Go Dira Dithanele. ‍‍👩🏿‍🔬👨🏿‍🔬"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}}
+msgid ""
+"First you have to make the tunnel, then you show the children how it works. 🚇\r\n"
+"\r\n"
+"1. Give each child 2 or 3 toilet rolls.\r\n"
+"2. Help them to stick their toilet rolls together to make a long tunnel.\r\n"
+"3. They can decorate their tunnel with paper and crayons if they want to.\r\n"
+"4. Ask one of the children to hold the tunnel up straight.\r\n"
+"5. Place a little bowl at the bottom of the tunnel to catch the stones.\r\n"
+"6. Give other children stones and get them to ‘post’ the stones into the top of the tunnel. Use words like ‘up, down, through, top, bottom’ etc.\r\n"
+"7. Allow older children to make more complex tunnels if they want to."
+msgstr ""
+"Santlha o tshwanetse go dira thanele, o bo o bontsha bana gore e dira jang. 🚇\r\n"
+"\r\n"
+"1. Naya ngwana mongwe le mongwe dirolo di le 2 kgotsa 3 tsa pampiri ya thoelete.\r\n"
+"2. Ba thuse gore ba kgomaretsanye dirolo tsa bone tsa pampiri ya thoelete go dira thanele e telele.\r\n"
+"3. Ba ka kgabisa dithanele tsa bone ka dipampiri le dikerayone fa ba batla.\r\n"
+"4. Kopa mongwe wa bana go tshwara thanele a e lebisitse kwa godimo.\r\n"
+"5. Baya mogoponyana o monnye kwa tlase ga thanele gore matlapa a wele mo go one.\r\n"
+"6. Naya bana ba bangwe matlapa mme o dire gore ba ‘posetse’ matlapa kwa godimo ga thanele. Dirisa mafoko a ‘go ya kwa godimo, go ya kwa tlase, go tswa kwa godimo, go tswa kwa tlase' jalo jalo.\r\n"
+"7. Dira gore bana ba bagolwane ba dire dithanele tse di raraaneng fa ba batla go dira jalo."
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Exploring & Finding Out\r\n"
+"✔️Arm & hand control\r\n"
+msgstr ""
+"✔️Go tlhotlhomisa le goiitse\r\n"
+"✔️Taoloya lebogo le seatla"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}}
+msgid ""
+"Because you’re teaching kids about gravity, it’s a good idea to ask them lots of questions about how they think it works. ⚗\r\n"
+"\r\n"
+"Easiest version\r\n"
+"• How tall is our tunnel?\r\n"
+"• How many toilet rolls have we used?\r\n"
+"\r\n"
+"More advanced version\r\n"
+"• What will happen to this stone?\r\n"
+"• Where will it land?\r\n"
+"• Whose turn is it now?\r\n"
+"\r\n"
+"For older children\r\n"
+"• Do it 10 times\r\n"
+"• How many times did it land in the bowl?\r\n"
+"• How many times did it NOT land in the bowl?\r\n"
+"• Tell me about your decoration.\r\n"
+msgstr ""
+"Ka gonne o ruta bana ka maatlakgogedi, ke mogopolo o o molemo go ba botsa dipotso tse dintsi ka gore ba akanya gore e bereka jang.  ⚗\r\n"
+"\r\n"
+"Maemo 1 \r\n"
+"• Thanele e boleele bo kae?\r\n"
+"• Re dirisitse dirolo di le kae tsa pampiri ya thoelete?\r\n"
+"\r\n"
+"Maemo 2 \r\n"
+"• Go tlile go diregang ka letlapa le?\r\n"
+"• Le tlile go wela kae?\r\n"
+"• Jaanong ke tshono ya ga mang?\r\n"
+"\r\n"
+"Maemo 3 \r\n"
+"• Dira jalo makgetlo a le 10\r\n"
+"• A wetse mo mogoponyaneng makgetlo a le kae?\r\n"
+"• GA A wela mo mogoponyaneng makgetlo a le kae?\r\n"
+"• Ntlhalosetse ka mokgabiso wa gago."
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Motshameko o o a tswelela:"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}}
+msgid ""
+"This game is a fun way to combine crafts with learning, and let’s kids make their own toys.\r\n"
+"\r\n"
+"1. Empty toilet rolls (2 per child)\r\n"
+"2. Sticky tape\r\n"
+"3. Stones\r\n"
+"4. Paper (optional)\r\n"
+"5. Crayons (optional)"
+msgstr ""
+"Motshameko o ke tsela e e jesang monate ya go kopanya botsweretshi le go ithuta, mme e dira gore bana ba itirele dithoye tsa bone. O tla tlhoka: \r\n"
+"\r\n"
+"1. Dirolo tsa pampiri ya mo thoeleteng tse di senang sepe (di le 2 ngwana mongwe le mongwe)\r\n"
+"2. Theipi e e ngaparelang\r\n"
+"3. Matlapa\r\n"
+"4. Pampiri (fa o batla)\r\n"
+"5. Dikerayone (fa o batla)"
+

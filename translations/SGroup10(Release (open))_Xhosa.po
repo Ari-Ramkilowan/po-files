@@ -1,0 +1,135 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: xho\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'sKzYl0mBQqa3LyuyqHl2_g', 'name': 'Start'}, 'report': {'id': 'GaPDxUY6TIulxGyjkSgd2w', 'type': 'MSG'}, 'page': {'id': 'dwL3ziirQWuiv2g1AhBW-A', 'caption': 'If the children haven’t tried Pass the Cube yet, now could be the perfect time! ⏰'}}
+msgid "If the children haven’t tried Pass the Cube yet, now could be the perfect time! ⏰"
+msgstr "Ukuba abantwna abakaZama ukuDlula iCube okwangoku, ngoku ingalithuba! ⏰"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}, 'button': {'id': 'Rd9L5im2TImHPhAGMpHU7A', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanqaku"
+
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}, 'button': {'id': '9u9X6B-iTyKq6TPMt8T2Ug', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kwimenyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}, 'button': {'id': 'L2qLLAReQtGOGKB_0DCRkQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona okudingayo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}, 'button': {'id': 'qGupzHmiSUO07hngI8KgSw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Jonga ukuba isebenza njani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Lo mdlalo uphuhlisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Walking & Moving\r\n"
+"✔️Arm & Hand Control\r\n"
+msgstr ""
+"✔️Ukuhamba nokushukuma\r\n"
+"✔️Ulawulo lwengalo kunye nesandla"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}}
+msgid ""
+"There’s only one item on the list! You’ll need:\r\n"
+"1. LEGO blocks\r\n"
+msgstr ""
+"Kukhona into enye kuluhlu! Uza kudinga:\r\n"
+"1. Iblokhu zeLEGO"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}}
+msgid ""
+"Take the learning to the next level by getting the children to multitask and asking them some questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What are all the ways we can pass the cube?\r\n"
+"• Who has any other ideas on how we could pass the cube? (Eg, through their legs, under their arms, they could skip a person, etc.)\r\n"
+"\r\n"
+"Level 2\r\n"
+"Here’s an example of rhyme you could sing:\r\n"
+"This is the way we pass the cube\r\n"
+"Through our legs, through our legs\r\n"
+"This is the way we pass the cube \r\n"
+"On a sunny Monday morning…\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Ask the older children to come up with ideas as to how to pass the cube next. (Eg, over their head, with a sound, with a jump, etc.)\r\n"
+"\r\n"
+msgstr ""
+"Thatha ukufunda ukuya kwinqanaba elilandelayo ngokufumana abantwana ukuba baninzi kwaye babuze imibuzo ethile:\r\n"
+"\r\n"
+"Umgangatho 1\r\n"
+"\r\n"
+"• Ziziphi zonke iindlela esinokuyidlulisa ngazo icube?\r\n"
+"\r\n"
+"• Ngubani na unezinye iimbono malunga nendlela esinokuyidlulisa ngayo icube? (For example, through their legs, under their arms, they could skip a person, njl njl..)\r\n"
+"\r\n"
+"Umgangatho 2\r\n"
+"\r\n"
+"Nanku umzekelo wesingqi ongasicula:\r\n"
+"\r\n"
+"Yindlela esigqithisa ngayo icube\r\n"
+"\r\n"
+"Ngeemilenze zethu, ngemilenze yethu\r\n"
+"\r\n"
+"Yindlela esigqithisa ngayo icube\r\n"
+"\r\n"
+"Ngentsasa ekhazimlayo yangoMvulo...\r\n"
+"\r\n"
+"Umgangatho 3\r\n"
+"\r\n"
+"• Buza abantwana abadala ukuba beze nezimvo ukuba ungayigqithisela njani icube kokulandelayo. (Umzekelo, ngaphaya kwentloko zabo, ngeandi, ngokutsiba, njl njl..)"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}}
+msgid ""
+"Take this chance to teach the children about teamwork. \r\n"
+"\r\n"
+"1. Together, use six blocks of Duplo LEGO to build a cube. It should be the right size for children to hold in one hand.\r\n"
+"2. Get the children to sit in a circle or stand in a line, and pass it from one to another.\r\n"
+"3. Tell them to change direction and pass the cube the other way.\r\n"
+"4. Ask them to pass it with one hand.\r\n"
+"5. You can then ask them to pass it with the other hand.\r\n"
+"6. Ask the children to pass the cube with their eyes closed.\r\n"
+"7. They can then pass it over their heads.\r\n"
+"8. You can also sing a little rhyme to go with your actions.\r\n"
+msgstr ""
+"Thatha eli thuba ukufundisa abantwana malunga nomsebenzi weqela.\r\n"
+"\r\n"
+"1. Nidibene, sebenzisa iibloku ezintandathu zeDUPLO LEGO ukwakha icube. Kumele kube yisayizi efanelekileyo bokuba abantwana babambe ngesandla esisodwa.\r\n"
+"\r\n"
+"2. Fumana abantwana ukuba bahlale kwisangqa okanye bahlale emgceni, kwaye badlulise ukusuka kwelinye ukuya kwelinye.\r\n"
+"\r\n"
+"3. Batshele ukuba batshintshe isiqulatho baze badlule i-cube ngenye indlela.\r\n"
+"\r\n"
+"4. Buza ukuba bayidlulise ngesandla esinye.\r\n"
+"\r\n"
+"5. Unokwenza ngoko ubacele ukuba badlulise ngesinye isandla.\r\n"
+"\r\n"
+"6. Buza abantwana ukuba badlulise i-cube ngamehlo abo evaliwe.\r\n"
+"\r\n"
+"7. Basenokuyidlulisela phezu kweentloko zabo.\r\n"
+"\r\n"
+"8. Ungaphinda ucule ingqungquthela yokuhamba kunye nezenzo zakho."
+

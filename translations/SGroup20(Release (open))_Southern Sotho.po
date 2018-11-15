@@ -1,0 +1,133 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'fzMnIXxCRHCIxyU66fb7Eg', 'name': 'How it works'}, 'report': {'id': 'OORC5_AqTaiEEoGvsaz0Fw', 'type': 'MSG'}, 'page': {'id': '-dIFUH9ZQPugnbgI35lJ_Q', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'O6tJ3O8tQmuqfIOwksIThQ', 'name': 'What you need'}, 'report': {'id': 'bTI64YEBTI6apkfAqLmW8A', 'type': 'MSG'}, 'page': {'id': 'b60QJEhASyS5UVVGGFy8Bw', 'caption': 'See what you need'}, 'button': {'id': 'n5Hhg5b6T2qpU3rQq9W56A', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '3LMnG7yWRySfwAx8OjSiwQ', 'name': 'Start'}, 'report': {'id': 'vaI2U8qwQM6PYVAShZvGMQ', 'type': 'MSG'}, 'page': {'id': 'mE-x3fv9Rb-DA09Fn2UYwQ', 'caption': 'Animal Pond'}}
+msgid "Animal Pond"
+msgstr "If you haven’t already told the children a story today, Animal Pond could be the perfect activity. 🐘🐂🐪"
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '5U64DfzNSW-b1secpZhgUg', 'name': 'Extra notes'}, 'report': {'id': 'YPMaD3C5RlC5K26evsHsAQ', 'type': 'MSG'}, 'page': {'id': 'D1wp6lUISweYJ-nZZ6gSYw', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'fzMnIXxCRHCIxyU66fb7Eg', 'name': 'How it works'}, 'report': {'id': 'OORC5_AqTaiEEoGvsaz0Fw', 'type': 'MSG'}, 'page': {'id': '-dIFUH9ZQPugnbgI35lJ_Q', 'caption': 'See how it works'}, 'button': {'id': 'j890_rkMT_KrsIuoCTyAwA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '5U64DfzNSW-b1secpZhgUg', 'name': 'Extra notes'}, 'report': {'id': 'YPMaD3C5RlC5K26evsHsAQ', 'type': 'MSG'}, 'page': {'id': 'D1wp6lUISweYJ-nZZ6gSYw', 'caption': 'Read the notes'}, 'button': {'id': 'vDk8efP8SpCe1zmCW3albA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'zM7xIFJTRGGDmpeLbPzTjA', 'name': 'Skills developed'}, 'report': {'id': 'hX94SFiyRgqQyCSBBx8PeA', 'type': 'MSG'}, 'page': {'id': 'poww2IeLQq-UHCxcOHdB0g', 'caption': 'This game develops: '}, 'button': {'id': '5rARERu0RFqJwqL16PtNxw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'O6tJ3O8tQmuqfIOwksIThQ', 'name': 'What you need'}, 'report': {'id': 'bTI64YEBTI6apkfAqLmW8A', 'type': 'MSG'}, 'page': {'id': 'b60QJEhASyS5UVVGGFy8Bw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '5U64DfzNSW-b1secpZhgUg', 'name': 'Extra notes'}, 'report': {'id': 'YPMaD3C5RlC5K26evsHsAQ', 'type': 'MSG'}, 'page': {'id': 'D1wp6lUISweYJ-nZZ6gSYw', 'caption': 'Read the notes'}}
+msgid ""
+"Let the children build on their brilliant stories by asking them these questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What animal do you have?\r\n"
+"• Where does he want to go?\r\n"
+"• How will you help him?\r\n"
+"• What will you build?\r\n"
+"• How will you build it?\r\n"
+"• How will the animal cross?\r\n"
+"• Where is he going now?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• How does your goat feel?\r\n"
+"• What does he feel that way?\r\n"
+"• What will make him feel scared?\r\n"
+"• What will make him feel safe and happy?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Tell me the story of your little goat.\r\n"
+msgstr ""
+"Ere bana ba ahelle dipaleng tsa bona tse bohlale ka ho ba botsa dipotso tsena:\r\n"
+"\r\n"
+"Mohato wa 1\r\n"
+"• O na le phoofolo efe?\r\n"
+"• E batla ho ya kae?\r\n"
+"• O tla e thusa jwang?\r\n"
+"• O tla aha eng?\r\n"
+"• O tla bo aha jwang?\r\n"
+"• Phoofotswana eo e tla tshela jwang?\r\n"
+"• E ya kae jwale?\r\n"
+"\r\n"
+"Mohato wa 2\r\n"
+"• Podi e ikutlwa jwang?\r\n"
+"• Hobaneng e ikutlwa jwalo?\r\n"
+"• Ke eng e ka etsang hore e ikutlwe a tshohile?\r\n"
+"• Ke eng e ka etsang hore e ikutlwe a bolokehile a thabile?\r\n"
+"\r\n"
+"Mohato wa 3\r\n"
+"• Mphetele pale ya potsanyane ya hao."
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'zM7xIFJTRGGDmpeLbPzTjA', 'name': 'Skills developed'}, 'report': {'id': 'hX94SFiyRgqQyCSBBx8PeA', 'type': 'MSG'}, 'page': {'id': 'poww2IeLQq-UHCxcOHdB0g', 'caption': 'This game develops: '}}
+msgid "This game develops: "
+msgstr "Papadi ena e ntshetsa pele:"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'zM7xIFJTRGGDmpeLbPzTjA', 'name': 'Skills developed'}, 'report': {'id': 'hX94SFiyRgqQyCSBBx8PeA', 'type': 'MSG'}, 'page': {'id': 'poww2IeLQq-UHCxcOHdB0g', 'caption': 'This game develops: '}}
+msgid ""
+"✔️Skills for Learning\r\n"
+"✔️Exploring & Finding Out "
+msgstr ""
+"✔️Bokgoni bakeng sa ho ithuta\r\n"
+"✔️Ho sibolla le ho fumana dikarabo"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'O6tJ3O8tQmuqfIOwksIThQ', 'name': 'What you need'}, 'report': {'id': 'bTI64YEBTI6apkfAqLmW8A', 'type': 'MSG'}, 'page': {'id': 'b60QJEhASyS5UVVGGFy8Bw', 'caption': 'See what you need'}}
+msgid ""
+"So many benefits, so few items needed:\r\n"
+"\r\n"
+"1. Duplo LEGO blocks\r\n"
+"2. Plastic animals\r\n"
+"3. Blue paper\r\n"
+"4. Scissors\r\n"
+msgstr ""
+"Melemo e mengata hakaalo, dintho tse mmalwa hakaalo tse hlokehang:\r\n"
+"\r\n"
+"1. Diboloko tsa DUPLO LEGO \r\n"
+"2. Diphoofolo tsa polasetiki\r\n"
+"3. Pampiri e bolou\r\n"
+"4. Dikere"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'fzMnIXxCRHCIxyU66fb7Eg', 'name': 'How it works'}, 'report': {'id': 'OORC5_AqTaiEEoGvsaz0Fw', 'type': 'MSG'}, 'page': {'id': '-dIFUH9ZQPugnbgI35lJ_Q', 'caption': 'See how it works'}}
+msgid ""
+"How does it work?\r\n"
+"\r\n"
+"1. Cut a circle out of the blue paper and use it as the pond.\r\n"
+"2. Tell the story about a little animal who is trying to get across the pond to see its mommy.\r\n"
+"3. It can’t swim and it’s too far to walk around the pond.\r\n"
+"4. Divide the children into pairs and give them some duplo blocks.\r\n"
+"5. Ask them to build a bridge for the little animal.\r\n"
+"6. Once they have finished, ask them to show you how their animal crosses the bridge\r\n"
+"7. Get them to tell you the story in their own way\r\n"
+msgstr ""
+"E sebetsa jwang?\r\n"
+"\r\n"
+"1. Seha sedikadikwe pampiring e bolou mme o se sebedise jwaloka letangwana.\r\n"
+"2. Pheta pale e mabapi le phoofotswana e nyane e lekang ho tshelela ka nqane ho letangwana ho ya bona mma yona.\r\n"
+"3. Ha e tsebe ho sesa mme ho hole haholo hore e ka potoloha letangwana.\r\n"
+"4. Arola bana ka bobedi ka bobedi mme o ba fe diboloko tsa DUPLO.\r\n"
+"5. Ba kope ho aha borogo bakeng sa phoofotswana eo.\r\n"
+"6. Hang ha ba qetile, ere ba o bontshe hore phoofotswana ya bona e tshela borogo jwang\r\n"
+"7. Ere ba o phetele pale eo ka tsela ya bona."
+

@@ -1,0 +1,83 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'QNkj5O2BRUy72ckutASWsQ', 'name': 'Ask for attendance'}, 'report': {'id': '89Q2JKvrRV6gDPgyHAacNw', 'type': 'MSG'}, 'page': {'id': '6jbecZrORbC-Nk-Jf8CY4w', 'caption': 'Did you attend the meeting on the following date?'}}
+msgid "{{ trans.past_meeting }}"
+msgstr ""
+
+#f: {'context': 'caption', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'QNkj5O2BRUy72ckutASWsQ', 'name': 'Ask for attendance'}, 'report': {'id': '89Q2JKvrRV6gDPgyHAacNw', 'type': 'MSG'}, 'page': {'id': '6jbecZrORbC-Nk-Jf8CY4w', 'caption': 'Did you attend the meeting on the following date?'}}
+msgid "Did you attend the meeting on the following date?"
+msgstr "Het jy die vergadering op die volgende datum bygewoon?"
+
+#f: {'context': 'label', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'QNkj5O2BRUy72ckutASWsQ', 'name': 'Ask for attendance'}, 'report': {'id': '89Q2JKvrRV6gDPgyHAacNw', 'type': 'MSG'}, 'page': {'id': '6jbecZrORbC-Nk-Jf8CY4w', 'caption': 'Did you attend the meeting on the following date?'}, 'button': {'id': 'Gl3GbUNeSbuszB8ml_XaFg', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'LW4RPjwWStiDHVDGMlXHxw', 'name': 'Mark past meeting attendance?'}, 'report': {'id': 'k7DNJ3w5Ru-kzFtk7YYY1g', 'type': 'MSG'}, 'page': {'id': 'ZoHm1PP6RTizHt8ANeFTrQ', 'caption': 'Would you like to mark the attendance of the past meetings?'}, 'button': {'id': '7F0IL3KuRsCt6YB5SzLaZg', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'v9cACVsrRmavsjNFgaj8vA', 'name': 'Meeting attendance register?'}, 'report': {'id': 'MjG2AwIkR3uqMrupYW1RFg', 'type': 'MSG'}, 'page': {'id': '5l3TslBhTjCSykiaiqj1Qw', 'caption': 'Would you like to upload a meeting attendance register?'}, 'button': {'id': 'Kf4radsiSZSotoJDp89Ubg', 'label': 'No'}}
+msgid "No"
+msgstr "Nee"
+
+#f: {'context': 'text', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 't1PqdhAoQpSaC8WgbMJftw', 'name': 'Error'}, 'report': {'id': '0wyv26uJTT6qijeiSv4LuA', 'type': 'MSG'}, 'page': {'id': 'VGWzrybiShurlXMHx_YvOQ', 'caption': ''}}
+msgid "Sorry something went wrong, please try again."
+msgstr "Jammer, iets het skeefgeloop; probeer asseblief weer."
+
+#f: {'context': 'text', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 't39QwCg0QI-R1HRr1Xhi1Q', 'name': 'Thank you'}, 'report': {'id': 'BTred2FtTrKvAyVguqDDtw', 'type': 'MSG'}, 'page': {'id': '3nwJKECoQ8-b5jNC_7Kckg', 'caption': ''}}
+msgid "Thank you 😃"
+msgstr "Baie dankie 😃"
+
+#f: {'context': 'text', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'eTDL0BIcQgGn2J-B_tYCUQ', 'name': 'Club attendance register upload'}, 'report': {'id': 'TgqhNd7VQ9Gwe33EDmm02g', 'type': 'MSG'}, 'page': {'id': 'EPO28rWETuGMeR9hEiBUZg', 'caption': ''}}
+msgid "Upload a picture 📸 of your club attendance register now."
+msgstr "Laai nou ’n foto 📸 van jou klub se bywoningsregister op."
+
+#f: {'context': 'caption', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'LW4RPjwWStiDHVDGMlXHxw', 'name': 'Mark past meeting attendance?'}, 'report': {'id': 'k7DNJ3w5Ru-kzFtk7YYY1g', 'type': 'MSG'}, 'page': {'id': 'ZoHm1PP6RTizHt8ANeFTrQ', 'caption': 'Would you like to mark the attendance of the past meetings?'}}
+msgid "Would you like to mark the attendance of the past meetings?"
+msgstr "Wil jy die bywoning van die vorige vergaderings afmerk?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'v9cACVsrRmavsjNFgaj8vA', 'name': 'Meeting attendance register?'}, 'report': {'id': 'MjG2AwIkR3uqMrupYW1RFg', 'type': 'MSG'}, 'page': {'id': '5l3TslBhTjCSykiaiqj1Qw', 'caption': 'Would you like to upload a meeting attendance register?'}}
+msgid "Would you like to upload a meeting attendance register?"
+msgstr "Wil jy ’n bywoningsregister van die vergadering oplaai?"
+
+#f: {'context': 'label', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'QNkj5O2BRUy72ckutASWsQ', 'name': 'Ask for attendance'}, 'report': {'id': '89Q2JKvrRV6gDPgyHAacNw', 'type': 'MSG'}, 'page': {'id': '6jbecZrORbC-Nk-Jf8CY4w', 'caption': 'Did you attend the meeting on the following date?'}, 'button': {'id': '7DNXHm6HR7KkrdlBRBIeiA', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'LW4RPjwWStiDHVDGMlXHxw', 'name': 'Mark past meeting attendance?'}, 'report': {'id': 'k7DNJ3w5Ru-kzFtk7YYY1g', 'type': 'MSG'}, 'page': {'id': 'ZoHm1PP6RTizHt8ANeFTrQ', 'caption': 'Would you like to mark the attendance of the past meetings?'}, 'button': {'id': '5kB8S1_0Qgm9qjBDOeDP6Q', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'v9cACVsrRmavsjNFgaj8vA', 'name': 'Meeting attendance register?'}, 'report': {'id': 'MjG2AwIkR3uqMrupYW1RFg', 'type': 'MSG'}, 'page': {'id': '5l3TslBhTjCSykiaiqj1Qw', 'caption': 'Would you like to upload a meeting attendance register?'}, 'button': {'id': 'IwIFJf2cTqimkhXhCROVTw', 'label': 'Yes'}}
+msgid "Yes"
+msgstr "Ja"
+
+#f: {'context': 'text', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'lFOLp_v7TzaalVOAf16KtQ', 'name': 'Show Attendance'}, 'report': {'id': 'w0rQYtlST5K89cJmZBM2Uw', 'type': 'MSG'}, 'page': {'id': 's4266kWoQLCyf-E5G5Bf0A', 'caption': 'Meeting Attendance'}}
+msgid ""
+"{% if trans.past_meeting_string %}Past meetings this month:\r\n"
+"{{ trans.past_meeting_string }}\r\n"
+"{% else %}Sorry we have no past meetings on record.{% endif %}\r\n"
+"{% if trans.future_meeting_string %}Future meetings this year:\r\n"
+"{{ trans.future_meeting_string }}\r\n"
+"{% else %}Sorry we have no future meetings on record.{% endif %}"
+msgstr ""
+"1.{% if trans.past_meeting_string\r\n"
+"%}Vorige vergaderings hierdie maand:\r\n"
+"{{ trans.past_meeting_string }} {% else\r\n"
+"%}Jammer, ons het geen vorige\r\n"
+"vergaderings op rekord nie.{% endif %}\r\n"
+"{% if trans.future_meeting_string\r\n"
+"%}Toekomstige vergaderings hierdie\r\n"
+"jaar: {{ trans.future_meeting_string }} {%\r\n"
+"else %}Jammer, ons het geen\r\n"
+"toekomstige vergaderings op rekord\r\n"
+"nie.{% endif %}"
+
+#f: {'context': 'caption', 'workflow': {'id': 'H1_mo9_5R5a7RIRLwA4TLQ', 'name': 'Club Meetings'}, 'state': {'id': 'lFOLp_v7TzaalVOAf16KtQ', 'name': 'Show Attendance'}, 'report': {'id': 'w0rQYtlST5K89cJmZBM2Uw', 'type': 'MSG'}, 'page': {'id': 's4266kWoQLCyf-E5G5Bf0A', 'caption': 'Meeting Attendance'}}
+msgid "Meeting Attendance"
+msgstr "Bywoning van vergaderings"
+

@@ -1,0 +1,128 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}, 'button': {'id': 'vjmYxfeGQWawQvl_ejuLLg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}, 'button': {'id': 'RLVrg9fkSVmU_OU67TnSfg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}, 'button': {'id': 'ISHsjdyZRFWqNav1D_GxIg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}, 'button': {'id': '0D3gQ3a0Qo6VAW96HN4waA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'J_N-azCzT5m582r_1eipDw', 'name': 'Start'}, 'report': {'id': 'aFdJcmKDSWenv-1rbhOgPw', 'type': 'MSG'}, 'page': {'id': '2A-NdBinSbeydWkZ6eoJ9w', 'caption': 'It’s time to decorate your classroom by Making Chains. Don’t worry, the children’s chains will be way nice than these: ⛓'}}
+msgid "It’s time to decorate your classroom by Making Chains. Don’t worry, the children’s chains will be way nice than these: ⛓"
+msgstr "I nkarhi wo khavisa kamara ra wena ra tlilasi hi ku Endla Tinketana. U nga vileli, tinketana ta vana ti ta va ti sasekile ku hundza leti: ⛓"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Skills for Learning\r\n"
+"✔️Arm & hand control\r\n"
+"\r\n"
+msgstr ""
+"✔️Swikili swo dyondza\r\n"
+"✔️Ku lawula voko na xandla"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}}
+msgid ""
+"Good news! You probably have everything you need under your nose right now.\r\n"
+"\r\n"
+"1. Coloured paper\r\n"
+"2. Scissors\r\n"
+"3. Glue"
+msgstr ""
+"Mahungu lamanene! U nga va u ri na hinkwaswo leswi u swi lavaka kwala u nga kona eka nkarhi wa sweswi.\r\n"
+"\r\n"
+"1. Phepha ra muhlovohlovo\r\n"
+"2. Xikero\r\n"
+"3. Dlilu"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}}
+msgid ""
+"Not exactly sure what to ask? Try out some of these questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What colour do you like?\r\n"
+"• How many links will you make?\r\n"
+"• What could you use your chain for?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What is your pattern?\r\n"
+"• How many colours do you have?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• How many links do you have?\r\n"
+"• How many links does your friend have?\r\n"
+"• How many links do you have together?\r\n"
+"• What if I take 5 links away?\r\n"
+"• How many will you have left?\r\n"
+msgstr ""
+"Xana awu swi tivi leswaku u nga vutisa yini? Ringeta swin’wana swa swivutiso leswi:\r\n"
+"\r\n"
+"Levhele ya 1\r\n"
+"• Xana u tsakela muhlovo wihi?\r\n"
+"• Xana u ta hlanganisa swilo swingani?\r\n"
+"• Xana nketani ya wena u nga yi tirhisa ku endla yini?\r\n"
+"\r\n"
+"Levhele ya 2\r\n"
+"• Xana phetheni ya wena i yini?\r\n"
+"• Xana u na mihlovo yingani?\r\n"
+"\r\n"
+"Levhele ya 3\r\n"
+"• Xana u hlanganise swilo swingani?\r\n"
+"• Xana munghana wa wena u hlanganise swilo swingani?\r\n"
+"• Xana mi hlanganise swilo swingani loko swi hinkwenu ka n’wina?\r\n"
+"• Loko ndzo susa 5 wa leswi mi swi hlanganiseke?\r\n"
+"• Xana mi ta sala na swingani?"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}}
+msgid ""
+"This activity is great for the children’s hand-eye coordination! 🖐🏿 👁\r\n"
+"\r\n"
+"• Help the children cut the coloured paper into short strips. \r\n"
+"• They should each have about 10 strips .\r\n"
+"• Stick the 2 short edges of one strip together, making a ring.\r\n"
+"• Thread a new strip through the ring and stick its ends together, linking the 2 rings.\r\n"
+"• Continue with at least 10 strips, and make rings that link to each other.\r\n"
+"• Make scarves, necklaces, or belts with them before hanging them up in the classroom.\r\n"
+"• Ask questions as you work to help the kids learn.\r\n"
+msgstr ""
+"Nghingiriko lowu wu kahle eka vana leswaku va va na ku tirhisana ka mahlo na mavoko! 🖐🏿 👁\r\n"
+"\r\n"
+"• Pfuna vana ku tsema phepha ra muhlovohlovo ri va switiripi swo koma. \r\n"
+"• Un’wana na un’wana wa vona u fanele ku va na switiripi swa 10.\r\n"
+"• Damarheta makumu ma 2 la mo koma ya xitiripi xin’we ma khomana, ma endla xingwavila.\r\n"
+"• Hulela xitiripi xintshwa endzeni ka xingwavila na ku damarheta makumu ma xona ma khomana, mahlanganisa swingwavila leswi 2.\r\n"
+"• Yisa emahlweni hi ku ringana 10 ra switiripi, na ku endla swingwavila leswi khomanaka.\r\n"
+"• Endla swikhafu, tichayeni ta le nhan’wini kumbe mabandi hi swona u nga se swi hayeka ekamareni ro dyondzela.\r\n"
+"• Vutisa swivutiso loko u ri karhi u tirha ku pfuna vana ku va va dyondza."
+

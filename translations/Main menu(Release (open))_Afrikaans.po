@@ -1,0 +1,82 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': '7iKlSVCMRpGYrWId_pnd1Q', 'label': 'Club Meeting'}}
+msgid "Club Meeting"
+msgstr "Klubvergaderings"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': 'oGWkQqgyQZ2jFN1Gqcycpg', 'label': 'Community'}}
+msgid "Community"
+msgstr "Gemeenskap"
+
+#f: {'context': 'caption', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}}
+msgid "What would you like to do?"
+msgstr "Wat wil jy doen?"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': '_9Wrhc4FQhynl32q1e7abw', 'label': 'Child attendance'}}
+msgid "Child attendance"
+msgstr "Kinderbywoning"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': '6w1vBoNyToypOWDjXHzNCA', 'label': 'Register a child '}}
+msgid "Register a child "
+msgstr "Registreer ’n kind"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': 'gH1PfBhGRZqU09jLtANq6g', 'label': 'Daily routine'}}
+msgid "Daily routine"
+msgstr "Daaglikse roetine"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': 'HTTqMEdmSqerN6KFwV0UYQ', 'label': 'Activity ideas'}}
+msgid "Activity ideas"
+msgstr "Aktiwiteite-idees"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': 'dMwypx8XRK6M21qeDyAfWw', 'label': 'Edit my details ⚙'}}
+msgid "Edit my details ⚙"
+msgstr "Wysig my besonderhede"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': 'HLUF5dz7Qe6fhVwfgC7rUA', 'label': 'Share location'}}
+msgid "Share location"
+msgstr "Deel ligging"
+
+#f: {'context': 'label', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MWHzxWKfTRCXz9U8BdPj3A', 'name': 'Menu'}, 'report': {'id': 'ZPDWwRLpTU6Ws54KSqyPoQ', 'type': 'MSG'}, 'page': {'id': 'VuXeYnBAQySn2XhrMOCkjg', 'caption': 'What would you like to do?'}, 'button': {'id': 'SFza_0ydTxumYXzAxYr_QA', 'label': 'My league'}}
+msgid "My league"
+msgstr "My liga"
+
+#f: {'context': 'text', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'fSnYaZXPRyGtzjaT6MLg0g', 'name': 'Wednesday'}, 'report': {'id': '1TxTjAEmRzaFOAUAZwZrKQ', 'type': 'MSG'}, 'page': {'id': '4ubEpCWtSQilYehHRs4tGQ', 'caption': ''}}
+msgid "Happy Wednesday! You’re halfway through the week 💪🏾. Just a reminder to update your attendance register ✔. "
+msgstr ""
+"Gelukkige Woensdag! Jy is halfpad deur die week. 💪🏾\r\n"
+"\r\n"
+"Net ’n herinnering om jou bywoningsregister by te werk. ✔"
+
+#f: {'context': 'text', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'MpODDA2yQy-73MUFw8sNnw', 'name': 'Thursday'}, 'report': {'id': '-3IO1OXuRW-7k3sc5OZTdA', 'type': 'MSG'}, 'page': {'id': 'ciP9WPqSSPqtlK1lTprW0g', 'caption': ''}}
+msgid "It’s Thursday, so when you get to work could you drop me a pin to check your location, please? 📍"
+msgstr "Dis Donderdag. As jy by die werk kom, kan jy my asseblief ’n pennetjie laat val om jou ligging na te gaan? 📍"
+
+#f: {'context': 'text', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'NbxcRO6VSgSWgCdNJgtuHQ', 'name': 'Monday'}, 'report': {'id': 'VyLtCpPPQI6v6fLHZxq4rQ', 'type': 'MSG'}, 'page': {'id': '9tzxVhqDQWyE9eIhEH7-Xg', 'caption': ''}}
+msgid "It’s Monday! Hope you have a good weekend. 😀 Today’s the perfect day to refresh your memory by looking at the daily routine 🌞"
+msgstr "Dis Maandag! Hoop jy het ’n goeie naweek gehad. 😀 Vandag is die ideale dag om jou geheue te verfris deur na die daaglikse roetine te kyk. 🌞"
+
+#f: {'context': 'text', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': '_BtrGMzQShW9TBpjg_12fg', 'name': 'Tuesday'}, 'report': {'id': 'itFo0jj2QWm4t_aB7vbPUQ', 'type': 'MSG'}, 'page': {'id': '3Olt0UFoRS-S0zhvwbl49A', 'caption': ''}}
+msgid ""
+"The week’s off to a good start. If you need any inspiration this Tuesday have a look at the activity ideas 💡\r\n"
+msgstr "Die week het goed begin. As jy hierdie Dinsdag enige inspirasie nodig het, kyk na die aktiwiteite-idees. 💡"
+
+#f: {'context': 'text', 'workflow': {'id': 'M0-3jQvPSCCuDfUpK9rpfg', 'name': 'Main menu'}, 'state': {'id': 'yM7mL_x8Rt6COT8MIO348g', 'name': 'Friday'}, 'report': {'id': 'vjZVPDE7QW-rIF7e1guu1Q', 'type': 'MSG'}, 'page': {'id': '0fwU9oOfTFiyWzyE08C8cw', 'caption': ''}}
+msgid "It’s Friday! 🎉Hope you’ve had an great week. Remember to complete all your attendance registers for the week. ✔ Don’t forget to upload photos 📸 of your forms when you’re done."
+msgstr "Dit is Vrydag!  🎉 Hoop jy het ’n goeie week gehad. Onthou om al jou bywoningsregisters vir die week te voltooi. ✔ Moenie vergeet om foto’s 📸 van jou vorms op te laai wanneer jy klaar is nie."
+

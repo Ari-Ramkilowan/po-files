@@ -1,0 +1,42 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'Ylvs54KpSr6MRrYt_DLc4g', 'name': 'Community'}, 'state': {'id': 'AP00Ny9MQ0i-4Q5floWPaQ', 'name': 'Information'}, 'report': {'id': 'LbKlvDw2SWilS0UkVCVZwQ', 'type': 'MSG'}, 'page': {'id': 'aVRxL6rgSeyEdm1hw6L7Ww', 'caption': ''}}
+msgid ""
+"*{{ trans.club_name }}*\r\n"
+"{% if trans.coach %}\r\n"
+"Every SmartStarter gets a coach to help them out. Here are the details of yours:\r\n"
+"Name: {{ trans.coach }}\r\n"
+"Mobile: {{ trans.coach_contact_number }}\r\n"
+"{% else %}\r\n"
+"Sorry we have no community information for you.\r\n"
+"{% endif %}\r\n"
+msgstr ""
+"*{{ trans.club_name }}*\r\n"
+" {% if trans.coach %}\r\n"
+" Elke SmartStarter kry ’n afrigter om hulle te help. Hier is die besonderhede van joune:\r\n"
+" Naam: {{ trans.coach }}\r\n"
+" Selfoon: {{ trans.coach_contact_number }}\r\n"
+" {% else %}\r\n"
+" Jammer, ons het geen gemeenskapsinligting vir jou nie.\r\n"
+" {% endif %}"
+
+#f: {'context': 'label', 'workflow': {'id': 'Ylvs54KpSr6MRrYt_DLc4g', 'name': 'Community'}, 'state': {'id': 'AP00Ny9MQ0i-4Q5floWPaQ', 'name': 'Information'}, 'report': {'id': 'LbKlvDw2SWilS0UkVCVZwQ', 'type': 'MSG'}, 'page': {'id': 'aVRxL6rgSeyEdm1hw6L7Ww', 'caption': ''}, 'button': {'id': 'izCQRdgiQZaHZ9T2lTp6Aw', 'label': 'Back to Menu'}}
+msgid "Back to Menu"
+msgstr "Terug na spyskaart"
+

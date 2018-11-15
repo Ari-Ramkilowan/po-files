@@ -1,0 +1,128 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'K___QEKjR2eUjiHGVgbv5A', 'name': 'Extra notes'}, 'report': {'id': 'msAq-0VTS0KY4rbOMAfsQw', 'type': 'MSG'}, 'page': {'id': 'BfUmG3xjTLm63sQgcfXSeQ', 'caption': 'Read the notes'}}
+msgid ""
+"Some little ones might get stuck, but that’s fine. Here are some questions to help them talk about what’s happening and learn from it: 💬\r\n"
+"\r\n"
+"Level 1 (simple structure)\r\n"
+"• Who can remember the pattern?\r\n"
+"• Which colour was on the bottom?\r\n"
+"• Which colour was on the top?\r\n"
+"\r\n"
+"Level 2 (more complex structure)\r\n"
+"• Who can remember the pattern?\r\n"
+"• Which colour was on the bottom?\r\n"
+"• Which colour was on the top?\r\n"
+"• Which colours will you use to repeat the pattern?\r\n"
+"• What does the pattern look like?\r\n"
+"\r\n"
+"Level 3 (even more complex structure)\r\n"
+"• Who can remember the pattern?\r\n"
+"• Which colours will you use to repeat the pattern?\r\n"
+"• What does the pattern look like?\r\n"
+"• How did you remember?\r\n"
+"• What else can you build with the bricks?"
+msgstr ""
+"Sommige kleintjies kan vashaak, maar dis in orde. Hier is ’n paar vrae om hulle te help praat oor wat aangaan en daaruit te leer: 💬\r\n"
+"\r\n"
+"Vlak 1\r\n"
+"• Wie kan die patroon onthou?\r\n"
+"• Watter kleur was onderaan?\r\n"
+"• Watter kleur was bo?\r\n"
+"\r\n"
+"Vlak 2\r\n"
+"• Wie kan die patroon onthou?\r\n"
+"• Watter kleur was onderaan?\r\n"
+"• Watter kleur was bo?\r\n"
+"• Watter kleure sal jy gebruik om die patroon te herhaal?\r\n"
+"• Hoe lyk die patroon?\r\n"
+"\r\n"
+"Vlak 3 \r\n"
+"• Wie kan die patroon onthou?\r\n"
+"• Watter kleure sal jy gebruik om die patroon te herhaal?\r\n"
+"• Hoe lyk die patroon?\r\n"
+"• Hoe het jy onthou?\r\n"
+"• Watter ander ding kan jy met die blokke bou?"
+
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'PntTAL6MTo-b86ELHP21EA', 'name': 'Skills developed'}, 'report': {'id': 'G6RX5NFMSwGwpS-Em-77lA', 'type': 'MSG'}, 'page': {'id': 'e9FANvt1TiupajiJdfLISw', 'caption': 'This game develops:'}, 'button': {'id': 'E2UzWMJ0SdKIlBznIXewFQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'KlIMdjZUTN-hWv87GD-y1Q', 'name': 'What you need'}, 'report': {'id': 'CXZ80geeT5ec_Zm3UwJxXQ', 'type': 'MSG'}, 'page': {'id': '_2JdM5d1RVech5vCYXpRvA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'cGgjFPbmSrOahyiBzczNEQ', 'name': 'How it works'}, 'report': {'id': 'fviAC1gISOCMPrAJXmt05g', 'type': 'MSG'}, 'page': {'id': 'bWmywiikSCCzV_8DaYjmjA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'KlIMdjZUTN-hWv87GD-y1Q', 'name': 'What you need'}, 'report': {'id': 'CXZ80geeT5ec_Zm3UwJxXQ', 'type': 'MSG'}, 'page': {'id': '_2JdM5d1RVech5vCYXpRvA', 'caption': 'See what you need'}, 'button': {'id': 'JEpRFiMPQSesC5x8pojjTg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'K___QEKjR2eUjiHGVgbv5A', 'name': 'Extra notes'}, 'report': {'id': 'msAq-0VTS0KY4rbOMAfsQw', 'type': 'MSG'}, 'page': {'id': 'BfUmG3xjTLm63sQgcfXSeQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'cGgjFPbmSrOahyiBzczNEQ', 'name': 'How it works'}, 'report': {'id': 'fviAC1gISOCMPrAJXmt05g', 'type': 'MSG'}, 'page': {'id': 'bWmywiikSCCzV_8DaYjmjA', 'caption': 'See how it works'}, 'button': {'id': 'zwo6aSr5T5SEXUDJPvfwNQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'K___QEKjR2eUjiHGVgbv5A', 'name': 'Extra notes'}, 'report': {'id': 'msAq-0VTS0KY4rbOMAfsQw', 'type': 'MSG'}, 'page': {'id': 'BfUmG3xjTLm63sQgcfXSeQ', 'caption': 'Read the notes'}, 'button': {'id': 'hps9JXquRWe0TSDgdexo1Q', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'hi7GOtJGRSi79qFdqFAJyg', 'name': 'Start'}, 'report': {'id': 'kDTZ3drxTsu8S-qJ6aiXag', 'type': 'MSG'}, 'page': {'id': '4u7aSF6RRFuCBvL3fggB0g', 'caption': 'It’s time to test that memory with a game called Lego — Can You Remember? 🏅'}}
+msgid "It’s time to test that memory with a game called Lego — Can You Remember? 🏅"
+msgstr "Dit is tyd om daardie geheue met ’n speletjie genaamd LEGO  – Kan Jy Onthou? (LEGO — Can You Remember?) te toets. 🏅"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'cGgjFPbmSrOahyiBzczNEQ', 'name': 'How it works'}, 'report': {'id': 'fviAC1gISOCMPrAJXmt05g', 'type': 'MSG'}, 'page': {'id': 'bWmywiikSCCzV_8DaYjmjA', 'caption': 'See how it works'}}
+msgid ""
+"The aim is to see if the kids can remember what you did and repeat it. It helps them learn to pay attention. 🧐\r\n"
+"\r\n"
+"1. Build a pattern of 2 bricks (e.g. red then yellow).\r\n"
+"2. Show children for 5 seconds and then ask them to remember.\r\n"
+"3. Hide the bricks and ask them to see if they can remember the pattern.\r\n"
+"4. Repeat with another pattern using different colours or a different order.\r\n"
+"5. Each time add more bricks.\r\n"
+"6. Use fewer bricks (simple structure) with young children (ages 2 — 4).\r\n"
+"7. Use more bricks with older children (ages 4 — 8).\r\n"
+"8. Get the children to build patterns for everyone to copy.\r\n"
+"9. Talk to the children about shapes, colours, or the number of bricks."
+msgstr ""
+"Die doel is om te kyk of die kinders kan onthou wat jy gedoen het en dit herhaal. Dit help hulle om aandag te skenk. 🧐\r\n"
+"\r\n"
+"1. Bou ’n patroon met 2 blokke (byvoorbeeld rooi, dan geel).\r\n"
+"2. Wys die kinders vir 5 sekondes en vra hulle dan om te onthou.\r\n"
+"3. Steek die blokke weg en vra hulle om te kyk of hulle die patroon kan onthou.\r\n"
+"4. Herhaal met ’n ander patroon en gebruik verskillende kleure of ’n ander volgorde.\r\n"
+"5. Jy kan elke keer nog blokke byvoeg.\r\n"
+"6. Gebruik minder blokke (eenvoudige struktuur) met jong kinders (ouderdom 2-4).\r\n"
+"7. Gebruik meer blokke met ouer kinders (ouderdom 4-8).\r\n"
+"8. Laat die kinders patrone bou wat almal kan kopieer.\r\n"
+"9. Praat met die kinders oor vorms, kleure of die aantal blokke."
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'PntTAL6MTo-b86ELHP21EA', 'name': 'Skills developed'}, 'report': {'id': 'G6RX5NFMSwGwpS-Em-77lA', 'type': 'MSG'}, 'page': {'id': 'e9FANvt1TiupajiJdfLISw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'PntTAL6MTo-b86ELHP21EA', 'name': 'Skills developed'}, 'report': {'id': 'G6RX5NFMSwGwpS-Em-77lA', 'type': 'MSG'}, 'page': {'id': 'e9FANvt1TiupajiJdfLISw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Numbers , Shapes & Sizes\r\n"
+"✔️Skills for Learning\r\n"
+msgstr ""
+"✔️Getalle, vorms en groottes\r\n"
+"✔️Vaardighede vir leer"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'KlIMdjZUTN-hWv87GD-y1Q', 'name': 'What you need'}, 'report': {'id': 'CXZ80geeT5ec_Zm3UwJxXQ', 'type': 'MSG'}, 'page': {'id': '_2JdM5d1RVech5vCYXpRvA', 'caption': 'See what you need'}}
+msgid ""
+"Get as many Lego, Duplo or building blocks as you have. Each child is going to need the same amount as you.\r\n"
+msgstr "Maak al die LEGO, DUPLO of boublokke wat jy het, bymekaar. Elke kind gaan dieselfde hoeveelheid as jy nodig hê."
+

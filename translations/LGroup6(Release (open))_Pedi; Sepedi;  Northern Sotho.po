@@ -1,0 +1,106 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'Z7W731ltS-ig3-jZ1wpadA', 'name': 'Extra notes'}, 'report': {'id': '1wngZNobRvmryax4d5s7jQ', 'type': 'MSG'}, 'page': {'id': 'UW4eMZbyQzmQB0jqXmzwSA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'b-hhgkdJSXSHbJ5AnYD-AQ', 'name': 'How it works'}, 'report': {'id': 'l2_pVndYQiKoF16kz4wjQA', 'type': 'MSG'}, 'page': {'id': 'OIWuYM6ESFWOlMly_guNqw', 'caption': 'See how it works'}, 'button': {'id': '0WIYEFhYQGSAd68Yf36KbA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutse"
+
+#f: {'context': 'label', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'l_J_lRo1QlmsmX6_5J6e2A', 'name': 'Skills developed'}, 'report': {'id': 'X0knPzZUSbCeuEnyqh0uUw', 'type': 'MSG'}, 'page': {'id': 'GicgpXmXRY--CYgDfbxvrA', 'caption': 'This game develops'}, 'button': {'id': 'rIaY6xiATWOYtSPPzAotZw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': '2IJJ-lZtQnuKCZAEJogbiQ', 'name': 'What you need'}, 'report': {'id': 'gvFMtR3ARVWQKmnVRNThCw', 'type': 'MSG'}, 'page': {'id': 'fhIhGUvXR52AknTSeKXjIA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se hlokago"
+
+#f: {'context': 'caption', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'b-hhgkdJSXSHbJ5AnYD-AQ', 'name': 'How it works'}, 'report': {'id': 'l2_pVndYQiKoF16kz4wjQA', 'type': 'MSG'}, 'page': {'id': 'OIWuYM6ESFWOlMly_guNqw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': '2IJJ-lZtQnuKCZAEJogbiQ', 'name': 'What you need'}, 'report': {'id': 'gvFMtR3ARVWQKmnVRNThCw', 'type': 'MSG'}, 'page': {'id': 'fhIhGUvXR52AknTSeKXjIA', 'caption': 'See what you need'}, 'button': {'id': 'rIbIOpjET1GS6qLAOMQ8mw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ka moo e šomago ka gona"
+
+#f: {'context': 'label', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'Z7W731ltS-ig3-jZ1wpadA', 'name': 'Extra notes'}, 'report': {'id': '1wngZNobRvmryax4d5s7jQ', 'type': 'MSG'}, 'page': {'id': 'UW4eMZbyQzmQB0jqXmzwSA', 'caption': 'Read the notes'}, 'button': {'id': 'UE6Rh9LdQm-ajwrDbXRmsg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Re boela morago go menyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'Z7W731ltS-ig3-jZ1wpadA', 'name': 'Extra notes'}, 'report': {'id': '1wngZNobRvmryax4d5s7jQ', 'type': 'MSG'}, 'page': {'id': 'UW4eMZbyQzmQB0jqXmzwSA', 'caption': 'Read the notes'}}
+msgid ""
+"Horses are great, but not everyone is a pony. 🦄\r\n"
+"\r\n"
+"The kids can pretend to be other animals like elephants, lions, cats, dogs, rabbits etc.\r\n"
+"Each child can give themselves an animal name. \r\n"
+"\r\n"
+"The rhyme you can sing goes like this:\r\n"
+"\r\n"
+"Horsie horsie jumping high\r\n"
+"Horsie horsie touch the sky\r\n"
+"Horsie horsie go around\r\n"
+"Horsie horsie touch the ground\r\n"
+msgstr ""
+"Dipere di a thabiša, eupša ga se batho ka moka ba katišago dipere. 🦄\r\n"
+"\r\n"
+"Digotlane di ka itira tšona diphoofolo tše dingwe go swana ditlou, ditau, dikatse, dimpša, mebutla, bjalobjalo.\r\n"
+"Ngwana a ba ipha leina la phoofolo. \r\n"
+"\r\n"
+"Košana ye o ka e opelago e ka tsela ye:\r\n"
+"\r\n"
+"\r\n"
+"Pere pere e fofela godimo\r\n"
+"Pere pere e kgwatha lefaufau\r\n"
+"Pere pere e a rarelararela\r\n"
+"Pere pere e kgwatha fase"
+
+#f: {'context': 'text', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'l_J_lRo1QlmsmX6_5J6e2A', 'name': 'Skills developed'}, 'report': {'id': 'X0knPzZUSbCeuEnyqh0uUw', 'type': 'MSG'}, 'page': {'id': 'GicgpXmXRY--CYgDfbxvrA', 'caption': 'This game develops'}}
+msgid ""
+"✔️Songs , Rhymes & Sounds\r\n"
+"✔️Walking & Moving\r\n"
+msgstr ""
+"✔️Dikoša, merethetho le medumo\r\n"
+"✔️Go sepela ka maoto le go šutha"
+
+#f: {'context': 'text', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': '2IJJ-lZtQnuKCZAEJogbiQ', 'name': 'What you need'}, 'report': {'id': 'gvFMtR3ARVWQKmnVRNThCw', 'type': 'MSG'}, 'page': {'id': 'fhIhGUvXR52AknTSeKXjIA', 'caption': 'See what you need'}}
+msgid "Get a small boxes to jump over and a space to move around in. It’s time to see who’s the best horsey. 🎠"
+msgstr "Hwetša mapokisi a mannyane ao a tla tshelwago le sekgoba sa go rarela ka ona. Ke nako ya go bona yo a nago le bokgoni bja godimodimo ka mekato ya dipere. 🎠"
+
+#f: {'context': 'caption', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'l_J_lRo1QlmsmX6_5J6e2A', 'name': 'Skills developed'}, 'report': {'id': 'X0knPzZUSbCeuEnyqh0uUw', 'type': 'MSG'}, 'page': {'id': 'GicgpXmXRY--CYgDfbxvrA', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Papadi ye e kaonafatša:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'RQ8w3tGeTSmOFfXpH2A6sA', 'name': 'Start'}, 'report': {'id': 'NvRE1x-WRUuq-War85mywA', 'type': 'MSG'}, 'page': {'id': 'P3wCy9oOTCSlrSWBWowycA', 'caption': 'If the children have been sitting all morning for the small group activity, it might be nice to get them moving with Jumping Horse. 🐎'}}
+msgid "If the children have been sitting all morning for the small group activity, it might be nice to get them moving with Jumping Horse. 🐎"
+msgstr "Ge e le gore ba be ba dutše mesong ka moka go dira mošomo wa dihlopha tše nnyane, go ka ba kaone ge o ka dira gore ba itšhikinye ka Pere ye e Fofago. 🐎"
+
+#f: {'context': 'text', 'workflow': {'id': 'bOnYFz2BRgixd6nGvpdeBg', 'name': 'LGroup6'}, 'state': {'id': 'b-hhgkdJSXSHbJ5AnYD-AQ', 'name': 'How it works'}, 'report': {'id': 'l2_pVndYQiKoF16kz4wjQA', 'type': 'MSG'}, 'page': {'id': 'OIWuYM6ESFWOlMly_guNqw', 'caption': 'See how it works'}}
+msgid ""
+"Start with some basic horse-play🐴\r\n"
+"\r\n"
+"1.Ask the children to stand in a circle and pretend to be a horse.\r\n"
+"2. Ask them to make the sound of a horse.\r\n"
+"3. Trot around in a circle like horses.\r\n"
+"4. Put out a small box and get each child to jump over the box like a horse.\r\n"
+"5. Put out a few more boxes for them to jump over.\r\n"
+"6. Keep making horse noises as you play.\r\n"
+"7.You can add a rhyme if you want.\r\n"
+msgstr ""
+"Thomiša ka mekatišo ya dipere ya tlwaelo🐴\r\n"
+"\r\n"
+"1. Kgopela bana go ema ka sediko le go itira bona dipere.\r\n"
+"2. Ba kgopele gore ba dire modumo wo o swanago le wa pere.\r\n"
+"3. Hlehla o rarela go swana le dipere.\r\n"
+"4. Bea lepokisi le le nnyane le gore ngwana yo mongwe le yo mongwe a tabogele ka lepokising bjalo ka pere.\r\n"
+"5. Ba beele mapokisi a mantši gore ba tabogele ka go ona.\r\n"
+"6. Tšwela pele go dira mašata a dipere ge le le gare le raloka.\r\n"
+"7. O ka tsenya košana ge o nyaka."
+

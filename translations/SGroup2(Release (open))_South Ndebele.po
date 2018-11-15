@@ -1,0 +1,132 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nbl\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}, 'button': {'id': 'RVVacVZyS5KDYPnMg1dPcw', 'label': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}, 'button': {'id': 'V2N5eA0UTWa2yr91Xi4dHA', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona ukuthi utlhoga ini"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}, 'button': {'id': 'ksjEuXXCRwixUPXlpYXCBg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amaAwathi"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}, 'button': {'id': 'Uk1r6YVKTCSrgJ0dJnzFqg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Asibuyele emva"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'yeM4eBb1RDiPjkg0PDcn6w', 'name': 'Start'}, 'report': {'id': 'rLdeHBu4R3GWHSYyDOk3lw', 'type': 'MSG'}, 'page': {'id': 'Fz47pc71Sne51acj7tMHzw', 'caption': 'It’s time to play Knock Down Skittles. 🎳'}}
+msgid "It’s time to play Knock Down Skittles. 🎳"
+msgstr "Sikhathi sokudlala i- KAwack Down Skittles. 🎳"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Umdlalo lo uthuthkisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Arm & Hand Control\r\n"
+"✔️Numbers , Shapes and Sizes"
+msgstr ""
+"✔️Ukulawula umkhoAwa nesandla \r\n"
+"✔️IiAwambolo, amajamo Awabukhulu"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid ""
+"This is a great to get the children playing in groups together so that they can make new friends.\r\n"
+"\r\n"
+"1. A set of skittles (3 to 5). You can make these out of empty drinking bottles, but not glass. \r\n"
+"2. A ball (you can make this out of plastic bags and onion bags).\r\n"
+"3. Space to play skittles.\r\n"
+"\r\n"
+msgstr ""
+"Le yindlela ehle yokwenza abantwana badlale ngeenqhema bazokwazi ukwakha abangani abatjha.\r\n"
+"\r\n"
+"1. Ibuthelelo lamasketele (3 kuya 5). Ungasebezisa amabhodlelo wokusela angenalitho ukwenza lokhu, ingesiwo werhalasi. \r\n"
+"2. Ibholo  (ungalenza ngethwarathwara Awama ngesaga le – eyi).\r\n"
+"3.Yenza isikhala ukudlala umdlalo wamasketele."
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ukuthi isebenza bunjani"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid ""
+"It’s also really straightforward, and you can play it over and over. All you have to do is:\r\n"
+"\r\n"
+"1. Line the skittles up in a row.\r\n"
+"2. Line the children up in front of the skittles.\r\n"
+"3. Together take 5 steps back and count out loud as they step backwards.\r\n"
+"4. Give each child a turn to roll the ball towards the skittles.\r\n"
+"5. The ball should not leave the ground.\r\n"
+"6. Reset the skittles when they have been knocked over.\r\n"
+"7. This time take six steps back.\r\n"
+"8. Have the children throw under arm first.\r\n"
+"9. Then throw overarm.\r\n"
+"10. Throw ball with two hands.\r\n"
+"11. Throw ball with one hand."
+msgstr ""
+"Ilula khulu begodu ungayidlala ngokuphindelela. Ekufanele ukwenze ngilokhu:\r\n"
+"\r\n"
+"1. Yenza umjeje wamasketele.\r\n"
+"2. Jamisa abaentwana ngaphambi kwamasketele.\r\n"
+"3. NiAwake thathani amagadango ama - 5 nibuyele emva bese ubalela phezulu nabaBuyela erhelweni. \r\n"
+"4. Nikela boke abantwana ithuba lokuphosela ibholo esketeleni.\r\n"
+"5. Ibholo akufanelanga bona lisuke phasi.\r\n"
+"6. Phindisela kuhle amasketele nabawawisile.\r\n"
+"7. Nje thhatha amagadango asithandathu ukuBuyela erhelweni.\r\n"
+"8. Ithi abantwana baphose ngaphasi komkhoAwa.\r\n"
+"9. Nje thana baphose ngaphezu kommkhoAwa.\r\n"
+"10. Phosa ibholo ngezandla zombili.\r\n"
+"11. Phosa ibholo ngesandla sinye."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+msgid ""
+"But it’s not just physical, you can also use these questions to help the kids learn more:\r\n"
+"\r\n"
+"Before you start:\r\n"
+"• How many skittles can you see?\r\n"
+"• What colours are they?\r\n"
+"\r\n"
+"While you’re taking turns:\r\n"
+"• How many did you knock over?\r\n"
+"• How many are left?\r\n"
+"• Can you catch the ball with 2 hands?\r\n"
+"\r\n"
+"Before you start the next round:\r\n"
+"• How many steps should we take now?\r\n"
+"• Is that more or less than last time?\r\n"
+"• Can you catch the ball 1-handed?\r\n"
+msgstr ""
+"Kodwana akusizizinto eziphathelene Awamzimba kwaphela. Ungasebenzisa imibuzo le ukurhelebha abantwana bona bafunde khulu:\r\n"
+"\r\n"
+"Ngaphambi kokobana uthome:\r\n"
+"• Ubona amasketele amangaki?\r\n"
+"• Amibala enjani?\r\n"
+"\r\n"
+"Nanitjhentjhisanako:\r\n"
+"• Mangaki owawisileko?\r\n"
+"• Mangaki asele?\r\n"
+"• Ungalibamba ibholo ngezandla zombili?\r\n"
+"\r\n"
+"Ngaphambi kokobana uthome umzombe olandelako:\r\n"
+"• Mangaki amagadango ekufuze siwathathe njenganje?\r\n"
+"• Manengi namkha mancane kunekuthomeni?\r\n"
+"• Ungalibamba ibholo ngesandla sinye?"
+

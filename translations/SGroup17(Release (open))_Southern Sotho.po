@@ -1,0 +1,133 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}, 'button': {'id': '8uigfAAjQgWPEPJN3qDYjA', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}, 'button': {'id': 'yq38n3KaREOQC0Mjf0aODw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}, 'button': {'id': 'pevMWDdYRa2JWcAFG1-1PQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}, 'button': {'id': 'X-RI1iLWSai6qIfEUbaPWg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ena e ntshetsa pele:"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}}
+msgid ""
+"Here’s what you’ll need to keep the kids busy:\r\n"
+"\r\n"
+"1. A pre-drawn picture of a dinosaur for each child.\r\n"
+"2. Squares about the size of a stamp in 2 or 3 different colours. \r\n"
+"3. Glue.\r\n"
+"4. Scissors.\r\n"
+msgstr ""
+"Tsena ke tseo o ka di hlokang ho etsa hore bana ba dule ba sebetsa:\r\n"
+"\r\n"
+"1. Setshwantsho se seng se takilwe sa daenaso bakeng sa ngwana ka mong\r\n"
+"2. Dikgutlonnetsepa tse ka lekanang le setempe ka mebala e 2 kapa 3 e fapaneng\r\n"
+"3. Sekgomaretsi\r\n"
+"4. Dikere"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'eGYsmy1bT2Wp__Vgx7cNoA', 'name': 'Start'}, 'report': {'id': 'vSt4G_pHTJ-Lg3jpbnYTPQ', 'type': 'MSG'}, 'page': {'id': 'oDAtMnaTQm2bc2r4Kqh-dw', 'caption': 'We started from the ground up by making dinosaur footprints in the last activity, so how about we move on to Making Dinosaurs? \U0001f995'}}
+msgid "We started from the ground up by making dinosaur footprints in the last activity, so how about we move on to Making Dinosaurs? 🦕"
+msgstr "Re qadile fatshe ka ho etsa dikgato tsa maoto a daenaso ketsahalong e fetileng, ho ka ba jwang ha re ka fetela ho Ho Etsa Didaenaso? 🦕"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Numbers , Shapes & Sizes\r\n"
+"✔️Skills for Learning\r\n"
+msgstr ""
+"✔️ Dinomoro, dibopeho le boholo\r\n"
+"✔️Bokgoni bakeng sa ho ithuta"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}}
+msgid ""
+"Keep the kids wide awake by encouraging them to make dinosaur noises while they work. 🦖🦕\r\n"
+"\r\n"
+"1. Give each child a picture of a dinosaur.\r\n"
+"2. Cut out the colourful squares for younger children.\r\n"
+"3. Let older children cut their own little squares.\r\n"
+"4. Sort the little squares into piles depending on their colour.\r\n"
+"5. Show the children how to stick the squares onto their dinosaurs.\r\n"
+"6. Help the younger ones while encouraging the older ones.\r\n"
+"7. Help them make a pattern using colours (red, blue, red, blue, red, etc).\r\n"
+msgstr ""
+"Boloka bana ba hlaphohetswe ka ho ba kgothaletsa ho etsa medumo ya didaenaso ha ba ntse ba sebetsa. 🦖🦕\r\n"
+"\r\n"
+"1. Nea ngwana ka mong setshwantsho sa daenaso.\r\n"
+"2. Seha o ntshe dikgutlonne tse mebalabala bakeng sa bana ba banyenyane.\r\n"
+"3. Ere bana ba baholwanyana ba itshehele dikgutlonnetsepa tsa bona.\r\n"
+"4. Hlophisa dikgutlonnetsepa tse nyane ka diqubu ho ya ka mebala ya tsona.\r\n"
+"5. Bontsha bana kamoo ba ka kgomaretsang dikgutlonnetsepa ho didaenaso ka teng.\r\n"
+"6. Thusa ba banyenyane ha o ntse o kgothatsa ba baholwanyane. \r\n"
+"7. Ba thuse ho etsa paterone ba sebedisa mebala (kgubedu, bolou, kgubedu, bolou, kgubedu, jj)."
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}}
+msgid ""
+"Not sure what to ask the children next? Here are some ideas:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What does this dinosaur need?\r\n"
+"• Where will these spikes go?\r\n"
+"• How many do you need?\r\n"
+"• What colours will you choose?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What pattern will you make?\r\n"
+"• Which one shall we start with?\r\n"
+"• When did dinosaurs live? (The answer can be something like: a long, long time ago).\r\n"
+"• Are there still dinosaurs on earth? (Answer: no, they have all died).\r\n"
+"• What do they eat? (Answer: some eat plants, some eat other animals).\r\n"
+"\r\n"
+"Level 3\r\n"
+"• What sound does dinosaur start with? (da)\r\n"
+"• What else starts with ‘da’?\r\n"
+"• Do you know the names of different types of dinosaurs? (Answer: T. rex, brontosaurus, triceratops).\r\n"
+msgstr ""
+"Ha o na bonnete ba seo o ka se botsang bana kamora moo? Mehopolo ke ena:\r\n"
+"\r\n"
+"Mohato wa 1\r\n"
+"• Daenaso ee e hloka eng?\r\n"
+"• Metsu ee e kena hokae?\r\n"
+"• O hloka e mekae?\r\n"
+"• O tla kgetha mebala efe?\r\n"
+"\r\n"
+"Mohato wa 2\r\n"
+"• O tla etsa dipaterone dife?\r\n"
+"• Ke efe eo re tla qalang ka yona?\r\n"
+"• Didaenaso di phetse mehleng efe? (Karabo e ka nna ya eba e kang: mehleng ya boholoholo).\r\n"
+"• Na ho sa ntse ho ena le didaenaso lefatsheng?  (Karabo: tjhe, di ne di shwe kaofela mme di fedisitswe).\r\n"
+"• Di ja eng? (Karabo: tse ding di ja dijalo, tse ding di ja diphoofolo).\r\n"
+"\r\n"
+"Mohato wa 3\r\n"
+"• Daenaso e qala ka modumo ofe? (d)\r\n"
+"• Ke eng e nngwe hape e qalang ka ‘d’?\r\n"
+"• Na o tseba mabitso a mefuta e fapaneng ya didaenaso? (Karabo: T.rex, brontosaurus, triceratops)."
+

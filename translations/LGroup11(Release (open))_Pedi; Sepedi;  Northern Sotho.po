@@ -1,0 +1,106 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '4UKxkb_UTj68aLIHIUnr6Q', 'name': 'Extra notes'}, 'report': {'id': 'P8Vg9mEaT_CNe9-BnwTZ4w', 'type': 'MSG'}, 'page': {'id': '8wRnzf10TVuLBCfC3UI90w', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'Fzrm5mY6Rw-YGdN6Vz9bjA', 'name': 'How it works'}, 'report': {'id': 'a-wa4WFWRb-Zh6tdjdz22g', 'type': 'MSG'}, 'page': {'id': 'OtUw3fzeR9KcW6umHF3OSw', 'caption': 'See how it works'}, 'button': {'id': '3xQOtTbhSRiLZeyl7Sv2xg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutse"
+
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '4UKxkb_UTj68aLIHIUnr6Q', 'name': 'Extra notes'}, 'report': {'id': 'P8Vg9mEaT_CNe9-BnwTZ4w', 'type': 'MSG'}, 'page': {'id': '8wRnzf10TVuLBCfC3UI90w', 'caption': 'Read the notes'}, 'button': {'id': '0diuF4MRRt2CElLgCowuPg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Re boela morago go menyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '3pmbs0ECS0KrSPC1rTu9mQ', 'name': 'Skills developed'}, 'report': {'id': 'obl9Eyg5R32_qi8ae8xDjQ', 'type': 'MSG'}, 'page': {'id': 'm1mSUMAqQgiVRnuNudYvkw', 'caption': 'This game develops'}, 'button': {'id': 'E3CIYAWtQSqbI2nQLW8UCg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'dPW1Z2jbTpC2f6VgDmgsiA', 'name': 'What you need'}, 'report': {'id': 'PfmYQSPlQzCvf2G3s_vxCQ', 'type': 'MSG'}, 'page': {'id': 'noJoSP94STKJYo2iss22zA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se hlokago"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'Fzrm5mY6Rw-YGdN6Vz9bjA', 'name': 'How it works'}, 'report': {'id': 'a-wa4WFWRb-Zh6tdjdz22g', 'type': 'MSG'}, 'page': {'id': 'OtUw3fzeR9KcW6umHF3OSw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'dPW1Z2jbTpC2f6VgDmgsiA', 'name': 'What you need'}, 'report': {'id': 'PfmYQSPlQzCvf2G3s_vxCQ', 'type': 'MSG'}, 'page': {'id': 'noJoSP94STKJYo2iss22zA', 'caption': 'See what you need'}, 'button': {'id': 'FIdhuZtTSw620iywYBCFpg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ka moo e šomago ka gona"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '3pmbs0ECS0KrSPC1rTu9mQ', 'name': 'Skills developed'}, 'report': {'id': 'obl9Eyg5R32_qi8ae8xDjQ', 'type': 'MSG'}, 'page': {'id': 'm1mSUMAqQgiVRnuNudYvkw', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Papadi ye e kaonafatša:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'uBQXBOzeRcyyZfGXaeMP3A', 'name': 'Start'}, 'report': {'id': 'Id_Wv6SPQYqp0zf4bElJ9Q', 'type': 'MSG'}, 'page': {'id': '3vDI2NbdSwOM6LePOvi-7w', 'caption': 'There’s too much bad news in the newspaper, so let’s cut it up and Make a Papier Mache Bowl. ✂📰= \U0001f963'}}
+msgid "There’s too much bad news in the newspaper, so let’s cut it up and Make a Papier Mache Bowl. ✂📰= 🥣"
+msgstr "Go na le ditaba tše ntši tše mpe ka kuranteng, ka gona a re e ripe re dire Dira Sebjana sa Pampiri ya Go kgomarela. ✂📰= 🥣"
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'dPW1Z2jbTpC2f6VgDmgsiA', 'name': 'What you need'}, 'report': {'id': 'PfmYQSPlQzCvf2G3s_vxCQ', 'type': 'MSG'}, 'page': {'id': 'noJoSP94STKJYo2iss22zA', 'caption': 'See what you need'}}
+msgid ""
+"To make 6 bowls of mache you will need:\r\n"
+"* 2 cups flour \r\n"
+"* 2 cups of water\r\n"
+"* 1 tablespoon of salt\r\n"
+"* A mixing bowl and spoon\r\n"
+"* Strips of newspaper\r\n"
+"* Paint to decorate\r\n"
+msgstr ""
+"Go dira dibjana tše 6 tša pampiri ya go kgomarela o tla hloka:\r\n"
+"1. Komiki tše 2 tša folouru \r\n"
+"2. Komiki tše 2 tša meetse\r\n"
+"3. Lehwana le 1 la letswai\r\n"
+"4. Sebjana sa go hlakanya le lehwana\r\n"
+"5. Meseto ya kuranta\r\n"
+"6. Pente ya go kgabiša"
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '4UKxkb_UTj68aLIHIUnr6Q', 'name': 'Extra notes'}, 'report': {'id': 'P8Vg9mEaT_CNe9-BnwTZ4w', 'type': 'MSG'}, 'page': {'id': '8wRnzf10TVuLBCfC3UI90w', 'caption': 'Read the notes'}}
+msgid ""
+"The most important note is don’t eat out of this bowl, because it will fall apart. Also:\r\n"
+"1. You can do this to make bowls for the pretend area, or you can do it as an art activity with each child. Make sure you have enough small bowls for each child.\r\n"
+"2. You can make other things out of paper mache: A bee using a balloon and cardboard, or get the children to make a papier mache hat or some funny animals.\r\n"
+msgstr ""
+"Ntlha ye bohlokwa ke gore ga go yo a swanetšego go jela ka sebjaneng se, ka lebaka la gore se tla pšhatlega. Gape:\r\n"
+"\r\n"
+"1. O ka dira se go dira dibjana tša lefelo le le akanywago, goba o ka e dira bjalo ka mošomo wa bokgabo le ngwana yo mongwe le yo mongwe. Kgonthiša ngwana yo mongwe le yo mongwe o na le sebjana sa gagwe.\r\n"
+"2. O ka dira dilo tše dingwe go tšwa go pampiri ya go kgomarela: Nosi ye e šomišago palune le khatapokisi, goba e re bana ba dire kefa ya pampiri ya go kgomarela goba diphoolofo tše dingwe tše di segišago."
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '3pmbs0ECS0KrSPC1rTu9mQ', 'name': 'Skills developed'}, 'report': {'id': 'obl9Eyg5R32_qi8ae8xDjQ', 'type': 'MSG'}, 'page': {'id': 'm1mSUMAqQgiVRnuNudYvkw', 'caption': 'This game develops'}}
+msgid ""
+"✔️Exploring & Finding out\r\n"
+"✔️Arm & Hand Control"
+msgstr ""
+"✔️Go nyankolla le go utolla\r\n"
+"✔️Taolo ya letsogo le seatla"
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'Fzrm5mY6Rw-YGdN6Vz9bjA', 'name': 'How it works'}, 'report': {'id': 'a-wa4WFWRb-Zh6tdjdz22g', 'type': 'MSG'}, 'page': {'id': 'OtUw3fzeR9KcW6umHF3OSw', 'caption': 'See how it works'}}
+msgid ""
+"I should give you a heads up now, that this is a messy business. 👩🏿‍🎨\r\n"
+"\r\n"
+"1. Tear 5 large pieces of newspaper into strips.\r\n"
+"2. Mix flour, water and salt in big bowl to make a paste.\r\n"
+"3. Take a small bowl – plastic is best.\r\n"
+"4. Dip newspaper strips into the paste and layer over the bowl.\r\n"
+"5. Do 3 or 4 more layers.\r\n"
+"6. Leave to dry for 2 days, or until it’s hard.\r\n"
+"7. Gently press it out the bowl. It will pop out.\r\n"
+"8. Paint and decorate.\r\n"
+msgstr ""
+"Ke swanetše go go fa dintlhakgolo gabjale, gore ye ke kgwebo ya go hlakahlakana. 👩🏿‍🎨\r\n"
+"\r\n"
+"1. Gagola dikarolo tše kgolo tša kuranta tše 5 go ba meseto.\r\n"
+"2. Hlakanya folouru, meetse le letswai ka sebjaneng se segolo go dira leraga.\r\n"
+"3. Tšea sebjana se se nnyane – sa polastiki ke kaone.\r\n"
+"4. Ena meseto ya kuranta ka lerageng gomme o le ale godimo ga sebjana.\r\n"
+"5. Dira dillaga tše dingwe tše 3 goba tše 4.\r\n"
+"6. Tlogela gore e ome matšatši a 2, goba go fihla e le bothata.\r\n"
+"7. E pitle gannyane go tšwa ka sebjaneng. E tla tšwelela.\r\n"
+"8. Penta o be o kgabiše."
+

@@ -1,0 +1,123 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: ssw\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': 'A62RLW3cTmOIF__aFeox_g', 'name': 'How it works'}, 'report': {'id': 'DTc9bQqDSuyQKQna9zfe_Q', 'type': 'MSG'}, 'page': {'id': 'AMQQLdedSsCAdQ3Ebgku3w', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '_Uj18F5QSkev-KB68fF50A', 'name': 'What you need'}, 'report': {'id': 'WGIcZeaMQvWoVsIgcjBKxQ', 'type': 'MSG'}, 'page': {'id': 'CzrISzMhSb2U4VVfw1kCvA', 'caption': 'See what you need'}, 'button': {'id': '67ZwM6_oT666FDr0UrAT8A', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Buka kutsi isebenta njani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '-eJ5q1ovQ8yUBXpaObfJ3w', 'name': 'Extra notes'}, 'report': {'id': '5p8MOHPXRBeT_aQniUuX6w', 'type': 'MSG'}, 'page': {'id': 'hbTkmhoOS7C-bd_73Eg7Xw', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': 'A62RLW3cTmOIF__aFeox_g', 'name': 'How it works'}, 'report': {'id': 'DTc9bQqDSuyQKQna9zfe_Q', 'type': 'MSG'}, 'page': {'id': 'AMQQLdedSsCAdQ3Ebgku3w', 'caption': 'See how it works'}, 'button': {'id': 'msHfXfMFRs-b_1euZsAjqg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Fundza emanotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '-eJ5q1ovQ8yUBXpaObfJ3w', 'name': 'Extra notes'}, 'report': {'id': '5p8MOHPXRBeT_aQniUuX6w', 'type': 'MSG'}, 'page': {'id': 'hbTkmhoOS7C-bd_73Eg7Xw', 'caption': 'Read the notes'}, 'button': {'id': '9x7obd_lSsC3EBEnvTiCRg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela emuva kumenyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '9vXNlZfJTKa5o5iZyjnWzw', 'name': 'Skills developed'}, 'report': {'id': 'cEq5Ot_GTvqdWuDN0R5Tbg', 'type': 'MSG'}, 'page': {'id': 'jkpD34oMS0KHX-vfjDkrHQ', 'caption': 'This game develops:'}, 'button': {'id': '6CUalFK9QcyrUSsGV314Wg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '_Uj18F5QSkev-KB68fF50A', 'name': 'What you need'}, 'report': {'id': 'WGIcZeaMQvWoVsIgcjBKxQ', 'type': 'MSG'}, 'page': {'id': 'CzrISzMhSb2U4VVfw1kCvA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Buka kutsi yini loyidzingako"
+
+#f: {'context': 'caption', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': 'f476LjfUSSmeZN3-QOMfSw', 'name': 'Start'}, 'report': {'id': 'bdg8ZUTFSaqOAI_TbOS5UQ', 'type': 'MSG'}, 'page': {'id': 'vcz0fV2_Sy6Y5d3TT5Wfgw', 'caption': 'Right now could be the perfect time to teach the children about the past with Dinosaur Footprints. \U0001f996'}}
+msgid "Right now could be the perfect time to teach the children about the past with Dinosaur Footprints. 🦖"
+msgstr "Nyalo kungaba sikhatsi lesikahle sekufundzisa labantfwana ngelingemuva labo ngetinyatselo tema- Dinosaur. 🦖"
+
+#f: {'context': 'text', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '-eJ5q1ovQ8yUBXpaObfJ3w', 'name': 'Extra notes'}, 'report': {'id': '5p8MOHPXRBeT_aQniUuX6w', 'type': 'MSG'}, 'page': {'id': 'hbTkmhoOS7C-bd_73Eg7Xw', 'caption': 'Read the notes'}}
+msgid ""
+"While the children work with their hands, keep their minds busy with some questions like these:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What do you know about dinosaurs?\r\n"
+"• What sounds do dinosaurs make?\r\n"
+"• How many footprints will you make?\r\n"
+"• How many toes does this dinosaur have?\r\n"
+"• Should we walk around the room pretending we are dinosaurs?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• How big were dinosaurs?\r\n"
+"• When did dinosaurs live? \r\n"
+"(The answer can be something like: a long, long time ago)\r\n"
+msgstr ""
+"Ngalesikhatsi labantfwana basebenta ngetandla tabo, Gcina tingcondvo tabo timatasatasa ngekubabuta imibuto lenjengalena:\r\n"
+"\r\n"
+"Lizinga1\r\n"
+"• Yini loyatiko ngema-dinosaurs?\r\n"
+"• Enta muphi umsindvo ema-dinosaurs?\r\n"
+"• Ungenta tingaki tinyatselo?\r\n"
+"• Ngabe ema-dinosaur anetintwane letingaki?\r\n"
+"• Singahamba hamba lapha ngekhatsi endlini sitente ema-dinosaurs?\r\n"
+"\r\n"
+"Lizinga2\r\n"
+"• Bekamakhulu ngakanani ema-dinosaurs?\r\n"
+"• Bekahlalaphi ema-dinosaurs? \r\n"
+"(Imphendvulo ingahle ibe nguleti: kandzeni, emandvulo)."
+
+#f: {'context': 'text', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': 'A62RLW3cTmOIF__aFeox_g', 'name': 'How it works'}, 'report': {'id': 'DTc9bQqDSuyQKQna9zfe_Q', 'type': 'MSG'}, 'page': {'id': 'AMQQLdedSsCAdQ3Ebgku3w', 'caption': 'See how it works'}}
+msgid ""
+"Before you get going on the activity, talk to the kids about dinosaurs. 🦕\r\n"
+"\r\n"
+"1. Give each child a cut out dinosaur footprint.\r\n"
+"2. Dip the foot in paint.\r\n"
+"3. Press the foot onto clean paper and make a print.\r\n"
+"4. Get children to do their own, and make a few prints on the paper.\r\n"
+"5. They can stick leaves or grass onto the picture too.\r\n"
+"6. Put glue around the prints and sprinkle sand on it.\r\n"
+"7. Allow it to dry.\r\n"
+msgstr ""
+"Ngembi kwekutsi ucale lomsebenti, khuluma nebantfwana ngema-dinosaurs. 🦕\r\n"
+"\r\n"
+"1. Niketa umntfwana ngamunye sinyatselo se- dinosaur lesijutjiwe.\r\n"
+"2. Nyenta lesinyatselo ngekhatsi kwependi.\r\n"
+"3. Nyatselisa lesinyatselo ephepheni lelihlobile bese wenta kube nesinyatseliso lesifanako.\r\n"
+"4. Tsani bantfwana abatentele, bese benta tinyatseliso letimbalwa kuleliphepha.  \r\n"
+"5. Banganamatsisela emacembe noma tjani kulesitfombe.  \r\n"
+"6. Faka iglue itungeletele lesinyatseliso bese ufata insanti kuyo. \r\n"
+"7. Yivumele kutsi yome."
+
+#f: {'context': 'text', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '9vXNlZfJTKa5o5iZyjnWzw', 'name': 'Skills developed'}, 'report': {'id': 'cEq5Ot_GTvqdWuDN0R5Tbg', 'type': 'MSG'}, 'page': {'id': 'jkpD34oMS0KHX-vfjDkrHQ', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Talking & Understanding\r\n"
+"✔️Arm & hand control\r\n"
+msgstr ""
+"✔️Kukhuluma nekuvisisa\r\n"
+"✔️Kulawula sandla nemkhono"
+
+#f: {'context': 'text', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '_Uj18F5QSkev-KB68fF50A', 'name': 'What you need'}, 'report': {'id': 'WGIcZeaMQvWoVsIgcjBKxQ', 'type': 'MSG'}, 'page': {'id': 'CzrISzMhSb2U4VVfw1kCvA', 'caption': 'See what you need'}}
+msgid ""
+"All you need is:\r\n"
+"\r\n"
+"1. A cut out dinosaur footprint per child. (The older kids can cut out their own. Ideally, these should be made from, thick, hard card.)\r\n"
+"2. Paint.\r\n"
+"3. A piece of paper for each child.\r\n"
+"4. Glue\r\n"
+"5. Sand\r\n"
+msgstr ""
+"Konkhe lokudzingako:\r\n"
+"\r\n"
+"1. Sinyatselo losijubile lesibonisa kutsi kunyatsele i-dinosaur unike umntfwana ngamunye (Laba labadzala bangatijubela bona ngekwabo. Kahle-hle, loku kufanele kwentiwe kususelwa ekhadini lelicinile nalelisidudla) \r\n"
+"2. Ipendi\r\n"
+"3. Sidlephu seliphepha\r\n"
+"4. Iglue\r\n"
+"5. Insanti"
+
+#f: {'context': 'caption', 'workflow': {'id': 'eBfVoVwsTsGo1oo_Yn69OQ', 'name': 'SGroup16'}, 'state': {'id': '9vXNlZfJTKa5o5iZyjnWzw', 'name': 'Skills developed'}, 'report': {'id': 'cEq5Ot_GTvqdWuDN0R5Tbg', 'type': 'MSG'}, 'page': {'id': 'jkpD34oMS0KHX-vfjDkrHQ', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Lomdlalo utfutfukisa:"
+

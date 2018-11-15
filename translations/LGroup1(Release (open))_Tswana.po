@@ -1,0 +1,106 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tsn\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'G3czy0iCTTKR5xoiDfUeVA', 'name': 'Extra notes'}, 'report': {'id': 'MqoPPnjeT-e1wC2Lc7P1xw', 'type': 'MSG'}, 'page': {'id': '_2PGTjGoTSeS-_f04kjNdA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'CExFp_kATxq3e4vGmQ_5UA', 'name': 'How it works'}, 'report': {'id': 'FxAVs0iCSvSLvUwKZ7cWCw', 'type': 'MSG'}, 'page': {'id': 'WUKYLzrmQKyt9nv66yWJbA', 'caption': 'See how it works'}, 'button': {'id': 'sj-LH9uMQByWiqcV55-pzA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dintlha"
+
+#f: {'context': 'label', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'd9IIpSD5QeKigeg-BIvUcw', 'name': 'Skills developed'}, 'report': {'id': 'nWO-F0UkSQ2CXV6HAOSUoA', 'type': 'MSG'}, 'page': {'id': 'zX034xwURG2PAUDOwxAEsA', 'caption': 'This game develops:'}, 'button': {'id': 'DN85wYEhQd-oj1D6YSfcQg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'MxJAdT9_RSiAzW5rUVuVQw', 'name': 'What you need'}, 'report': {'id': 'aoqFs2G5SnKZ-18UjqFImA', 'type': 'MSG'}, 'page': {'id': '3GYsl5t7Q26KspHXoQ6V5Q', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se tlhokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'CExFp_kATxq3e4vGmQ_5UA', 'name': 'How it works'}, 'report': {'id': 'FxAVs0iCSvSLvUwKZ7cWCw', 'type': 'MSG'}, 'page': {'id': 'WUKYLzrmQKyt9nv66yWJbA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'MxJAdT9_RSiAzW5rUVuVQw', 'name': 'What you need'}, 'report': {'id': 'aoqFs2G5SnKZ-18UjqFImA', 'type': 'MSG'}, 'page': {'id': '3GYsl5t7Q26KspHXoQ6V5Q', 'caption': 'See what you need'}, 'button': {'id': 'zvEdu1pJTYCaMocRDpsqOw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona kafa o tshamekiwang ka teng"
+
+#f: {'context': 'label', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'G3czy0iCTTKR5xoiDfUeVA', 'name': 'Extra notes'}, 'report': {'id': 'MqoPPnjeT-e1wC2Lc7P1xw', 'type': 'MSG'}, 'page': {'id': '_2PGTjGoTSeS-_f04kjNdA', 'caption': 'Read the notes'}, 'button': {'id': 'Joe-6rHER8C9Meto_6b7UA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Boela kwa mmenyung"
+
+#f: {'context': 'caption', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'd9IIpSD5QeKigeg-BIvUcw', 'name': 'Skills developed'}, 'report': {'id': 'nWO-F0UkSQ2CXV6HAOSUoA', 'type': 'MSG'}, 'page': {'id': 'zX034xwURG2PAUDOwxAEsA', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Motshameko o o dira:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'OGVMKNvFQzaqkg0y5WEzcQ', 'name': 'Start'}, 'report': {'id': '1Hh473UFR2OMV-XvPny2Dg', 'type': 'MSG'}, 'page': {'id': 'bUau500HQK214VryL70LHg', 'caption': 'Let’s try the Finding Challenge. 👀'}}
+msgid "Let’s try the Finding Challenge. 👀"
+msgstr "A re lekeng motshameko wa Kgwetlho ya go Batla👀"
+
+#f: {'context': 'text', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'MxJAdT9_RSiAzW5rUVuVQw', 'name': 'What you need'}, 'report': {'id': 'aoqFs2G5SnKZ-18UjqFImA', 'type': 'MSG'}, 'page': {'id': '3GYsl5t7Q26KspHXoQ6V5Q', 'caption': 'See what you need'}}
+msgid "This one is easy to get organised, all you need is toys and items (like the ones in the picture) laid out in your play area. 🤖 "
+msgstr "O o motlhofo go o rulaganya, se o se tlhokang fela ke dithoye le dilo (tse di tshwanang le tse di mo setshwantshong) di beilwe mo lefelong le le tshamekelang mo go lone. 🤖"
+
+#f: {'context': 'text', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'd9IIpSD5QeKigeg-BIvUcw', 'name': 'Skills developed'}, 'report': {'id': 'nWO-F0UkSQ2CXV6HAOSUoA', 'type': 'MSG'}, 'page': {'id': 'zX034xwURG2PAUDOwxAEsA', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Talking & Understanding"
+msgstr ""
+"✔️Bokgoni jwa batho\r\n"
+"✔️Go bua le go tlhaloganya"
+
+#f: {'context': 'text', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'CExFp_kATxq3e4vGmQ_5UA', 'name': 'How it works'}, 'report': {'id': 'FxAVs0iCSvSLvUwKZ7cWCw', 'type': 'MSG'}, 'page': {'id': 'WUKYLzrmQKyt9nv66yWJbA', 'caption': 'See how it works'}}
+msgid ""
+"Once everything is laid out on the floor:\r\n"
+"\r\n"
+"1. Get all the children to stand in a circle around the items on the floor.\r\n"
+"2. Tell them they have 20 seconds to find an item that matches the description you’re going to give them.\r\n"
+"3. Give them a description like soft, blue, big or small. There are more examples in the extra ideas message.\r\n"
+"4. Count up to 20 as they search for the right toy or item.\r\n"
+"5. Ask each child to show everyone what they picked up and why it matches what you said.\r\n"
+"6. Ask older children to shout out ideas of what to look for next.\r\n"
+msgstr ""
+"Fa sengwe le sengwe se sena go bewa mo bodilong.\r\n"
+"\r\n"
+"1. Dira gore bana botlhe ba eme ba dirile mosako go dikologa dilo tse di fa fatshe.\r\n"
+"2. Ba bolelele gore ba na le metsotswana e le 20 e ba tshwanetseng go bona selo se se nyalanang le tlhaloso e o tlileng go ba naya yone.\r\n"
+"3. Ba neye tlhaloso e e jaaka bonolo, boluo, kgolo kgotsa nnye. Go na le dikai tse dingwe mo molaetseng wa megopolo e mengwe.\r\n"
+"4. Bala go fitlha go 20 fa ba ntse ba batla thoye e e tshwanetseng kgotsa selwana. \r\n"
+"5. Kopa ngwana mongwe le mongwe gore a bontshe mongwe le mongwe se a se tsereng le gore goreng se nyalana le se o se buileng.\r\n"
+"6. Kopa bana gore ba goele kwa godimo megopolo ya se ba tshwanetseng go se batla moragonyana."
+
+#f: {'context': 'text', 'workflow': {'id': 'FPGDUvRQR6eiQHYmnSWVCA', 'name': 'LGroup1'}, 'state': {'id': 'G3czy0iCTTKR5xoiDfUeVA', 'name': 'Extra notes'}, 'report': {'id': 'MqoPPnjeT-e1wC2Lc7P1xw', 'type': 'MSG'}, 'page': {'id': '_2PGTjGoTSeS-_f04kjNdA', 'caption': 'Read the notes'}}
+msgid ""
+"When giving the children descriptions to match the items, try these examples:\r\n"
+"• Soft 🐶\r\n"
+"• Hard 👷\r\n"
+"• Smooth 🐚\r\n"
+"• Rough 🦔\r\n"
+"• Long 🦒\r\n"
+"• Red 🔴\r\n"
+"• Round ⚽\r\n"
+"• Square 💾\r\n"
+"• Plastic 📏\r\n"
+"\r\n"
+"If two children go for the same item, suggest another item to one of them."
+msgstr ""
+"Fa o naya bana ditlhaloso tse di nyalanang le dilo, leka dikai tse di latelang:\r\n"
+"\r\n"
+"• Bonolo 🐶\r\n"
+"• Thata 👷\r\n"
+"• Borethe 🐚\r\n"
+"• Magwata 🦔\r\n"
+"• Telele 🦒\r\n"
+"• Khibidu 🔴\r\n"
+"• Kgolokwe ⚽\r\n"
+"• Sekwere 💾\r\n"
+"• Polasetiki 📏\r\n"
+"\r\n"
+"Fa batho ba babedi ba batla go tsaya selo se le sengwe, akantsha  gore yo mongwe a tseye selo se sengwe."
+

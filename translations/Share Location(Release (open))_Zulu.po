@@ -1,0 +1,60 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 10:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: zul\n"
+
+#f: {'context': 'text', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': 'zWDRyagoRWWW9uGC4KzSpA', 'name': 'Request Location'}, 'report': {'id': 'BiwMoFBZSX2yC88seUNBdQ', 'type': 'MSG'}, 'page': {'id': 'MwCCEG6GT7iBqs8O4jt7gA', 'caption': ''}}
+#f: {'context': 'text', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': 'Tc_XcqHDQxCIuryr3fFnDg', 'name': 'Request Ref Location'}, 'report': {'id': 'tvFVXJ_bQSGIYyCPDXp0kw', 'type': 'MSG'}, 'page': {'id': 'CCXv1x0PQYyJ4qQzTQvZ6w', 'caption': ''}}
+msgid "Please confirm the address of your SmartStart place of work by dropping a pin 📍"
+msgstr "Sicela uqinisekise ikheli lendawo yakho yomsebenzi ye-SmartStart ngokuwisa uphini 📍"
+
+#f: {'context': 'label', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': '3EHJyYKuRfu1baCMM3qzmA', 'name': 'Confirm Address'}, 'report': {'id': 'sJsrht_vRnWEItPIRRtP-Q', 'type': 'MSG'}, 'page': {'id': '-agSbRQURqiyv8f4I-WWSA', 'caption': ''}, 'button': {'id': 'Ah-baNYfTnmScAvey0Zf5Q', 'label': 'Yes'}}
+msgid "Yes"
+msgstr "Yebo"
+
+#f: {'context': 'label', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': '3EHJyYKuRfu1baCMM3qzmA', 'name': 'Confirm Address'}, 'report': {'id': 'sJsrht_vRnWEItPIRRtP-Q', 'type': 'MSG'}, 'page': {'id': '-agSbRQURqiyv8f4I-WWSA', 'caption': ''}, 'button': {'id': 'kv7Av7gZTDCOqkTmEm9R5A', 'label': 'No'}}
+msgid "No"
+msgstr "Cha"
+
+#f: {'context': 'text', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': '3EHJyYKuRfu1baCMM3qzmA', 'name': 'Confirm Address'}, 'report': {'id': 'sJsrht_vRnWEItPIRRtP-Q', 'type': 'MSG'}, 'page': {'id': '-agSbRQURqiyv8f4I-WWSA', 'caption': ''}}
+msgid ""
+"Is this your correct address?\r\n"
+"{{trans.reference_address}}\r\n"
+msgstr "Ingabe leli kheli liyiqiniso?"
+
+#f: {'context': 'text', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': '3wCUPrZKRUab8t5-fGYdng', 'name': 'Thank you'}, 'report': {'id': 'BzuKFWD7TKqqwc3jRsdylQ', 'type': 'MSG'}, 'page': {'id': 'IEWNz304Rz-NyKLGwDtvYg', 'caption': ''}}
+msgid "Thanks! Your location has been added 👍🏾"
+msgstr "Siyabonga! Indawo yakho seyivuselelwe.👍🏾"
+
+#f: {'context': 'text', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': 'ys_D5WA3SA6YDlg8MdUkEQ', 'name': 'Thanks'}, 'report': {'id': 'AH4BOStOT16ioojmSNyYqw', 'type': 'MSG'}, 'page': {'id': '-awDM6ZMTjKfBOru9FvJZg', 'caption': ''}}
+msgid "Thanks! Your location has been updated 👍🏾"
+msgstr "Siyabonga! Indawo yakho seyivuselelwe.👍🏾"
+
+#f: {'context': 'text', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': '0-EIg8KhQlyaCSb-IY1KQw', 'name': 'Please Try again'}, 'report': {'id': '_TnLzhwNQbqeVc6ezoCAHA', 'type': 'MSG'}, 'page': {'id': 'IxK0WJqTRtK1FIhuDFE4cQ', 'caption': ''}}
+#f: {'context': 'text', 'workflow': {'id': '5jpuAlxiSC2qeZd7n-eztw', 'name': 'Share Location'}, 'state': {'id': 'p5I9zlwzQ5msd7a7iUxdag', 'name': 'Try again'}, 'report': {'id': '2G_zwesIQS6CcdEzGZpRsA', 'type': 'MSG'}, 'page': {'id': 'BDkiF3bbTGm24rH84X0AQA', 'caption': ''}}
+msgid ""
+"Please try again.\r\n"
+"\r\n"
+"Tip: It helps to go outside wait until you have a better GPS signal.\r\n"
+"\r\n"
+"Tip: Some places are hard to find, if the address is a regional location like \"Gauteng, South Africa\" it's alright we will store the coordinates."
+msgstr ""
+"Sicela uphinde uzame futhi.\r\n"
+"\r\n"
+"Isu: Kuyasiza ukuphumela phandle bese ulindela ukuthi uze uthole isiginali ye-GPS engcono.\r\n"
+"\r\n"
+"Isu: Ezinye izindawo kulukhuni ukuzithola, uma ikheli kungelendawo esesizindeni njengokuthi \"\"Gauteng, eNingizimu Afrika\"\" kulungile sizoyigcinina imiyalelo yokuyalela indawo."
+

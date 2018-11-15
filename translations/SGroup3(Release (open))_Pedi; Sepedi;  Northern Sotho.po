@@ -1,0 +1,121 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'Enc7k9-7RVq1kBBF7n_GtQ', 'name': 'Start'}, 'report': {'id': '9SdFasfdSTeCM1NQrtyOxg', 'type': 'MSG'}, 'page': {'id': 'xfYB8NmmSJmUNDhxPbRHHw', 'caption': 'On a rainy day, or if you’ve got a very physical Large group activity planned, why not have some Puzzle Fun? 🌧= 🖼'}}
+msgid "On a rainy day, or if you’ve got a very physical Large group activity planned, why not have some Puzzle Fun? 🌧= 🖼"
+msgstr "Ka letšatši la pula, goba ge e ba o beakantše mošomo wo o nyakago maatla kudu wa sehlopha se segolo, le reng le sa be le papadi ya Boipshino ka Marara? 🌧= 🖼"
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'jAqlTtX5TbiKnMzoERk7Fg', 'name': 'What you need'}, 'report': {'id': 'YViyIfLbS7aEfTnQHDfchQ', 'type': 'MSG'}, 'page': {'id': 'q-455HwqRWWz0OkSRNPYEg', 'caption': 'See what you need'}}
+msgid ""
+"You don’t even need to go buy puzzles, all you need is:\r\n"
+"\r\n"
+"1. 3 homemade puzzles made from pictures in magazines (choose pictures \t  that children enjoy).\r\n"
+"2. Ensure that there are some easier puzzles for younger children, but not too easy."
+msgstr ""
+"Ga go hlokege gore o ye go reka marara, tšeo o di hlokago ke:\r\n"
+"\r\n"
+"1. Marara a 3 ao a dirilwego ka gae ka diswantšho tša ka dikgatišobakeng (kgetha diswantšho tšeo bana ba ipshinago ka tšona).\r\n"
+"2. Kgonthiša gore go na le marara a bonolo a bana ba bannyane, eupša e sego a bonolo kudu."
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'vz5UQMfLSYC6YIohGiZjXw', 'name': 'How it works'}, 'report': {'id': 'sD0IYFhpQt22mZLzCbHaGA', 'type': 'MSG'}, 'page': {'id': 'rAHd_tioQqeD-xQ3o2Foxw', 'caption': 'See how it works'}}
+msgid ""
+"Once you have your amazing, custom puzzles you can begin.\r\n"
+"\r\n"
+"1. Choose easier puzzles for young children and give more difficult puzzles to older children.\r\n"
+"2. Give each child a piece of a puzzle.\r\n"
+"3. Ask them to put their pieces down so that everyone can see.\r\n"
+"4. Then give them additional pieces, one by one.\r\n"
+"5. Slowly help them arrange the pieces so that they can make the puzzle.\r\n"
+"6. Talk about the picture.\r\n"
+"7. Repeat with the other puzzles.\r\n"
+"8. If you think they are able, mix up the 3 puzzles and see if they can sort them out, and build the 3 separate puzzles."
+msgstr ""
+"Morago ga gore o be le marara a tlwaelo ao a makatšago, o ka thoma. \r\n"
+"\r\n"
+"1. Kgethela bana ba bannyane marara a bonolo gomme o fe bana ba bagolo marara a bothata kudu.\r\n"
+"2. Efa ngwana yo mongwe le yo mongwe karolo ya lerara.\r\n"
+"3. Ba kgopele go bea dikarolwana tša bona fase gore mang le mang a di bone.\r\n"
+"4. Morago ga moo, ba fe dikarolwana tša tlaleletšo, ka e tee ka e tee.\r\n"
+"5. Ba thuše go beakanya dikarolwana ka go iketla gore ba kgone go dira marara.\r\n"
+"6. Bolela mabapi le seswantšho.\r\n"
+"7. Bušeletša ka go dira marara a mangwe.\r\n"
+"8. Ge o lemogile gore ba a kgona, hlakanya marara a 3 gomme o bone ge e ba ba ka a hlopha, le go aga marara a 3 a go fapafapana."
+
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': '-3G97jdAQO6otStqDvO4Ow', 'name': 'Skills developed'}, 'report': {'id': 'vCX2Z8kiSROwD2YtvTnnNA', 'type': 'MSG'}, 'page': {'id': 'bTWcUPD0QNanRPkxYylFoQ', 'caption': 'This game develops:'}, 'button': {'id': 'p385KnseQ-KawyaUlvQFqg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'jAqlTtX5TbiKnMzoERk7Fg', 'name': 'What you need'}, 'report': {'id': 'YViyIfLbS7aEfTnQHDfchQ', 'type': 'MSG'}, 'page': {'id': 'q-455HwqRWWz0OkSRNPYEg', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se hlokago"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'vz5UQMfLSYC6YIohGiZjXw', 'name': 'How it works'}, 'report': {'id': 'sD0IYFhpQt22mZLzCbHaGA', 'type': 'MSG'}, 'page': {'id': 'rAHd_tioQqeD-xQ3o2Foxw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'jAqlTtX5TbiKnMzoERk7Fg', 'name': 'What you need'}, 'report': {'id': 'YViyIfLbS7aEfTnQHDfchQ', 'type': 'MSG'}, 'page': {'id': 'q-455HwqRWWz0OkSRNPYEg', 'caption': 'See what you need'}, 'button': {'id': 'g-uVae_ERL2cOgTVONcseg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ka moo e šomago ka gona"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'AWFW8PsjRiGVPXl_XCGJnQ', 'name': 'Extra notes'}, 'report': {'id': 'KWR4H0dhTUqeTbiAO8Lw3Q', 'type': 'MSG'}, 'page': {'id': 'p1-fJUj8T7W_S2uJIfl5aA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'vz5UQMfLSYC6YIohGiZjXw', 'name': 'How it works'}, 'report': {'id': 'sD0IYFhpQt22mZLzCbHaGA', 'type': 'MSG'}, 'page': {'id': 'rAHd_tioQqeD-xQ3o2Foxw', 'caption': 'See how it works'}, 'button': {'id': '9-J_DfdRQNqZZj0XALgt3Q', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutse"
+
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'AWFW8PsjRiGVPXl_XCGJnQ', 'name': 'Extra notes'}, 'report': {'id': 'KWR4H0dhTUqeTbiAO8Lw3Q', 'type': 'MSG'}, 'page': {'id': 'p1-fJUj8T7W_S2uJIfl5aA', 'caption': 'Read the notes'}, 'button': {'id': 'jBz4ACjeQ2OhsCpIzGVUQw', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Re boela morago go menyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': '-3G97jdAQO6otStqDvO4Ow', 'name': 'Skills developed'}, 'report': {'id': 'vCX2Z8kiSROwD2YtvTnnNA', 'type': 'MSG'}, 'page': {'id': 'bTWcUPD0QNanRPkxYylFoQ', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ye e kaonafatša:"
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': '-3G97jdAQO6otStqDvO4Ow', 'name': 'Skills developed'}, 'report': {'id': 'vCX2Z8kiSROwD2YtvTnnNA', 'type': 'MSG'}, 'page': {'id': 'bTWcUPD0QNanRPkxYylFoQ', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Exploring & Finding out\r\n"
+"✔️Skills for Learning"
+msgstr ""
+"✔️Go nyankolla le go utolla\r\n"
+"✔️Bokgoni bja go ithuta"
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'AWFW8PsjRiGVPXl_XCGJnQ', 'name': 'Extra notes'}, 'report': {'id': 'KWR4H0dhTUqeTbiAO8Lw3Q', 'type': 'MSG'}, 'page': {'id': 'p1-fJUj8T7W_S2uJIfl5aA', 'caption': 'Read the notes'}}
+msgid ""
+"And because this game is to help develop the children’s thinking skills, ask some questions along the way.\r\n"
+"\r\n"
+"For the easier puzzles: \r\n"
+"• What do you think this picture is?\r\n"
+"• Where do you think this piece goes?\r\n"
+"\r\n"
+"While putting the puzzle together:\r\n"
+"• Tell me about this picture?\r\n"
+"• What can you see?\r\n"
+"• Is this an edge or a middle piece?\r\n"
+"\r\n"
+"If you mix all three puzzles:\r\n"
+"• What happens if we mix up the puzzles?\r\n"
+"• Who has this piece?"
+msgstr ""
+"Ka lebaka la gore papadi e nepile go thuša go kaonafatša bokgoni bja bana bja go nagana, ba botšiše dipotšišo ge ba tsene fase ka mošomo.\r\n"
+"\r\n"
+"Go marara a bonolo: \r\n"
+"• O nagana gore seswantšho se se bolela ka eng?\r\n"
+"• O nagana gore karolwana ye e tsena kae?\r\n"
+"\r\n"
+"Ge o le gare o bopa marara:\r\n"
+"• O ka mpotša eng mabapi le seswantšho se?\r\n"
+"• Naa o bona eng?\r\n"
+"• Naa karolo ye e tsena morumong goba bogareng?\r\n"
+"\r\n"
+"Ge o hlakanya marara ka moka a mararo:\r\n"
+"• Naa go direga eng ge re hlakanya marara?\r\n"
+"• Ke mang yo a nago le karolwana ye?"
+

@@ -1,0 +1,143 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}}
+msgid ""
+"Need some inspiration? Keep the game going with questions like these:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• Look around and choose an item that everyone can see.\r\n"
+"• Don’t tell the others what it is.\r\n"
+"• Then say “I spy with my little eye, something that is green.”\r\n"
+"• Let the children guess what it is by calling out all the green things they see.\r\n"
+"• Try not to make it too difficult.\r\n"
+"\r\n"
+"Level 2\r\n"
+"• Then say “I spy with my little eye, something beginning with ‘w’.”\r\n"
+"• Use the sound “w”, not the letter.\r\n"
+"• Let the kids guess the item.\r\n"
+"• Give each child a turn to take a guess.\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Then say “I spy with my little eye, something beginning with ‘ch’.”\r\n"
+"• Use the sound “ch”, not the letter.\r\n"
+"• Let the kids guess the item.\r\n"
+"• Give each child a turn to take a guess.\r\n"
+"\r\n"
+msgstr ""
+"U lava nhlohlotelo? Yisa ntlangu emahlweni hi swivutiso swo fana na leswi:\r\n"
+"\r\n"
+"Levhele ya 1\r\n"
+"• Valanga hinkwakonkwako u hlawula ayitheme leyi va yi vonaka hinkwavo.\r\n"
+"• U nga va byeli lavan’wana leswaku i yini.\r\n"
+"• Kutani u ku “Ndza hlola hi swimahlwana swa mina, xanchumu xa rihlaza.”\r\n"
+"• Endla leswaku vana va bvumba leswaku i yini hi ku vula swilo hinkwaswo swa rihlaza leswi va swi vonaka.\r\n"
+"• Ringeta ku endla leswaku swi olova.\r\n"
+"\r\n"
+"Levhele ya 2\r\n"
+"• Kutani u ku “Ndza hlola hi swimahlwana swa mina, xin’wana lexi sungulaka hi ‘w’.”\r\n"
+"• Tirhisa mpfumawulo “w”, ku nga ri letere.\r\n"
+"• Endla leswaku vana va bvumba ayitheme.\r\n"
+"• Nyika n’wana un’wana na un’wana nkarhi wo bvumba.\r\n"
+"\r\n"
+"Levhele ya 3\r\n"
+"• Kutani u ku “Ndzi hlola hi xitihlwana xa mina, xin’wana lexi sungulaka hi ‘ch’.”\r\n"
+"• Tirhisa mpfumawulo “ch”, ku nga ri letere.\r\n"
+"• Endla leswaku vana va bvumba ayitheme.\r\n"
+"• Nyika n’wana un’wana na un’wana nkarhi wo bvumba."
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}}
+msgid ""
+"We’re taking I Spy to the next level with some eye glasses. Here’s what you’ll need 👓:\r\n"
+"• 2 used toilet rolls per child.\r\n"
+"• String.\r\n"
+"• Scissors.\r\n"
+"• 2 sticks per child.\r\n"
+"• Cellotape.\r\n"
+msgstr ""
+"Hi hundzisela Ndza Hlola eka levhele yin’wana hi manghilazi ya mahlo. Hi leswi leswi u nga ta swi lava 👓:\r\n"
+"\r\n"
+"• Tirholo ta le thoyilete ti 2 leti nga tirhisiwa hi n’wana  \r\n"
+"• Ntambu\r\n"
+"• Xikero\r\n"
+"• Swimhandzana swi 2 hi n’wana  \r\n"
+"• Thepi yo damarhela"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}, 'button': {'id': 'jF2ukqmrTtWc9741rO1llQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}, 'button': {'id': 'U-ibfIN3SDWjVTXDG5a2Hg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}}
+msgid ""
+"You’ll be showing these cool kids how to make a pair of glasses.😎\r\n"
+"\r\n"
+"1. Cut the toilet roll into 2 rings and tie them together to make glasses\r\n"
+"2. Attach the sticks to the sides of the glasses to make the ‘arms’ of the glasses.\r\n"
+"3. Support the younger kids.\r\n"
+"4. Encourage the older ones to this on their own.\r\n"
+"5. Ask the children to put their glasses on and talk about what glasses do.\r\n"
+"6. Play I Spy: Find something in the room that everyone can see, for example, a table.\r\n"
+"7. Say: “I Spy with my little eye, something beginning with ‘t’ (sound)”\r\n"
+"8. Let each child have a turn guessing.\r\n"
+"9. Walk around the room and tell them what you see through your glasses.\r\n"
+"10. Get them to walk with you, glasses on!\r\n"
+msgstr ""
+"U ta komba vana lava va kahle maendlelo ya phere ya manghilazi ya mahlo. 😎\r\n"
+"\r\n"
+"1. Tsema rholo ya le thoyilete yi va tiringi ti 2 na ku tiboha xikan’we ti endla manghilazi.\r\n"
+"2. Khomisa swimhandzana ematlhelo ka manghilazi ku endla ‘mavoko’ ya manghilazi.\r\n"
+"3. Nyika vana lavantosngo nseketelo.\r\n"
+"4. Khutaza lavakulu ku va tiendlela ha voxe.\r\n"
+"5. Byela vana ku mbala manghilazi ya vona na ku vulavula hi leswi manghilazi ma endlaka swona.\r\n"
+"6. Tlanga Ndza Hlola: Kuma xanchumu ekamareni lexi va xi vonaka hinkwavo, xikombiso, tafula.\r\n"
+"7. U nge: “Ndza Hlola hi swimahlwana swa mina, xin’wana lexi sungulaka hi ‘t’ (mpfumawulo)”\r\n"
+"8. Endla leswaku n’wana un’wana na un’wana a kuma nkarhi wo bvumba.\r\n"
+"9. Rhendzeleka na kamara na ku va byela leswi u swi vonaka hi manghilazi ya wena.\r\n"
+"10. Endla leswaku va vulavula na wena, mbala manghilazi!"
+
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}, 'button': {'id': 'kTfYyGdGTqiNGc-K58FUYg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}, 'button': {'id': 'fZG_NPWVQhS_B3nGtnHuoQ', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'qAj4_S_OTmyrRvPu5Fieow', 'name': 'Start'}, 'report': {'id': 'EyRB-WceRHyXm0L4tGl2cA', 'type': 'MSG'}, 'page': {'id': '4s_6m2keRL-5ILewiJwFEg', 'caption': ' We put a spin on the classic game, I Spy. 🔍'}}
+msgid " We put a spin on the classic game, I Spy. 🔍"
+msgstr "Hi cince kantsongo ntlangu wa xiyimo xa le henhla, Ndza Hlola. 🔍"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Early Reading & Writing\r\n"
+msgstr ""
+"✔️Vumunhu\r\n"
+"✔️Ku hlaya ka masungulo na ku tsala"
+

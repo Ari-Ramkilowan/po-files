@@ -1,0 +1,119 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'sKzYl0mBQqa3LyuyqHl2_g', 'name': 'Start'}, 'report': {'id': 'GaPDxUY6TIulxGyjkSgd2w', 'type': 'MSG'}, 'page': {'id': 'dwL3ziirQWuiv2g1AhBW-A', 'caption': 'If the children haven’t tried Pass the Cube yet, now could be the perfect time! ⏰'}}
+msgid "If the children haven’t tried Pass the Cube yet, now could be the perfect time! ⏰"
+msgstr "Loko vana va nga se ringeta Hundzisa Khubu, sweswi wu nga va nkarhi wa kahle! ⏰"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}, 'button': {'id': 'Rd9L5im2TImHPhAGMpHU7A', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}, 'button': {'id': '9u9X6B-iTyKq6TPMt8T2Ug', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}, 'button': {'id': 'L2qLLAReQtGOGKB_0DCRkQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}, 'button': {'id': 'qGupzHmiSUO07hngI8KgSw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Walking & Moving\r\n"
+"✔️Arm & Hand Control\r\n"
+msgstr ""
+"✔️Ku famba na ku fambafamba\r\n"
+"✔️Ku lawula voko na xandla"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}}
+msgid ""
+"There’s only one item on the list! You’ll need:\r\n"
+"1. LEGO blocks\r\n"
+msgstr ""
+"Ku na ayitheme yin’we ntsena eka nxaxamelo lowu! U ta lava:\r\n"
+"1. Tibuloko ta LEGO"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}}
+msgid ""
+"Take the learning to the next level by getting the children to multitask and asking them some questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What are all the ways we can pass the cube?\r\n"
+"• Who has any other ideas on how we could pass the cube? (Eg, through their legs, under their arms, they could skip a person, etc.)\r\n"
+"\r\n"
+"Level 2\r\n"
+"Here’s an example of rhyme you could sing:\r\n"
+"This is the way we pass the cube\r\n"
+"Through our legs, through our legs\r\n"
+"This is the way we pass the cube \r\n"
+"On a sunny Monday morning…\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Ask the older children to come up with ideas as to how to pass the cube next. (Eg, over their head, with a sound, with a jump, etc.)\r\n"
+"\r\n"
+msgstr ""
+"Hundzisela ku dyondza eka levhele leyi landzelaka hi ku endla leswaku vana va endla mitirho yo tala hi nkarhi wun’we na ku va vutisa swivutiso swo karhi:\r\n"
+"\r\n"
+"Levhele ya 1\r\n"
+"• Xana hi tihi tindlela hinkwato leti hi nga hundzisaka khubu ha tona?\r\n"
+"• Xana i mani a nga na mianakanyo yin’wana ya ndlela leyi hi nga hundzisaka khubu hayona? (Xikombiso, hi milenge ya vona, ehansi ka mavoko ya vona, va nga tlula munhu, na swin’wana.)\r\n"
+"\r\n"
+"Levhele ya 2\r\n"
+"Hi lexi xikombiso xa rhayimi leyi u nga yi yimbelelaka:\r\n"
+"Leyi i ndlela leyi hi hundzisaka khubu\r\n"
+"Hi le milengeni ya hina, hi le milengeni ya hina\r\n"
+"Leyi i ndlela leyi hi hundzisaka khubu \r\n"
+"Nimixo wa Musumbunuku lowu dyambu ri nga pfuleka…\r\n"
+"\r\n"
+"Levhele ya 3\r\n"
+"• Byela vana lavakulu ku ta na mianakanyo ya ndlela leyi landzelaka yo hundzisa khubu. (xikombiso, hi le henhla ka tinhloko, hi mpfumawulo, hi ku tlula, na swin’wana.)"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}}
+msgid ""
+"Take this chance to teach the children about teamwork. \r\n"
+"\r\n"
+"1. Together, use six blocks of Duplo LEGO to build a cube. It should be the right size for children to hold in one hand.\r\n"
+"2. Get the children to sit in a circle or stand in a line, and pass it from one to another.\r\n"
+"3. Tell them to change direction and pass the cube the other way.\r\n"
+"4. Ask them to pass it with one hand.\r\n"
+"5. You can then ask them to pass it with the other hand.\r\n"
+"6. Ask the children to pass the cube with their eyes closed.\r\n"
+"7. They can then pass it over their heads.\r\n"
+"8. You can also sing a little rhyme to go with your actions.\r\n"
+msgstr ""
+"Teka nkarhi lowu ku dyondzisa vana hi ku tirhisana va ri ntlawa. \r\n"
+"\r\n"
+"1. Mi ri swin’we, tirhisani tsevu wa tibuloko ta DUPLO LEGO ku aka khubu. Yi fanele ku va ya sayizi leyi lulameke ku va vana va yi khoma hi voko rin’we.\r\n"
+"2. Endla leswaku vana va tshama hi sekele kumbe va yima hi layeni, na ku yi hundzisa ku suka eka un’wana ku ya eka un’wana.\r\n"
+"3. Va byele leswaku va cinca matlhelo na ku hundza khubu hi tlhelo lerin’wana.\r\n"
+"4. Va byeli leswaku va yi hundzisa hi voko lerin’wana.\r\n"
+"5. Byela vana va hundzisa khubu va pfale mahlo.\r\n"
+"6. Kutani ke va nga yi hundzisa hi le henhla ka tinhloko ta vona.\r\n"
+"7. U nga tlhela u yimbelela rhayimi ku fambisana na leswi u swi endlaka."
+

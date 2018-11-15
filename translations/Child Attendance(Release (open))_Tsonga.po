@@ -1,0 +1,113 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'xTEYcO8xRFGL-mqkx8AgCA', 'name': 'Thanks'}, 'report': {'id': 'AkOsmMFbSwCDVwhYdbMkHg', 'type': 'MSG'}, 'page': {'id': 'PRTFbK_RSJiEMQV0ksqX4w', 'caption': ''}}
+msgid "Thanks, attendance list updated :)"
+msgstr "Ndza nkhensa, xaxamelo wa matelo wu pfuxetiwile :)"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'GFOxC24ITO69iM5KvVWCMA', 'name': 'Save document id'}, 'report': {'id': 'CkJtEKeLQ3WWecQxjDzHwg', 'type': 'MSG'}, 'page': {'id': 'mFVdsRhqRaamotWyZgtb2w', 'caption': ''}}
+msgid "Thanks we received your upload!"
+msgstr "Ndza Nnkhensa, hi yi kumile apulodi ya wena!"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'V-WbRIHdT5Gz29zdf_Roag', 'name': 'Input absent children'}, 'report': {'id': 'sxnmBZ2vQs6X6rfUUywCuA', 'type': 'MSG'}, 'page': {'id': '7n7Mhq1YSDWJVgbBPOCiBw', 'caption': "{{ trans.current_date_capitalize }}'s attendance list"}}
+#f: {'context': 'caption', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': '70UIphgHSS2xd8hnd83hhg', 'name': 'No one absent'}, 'report': {'id': 'Arq269KCR_CNtaBbB8MM_g', 'type': 'MSG'}, 'page': {'id': 'tuhCSf48Q2GgaCfzrs6WOA', 'caption': "{{ trans.current_date_capitalize }}'s attendance list"}}
+msgid "{{ trans.current_date_capitalize }}'s attendance list"
+msgstr ""
+"{{ trans.current_date_capitalize }}'s \r\n"
+"Nxaxamelo wa matelo"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'igjLZNsfQ-6PQoEZNUOimg', 'name': 'Bad input message'}, 'report': {'id': 'cCwx-EnTS-Cg1a9QJAEr_w', 'type': 'MSG'}, 'page': {'id': 'NM_H0MaYTJiK_aWL_PkUlg', 'caption': ''}}
+msgid "I'm sorry, I don't understand you. Please try again - remember to list the numbers of all the children who were absent. eg 1, 2, 5."
+msgstr "Ndzi kombela ku khomeriwa, A ndzi ku twisisi. U komberiwa ku ringeta nakambe - tsundzuka ku xaxameta tinomboro ta vana hinkwavo lava a va nga ri kona. 1, 2, 5"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'LXnNg4QmQZO1XFVbvVVfeQ', 'name': 'Is a child attendance document needed?'}, 'report': {'id': 'ThtX23WtRdqOyhPzJx5KuA', 'type': 'MSG'}, 'page': {'id': 'cFG6j7llSSGbVmdI_zjW5w', 'caption': 'Would you like to upload a child attendance document?'}}
+msgid "Would you like to upload a child attendance document?"
+msgstr "Xana u lava ku apuloda tsalwa ra matelo ya n'wana?"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'fWIHfoWgTcihQUuXrTy__Q', 'name': 'Error'}, 'report': {'id': '7YsGN8u7TuqWakjkdE5w2Q', 'type': 'MSG'}, 'page': {'id': 'FgSUhZohT0aFfWS7Gxqvyg', 'caption': ''}}
+msgid "I'm sorry something went wrong there, please try again."
+msgstr "Ndzi khomele swin'wana a swi fambanga kahle, u komberiwa ku ringeta nakambe."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': '70UIphgHSS2xd8hnd83hhg', 'name': 'No one absent'}, 'report': {'id': 'Arq269KCR_CNtaBbB8MM_g', 'type': 'MSG'}, 'page': {'id': 'tuhCSf48Q2GgaCfzrs6WOA', 'caption': "{{ trans.current_date_capitalize }}'s attendance list"}}
+msgid ""
+"{{ trans.children }}\r\n"
+"\r\n"
+"Status: :heavy_check_mark:present ,:x:absent\r\n"
+"\r\n"
+"Glad everyone was there today 👍🏾"
+msgstr ""
+"{{ trans.children }} Xiteyitasi:\r\n"
+":heavy_check_mark:u kona ,:x:a nga kona\r\n"
+"Ndzi tsakile hikuva hinkwavo a va ri kona namuntlha👍🏾"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'LXnNg4QmQZO1XFVbvVVfeQ', 'name': 'Is a child attendance document needed?'}, 'report': {'id': 'ThtX23WtRdqOyhPzJx5KuA', 'type': 'MSG'}, 'page': {'id': 'cFG6j7llSSGbVmdI_zjW5w', 'caption': 'Would you like to upload a child attendance document?'}, 'button': {'id': 'lS8SRBFxR4WI16RSzDn6cg', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'kI3wJovrS_WW5k5rxDnPqw', 'name': 'No Attendance registers'}, 'report': {'id': 'dU5VBTg3QG6c2QMt2J6vpw', 'type': 'MSG'}, 'page': {'id': 'X3Ah5R8WRNuVNnfLMXRorg', 'caption': ''}, 'button': {'id': '2HxlgeqeScqYI8qE9PCCiA', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'y0R7c7PoQQuNurlicVU56g', 'name': 'Ask to change past attendance'}, 'report': {'id': 'yVRYohrZRzGSFX8seFMezg', 'type': 'MSG'}, 'page': {'id': 'tq_i-8IuR8Gn3yn_p8nS4g', 'caption': ''}, 'button': {'id': 'VO7rrWPxSVKXsWWkb8Y2hg', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'qr4MO-iMS9-nfIfzA9FAYw', 'name': 'Input today attendance'}, 'report': {'id': 'FD0Nb6FHRbeQ2a7PgUsG5w', 'type': 'MSG'}, 'page': {'id': 'mqpoN7vpRVS3teS7FVXPbg', 'caption': 'Were all the children present today ?'}, 'button': {'id': 'h6yLG4QCQDWS448vvJTiYQ', 'label': 'Yes'}}
+msgid "Yes"
+msgstr "Ina"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'LXnNg4QmQZO1XFVbvVVfeQ', 'name': 'Is a child attendance document needed?'}, 'report': {'id': 'ThtX23WtRdqOyhPzJx5KuA', 'type': 'MSG'}, 'page': {'id': 'cFG6j7llSSGbVmdI_zjW5w', 'caption': 'Would you like to upload a child attendance document?'}, 'button': {'id': 'VvuQuHheQ1OjEsW0ATiU7A', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'y0R7c7PoQQuNurlicVU56g', 'name': 'Ask to change past attendance'}, 'report': {'id': 'yVRYohrZRzGSFX8seFMezg', 'type': 'MSG'}, 'page': {'id': 'tq_i-8IuR8Gn3yn_p8nS4g', 'caption': ''}, 'button': {'id': '4CVGr75lTuiCwpP5rNLKjg', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'qr4MO-iMS9-nfIfzA9FAYw', 'name': 'Input today attendance'}, 'report': {'id': 'FD0Nb6FHRbeQ2a7PgUsG5w', 'type': 'MSG'}, 'page': {'id': 'mqpoN7vpRVS3teS7FVXPbg', 'caption': 'Were all the children present today ?'}, 'button': {'id': 'XUWV4KhQQFehbpIkcikDXw', 'label': 'No'}}
+msgid "No"
+msgstr "E-e"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'V-WbRIHdT5Gz29zdf_Roag', 'name': 'Input absent children'}, 'report': {'id': 'bHGqeEVVTIyUP8Qp_nMBNw', 'type': 'MSG'}, 'page': {'id': '3F_4Do3-SleFuTTCNDlnFg', 'caption': ''}}
+msgid "Please list the numbers of all the children who were absent. eg 1, 2, 5."
+msgstr "U komberiwa ku xaxameta tinomboro ta vana hinkwavo lava a va nga ri kona. Xikombiso1, 2, 5"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'eXWUcarfQD6R0MVKZz6oeg', 'name': 'Request child attendance document?'}, 'report': {'id': 'Oo_aeAjHR7mEZ19xAUq8Yw', 'type': 'MSG'}, 'page': {'id': 'm-m6OG_6QUqnNhIa-kCmAg', 'caption': 'Please upload a photograph of your child attendance register:'}}
+msgid "Please upload a photograph of your child attendance register:"
+msgstr "U komberiwa ku apuloda xifaniso xa rhijisitara ra matelo ya n'wana wa wena."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'UolXayzWQceuzLGSaekXAQ', 'name': 'Timeout Error'}, 'report': {'id': 'V0o5LnpCS0ezWwuKcWd9Vw', 'type': 'MSG'}, 'page': {'id': 'ngAS41FYQeyhtYlQADt53g', 'caption': ''}}
+msgid "Sorry something went wrong, please retry."
+msgstr "Ndzi khomele swin'wana a swi fambanga kahle, u komberiwa ku ringeta nakambe."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'kI3wJovrS_WW5k5rxDnPqw', 'name': 'No Attendance registers'}, 'report': {'id': 'dU5VBTg3QG6c2QMt2J6vpw', 'type': 'MSG'}, 'page': {'id': 'X3Ah5R8WRNuVNnfLMXRorg', 'caption': ''}}
+msgid ""
+"Sorry we were unable to find any child attendance registers linked to your account, please contact SmartStart.\r\n"
+"Please phone our hotline on 0606536058.\r\n"
+"\r\n"
+"Would you like to go back to the menu?"
+msgstr "Ndzi khomele a hi kotaka ku kuma rhijisitara ro matelo ya vana leri fambelanaka na akhawunti ya wena, u komberiwa ku tihlanganisa na Ku Sungula ka Vutlhari."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'y0R7c7PoQQuNurlicVU56g', 'name': 'Ask to change past attendance'}, 'report': {'id': 'yVRYohrZRzGSFX8seFMezg', 'type': 'MSG'}, 'page': {'id': 'tq_i-8IuR8Gn3yn_p8nS4g', 'caption': ''}}
+msgid "Your attendance register from {{trans.current_date}} is incomplete, would you like to update it now?"
+msgstr ""
+"Rhijisitara ra wena ra matelo kusukela \r\n"
+"ri herilerile {{trans.current_date}} xana u nga tsakela ku ri pfuxeta sweswi?"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'V-WbRIHdT5Gz29zdf_Roag', 'name': 'Input absent children'}, 'report': {'id': 'sxnmBZ2vQs6X6rfUUywCuA', 'type': 'MSG'}, 'page': {'id': '7n7Mhq1YSDWJVgbBPOCiBw', 'caption': "{{ trans.current_date_capitalize }}'s attendance list"}}
+msgid ""
+"{{ trans.children }}\r\n"
+"\r\n"
+"Status: :heavy_check_mark:present ,:x:absent"
+msgstr ""
+"{{ trans.children }} Xiteyitasi:\r\n"
+":heavy_check_mark:u kona ,:x:a nga kona"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'qr4MO-iMS9-nfIfzA9FAYw', 'name': 'Input today attendance'}, 'report': {'id': 'FD0Nb6FHRbeQ2a7PgUsG5w', 'type': 'MSG'}, 'page': {'id': 'mqpoN7vpRVS3teS7FVXPbg', 'caption': 'Were all the children present today ?'}}
+msgid "Were all the children present today ?"
+msgstr "Ingabe zonke izingane bezikhona namhlanje?"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZTokMsKQRP-6xojMrMzeRA', 'name': 'Child Attendance'}, 'state': {'id': 'xzq_PP71T2u70GzmUbiITQ', 'name': "It's Sunday"}, 'report': {'id': 'CjVtqD1vSCKn9eCQAE7Fsw', 'type': 'MSG'}, 'page': {'id': 'VLmAGBXwRyGho5NKpzcVzQ', 'caption': ''}}
+msgid "It's Sunday, please note attendance registers will be available from tomorrow again!"
+msgstr "I Sonto, u komberiwa ku lemuka leswaku rhijisitara ra matelo ri ta tlhela  ri va kona nakambe kusukela mundzuku!"
+

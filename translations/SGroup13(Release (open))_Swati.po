@@ -1,0 +1,135 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: ssw\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'KZSWSnEuSj2uFQ9QlTqYeQ', 'name': 'Extra notes'}, 'report': {'id': 'ZbAirEIBSmSeSWe0CeL6ZA', 'type': 'MSG'}, 'page': {'id': 'OaRZA4zkQd2xogDhUtv2Vg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '6ha_88moTzeC-WOGSMv3Fw', 'name': 'How it works'}, 'report': {'id': 'l72zsBoCSPykB_U4Ri5JLg', 'type': 'MSG'}, 'page': {'id': '-uBMfr_bTS-fsiiuunT3uw', 'caption': 'See how it works'}, 'button': {'id': 'u6B9MdYXTmm1ygqWAnNxyw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Fundza emanotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'tIRyBmKBQaGrXEHts34ISQ', 'name': 'Skills developed'}, 'report': {'id': 'jFSoWiJ9QIyVr0FYAICOiw', 'type': 'MSG'}, 'page': {'id': 'YnbNtpEkRwKLvxIQEwf_Fw', 'caption': 'This game develops:'}, 'button': {'id': 'aG3LWMT6ToOmRZQK7g2n5Q', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'eJaEsD7XRWmPwlskT7F21A', 'name': 'What you need'}, 'report': {'id': 'CxJuFWIlRMGXATMJhFqpfQ', 'type': 'MSG'}, 'page': {'id': 'SCtW-xo-SG-TDEF6RKkchQ', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Buka kutsi yini loyidzingako"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '6ha_88moTzeC-WOGSMv3Fw', 'name': 'How it works'}, 'report': {'id': 'l72zsBoCSPykB_U4Ri5JLg', 'type': 'MSG'}, 'page': {'id': '-uBMfr_bTS-fsiiuunT3uw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'eJaEsD7XRWmPwlskT7F21A', 'name': 'What you need'}, 'report': {'id': 'CxJuFWIlRMGXATMJhFqpfQ', 'type': 'MSG'}, 'page': {'id': 'SCtW-xo-SG-TDEF6RKkchQ', 'caption': 'See what you need'}, 'button': {'id': 'yt6OO_1JSAmKa5pJL1priQ', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Buka kutsi isebenta njani"
+
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'KZSWSnEuSj2uFQ9QlTqYeQ', 'name': 'Extra notes'}, 'report': {'id': 'ZbAirEIBSmSeSWe0CeL6ZA', 'type': 'MSG'}, 'page': {'id': 'OaRZA4zkQd2xogDhUtv2Vg', 'caption': 'Read the notes'}, 'button': {'id': 'nLHh1p_USICg5ckrT3O6_A', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela emuva kumenyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '6ha_88moTzeC-WOGSMv3Fw', 'name': 'How it works'}, 'report': {'id': 'l72zsBoCSPykB_U4Ri5JLg', 'type': 'MSG'}, 'page': {'id': '-uBMfr_bTS-fsiiuunT3uw', 'caption': 'See how it works'}}
+msgid ""
+"Make sure the children don’t get too excited and take a bite out of their playdough! 🤢\r\n"
+"\r\n"
+"1. Tell the children that they’re going to make an ice cream.\r\n"
+"2. Talk about ice creams.\r\n"
+"3. Show them how to roll the play dough into long, thin sausages, and then roll them round and round, making a circle.\r\n"
+"4. Put a stick in to make an ice cream.\r\n"
+"5. Show them the other kinds of ice creams you can make by rolling balls and decorating them.\r\n"
+"6. Have fun, ask questions, and talk to help the children learn more as they play.\r\n"
+"7. Set up an ice cream shop to sell the ice creams.\r\n"
+"8. Put up pictures of the different kinds of flavours there are.\r\n"
+"9. Sing a rhyme about ice cream if you want to.\r\n"
+"\r\n"
+"RHYME: I scream, you scream, we ALL scream for ice cream!\r\n"
+msgstr ""
+"Cinisekisa kwekutsi labantfwana abajabuli ngalokundlulele bese baluma loludzaka lwabo lwekudlala! 🤢\r\n"
+"\r\n"
+"1. Tjela labantfwana kwekutsi batawakha i-ayisikhrimu.\r\n"
+"2. Khuluma ngema ayisikhrimu.\r\n"
+"3. Bakhombise kwekutsi loludzaka lwekudlala balugicita njani lube ludze, lufane nemasoseji lancama, bese uyalugocotela, wente indlingilizi.  \r\n"
+"4. Faka lutsi kute kutsi wente i-ayiskhrimu.\r\n"
+"5. Bakhombise letinye tinhlobo te-ayisikhrimu longatenta ngekutsi ugoce emabhole bese uyawahlobisa.  \r\n"
+"6. Tijabulise, buta imibuto, bese uyakhuluma kusita labantfwana bafundze kabanti ngalesikhatsi badlala.  \r\n"
+"7. Lungiselela sitolo lesitawutsengisa i-ayisikhrimu.  \r\n"
+"8. Beka titfombe letinetinhlobo letihlukene.  \r\n"
+"9. Cula silandzelo lesiphatselene ne ayisikhrimu uma utsandza. \r\n"
+"\r\n"
+"SILANDZELO: Ngiyamemeta, uyamemeta, SONKHE siyamemeta sifuna i-ayisikhrimu!"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'KZSWSnEuSj2uFQ9QlTqYeQ', 'name': 'Extra notes'}, 'report': {'id': 'ZbAirEIBSmSeSWe0CeL6ZA', 'type': 'MSG'}, 'page': {'id': 'OaRZA4zkQd2xogDhUtv2Vg', 'caption': 'Read the notes'}}
+msgid ""
+"Ask the children some questions to help their imaginations run wild.\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What ice creams do you like?\r\n"
+"• When do you eat them?\r\n"
+"• How do you feel when you have an ice cream?\r\n"
+"• What colour are you going to make?\r\n"
+"• What shape do you like?\r\n"
+"• Etc.\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What flavour are your ice creams?\r\n"
+"• How many do we have now?\r\n"
+"• Should we set up and ice cream shop?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• How much do your ice creams cost?\r\n"
+"• I only have this amount of money. Do I need change?\r\n"
+msgstr ""
+"Buta bantfwana imibuto kubasita bacabange ngalokujulile.  \r\n"
+"\r\n"
+"Lizinga1\r\n"
+"• Utsandza waphi ema-ayisikhrimu?\r\n"
+"• Uyidla nini?\r\n"
+"• Utiva njani uma udla i-ayisikhrimu?\r\n"
+"• Utawenta lenembala lonjani?\r\n"
+"• Utsandza lebumbeke njani?\r\n"
+"• Njll.\r\n"
+"\r\n"
+"Lizinga2\r\n"
+"• Ema-ayisikhrimu akho anguyiphi imihlobo?\r\n"
+"• Sinamangaki nyalo?\r\n"
+"• Singalungisa sitolo sema-ayiskhrimu?\r\n"
+"\r\n"
+"Lizinga3\r\n"
+"• I-ayiskhrimu yakho ibita malini?\r\n"
+"• Nyalo nginalemali lena kuphela. Ngabe ngidzinga intjintji?"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'tIRyBmKBQaGrXEHts34ISQ', 'name': 'Skills developed'}, 'report': {'id': 'jFSoWiJ9QIyVr0FYAICOiw', 'type': 'MSG'}, 'page': {'id': 'YnbNtpEkRwKLvxIQEwf_Fw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Talking & Understanding\r\n"
+"✔️Arm & hand control"
+msgstr ""
+"✔️Kukhuluma nekuvisisa\r\n"
+"✔️Kulawula sandla nemkhono"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '7RrXiZVXRpmLKp42e_IDZw', 'name': 'Start'}, 'report': {'id': 'Ms1WVrLrSpK5L1xpuDgwsQ', 'type': 'MSG'}, 'page': {'id': 'KCXdkJ1qSRWP4_LA9fRqBg', 'caption': 'This is a great game to play during summer, and the good news is that these Playdough Ice Creams won’t melt. 🍦'}}
+msgid "This is a great game to play during summer, and the good news is that these Playdough Ice Creams won’t melt. 🍦"
+msgstr "Lona ngumdlalo lomnandzi wekuwudlala ehlobo, lokuhle ngawo kwekutsi loludzaka lwekudlala lolusama ayisikhrimu angeke luncitsike.  🍦"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'eJaEsD7XRWmPwlskT7F21A', 'name': 'What you need'}, 'report': {'id': 'CxJuFWIlRMGXATMJhFqpfQ', 'type': 'MSG'}, 'page': {'id': 'SCtW-xo-SG-TDEF6RKkchQ', 'caption': 'See what you need'}}
+msgid ""
+"This one is super simple! All that’s needed is:\r\n"
+"\r\n"
+"1. Playdough in a few different colours.\r\n"
+"2. Ice cream sticks or something that could be used as an ice cream stick.\r\n"
+msgstr ""
+"Lona ulula ngalokundlulele! Konkhe lokudzingekako:  \r\n"
+"\r\n"
+"1. Ludzaka lwekudlala lolunemibala lehlukene.\r\n"
+"2. Tintsi te-ayisikhrimu noma lokunye lokungasetjentiswa njengetintsi te-ayisikhrimu."
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'tIRyBmKBQaGrXEHts34ISQ', 'name': 'Skills developed'}, 'report': {'id': 'jFSoWiJ9QIyVr0FYAICOiw', 'type': 'MSG'}, 'page': {'id': 'YnbNtpEkRwKLvxIQEwf_Fw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Lomdlalo utfutfukisa:"
+

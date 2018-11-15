@@ -1,0 +1,128 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'K___QEKjR2eUjiHGVgbv5A', 'name': 'Extra notes'}, 'report': {'id': 'msAq-0VTS0KY4rbOMAfsQw', 'type': 'MSG'}, 'page': {'id': 'BfUmG3xjTLm63sQgcfXSeQ', 'caption': 'Read the notes'}}
+msgid ""
+"Some little ones might get stuck, but that’s fine. Here are some questions to help them talk about what’s happening and learn from it: 💬\r\n"
+"\r\n"
+"Level 1 (simple structure)\r\n"
+"• Who can remember the pattern?\r\n"
+"• Which colour was on the bottom?\r\n"
+"• Which colour was on the top?\r\n"
+"\r\n"
+"Level 2 (more complex structure)\r\n"
+"• Who can remember the pattern?\r\n"
+"• Which colour was on the bottom?\r\n"
+"• Which colour was on the top?\r\n"
+"• Which colours will you use to repeat the pattern?\r\n"
+"• What does the pattern look like?\r\n"
+"\r\n"
+"Level 3 (even more complex structure)\r\n"
+"• Who can remember the pattern?\r\n"
+"• Which colours will you use to repeat the pattern?\r\n"
+"• What does the pattern look like?\r\n"
+"• How did you remember?\r\n"
+"• What else can you build with the bricks?"
+msgstr ""
+"Bana ba bannyane ba ka ikhwetša ba gakanegile, eupša seo ga se bothata. Mo go latela tše dingwe tša dipotšišo go ba thuša go bolela ka seo se diregago le go ithuta go tšwa go yona: 💬\r\n"
+"\r\n"
+"Kgato ya 1\r\n"
+"• Ke mang yo a ka gopolago phethene?\r\n"
+"• Ke mmala ofe wo o bego o le ka tlase?\r\n"
+"• Ke mmala ofe wo o bego o le ka godimo?\r\n"
+"\r\n"
+"Kgato ya 2\r\n"
+"• Ke mang yo a ka gopolago phethene?\r\n"
+"• Ke mmala ofe wo o bego o le ka tlase?\r\n"
+"• Ke mmala ofe wo o bego o le ka godimo?\r\n"
+"• Ke mebala efe ye o tla e šomišago go bušeletša phethene?\r\n"
+"• Naa phethene e lebelelega bjang?\r\n"
+"\r\n"
+"Kgato ya 3 \r\n"
+"• Ke mang yo a ka gopolago phethene?\r\n"
+"• Ke mebala efe ye o tla e šomišago go bušeletša phethene?\r\n"
+"• Naa phethene e lebelelega bjang?\r\n"
+"• Ke eng ye e dirilego gore o gopole?\r\n"
+"• Ke eng se sengwe seo o ka se agago ka dipoloko?"
+
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'PntTAL6MTo-b86ELHP21EA', 'name': 'Skills developed'}, 'report': {'id': 'G6RX5NFMSwGwpS-Em-77lA', 'type': 'MSG'}, 'page': {'id': 'e9FANvt1TiupajiJdfLISw', 'caption': 'This game develops:'}, 'button': {'id': 'E2UzWMJ0SdKIlBznIXewFQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'KlIMdjZUTN-hWv87GD-y1Q', 'name': 'What you need'}, 'report': {'id': 'CXZ80geeT5ec_Zm3UwJxXQ', 'type': 'MSG'}, 'page': {'id': '_2JdM5d1RVech5vCYXpRvA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se hlokago"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'cGgjFPbmSrOahyiBzczNEQ', 'name': 'How it works'}, 'report': {'id': 'fviAC1gISOCMPrAJXmt05g', 'type': 'MSG'}, 'page': {'id': 'bWmywiikSCCzV_8DaYjmjA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'KlIMdjZUTN-hWv87GD-y1Q', 'name': 'What you need'}, 'report': {'id': 'CXZ80geeT5ec_Zm3UwJxXQ', 'type': 'MSG'}, 'page': {'id': '_2JdM5d1RVech5vCYXpRvA', 'caption': 'See what you need'}, 'button': {'id': 'JEpRFiMPQSesC5x8pojjTg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ka moo e šomago ka gona"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'K___QEKjR2eUjiHGVgbv5A', 'name': 'Extra notes'}, 'report': {'id': 'msAq-0VTS0KY4rbOMAfsQw', 'type': 'MSG'}, 'page': {'id': 'BfUmG3xjTLm63sQgcfXSeQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'cGgjFPbmSrOahyiBzczNEQ', 'name': 'How it works'}, 'report': {'id': 'fviAC1gISOCMPrAJXmt05g', 'type': 'MSG'}, 'page': {'id': 'bWmywiikSCCzV_8DaYjmjA', 'caption': 'See how it works'}, 'button': {'id': 'zwo6aSr5T5SEXUDJPvfwNQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutse"
+
+#f: {'context': 'label', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'K___QEKjR2eUjiHGVgbv5A', 'name': 'Extra notes'}, 'report': {'id': 'msAq-0VTS0KY4rbOMAfsQw', 'type': 'MSG'}, 'page': {'id': 'BfUmG3xjTLm63sQgcfXSeQ', 'caption': 'Read the notes'}, 'button': {'id': 'hps9JXquRWe0TSDgdexo1Q', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Re boela morago go menyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'hi7GOtJGRSi79qFdqFAJyg', 'name': 'Start'}, 'report': {'id': 'kDTZ3drxTsu8S-qJ6aiXag', 'type': 'MSG'}, 'page': {'id': '4u7aSF6RRFuCBvL3fggB0g', 'caption': 'It’s time to test that memory with a game called Lego — Can You Remember? 🏅'}}
+msgid "It’s time to test that memory with a game called Lego — Can You Remember? 🏅"
+msgstr "Bjalo ke nako ya go leka kgopolo ka papadi ye e bitšwago LEGO — Naa o ka Gopola? 🏅"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'cGgjFPbmSrOahyiBzczNEQ', 'name': 'How it works'}, 'report': {'id': 'fviAC1gISOCMPrAJXmt05g', 'type': 'MSG'}, 'page': {'id': 'bWmywiikSCCzV_8DaYjmjA', 'caption': 'See how it works'}}
+msgid ""
+"The aim is to see if the kids can remember what you did and repeat it. It helps them learn to pay attention. 🧐\r\n"
+"\r\n"
+"1. Build a pattern of 2 bricks (e.g. red then yellow).\r\n"
+"2. Show children for 5 seconds and then ask them to remember.\r\n"
+"3. Hide the bricks and ask them to see if they can remember the pattern.\r\n"
+"4. Repeat with another pattern using different colours or a different order.\r\n"
+"5. Each time add more bricks.\r\n"
+"6. Use fewer bricks (simple structure) with young children (ages 2 — 4).\r\n"
+"7. Use more bricks with older children (ages 4 — 8).\r\n"
+"8. Get the children to build patterns for everyone to copy.\r\n"
+"9. Talk to the children about shapes, colours, or the number of bricks."
+msgstr ""
+"Nepo ke go bona ge e ba digotlane di ka gopola se o se dirilego le go se bušeletša. Go ba thuša go ithuta go theeletša ka tlhoko. 🧐\r\n"
+"\r\n"
+"1. Aga phethene ya ditena tše 2 (Mohlala, khwibidu gwa latela serolane).\r\n"
+"2. Bontšha bana metsotswana ye e ka bago ye 5 gomme o ba kgopele gore ba gopole.\r\n"
+"3. Fihla ditena gomme o ba kgopele go bona ge e ba ba ka gopola phethene.\r\n"
+"4. Bušeletša ka phethene ye nngwe o šomiša mebala ye e fapafapanego goba tatelano ye e fapafapanego.\r\n"
+"5. Nako le nako, o ka oketša ka ditena tše dingwe.\r\n"
+"6. O se šomiše ditena tše ntši (sebopego se bonolo) ka bana ba bannyane (mengwaga ye 2-4).\r\n"
+"7. Šomiša ditena tše ntši ka bana ba bagolo (mengwaga ye 4-8).\r\n"
+"8. E re bana ba age diphethene gore mang le mang a di kopiše.\r\n"
+"9. Bolela le bana mabapi le dibopego, mebala, goba palo ya ditena."
+
+#f: {'context': 'caption', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'PntTAL6MTo-b86ELHP21EA', 'name': 'Skills developed'}, 'report': {'id': 'G6RX5NFMSwGwpS-Em-77lA', 'type': 'MSG'}, 'page': {'id': 'e9FANvt1TiupajiJdfLISw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ye e kaonafatša:"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'PntTAL6MTo-b86ELHP21EA', 'name': 'Skills developed'}, 'report': {'id': 'G6RX5NFMSwGwpS-Em-77lA', 'type': 'MSG'}, 'page': {'id': 'e9FANvt1TiupajiJdfLISw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Numbers , Shapes & Sizes\r\n"
+"✔️Skills for Learning\r\n"
+msgstr ""
+"✔️ Dinomoro, dibopego le bogolo\r\n"
+"✔️Bokgoni bja go ithuta"
+
+#f: {'context': 'text', 'workflow': {'id': 'p1sgHULbTnC2J8reOmaBgg', 'name': 'SGroup5'}, 'state': {'id': 'KlIMdjZUTN-hWv87GD-y1Q', 'name': 'What you need'}, 'report': {'id': 'CXZ80geeT5ec_Zm3UwJxXQ', 'type': 'MSG'}, 'page': {'id': '_2JdM5d1RVech5vCYXpRvA', 'caption': 'See what you need'}}
+msgid ""
+"Get as many Lego, Duplo or building blocks as you have. Each child is going to need the same amount as you.\r\n"
+msgstr "Kgoboketša LEGO, DUPLO, goba didirišwa ka moka tša go aga tše o nago le tšona. Ngwana yo mongwe le yo mongwe o tlile go hloka palo ye e lekanago le ya gago."
+

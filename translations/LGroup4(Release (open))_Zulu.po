@@ -1,0 +1,90 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: zul\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'TFiS8uU8QPy4IX4CIsYSFg', 'name': 'How it works'}, 'report': {'id': 'Yac6yn4OT9WF_1QUKh64Gw', 'type': 'MSG'}, 'page': {'id': 'R-17mG2yShmgfD_dZbPSCQ', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': '2i2Ccu8YRXG5xW9RCDxRvw', 'name': 'What you need'}, 'report': {'id': 'QHyGJqzASMC8EOpiPG186w', 'type': 'MSG'}, 'page': {'id': '1K-n-Hw6QDOWUslGkF0BTg', 'caption': 'See what you need'}, 'button': {'id': '10HBqTqtQVm6CMnPoFqtFQ', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bheka ukuthi kusebenza kanjani"
+
+#f: {'context': 'label', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'hCDMHXN0S2OeE3qQK2pPeg', 'name': 'Skills developed'}, 'report': {'id': 'EkVdgCHESPGcCq1Rs0rgjQ', 'type': 'MSG'}, 'page': {'id': 'yxB2TdfmRmuSVqE41XHT9Q', 'caption': 'This game develops'}, 'button': {'id': 'a4s9K8PUTeqDagJPphiexw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': '2i2Ccu8YRXG5xW9RCDxRvw', 'name': 'What you need'}, 'report': {'id': 'QHyGJqzASMC8EOpiPG186w', 'type': 'MSG'}, 'page': {'id': '1K-n-Hw6QDOWUslGkF0BTg', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bheka ukuthi yini oyidingayo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'O5Cmavk_RUuKNt-xdswnAA', 'name': 'Extra notes'}, 'report': {'id': 'oPUj--k6RtC4lhXV5U1TjA', 'type': 'MSG'}, 'page': {'id': 'PGcolDU6QFyo6W57kbDbtQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'TFiS8uU8QPy4IX4CIsYSFg', 'name': 'How it works'}, 'report': {'id': 'Yac6yn4OT9WF_1QUKh64Gw', 'type': 'MSG'}, 'page': {'id': 'R-17mG2yShmgfD_dZbPSCQ', 'caption': 'See how it works'}, 'button': {'id': 'ObXvhsQSQOyVwXL67aIieA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanothi"
+
+#f: {'context': 'label', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'O5Cmavk_RUuKNt-xdswnAA', 'name': 'Extra notes'}, 'report': {'id': 'oPUj--k6RtC4lhXV5U1TjA', 'type': 'MSG'}, 'page': {'id': 'PGcolDU6QFyo6W57kbDbtQ', 'caption': 'Read the notes'}, 'button': {'id': 'SrDaDBXsTouVBjViHB34oA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kumenyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'hCDMHXN0S2OeE3qQK2pPeg', 'name': 'Skills developed'}, 'report': {'id': 'EkVdgCHESPGcCq1Rs0rgjQ', 'type': 'MSG'}, 'page': {'id': 'yxB2TdfmRmuSVqE41XHT9Q', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Lo mdlalo uthuthukisa:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'hz5PBp8US4-jjhnd4nAgjA', 'name': 'Start'}, 'report': {'id': 'pwgm3eBUQl-NuKAbKzoFnQ', 'type': 'MSG'}, 'page': {'id': 'AuNQDJ5uSliv0TaYtgRt3g', 'caption': 'Why not end the day with a song like Head and Shoulders?'}}
+msgid "Why not end the day with a song like Head and Shoulders?"
+msgstr "Yini ningaphethi usuku ngeculo elithi Head and Shoulders?"
+
+#f: {'context': 'text', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': '2i2Ccu8YRXG5xW9RCDxRvw', 'name': 'What you need'}, 'report': {'id': 'QHyGJqzASMC8EOpiPG186w', 'type': 'MSG'}, 'page': {'id': '1K-n-Hw6QDOWUslGkF0BTg', 'caption': 'See what you need'}}
+msgid "All you need is the song and some cute kids to teach them to. 🎵🎶"
+msgstr "Konke okudingayo yiculo nezingane ezinhle ozozifundisa iculo. 🎵🎶"
+
+#f: {'context': 'text', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'hCDMHXN0S2OeE3qQK2pPeg', 'name': 'Skills developed'}, 'report': {'id': 'EkVdgCHESPGcCq1Rs0rgjQ', 'type': 'MSG'}, 'page': {'id': 'yxB2TdfmRmuSVqE41XHT9Q', 'caption': 'This game develops'}}
+msgid ""
+"✔️Songs , Rhymes & Sounds\r\n"
+"✔️Walking & Moving"
+msgstr ""
+"✔️Amaculo, imilolozelo nemisindo\r\n"
+"✔️Ukuhamba nokunyakaza"
+
+#f: {'context': 'text', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'O5Cmavk_RUuKNt-xdswnAA', 'name': 'Extra notes'}, 'report': {'id': 'oPUj--k6RtC4lhXV5U1TjA', 'type': 'MSG'}, 'page': {'id': 'PGcolDU6QFyo6W57kbDbtQ', 'caption': 'Read the notes'}}
+msgid ""
+"The song goes a little something like this:\r\n"
+"\r\n"
+"Heads, shoulders, knees and toes, knees and toes\r\n"
+"Heads, shoulders, knees and toes, knees and toes\r\n"
+"And eyes and ears and mouth and nose\r\n"
+"Heads and shoulders, knees and toes, knees and toes.\r\n"
+"\r\n"
+"You can sing in your own language too. And remember to point to each body part as you say it.\r\n"
+msgstr ""
+"Iculo lithi:\r\n"
+"\r\n"
+"Heads, shoulders, knees and toes, knees and toes\r\n"
+"Heads, shoulders, knees and toes, knees and toes\r\n"
+"And eyes and ears and mouth and nose\r\n"
+"Heads and shoulders, knees and toes, knees and toes.\r\n"
+"\r\n"
+"Ungalicula nangolimi lwakho futhi. Futhi khumbula ukuthinta ingxenye yomzimba ngayinye ngenkathi uyibiza."
+
+#f: {'context': 'text', 'workflow': {'id': 'yq1WX6bYQbeQVrWU6xGbOg', 'name': 'LGroup4'}, 'state': {'id': 'TFiS8uU8QPy4IX4CIsYSFg', 'name': 'How it works'}, 'report': {'id': 'Yac6yn4OT9WF_1QUKh64Gw', 'type': 'MSG'}, 'page': {'id': 'R-17mG2yShmgfD_dZbPSCQ', 'caption': 'See how it works'}}
+msgid ""
+"Sing the song: ‘Head and Shoulders’ (which you can find in the notes) and do these actions.\r\n"
+"1. Tap each body part as you sing it. (Tap your head when you sing “head” and shoulders when you sing “shoulders”.\r\n"
+"2. The second time you sing the song leave out the head and don’t tap it. Instead replace the body part with “hmmm”.\r\n"
+"3. The third time you sing the song, replace the shoulders with “hmmm” instead of the head. Each time you sing, replace the next body part with “hmmm” and no tapping so that each body part gets left out once.\r\n"
+msgstr ""
+"Cula iculo: “Head and Shoulders” (elitholakalayo kumanothi) nenze lokhu kulinganisa.\r\n"
+"1. Thinta ingxenye yomzimba ngayinye ngenkathi uyicula. (Thinta ikhanda uma ucula uthi “head” namahlombe uma ucula uthi “shoulders”).\r\n"
+"2. Isikhathi sesibili ucula iculo, shiya ikhanda ungalithinti. Kunalokho shintshanisa ingxenye yomzimba ngokuthi “hmmm”.\r\n"
+"3. Isikhathi sesithathu ucula iculo, esikhendleni samahlombe uthi “hmmm” esikhundleni sekhanda.\r\n"
+"4. Esikhathini ngasinye ucula, esikhundleni sengxenye yomzimba elandelayo yithi “hmmm” ungathinti ukuze ingxenye ngayinye ingabizwa kanye."
+

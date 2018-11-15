@@ -1,0 +1,148 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 10:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'AMFFmvzHT7eBcazB4UsZ_Q', 'name': 'Extra notes'}, 'report': {'id': 'HsK2_FaXRFa5e2HLg1oHjQ', 'type': 'MSG'}, 'page': {'id': '7GZk9t7zRam6_j6SaPWn_A', 'caption': 'Read the note'}}
+msgid ""
+"Use this activity as a bigger learning opportunity by asking the children some fun questions.\r\n"
+"\r\n"
+"Level 1\r\n"
+"• Who likes blowing bubbles?\r\n"
+"• What do we normally use dishwashing soap for?\r\n"
+"• What colours do we have here?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What does this pattern look like?\r\n"
+"• What shapes can you see?\r\n"
+"• What colours have you made?\r\n"
+"• How many bubbles can you see here?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Let’s mix some colours.\r\n"
+"• Now what colours do you have?\r\n"
+"• What does blue and yellow make? (green)\r\n"
+"• What does red and yellow make? (orange)\r\n"
+"• What does blue and red make? (purple)\r\n"
+"• What sound does blue start with? (ba)\r\n"
+"• What sound does red start with? (rrrrrr)\r\n"
+"• What sound does yellow start with? (ya)\r\n"
+"• What sound does green start with? (ga)\r\n"
+"• What sound does orange start with? (o)\r\n"
+"• What sound does purple start with? (pa)\r\n"
+msgstr ""
+"Sebedisa ketsahalo ena  jwaloka monyetla o moholo wa ho ithuta ka ho botsa bana dipotso tsa boithabiso.\r\n"
+"\r\n"
+"Mohato wa 1\r\n"
+"• Ke mangy a ratang ho butswela dipudulana?\r\n"
+"• Hangata re sebedisa sesepa sa ho hlatswa dijana bakeng sa eng?\r\n"
+"• Re na le mebala efe mo?\r\n"
+"\r\n"
+"Mohato wa 2\r\n"
+"• Paterone ee e shebahala jwaloka eng?\r\n"
+"• Ke dibopeho dife tseo o di bonang?\r\n"
+"• Ke mebala efe eo o e entseng?\r\n"
+"• Ke dipudulana tse kae tseo o di bonang mo?\r\n"
+"\r\n"
+"Mohato wa 3\r\n"
+"• Ha re tswakeng mebala e itseng.\r\n"
+"• Jwale o se o ena le mebala efe?\r\n"
+"• Mmala o bolou le o mosehla e etsa mmala ofe? (o motala)\r\n"
+"• Mmala o mofubedu le o mosehla e etsa ofe? (wa lamunu)\r\n"
+"• Mmala o bolou le o mofubedu e etsa ofe? (Perese)\r\n"
+"• Bolou e qala ka modumo ofe? (b)\r\n"
+"• Fubedu e qala ka modumo ofe? (fffff)\r\n"
+"• Tshehla e qala ka modumo ofe? (Tsh)\r\n"
+"• Tala e qala ka modumo ofe?(ta)\r\n"
+"• Lamunu e qala ka modumo ofe? (l)\r\n"
+"• Perese e qala ka modumo ofe? (pe)"
+
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'lD3SxLFGQduT6VT6MSHkqQ', 'name': 'How it works'}, 'report': {'id': '_gxt8SU6S7K5QRbvahoBTQ', 'type': 'MSG'}, 'page': {'id': 'zUQH4M_uTnq4RbSIOrJZHg', 'caption': 'See how it works'}, 'button': {'id': 'NfBujLMJTX6BolKrNHR3JQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'VcviQi7pTKSlUpsWkZgrOA', 'name': 'Skills developed'}, 'report': {'id': '71VzOVVgSP6xQrOgVr1T8A', 'type': 'MSG'}, 'page': {'id': 'TIQlk_p5QmCp1zIXBAmJEg', 'caption': 'This game develops:'}, 'button': {'id': 'FT_BQrlWTtyN__KaGbBWtw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'B6kJnNseQLa1JoJC583_iQ', 'name': 'What you need'}, 'report': {'id': 'qzWy0ttWSDeg8ZhQGPsa_w', 'type': 'MSG'}, 'page': {'id': 'sYPTSDPeSbK5EOXHxN1lGw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'lD3SxLFGQduT6VT6MSHkqQ', 'name': 'How it works'}, 'report': {'id': '_gxt8SU6S7K5QRbvahoBTQ', 'type': 'MSG'}, 'page': {'id': 'zUQH4M_uTnq4RbSIOrJZHg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'B6kJnNseQLa1JoJC583_iQ', 'name': 'What you need'}, 'report': {'id': 'qzWy0ttWSDeg8ZhQGPsa_w', 'type': 'MSG'}, 'page': {'id': 'sYPTSDPeSbK5EOXHxN1lGw', 'caption': 'See what you need'}, 'button': {'id': '-LDx199MT561LksoP1_FWg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'AMFFmvzHT7eBcazB4UsZ_Q', 'name': 'Extra notes'}, 'report': {'id': 'HsK2_FaXRFa5e2HLg1oHjQ', 'type': 'MSG'}, 'page': {'id': '7GZk9t7zRam6_j6SaPWn_A', 'caption': 'Read the note'}, 'button': {'id': 'flDQakVvRtiMmqnKCSczzQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': '2ExuBFvdR5qCRiB1oCW-9w', 'name': 'Start'}, 'report': {'id': 'aLJe2zVjQaKK9rw8FBk4OQ', 'type': 'MSG'}, 'page': {'id': 'I8qZSVvFSteccjwTb6mRHQ', 'caption': 'Have the children tried Painting with Bubbles yet? 🎨'}}
+msgid "Have the children tried Painting with Bubbles yet? 🎨"
+msgstr "Na bana ba se ba lekile ho Penta ka Dipudulana? 🎨"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'VcviQi7pTKSlUpsWkZgrOA', 'name': 'Skills developed'}, 'report': {'id': '71VzOVVgSP6xQrOgVr1T8A', 'type': 'MSG'}, 'page': {'id': 'TIQlk_p5QmCp1zIXBAmJEg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ena e ntshetsa pele:"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'VcviQi7pTKSlUpsWkZgrOA', 'name': 'Skills developed'}, 'report': {'id': '71VzOVVgSP6xQrOgVr1T8A', 'type': 'MSG'}, 'page': {'id': 'TIQlk_p5QmCp1zIXBAmJEg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Exploring & Finding Out\r\n"
+"✔️Early Reading & Writing"
+msgstr ""
+"✔️Ho sibolla le ho fumana dikarabo\r\n"
+"✔️Ho bala le ho ngola ho tloha bonyaneng"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'B6kJnNseQLa1JoJC583_iQ', 'name': 'What you need'}, 'report': {'id': 'qzWy0ttWSDeg8ZhQGPsa_w', 'type': 'MSG'}, 'page': {'id': 'sYPTSDPeSbK5EOXHxN1lGw', 'caption': 'See what you need'}}
+msgid ""
+"It’s really simple. All you need is:\r\n"
+"\r\n"
+"1. Paint\r\n"
+"2. Dishwashing liquid\r\n"
+"3. Straws\r\n"
+"4. Paper\r\n"
+msgstr ""
+"Ho bonolo. Seo o se hlokang feela ke:\r\n"
+"\r\n"
+"1. Pente\r\n"
+"2. Sesepa sa ho hlatswa dijana\r\n"
+"3. Distroye\r\n"
+"4. Pampiri"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'AMFFmvzHT7eBcazB4UsZ_Q', 'name': 'Extra notes'}, 'report': {'id': 'HsK2_FaXRFa5e2HLg1oHjQ', 'type': 'MSG'}, 'page': {'id': '7GZk9t7zRam6_j6SaPWn_A', 'caption': 'Read the note'}}
+msgid "Read the note"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'lD3SxLFGQduT6VT6MSHkqQ', 'name': 'How it works'}, 'report': {'id': '_gxt8SU6S7K5QRbvahoBTQ', 'type': 'MSG'}, 'page': {'id': 'zUQH4M_uTnq4RbSIOrJZHg', 'caption': 'See how it works'}}
+msgid ""
+"This activity breathes new life into having fun with paint. No paintbrushes required! 🖌\r\n"
+"\r\n"
+"1. Mix some paint with some dishwashing liquid in a cup.\r\n"
+"2. Add a little bit of water to the mixture.\r\n"
+"3. Give each child a straw and some paper, and ask them to share the paint.\r\n"
+"4. Ask them to blow (not suck) through the straw into the cup. This will make bubbles.\r\n"
+"5. Then ask the children to hold the paper over the cup and bubbles and press down gently.\r\n"
+"6. The bubbles will leave a bubble pattern on the paper.\r\n"
+"7. The children can repeat this with other colours and then leave their art to dry.\r\n"
+msgstr ""
+"Ketsahalo ena e tlisa bophelo bo botjha ka ho natefelwa ke ho penta. Ha ho diborosolo tsa ho penta tse hlokehang! 🖌\r\n"
+"\r\n"
+"1. Tswaka pente le mokedikedi wa ho hlatswa dijana ka hara kopi.\r\n"
+"2. Tshela metsi a manyane motswakong oo.\r\n"
+"3. Efa ngwana ka mong setroye le pampiri, mme o re ho bona ba abelane ka pente.\r\n"
+"4. Ere ba butswele (ba se ke ba hula) ka setroye ka hara kopi. Sena se tla baka dipudulana. \r\n"
+"5. Jwale kopa bana ho bea pampiri ka hodima kopi le dipudulana mme ba hatelle ha bobebe. \r\n"
+"6. Dipudulana di tla siya paterone ya dipudulana pampiring.\r\n"
+"7. Bana ba ka pheta sena ka mebala e meng mme ba tlohele bonono ba bona hore boo me."
+

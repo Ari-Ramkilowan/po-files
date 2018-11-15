@@ -1,0 +1,129 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}, 'button': {'id': 'tR2ITX2MRESw2w3xP4zTTw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}, 'button': {'id': 'dV65HDeESzi3NlDXJzp9vw', 'label': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}, 'button': {'id': 'WgExlgPuQcClz1HYd8g-lg', 'label': 'See how it works'}}
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}, 'button': {'id': 'Bh8XXVQCSLS0wDOPqfqSyQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'chAOGt5xS2G7c0GMU6atFA', 'name': 'Start'}, 'report': {'id': 'vuoHOFZ1QMChWMiX3Ab1pA', 'type': 'MSG'}, 'page': {'id': '3Wt612SfThWcdrAPd142Ig', 'caption': 'Find the budding scientists and engineers in the class with the game Making Tunnels. 👩🏿\u200d🔬👨🏿\u200d🔬'}}
+msgid "Find the budding scientists and engineers in the class with the game Making Tunnels. 👩🏿‍🔬👨🏿‍🔬"
+msgstr "Vind die ontluikende wetenskaplikes en ingenieurs in die klas met die speletjie Maak Tonnels (Making Tunnels). 👩🏿‍🔬👨🏿‍🔬"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}}
+msgid ""
+"First you have to make the tunnel, then you show the children how it works. 🚇\r\n"
+"\r\n"
+"1. Give each child 2 or 3 toilet rolls.\r\n"
+"2. Help them to stick their toilet rolls together to make a long tunnel.\r\n"
+"3. They can decorate their tunnel with paper and crayons if they want to.\r\n"
+"4. Ask one of the children to hold the tunnel up straight.\r\n"
+"5. Place a little bowl at the bottom of the tunnel to catch the stones.\r\n"
+"6. Give other children stones and get them to ‘post’ the stones into the top of the tunnel. Use words like ‘up, down, through, top, bottom’ etc.\r\n"
+"7. Allow older children to make more complex tunnels if they want to."
+msgstr ""
+"Jy moet eers die tonnel maak en dan vir die kinders wys hoe dit werk. 🚇 \r\n"
+"\r\n"
+"1. Gee elke kind 2 of 3 toiletrolle.\r\n"
+"2. Help hulle om hul toiletrolle aan mekaar te plak om ’n lang tonnel te maak.\r\n"
+"3. Hulle kan hul tonnel met papier en kryte versier as hulle wil.\r\n"
+"4. Vra een van die kinders om die tonnel regop te hou.\r\n"
+"5. Plaas ’n bakkie onderaan die tonnel om die klippies te vang.\r\n"
+"6. Gee klippies vir ander kinders en laat hulle die klippies bo-in die tonnel ‘pos’. Gebruik woorde soos ‘op, af, deur, bo, onder’, ens.\r\n"
+"7. Laat die ouer kinders toe om ingewikkelder tonnels te maak as hulle wil."
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Exploring & Finding Out\r\n"
+"✔️Arm & hand control\r\n"
+msgstr ""
+"✔️Verkenning en uitvindsel\r\n"
+"✔️Arm- en handbeheer"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}}
+msgid ""
+"Because you’re teaching kids about gravity, it’s a good idea to ask them lots of questions about how they think it works. ⚗\r\n"
+"\r\n"
+"Easiest version\r\n"
+"• How tall is our tunnel?\r\n"
+"• How many toilet rolls have we used?\r\n"
+"\r\n"
+"More advanced version\r\n"
+"• What will happen to this stone?\r\n"
+"• Where will it land?\r\n"
+"• Whose turn is it now?\r\n"
+"\r\n"
+"For older children\r\n"
+"• Do it 10 times\r\n"
+"• How many times did it land in the bowl?\r\n"
+"• How many times did it NOT land in the bowl?\r\n"
+"• Tell me about your decoration.\r\n"
+msgstr ""
+"Omdat jy kinders oor swaartekrag leer, is dit ’n goeie idee om hulle baie vrae te vra oor hoe hulle dink dit werk. ⚗\r\n"
+"\r\n"
+"Vlak 1 \r\n"
+"• Hoe hoog is ons tonnel?\r\n"
+"• Hoeveel toiletrolle het ons gebruik?\r\n"
+"\r\n"
+"Vlak 2 \r\n"
+"• Wat sal met hierdie klippie gebeur?\r\n"
+"• Waar sal dit land?\r\n"
+"• Wie se beurt is dit nou?\r\n"
+"\r\n"
+"Vlak 3 \r\n"
+"• Doen dit 10 keer\r\n"
+"• Hoeveel keer het dit in die bakkie geland?\r\n"
+"• Hoeveel keer het dit NIE in die bakkie geland nie?\r\n"
+"• Vertel my van jou versiering."
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}}
+msgid ""
+"This game is a fun way to combine crafts with learning, and let’s kids make their own toys.\r\n"
+"\r\n"
+"1. Empty toilet rolls (2 per child)\r\n"
+"2. Sticky tape\r\n"
+"3. Stones\r\n"
+"4. Paper (optional)\r\n"
+"5. Crayons (optional)"
+msgstr ""
+"Hierdie speletjie is ’n prettige manier om handwerk met leer te kombineer, en laat kinders hul eie speelgoed maak. Wat jy nodig sal hê: \r\n"
+"\r\n"
+"1. Leë toiletrolle (2 per kind)\r\n"
+"2. Kleefband\r\n"
+"3. Klippies\r\n"
+"4. Papier (opsioneel)\r\n"
+"5. Kryt (opsioneel)"
+

@@ -1,0 +1,143 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'al8HgAqDQhGvJLpUlvslaQ', 'name': 'Extra notes'}, 'report': {'id': 'WwNM_NfbSFmzI2LNKcIfaw', 'type': 'MSG'}, 'page': {'id': 'U5dY1iTGTq6wifMkbx6iOA', 'caption': 'Read the notes'}}
+msgid ""
+"The little ones might struggle with the higher levels, but these questions are a great way to ease them into basic maths, and an education on money. 💸\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What colours have you used?\r\n"
+"• What shape are the coins?\r\n"
+"• Which is the biggest coin?\r\n"
+"• Which is the smallest?\r\n"
+"• How many coins do we have?\r\n"
+"• What do we do with money?\r\n"
+"• Where should we keep our money?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• Who can show me a R1 coin?\r\n"
+"• Who can show me a R2 coin?\r\n"
+"• Who can show me a R5 coin?\r\n"
+"• How can you make R6?\r\n"
+"• How can you make R3 etc?\r\n"
+"•  Etc\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Who can show me a 5 cent coin?\r\n"
+"• Who can show me a 10 cent coin?\r\n"
+"• Who can show me a 20 cent coin?\r\n"
+"• Who can show me a 50 cent coin?\r\n"
+"• How can you make 20 cents?\r\n"
+"• How can you make 10 cents?\r\n"
+"• Etc"
+msgstr ""
+"Vana lavantsongo va nga ha tikeriwa hi tilevhele ta le henhla, kambe swivutiso leswi i ndlela ya kahle yo va tivisa hi metse wa masungulo, na dyondzo hi mali. 💸\r\n"
+"\r\n"
+"Levhele ya 1\r\n"
+"• Xana u tirhise mihlovo yihi?\r\n"
+"• Xana tikhoyini i ta xivumbeko xihi?\r\n"
+"• Xana hi yihi khoyini leyikulu eka hinkwato?\r\n"
+"• Xana hi yihi leyintsongo eka hinkwato?\r\n"
+"• Xana hi na tikhoyini tingani?\r\n"
+"• Xana hi endla yini hi mali?\r\n"
+"• Xana hi fanele ku veka mali ya hina kwihi?\r\n"
+"\r\n"
+"Levhele ya 2\r\n"
+"• Xana i mani a nga ndzi kombaka khoyini ya R1?\r\n"
+"• Xana i mani a nga ndzi kombaka khoyini ya R2?\r\n"
+"• Xana i mani a nga ndzi kombaka khoyini ya R5?\r\n"
+"• Xana u nga endla njhani R6?\r\n"
+"• Xana u nga endla njhani R3 na swin’wana?\r\n"
+"\r\n"
+"Levhele ya 3\r\n"
+"• Xana i mani a nga ndzi kombaka khoyini ya tisente ta 5?\r\n"
+"• Xana i mani a nga ndzi kombaka khoyini ya 10 ra tisente?\r\n"
+"• Xana i mani a nga ndzi kombaka khoyini ya 20 wa tisente?\r\n"
+"• Xana i mani a nga ndzi kombaka khoyini ya 50 wa tisente?\r\n"
+"• Xana u nga endla njhani 20 wa tisente?\r\n"
+"• Xana u nga endla njhani 10 ra tisente?"
+
+#f: {'context': 'text', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'rCh0oAU6S4a-8ogVtGXt4A', 'name': 'How it works'}, 'report': {'id': 'wLT6c980Rt2ldHC0dw46NQ', 'type': 'MSG'}, 'page': {'id': 'b9AwhNTJTDGC9BmymX2p6Q', 'caption': 'See how it works'}}
+msgid ""
+"Engage the children in a conversation about money while they go about this game. \r\n"
+"\r\n"
+"1. Make sure each coin has been washed and is clean.\r\n"
+"2. While you talk about money and what it’s used for, give each child a coin.\r\n"
+"3. Ask them to look at their coin and tell you what they see.\r\n"
+"4. Give them each a crayon and a piece of paper. \r\n"
+"5. Show them that if you put the coin under the paper and then rub the crayon over it, you’ll see the picture of a coin. \r\n"
+"6. Get them to share their items and explore different coins and colours.\r\n"
+msgstr ""
+"Sungula mbulavurisano hi mali loko vana va endla ntlangu lowu. \r\n"
+"\r\n"
+"1. Vona leswaku khoyini yin’wana na yin’wana yi hlantswiwile naswona yi basile.\r\n"
+"2. Loko u ri karhi u vulavula hi mali na leswi yi tirhaka swona, nyika n’wana un’wana na un’wana khoyini.\r\n"
+"3. Va byele leswaku va languta khoyini ya vona no ku byela leswaku va vona yini.\r\n"
+"4. Nyika n’wana un’wana na un’wana khirayoni na xiphephana. \r\n"
+"5. Va kombe leswaku loko u veka khoyini ehansi ka phepha kutani u rhaba khirayoni ehenhla ka yona u ta vona xifaniso xa khoyini. \r\n"
+"6. Endla leswaku va avelana tiayitheme ta vona na ku kambisisa hi tikhoyini to hambana na mihlovo."
+
+#f: {'context': 'label', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'al8HgAqDQhGvJLpUlvslaQ', 'name': 'Extra notes'}, 'report': {'id': 'WwNM_NfbSFmzI2LNKcIfaw', 'type': 'MSG'}, 'page': {'id': 'U5dY1iTGTq6wifMkbx6iOA', 'caption': 'Read the notes'}, 'button': {'id': 'Mzn9m2K_RiqOMk526rlGlQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': '19ROOGF2Q3OTtyxRygrowQ', 'name': 'Skills developed'}, 'report': {'id': 'NxlTeJ4cQs-HHfaYy1VcgA', 'type': 'MSG'}, 'page': {'id': 'u4cqAu6lR0uzNAY5tTf2Pw', 'caption': 'This game develops:'}, 'button': {'id': 'BLOqnF5vS4qj_fF6DPFo4Q', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'FiKOJcwkRc6rdKb2lz4gcQ', 'name': 'What you need'}, 'report': {'id': 'eUFQSQkeQt6ksicAOLxnsA', 'type': 'MSG'}, 'page': {'id': 'GGK3YCe_Q6ydQjIS-afE3A', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'rCh0oAU6S4a-8ogVtGXt4A', 'name': 'How it works'}, 'report': {'id': 'wLT6c980Rt2ldHC0dw46NQ', 'type': 'MSG'}, 'page': {'id': 'b9AwhNTJTDGC9BmymX2p6Q', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'FiKOJcwkRc6rdKb2lz4gcQ', 'name': 'What you need'}, 'report': {'id': 'eUFQSQkeQt6ksicAOLxnsA', 'type': 'MSG'}, 'page': {'id': 'GGK3YCe_Q6ydQjIS-afE3A', 'caption': 'See what you need'}, 'button': {'id': 'uj1J94I3Tc6UTYmshpXUlA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'label', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'rCh0oAU6S4a-8ogVtGXt4A', 'name': 'How it works'}, 'report': {'id': 'wLT6c980Rt2ldHC0dw46NQ', 'type': 'MSG'}, 'page': {'id': 'b9AwhNTJTDGC9BmymX2p6Q', 'caption': 'See how it works'}, 'button': {'id': '-pF0SZS2QKe0o7Iz05xxsg', 'label': 'Read the notes'}}
+#f: {'context': 'caption', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'al8HgAqDQhGvJLpUlvslaQ', 'name': 'Extra notes'}, 'report': {'id': 'WwNM_NfbSFmzI2LNKcIfaw', 'type': 'MSG'}, 'page': {'id': 'U5dY1iTGTq6wifMkbx6iOA', 'caption': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'text', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'FiKOJcwkRc6rdKb2lz4gcQ', 'name': 'What you need'}, 'report': {'id': 'eUFQSQkeQt6ksicAOLxnsA', 'type': 'MSG'}, 'page': {'id': 'GGK3YCe_Q6ydQjIS-afE3A', 'caption': 'See what you need'}}
+msgid ""
+"Remind the kids they’ll need to be very responsible when they’re each given one of the following:\r\n"
+"\r\n"
+"1. A coin \r\n"
+"2. A piece of paper\r\n"
+"3. A crayon\r\n"
+msgstr ""
+"Tsundzuxa vana leswaku va ta fanele ku va na vutihlamuleri loko un’wana na un’wana wa vona a nyikiwa leswi landzelaka:\r\n"
+"\r\n"
+"1. Khoyini\r\n"
+"2. Xiphephana\r\n"
+"3. Khirayoni"
+
+#f: {'context': 'caption', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': '19ROOGF2Q3OTtyxRygrowQ', 'name': 'Skills developed'}, 'report': {'id': 'NxlTeJ4cQs-HHfaYy1VcgA', 'type': 'MSG'}, 'page': {'id': 'u4cqAu6lR0uzNAY5tTf2Pw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': 'dbrqy1drQIS62idK6HBfMw', 'name': 'Start'}, 'report': {'id': 'SbZAbG9bT6an8pe0KfyXRw', 'type': 'MSG'}, 'page': {'id': 'H1N0egdBQaygrApwojsFGQ', 'caption': 'It’s never too early to start learning about money with Money Rubs! 💰'}}
+msgid "It’s never too early to start learning about money with Money Rubs! 💰"
+msgstr "Ku hava ku ri wa ha ri ntsongo ku va u sungula ku dyondza hi mali eka Mali ya Rhaba! 💰"
+
+#f: {'context': 'text', 'workflow': {'id': 'G1kzsY4gSimRU4DfwBvbsg', 'name': 'SGroup11'}, 'state': {'id': '19ROOGF2Q3OTtyxRygrowQ', 'name': 'Skills developed'}, 'report': {'id': 'NxlTeJ4cQs-HHfaYy1VcgA', 'type': 'MSG'}, 'page': {'id': 'u4cqAu6lR0uzNAY5tTf2Pw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Numbers , shapes & sizes \r\n"
+"✔️ Arm & Hand Control\r\n"
+msgstr ""
+"✔️Tinomboro, swivumbeko na tisayizi \r\n"
+"✔️ Ku lawula voko na xandla"
+

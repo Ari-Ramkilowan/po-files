@@ -1,0 +1,96 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: xho\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'd7hxf9O5TgSyiPS3s2koBA', 'name': 'Extra notes'}, 'report': {'id': 'zzIs9WsJTd2LSO1vOrgUpA', 'type': 'MSG'}, 'page': {'id': 'o5TpGppBTHiprsDlvMKyyg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': '9G_yTb2KSBaIRFadk6RroA', 'name': 'How it works'}, 'report': {'id': '0tIX2sk2TdaCdULnmr4DBQ', 'type': 'MSG'}, 'page': {'id': 'qd7QtoLiTZe8ijd4iUnQVQ', 'caption': 'See how it works'}, 'button': {'id': 'XC3Jg7rPSZmo3tqh8jbrvg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanqaku"
+
+#f: {'context': 'label', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'd7hxf9O5TgSyiPS3s2koBA', 'name': 'Extra notes'}, 'report': {'id': 'zzIs9WsJTd2LSO1vOrgUpA', 'type': 'MSG'}, 'page': {'id': 'o5TpGppBTHiprsDlvMKyyg', 'caption': 'Read the notes'}, 'button': {'id': '-htdJWdnT5-wUFj6bzqefg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kwimenyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'hfOZN4DzTBuZptTc3bf09w', 'name': 'Skills developed'}, 'report': {'id': 'YbmfUoaASgmB-vBByNlDKg', 'type': 'MSG'}, 'page': {'id': 'M0xvn_MjRYC88D0lu2lPiw', 'caption': 'This game develops'}, 'button': {'id': 'H0Ih3SreRC2DmFuL8NdCSw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'stzqHZXWSguyuDoDT41R5g', 'name': 'What you need'}, 'report': {'id': 'L5qTJBxCQ4iYeYFZQDQ9TQ', 'type': 'MSG'}, 'page': {'id': 'qdHtrLWHT8OqDTEx6dUmuw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona okudingayo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': '9G_yTb2KSBaIRFadk6RroA', 'name': 'How it works'}, 'report': {'id': '0tIX2sk2TdaCdULnmr4DBQ', 'type': 'MSG'}, 'page': {'id': 'qd7QtoLiTZe8ijd4iUnQVQ', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'stzqHZXWSguyuDoDT41R5g', 'name': 'What you need'}, 'report': {'id': 'L5qTJBxCQ4iYeYFZQDQ9TQ', 'type': 'MSG'}, 'page': {'id': 'qdHtrLWHT8OqDTEx6dUmuw', 'caption': 'See what you need'}, 'button': {'id': 'LnZnRzlIRHy1YdXBgmnutA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Jonga ukuba isebenza njani"
+
+#f: {'context': 'text', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': '9G_yTb2KSBaIRFadk6RroA', 'name': 'How it works'}, 'report': {'id': '0tIX2sk2TdaCdULnmr4DBQ', 'type': 'MSG'}, 'page': {'id': 'qd7QtoLiTZe8ijd4iUnQVQ', 'caption': 'See how it works'}}
+msgid ""
+"Let the kids sit around you and:\r\n"
+"\r\n"
+"1. Put all 8 items on a tray. Eg. a comb , toothbrush, teaspoon, coin, fork, crayon, string, elastic band, peg, egg, stick, stone, leaf, lid, ball, shell etc.\r\n"
+"🍭🕶🎾🧦⌚🔋🕯🔑🖍📏🥄🌼🧤🥚\r\n"
+"2. Let the children look at the tray for a minute, then cover it with the cloth.\r\n"
+"3. Without the children take one item off the tray.\r\n"
+"4. Remove the cloth.\r\n"
+"5. The children have to guess which item is gone.\r\n"
+"6. Repeat with another item and ask questions about each item.\r\n"
+msgstr ""
+"Vumela abantwana bahlala bekujikelezile kwaye:\r\n"
+"\r\n"
+"1. Faka izinto zakho ezisi 8 etreyini. Umzekelo. Ikama, ibrashi yokuxukuxa, itispuni, ikhoyini, ifolokhwe, ikrayoni, intambo, irabha, iphegi, iqanda, ukhuni, ilitye, igqabi,ipenilothi, ibhola, iqokobhe njalo njalol..\r\n"
+"🍭🕶🎾🧦⌚🔋🕯🔑🖍📏🥄🌼🧤🥚\r\n"
+"2. Vumela abantwana bajonge kwi treyi umzuzwana, wakugqiba uyivale nge laphu. \r\n"
+"3. Bengaku jonganga abantwana, kupha into ibenye kwi treyi.\r\n"
+"4. Susa ilaphu.\r\n"
+"5. Abantwana kufuneka baqikelele ukuba yeyiphi engekhoyo.\r\n"
+"6. Phinda ngenye into utsho ubuze imibuzo ngento nganye."
+
+#f: {'context': 'text', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'd7hxf9O5TgSyiPS3s2koBA', 'name': 'Extra notes'}, 'report': {'id': 'zzIs9WsJTd2LSO1vOrgUpA', 'type': 'MSG'}, 'page': {'id': 'o5TpGppBTHiprsDlvMKyyg', 'caption': 'Read the notes'}}
+msgid ""
+"To keep the kiddies focussed ask some questions like:\r\n"
+"\r\n"
+"1. What is this?\r\n"
+"2. Who has one at home?\r\n"
+"3. What do you use it for?\r\n"
+"4. Who can show me how to use it?\r\n"
+msgstr ""
+"Ukugcina abantwana bethe qwa buza imibuzo efana nale:\r\n"
+" \r\n"
+"1. Yintoni le?\r\n"
+"2. Ngubani nay ekhaya?\r\n"
+"3. Uyisebenzisela ntoni?\r\n"
+"4. Ngubani ngandibonisa isetyenziswa njani?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'hfOZN4DzTBuZptTc3bf09w', 'name': 'Skills developed'}, 'report': {'id': 'YbmfUoaASgmB-vBByNlDKg', 'type': 'MSG'}, 'page': {'id': 'M0xvn_MjRYC88D0lu2lPiw', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Lo mdlalo uphuhlisa:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'QVWy4knvRJCcuhhelYu85w', 'name': 'Start'}, 'report': {'id': 'NxFGLFAsQ0iLfbvgmqNT6w', 'type': 'MSG'}, 'page': {'id': 'IvQclU0ASReHer2K2QqtQg', 'caption': 'If the day has been full of physical activities, you might want to balance it with The Memory Game. \U0001f9e0'}}
+msgid "If the day has been full of physical activities, you might want to balance it with The Memory Game. 🧠"
+msgstr "Ukuba usuku beligcwele zizenzo zomzimba, ungathanda ukuyizinzisa ngeMidlalo yeNgqondo. 🧠"
+
+#f: {'context': 'text', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'hfOZN4DzTBuZptTc3bf09w', 'name': 'Skills developed'}, 'report': {'id': 'YbmfUoaASgmB-vBByNlDKg', 'type': 'MSG'}, 'page': {'id': 'M0xvn_MjRYC88D0lu2lPiw', 'caption': 'This game develops'}}
+msgid ""
+"✔️Skills for Learning\r\n"
+"✔️Talking & Understanding"
+msgstr ""
+"✔️Izakhono zokufunda\r\n"
+"✔️Ukuthetha kunye nokuqonda"
+
+#f: {'context': 'text', 'workflow': {'id': 'Xqu76I1GTuGVWVnYG9p2HQ', 'name': 'LGroup7'}, 'state': {'id': 'stzqHZXWSguyuDoDT41R5g', 'name': 'What you need'}, 'report': {'id': 'L5qTJBxCQ4iYeYFZQDQ9TQ', 'type': 'MSG'}, 'page': {'id': 'qdHtrLWHT8OqDTEx6dUmuw', 'caption': 'See what you need'}}
+msgid ""
+"Sometimes it’s nice to just sit down with 8 small items, a tray and a cloth. Just kidding, that’s not a thing, but it what you need for this activity.\r\n"
+msgstr "Ngamanye amaxesha kumnandi uvele uhlale phantsi ngezinto ezisi 8 ezincinci, itreyi nelapu. Ndiyadlala iyiyo lonto kodwa okudingayo kulo mdlalo."
+

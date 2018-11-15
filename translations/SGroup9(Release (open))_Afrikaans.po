@@ -1,0 +1,148 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 10:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'AMFFmvzHT7eBcazB4UsZ_Q', 'name': 'Extra notes'}, 'report': {'id': 'HsK2_FaXRFa5e2HLg1oHjQ', 'type': 'MSG'}, 'page': {'id': '7GZk9t7zRam6_j6SaPWn_A', 'caption': 'Read the note'}}
+msgid ""
+"Use this activity as a bigger learning opportunity by asking the children some fun questions.\r\n"
+"\r\n"
+"Level 1\r\n"
+"• Who likes blowing bubbles?\r\n"
+"• What do we normally use dishwashing soap for?\r\n"
+"• What colours do we have here?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What does this pattern look like?\r\n"
+"• What shapes can you see?\r\n"
+"• What colours have you made?\r\n"
+"• How many bubbles can you see here?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Let’s mix some colours.\r\n"
+"• Now what colours do you have?\r\n"
+"• What does blue and yellow make? (green)\r\n"
+"• What does red and yellow make? (orange)\r\n"
+"• What does blue and red make? (purple)\r\n"
+"• What sound does blue start with? (ba)\r\n"
+"• What sound does red start with? (rrrrrr)\r\n"
+"• What sound does yellow start with? (ya)\r\n"
+"• What sound does green start with? (ga)\r\n"
+"• What sound does orange start with? (o)\r\n"
+"• What sound does purple start with? (pa)\r\n"
+msgstr ""
+"Gebruik hierdie aktiwiteit as ’n groter leergeleentheid deur die kinders prettige vrae te vra.\r\n"
+"\r\n"
+"Vlak 1\r\n"
+"• Wie hou daarvan om borrels te blaas?\r\n"
+"• Waarvoor gebruik ons gewoonlik opwasmiddel?\r\n"
+"• Watter kleure het ons hier?\r\n"
+"\r\n"
+"Vlak 2\r\n"
+"• Hoe lyk hierdie patroon?\r\n"
+"• Watter vorms kan jy sien?\r\n"
+"• Watter kleure het jy gemaak?\r\n"
+"• Hoeveel borrels kan jy hier sien?\r\n"
+"\r\n"
+"Vlak 3\r\n"
+"• Kom ons meng ’n paar kleure.\r\n"
+"• Watter kleure het jy nou?\r\n"
+"• Watter kleur maak blou en geel? (groen)\r\n"
+"• Watter kleur maak rooi en geel? (oranje)\r\n"
+"• Watter kleur maak blou en rooi? (pers)\r\n"
+"• Met watter klank begin blou? (be)\r\n"
+"• Met watter klank begin rooi? (rrrrrr)\r\n"
+"• Met watter klank begin geel? (gghh)\r\n"
+"• Met watter klank begin groen? (gghh)\r\n"
+"• Met watter klank begin oranje? (o)\r\n"
+"• Met watter klank begin pers? (pe)"
+
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'lD3SxLFGQduT6VT6MSHkqQ', 'name': 'How it works'}, 'report': {'id': '_gxt8SU6S7K5QRbvahoBTQ', 'type': 'MSG'}, 'page': {'id': 'zUQH4M_uTnq4RbSIOrJZHg', 'caption': 'See how it works'}, 'button': {'id': 'NfBujLMJTX6BolKrNHR3JQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'VcviQi7pTKSlUpsWkZgrOA', 'name': 'Skills developed'}, 'report': {'id': '71VzOVVgSP6xQrOgVr1T8A', 'type': 'MSG'}, 'page': {'id': 'TIQlk_p5QmCp1zIXBAmJEg', 'caption': 'This game develops:'}, 'button': {'id': 'FT_BQrlWTtyN__KaGbBWtw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'B6kJnNseQLa1JoJC583_iQ', 'name': 'What you need'}, 'report': {'id': 'qzWy0ttWSDeg8ZhQGPsa_w', 'type': 'MSG'}, 'page': {'id': 'sYPTSDPeSbK5EOXHxN1lGw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'lD3SxLFGQduT6VT6MSHkqQ', 'name': 'How it works'}, 'report': {'id': '_gxt8SU6S7K5QRbvahoBTQ', 'type': 'MSG'}, 'page': {'id': 'zUQH4M_uTnq4RbSIOrJZHg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'B6kJnNseQLa1JoJC583_iQ', 'name': 'What you need'}, 'report': {'id': 'qzWy0ttWSDeg8ZhQGPsa_w', 'type': 'MSG'}, 'page': {'id': 'sYPTSDPeSbK5EOXHxN1lGw', 'caption': 'See what you need'}, 'button': {'id': '-LDx199MT561LksoP1_FWg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'label', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'AMFFmvzHT7eBcazB4UsZ_Q', 'name': 'Extra notes'}, 'report': {'id': 'HsK2_FaXRFa5e2HLg1oHjQ', 'type': 'MSG'}, 'page': {'id': '7GZk9t7zRam6_j6SaPWn_A', 'caption': 'Read the note'}, 'button': {'id': 'flDQakVvRtiMmqnKCSczzQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': '2ExuBFvdR5qCRiB1oCW-9w', 'name': 'Start'}, 'report': {'id': 'aLJe2zVjQaKK9rw8FBk4OQ', 'type': 'MSG'}, 'page': {'id': 'I8qZSVvFSteccjwTb6mRHQ', 'caption': 'Have the children tried Painting with Bubbles yet? 🎨'}}
+msgid "Have the children tried Painting with Bubbles yet? 🎨"
+msgstr "Het die kinders al Verf met Borrels (Painting with Bubbles) probeer? 🎨"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'VcviQi7pTKSlUpsWkZgrOA', 'name': 'Skills developed'}, 'report': {'id': '71VzOVVgSP6xQrOgVr1T8A', 'type': 'MSG'}, 'page': {'id': 'TIQlk_p5QmCp1zIXBAmJEg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'VcviQi7pTKSlUpsWkZgrOA', 'name': 'Skills developed'}, 'report': {'id': '71VzOVVgSP6xQrOgVr1T8A', 'type': 'MSG'}, 'page': {'id': 'TIQlk_p5QmCp1zIXBAmJEg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Exploring & Finding Out\r\n"
+"✔️Early Reading & Writing"
+msgstr ""
+"✔️Verkenning en uitvindsel\r\n"
+"✔️Vroeë lees en skryf"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'B6kJnNseQLa1JoJC583_iQ', 'name': 'What you need'}, 'report': {'id': 'qzWy0ttWSDeg8ZhQGPsa_w', 'type': 'MSG'}, 'page': {'id': 'sYPTSDPeSbK5EOXHxN1lGw', 'caption': 'See what you need'}}
+msgid ""
+"It’s really simple. All you need is:\r\n"
+"\r\n"
+"1. Paint\r\n"
+"2. Dishwashing liquid\r\n"
+"3. Straws\r\n"
+"4. Paper\r\n"
+msgstr ""
+"Dis regtig eenvoudig. Al wat jy nodig het, is:\r\n"
+"\r\n"
+"1. Verf\r\n"
+"2. Opwasmiddel\r\n"
+"3. Strooitjies\r\n"
+"4. Papier"
+
+#f: {'context': 'caption', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'AMFFmvzHT7eBcazB4UsZ_Q', 'name': 'Extra notes'}, 'report': {'id': 'HsK2_FaXRFa5e2HLg1oHjQ', 'type': 'MSG'}, 'page': {'id': '7GZk9t7zRam6_j6SaPWn_A', 'caption': 'Read the note'}}
+msgid "Read the note"
+msgstr "Lees die notas"
+
+#f: {'context': 'text', 'workflow': {'id': 'flZcvRFWTOuSp85ZXbEDAQ', 'name': 'SGroup9'}, 'state': {'id': 'lD3SxLFGQduT6VT6MSHkqQ', 'name': 'How it works'}, 'report': {'id': '_gxt8SU6S7K5QRbvahoBTQ', 'type': 'MSG'}, 'page': {'id': 'zUQH4M_uTnq4RbSIOrJZHg', 'caption': 'See how it works'}}
+msgid ""
+"This activity breathes new life into having fun with paint. No paintbrushes required! 🖌\r\n"
+"\r\n"
+"1. Mix some paint with some dishwashing liquid in a cup.\r\n"
+"2. Add a little bit of water to the mixture.\r\n"
+"3. Give each child a straw and some paper, and ask them to share the paint.\r\n"
+"4. Ask them to blow (not suck) through the straw into the cup. This will make bubbles.\r\n"
+"5. Then ask the children to hold the paper over the cup and bubbles and press down gently.\r\n"
+"6. The bubbles will leave a bubble pattern on the paper.\r\n"
+"7. The children can repeat this with other colours and then leave their art to dry.\r\n"
+msgstr ""
+"Hierdie aktiwiteit gee nuwe lewe aan prettige aktiwiteite met verf. Geen verfkwaste is nodig nie! 🖌\r\n"
+"\r\n"
+"1. Meng in ’n koppie ’n bietjie verf met opwasmiddel.\r\n"
+"2. Voeg ’n bietjie water by die mengsel.\r\n"
+"3. Gee elke kind ’n strooitjie en papier, en vra hulle om die verf te deel.\r\n"
+"4. Vra hulle om deur die strooitjie in die koppie te blaas (nie suig nie). Dit sal borrels maak.\r\n"
+"5. Vra dan die kinders om die papier oor die koppie en borrels te hou en liggies af te druk.\r\n"
+"6. Die borrels sal ’n borrelpatroon op die papier los.\r\n"
+"7. Die kinders kan dit met ander kleure herhaal en hul kunswerk laat droog word."
+

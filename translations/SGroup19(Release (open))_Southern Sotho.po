@@ -1,0 +1,128 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}, 'button': {'id': 'vjmYxfeGQWawQvl_ejuLLg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}, 'button': {'id': 'RLVrg9fkSVmU_OU67TnSfg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}, 'button': {'id': 'ISHsjdyZRFWqNav1D_GxIg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}, 'button': {'id': '0D3gQ3a0Qo6VAW96HN4waA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ena e ntshetsa pele:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'J_N-azCzT5m582r_1eipDw', 'name': 'Start'}, 'report': {'id': 'aFdJcmKDSWenv-1rbhOgPw', 'type': 'MSG'}, 'page': {'id': '2A-NdBinSbeydWkZ6eoJ9w', 'caption': 'It’s time to decorate your classroom by Making Chains. Don’t worry, the children’s chains will be way nice than these: ⛓'}}
+msgid "It’s time to decorate your classroom by Making Chains. Don’t worry, the children’s chains will be way nice than these: ⛓"
+msgstr "Jwale ke nako ya ho kgabisa tlelase ya hao ka ho Etsa Diketane. O se tshwenyehe, diketane tsa bana di tla ba ntle ho feta tsena: ⛓"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Skills for Learning\r\n"
+"✔️Arm & hand control\r\n"
+"\r\n"
+msgstr ""
+"✔️Bokgoni bakeng sa ho ithuta\r\n"
+"✔️Taolo ya sephaka le letsoho"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}}
+msgid ""
+"Good news! You probably have everything you need under your nose right now.\r\n"
+"\r\n"
+"1. Coloured paper\r\n"
+"2. Scissors\r\n"
+"3. Glue"
+msgstr ""
+"Ditaba tse monate! Mohlomong o na le tsohle tseo o di hlokang hona pela hao mona.\r\n"
+"\r\n"
+"1. Pampiri e mebala\r\n"
+"2. Dikere\r\n"
+"3. Sekgomaretsi"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}}
+msgid ""
+"Not exactly sure what to ask? Try out some of these questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What colour do you like?\r\n"
+"• How many links will you make?\r\n"
+"• What could you use your chain for?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What is your pattern?\r\n"
+"• How many colours do you have?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• How many links do you have?\r\n"
+"• How many links does your friend have?\r\n"
+"• How many links do you have together?\r\n"
+"• What if I take 5 links away?\r\n"
+"• How many will you have left?\r\n"
+msgstr ""
+"Ha o na bonnete ba hore o ka botsa eng? Leka tse ding tsa dipotso tsena:\r\n"
+"\r\n"
+"Mohato wa 1\r\n"
+"• Ke mmala ofe oo o o ratang?\r\n"
+"• O tla etsa dikgokelo tse kae?\r\n"
+"• O ka sebedisa ketane ya hao bakeng sa eng?\r\n"
+"\r\n"
+"Mohato wa 2\r\n"
+"• Paterone ya hao ke eng?\r\n"
+"• O na le mebala e mekae?\r\n"
+"\r\n"
+"Mohato wa 3\r\n"
+"• O na le dikgokelo tse kae?\r\n"
+"• Motswalle wa hao o na le dikgokelo tse kae?\r\n"
+"• Mmoho le na le dikgokelo tse kae?\r\n"
+"• Ha nka tlosa dikgokelo tse 5 teng?\r\n"
+"• Ho tla sala tse kae?"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}}
+msgid ""
+"This activity is great for the children’s hand-eye coordination! 🖐🏿 👁\r\n"
+"\r\n"
+"• Help the children cut the coloured paper into short strips. \r\n"
+"• They should each have about 10 strips .\r\n"
+"• Stick the 2 short edges of one strip together, making a ring.\r\n"
+"• Thread a new strip through the ring and stick its ends together, linking the 2 rings.\r\n"
+"• Continue with at least 10 strips, and make rings that link to each other.\r\n"
+"• Make scarves, necklaces, or belts with them before hanging them up in the classroom.\r\n"
+"• Ask questions as you work to help the kids learn.\r\n"
+msgstr ""
+"Ketsahalo ena e ntle haholo bakeng sa nyalano ya matsoho le mahlo ngwaneng! 🖐🏿 👁\r\n"
+"\r\n"
+"• Thusa bana ho seha dipampiri tse mebala ba di etse metjeketla e mekgutswane. \r\n"
+"• E mong le e mong o lokela ho ba le metjeketla e  10.\r\n"
+"• Kgomaretsa maphethelo a 2 a makgutshwane a motjeketla o le mong mmoho, o etse reng.\r\n"
+"• Kenya motjheketla o motjha ka hara reng mme o kopanye maphethelo a ona mmoho, o kopanya direng tse pedi.\r\n"
+"• Tswela pele ka bonyane metjeketla e 10, o ntse o etsa direng tse hokahaneng mmoho.\r\n"
+"• Etsang dikhafo, difaha tsa molala, kapa mabanta le bona pele le di fanyeha ka tlelaseng.\r\n"
+"• Botsa dipotso ha le ntse le sebetsa bakeng sa ho thusa bana ho ithuta."
+

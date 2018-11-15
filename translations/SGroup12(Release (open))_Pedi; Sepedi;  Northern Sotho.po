@@ -1,0 +1,144 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'ws3axKQLRYyRiGMZ9NmosQ', 'name': 'How it works'}, 'report': {'id': 'KKT0a0gMSQqz7hEPhyg9vA', 'type': 'MSG'}, 'page': {'id': '6YM1RnpOQvOzQSgaIgUBtw', 'caption': 'See how it works'}}
+msgid ""
+"It’s time for these budding entrepreneurs to learn about the value of money. \r\n"
+"\r\n"
+"1. Give each child their coin rubbings from the previous activity.\r\n"
+"2. Ask them to cut out the coins.\r\n"
+"3. Help those that need it.\r\n"
+"4. Help them to fold over their piece of paper to make a purse.\r\n"
+"5. Ask the children to put their coins into their new purse for safekeeping.\r\n"
+"6. Set up a shop.\r\n"
+"7. Talk about the items in your shop as you set up.\r\n"
+"8. Have words under your items. Eg, milk, bread, cereal, etc.\r\n"
+"9. Ask each child to come to your shop and buy something.\r\n"
+"10. When they give you their money, tell them what they can buy with it.\r\n"
+"11. Talk as you play and ask questions to help the children learn.\r\n"
+"12. For the older children, ask them for money and give them change.\r\n"
+msgstr ""
+"Ke nako ya gore bengkgwebopotlana ba ka moso ba ithute mabapi le boleng bja tšhelete. \r\n"
+"\r\n"
+"1. Efa ngwana yo mongwe le yo mongwe ditšheletetshipi tša bona tše di gatišitšwego go tšwa mošomong wo o fetilego.\r\n"
+"2. Ba kgopele gore ba ripe ditšheletetshipi.\r\n"
+"3. Thuša bao ba hlokago thušo.\r\n"
+"4. Ba thuše go phutha pampiri ya bona go dira sekhwana.\r\n"
+"5. Kgopela bana go bea ditšheletshipi tša bona ka sekhwameng sa bona go di boloka.\r\n"
+"6. Beakanya lebenkele.\r\n"
+"7. Bolela ka dithekišo ka lebenkeleng la gago ge o le gare o beakanya.\r\n"
+"8. Ngwala mantšu ka fase ga dithekišo tša gago. Mohlala, maswi, borotho, serele, bjalobjalo.\r\n"
+"9. Kgopela ngwana yo mongwe le yo mongwe go tla lebenkeleng la gago go reka se sengwe.\r\n"
+"10. Ge ba le gare ba go fa tšhelete, ba botše seo ba ka se rekago ka yona.\r\n"
+"11. Bolelang ge le le gare le raloka gomme o botšiše dipotšišo go thuša bana go ithuta.\r\n"
+"12. Go bana ba bagolo, ba kgopele go lefela se sengwe gomme o ba fe tšhentšhi."
+
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'xlSLboJUTjqVs1NU9Fz25g', 'name': 'Skills developed'}, 'report': {'id': '62Cmvl1mRPOtGMubXSKkSQ', 'type': 'MSG'}, 'page': {'id': 'NCpiHquiSaKsbuXdzT6hoA', 'caption': 'This game develops:'}, 'button': {'id': 'lmfNQ8OuRkODJ9BMoLecEQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '-s5gd88rQTa-3ehxcIMhyA', 'name': 'What you need'}, 'report': {'id': 'chAefg8KTPmLkLKWyXNGpQ', 'type': 'MSG'}, 'page': {'id': 'NOvPYosLSYGSPvpnnqtxhw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se hlokago"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'ws3axKQLRYyRiGMZ9NmosQ', 'name': 'How it works'}, 'report': {'id': 'KKT0a0gMSQqz7hEPhyg9vA', 'type': 'MSG'}, 'page': {'id': '6YM1RnpOQvOzQSgaIgUBtw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '-s5gd88rQTa-3ehxcIMhyA', 'name': 'What you need'}, 'report': {'id': 'chAefg8KTPmLkLKWyXNGpQ', 'type': 'MSG'}, 'page': {'id': 'NOvPYosLSYGSPvpnnqtxhw', 'caption': 'See what you need'}, 'button': {'id': 'JIzM_Wo8Sui8GgzEHhTWdw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ka moo e šomago ka gona"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'nvgZsDdQR0yxHbzlMK21kw', 'name': 'Extra notes'}, 'report': {'id': '5bXyzJnRTZORqZsNYvH7HA', 'type': 'MSG'}, 'page': {'id': 'P5udb28FR5CrCmaPRGCEKA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'ws3axKQLRYyRiGMZ9NmosQ', 'name': 'How it works'}, 'report': {'id': 'KKT0a0gMSQqz7hEPhyg9vA', 'type': 'MSG'}, 'page': {'id': '6YM1RnpOQvOzQSgaIgUBtw', 'caption': 'See how it works'}, 'button': {'id': 'zuz-3d8HQc-NwCj0SEDLoA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutse"
+
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'nvgZsDdQR0yxHbzlMK21kw', 'name': 'Extra notes'}, 'report': {'id': '5bXyzJnRTZORqZsNYvH7HA', 'type': 'MSG'}, 'page': {'id': 'P5udb28FR5CrCmaPRGCEKA', 'caption': 'Read the notes'}, 'button': {'id': '5A8Ag72aRA-sEnBkJPR5_Q', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Re boela morago go menyu"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'nvgZsDdQR0yxHbzlMK21kw', 'name': 'Extra notes'}, 'report': {'id': '5bXyzJnRTZORqZsNYvH7HA', 'type': 'MSG'}, 'page': {'id': 'P5udb28FR5CrCmaPRGCEKA', 'caption': 'Read the notes'}}
+msgid ""
+"Spending money is easy, it’s saving money that’s hard. Try remind the children how important saving is while you talk to them. 🏦\r\n"
+"\r\n"
+"Level 1\r\n"
+"• Where do you keep your money?\r\n"
+"• What do you want to buy at my shop?\r\n"
+"• What are you going to cook with these things…?\r\n"
+"• What else would you like to buy?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• How much money have you got?\r\n"
+"• That will cost…\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Have you got any money left?\r\n"
+"• Would you like to use that money to buy something else?\r\n"
+"• Do you have enough?\r\n"
+"• Or would you rather save it for next time?\r\n"
+"• What sounds does milk start with? (mmmm)\r\n"
+"• What sound does fish start with? (ffff)\r\n"
+"\r\n"
+msgstr ""
+"Go šomiša tšhelete go bonolo, eupša go boloka tšhelete go boima. Leka go gopotša bana ka moo go boloka go lego bohlokwa ge o le gare o bolela le bona. 🏦\r\n"
+"\r\n"
+"Kgato ya 1\r\n"
+"• O boloka kae tšhelete ya gago?\r\n"
+"• O rata go reka eng ka lebenkeleng la ka?\r\n"
+"• O tlile go apea eng ka dilo tše?\r\n"
+"• Ke eng gape seo o ka ratago go se reka?\r\n"
+"\r\n"
+"Kgato ya 2\r\n"
+"• Naa ke bokae tšhelete ye o e swerego?\r\n"
+"• Yona e tla bitša…\r\n"
+"\r\n"
+"Kgato ya 3\r\n"
+"• Naa o na le tšhelete yeo e go šaletšego?\r\n"
+"• O ka rata go šomiša tšhelete yeo go reka selo se sengwe?\r\n"
+"• Naa o na le tšhelete ye e lekanetšego?\r\n"
+"• Goba o ka rata go e bolokela nako ye e tlago?\r\n"
+"• Naa lentšu le maswi le thoma ka modumo ofe? (mmmm)\r\n"
+"• Naa lentšu le hlapi le thoma ka modumo ofe? (hlhlhlhl)"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '2PHE_EcGRFS9iVB1A-fqZA', 'name': 'Start'}, 'report': {'id': 'x4hNRVLiTJ-yd6TTYtpkcg', 'type': 'MSG'}, 'page': {'id': '1dV2N1CDSIGgJiSyzCJbuw', 'caption': 'Let’s put the Money Rubs the children did to good use with Spending Coins!💰'}}
+msgid "Let’s put the Money Rubs the children did to good use with Spending Coins!💰"
+msgstr "A re bee Ditšhelete tše di Gatišitšwego tšeo bana ba di dirilego go di šomiša ka tshwanelo le Ditšheletetshipi tša go Reka! 💰"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'xlSLboJUTjqVs1NU9Fz25g', 'name': 'Skills developed'}, 'report': {'id': '62Cmvl1mRPOtGMubXSKkSQ', 'type': 'MSG'}, 'page': {'id': 'NCpiHquiSaKsbuXdzT6hoA', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ye e kaonafatša:"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'xlSLboJUTjqVs1NU9Fz25g', 'name': 'Skills developed'}, 'report': {'id': '62Cmvl1mRPOtGMubXSKkSQ', 'type': 'MSG'}, 'page': {'id': 'NCpiHquiSaKsbuXdzT6hoA', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Talking & Understanding \r\n"
+"✔️Social"
+msgstr ""
+"✔️Go bolela le go kwešiša \r\n"
+"✔️Bokgoni bja leago"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '-s5gd88rQTa-3ehxcIMhyA', 'name': 'What you need'}, 'report': {'id': 'chAefg8KTPmLkLKWyXNGpQ', 'type': 'MSG'}, 'page': {'id': 'NOvPYosLSYGSPvpnnqtxhw', 'caption': 'See what you need'}}
+msgid ""
+"Now that the children have created their own money during the previous activity, it’s time to give them something to spend it on. You’ll need:\r\n"
+"\r\n"
+"1. Coin drawings from the previous Small Group Activity.\r\n"
+"2. Scissors.\r\n"
+"3. A piece of paper for each child to make a purse.\r\n"
+"4. Empty food containers such as cereal boxes, milk bottles, egg boxes, etc. Have enough for each child to “buy” a few items. 🍞🥔🥚\r\n"
+msgstr ""
+"Bjale ka ge bana ba hlamile tšhelete ya bona nakong ya mošomo wo o fetilego, ke nako ya gore o ba fe se sengwe seo ba ka se rekago ka yona: O tla hloka:\r\n"
+"\r\n"
+"1. Ditšheletetshipi tše di thadilwego go tšwa Mošomong wo o fetilego wa Dihlopha tše Nnyane.\r\n"
+"2. Sekero.\r\n"
+"3. Efa ngwana yo mongwe le yo mongwe karolwana ya pampiri go dira sekhwama.\r\n"
+"4. Dibjana tše di se nago selo tša go swara dijo tše bjalo ka mapokisi a diserele, mabotlelo a maswi, mapokisi a mae, bjalobjalo. Dira tšhelete ye e lekanetšego gore ngwana yo mongwe le yo mongwe a “reke” dilo tše mmalwa. 🍞🥔🥚"
+

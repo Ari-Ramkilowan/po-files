@@ -1,0 +1,127 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: ven\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}, 'button': {'id': 'vjmYxfeGQWawQvl_ejuLLg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kha vha humele murahu"
+
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}, 'button': {'id': 'RLVrg9fkSVmU_OU67TnSfg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Zwine vha ṱoḓa"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}, 'button': {'id': 'ISHsjdyZRFWqNav1D_GxIg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Kha vha vhale notsi"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}, 'button': {'id': '0D3gQ3a0Qo6VAW96HN4waA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Zwi shumisa hani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Mutambo uyu u bveledza:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'J_N-azCzT5m582r_1eipDw', 'name': 'Start'}, 'report': {'id': 'aFdJcmKDSWenv-1rbhOgPw', 'type': 'MSG'}, 'page': {'id': '2A-NdBinSbeydWkZ6eoJ9w', 'caption': 'It’s time to decorate your classroom by Making Chains. Don’t worry, the children’s chains will be way nice than these: ⛓'}}
+msgid "It’s time to decorate your classroom by Making Chains. Don’t worry, the children’s chains will be way nice than these: ⛓"
+msgstr "Ndi tshifhinga tsha u khavhisa kiḽasi nga u ita Ngeḓane. Vha songo vhilaela, ngeḓane dza vhana dzi ḓo vha dzi dzavhuḓi u fhira hezwi: ⛓"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'FFRdGjCgSneoWjpFBwZVMQ', 'name': 'Skills developed'}, 'report': {'id': 'ZPysmqz3QXe_Auule0mXdA', 'type': 'MSG'}, 'page': {'id': '0eg7kEfCTbSGcLzn-gaz9g', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Skills for Learning\r\n"
+"✔️Arm & hand control\r\n"
+"\r\n"
+msgstr ""
+"✔️Vhukoni ha u guda\r\n"
+"✔️Ndaulo ya tshanḓa tshoṱhe"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'iCBnpzDXSZywZ6uAwTP9tA', 'name': 'What you need'}, 'report': {'id': '7jzB0LtWTVyDP2m5gJVJSg', 'type': 'MSG'}, 'page': {'id': 'q2L8F57ISmiIoDpmVLoM3w', 'caption': 'See what you need'}}
+msgid ""
+"Good news! You probably have everything you need under your nose right now.\r\n"
+"\r\n"
+"1. Coloured paper\r\n"
+"2. Scissors\r\n"
+"3. Glue"
+msgstr ""
+"Mafhungo avhuḓi! Zwoṱhe zwine vha zwiṱoḓa vha nga vha vha nazwo hanefho.\r\n"
+"\r\n"
+"1. Mabambiri a mivhala\r\n"
+"2. Zwigero\r\n"
+"3. Guḽuu"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': '0wvoc068Ti2uM_giQJTkVQ', 'name': 'Extra notes'}, 'report': {'id': '5eFgNJeQRkO5o3-xtDhznQ', 'type': 'MSG'}, 'page': {'id': '7gadHf0FQlW6o_Ndi-CEKg', 'caption': 'Read the notes'}}
+msgid ""
+"Not exactly sure what to ask? Try out some of these questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What colour do you like?\r\n"
+"• How many links will you make?\r\n"
+"• What could you use your chain for?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What is your pattern?\r\n"
+"• How many colours do you have?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• How many links do you have?\r\n"
+"• How many links does your friend have?\r\n"
+"• How many links do you have together?\r\n"
+"• What if I take 5 links away?\r\n"
+"• How many will you have left?\r\n"
+msgstr ""
+"A vha na vhuṱanzi uri vha nga vhudzisa uri mini? Kha vha lingedze dziṅwe dza mbudziso idzi:\r\n"
+"\r\n"
+"Ḽiga 1\r\n"
+"• Ni funa muvhala ufhio?\r\n"
+"• No ḓo ṱumekanya zwibammbiri zwingana?\r\n"
+"• Ni nga shumisa ngeḓane yaṋu u ita mini?\r\n"
+"\r\n"
+"Ḽiga 2\r\n"
+"• Phetheni yaṋu ndi ifhio?\r\n"
+"• Ni na mivhala mingana?\r\n"
+"\r\n"
+"Ḽiga 3\r\n"
+"• No ṱumekanya zwingana?\r\n"
+"• Khonani yaṋu o ṱumekanya zwingana?\r\n"
+"• Zwo ṱangana no ṱumekanya zwingana?\r\n"
+"• Arali nda nga ṱusa zwiṱanu (5), ni ḓo vha no sala na zwingana?"
+
+#f: {'context': 'text', 'workflow': {'id': 'EmWzNa3LSza1qhWz_Mq8EA', 'name': 'SGroup19'}, 'state': {'id': 'P7Yq1tGyR5SSKMG62pSvaw', 'name': 'How it works'}, 'report': {'id': 'RH9L4FYWRZylWSU8uWUHlA', 'type': 'MSG'}, 'page': {'id': 'ErJm4P96TeuHviINoGPfgg', 'caption': 'See how it works'}}
+msgid ""
+"This activity is great for the children’s hand-eye coordination! 🖐🏿 👁\r\n"
+"\r\n"
+"• Help the children cut the coloured paper into short strips. \r\n"
+"• They should each have about 10 strips .\r\n"
+"• Stick the 2 short edges of one strip together, making a ring.\r\n"
+"• Thread a new strip through the ring and stick its ends together, linking the 2 rings.\r\n"
+"• Continue with at least 10 strips, and make rings that link to each other.\r\n"
+"• Make scarves, necklaces, or belts with them before hanging them up in the classroom.\r\n"
+"• Ask questions as you work to help the kids learn.\r\n"
+msgstr ""
+"Mushumo ndi wavhuḓisa kha khoneyo ya tshanḓa na iṱo kha vhana! 🖐🏿 👁\r\n"
+"\r\n"
+"• Kha vha thuse vhana u gera mabammriri a re na mivhala avhe zwibammbiri zwisekene zwipfufhi. \r\n"
+"• Vhoṱhe vha tea u vha na zwibammiri zwa 10.\r\n"
+"• Kha vha ṱumekanye magumo a zwibammbiri zwivhili, zwi ite riingi.\r\n"
+"• Kha vha dzhenise tshiṅwe tshibammbiri kha riingi vha kone u tshi nambatedza magumoni atsho, vha tshi khou ṱanganyisa riingi idzo mbili.\r\n"
+"• Kha vha bvele phanḓa u swika kha zwibammiri zwa 10, vha ite riingi dzo ṱumekanyiwaho.\r\n"
+"• Kha vha ite zwikhafu, ngeḓane ya mukuloni, kana mabannda vha sa athu u zwi nambatedza kiḽasini.\r\n"
+"• Kha vha vhudzise mbudziso musi vha tshi khou shuma u thusa vhana u guda."
+

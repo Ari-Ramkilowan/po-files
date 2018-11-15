@@ -1,0 +1,228 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nbl\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'nkx5H5hzTAeqGFfNl3jvkA', 'type': 'MSG'}, 'page': {'id': '9kliRNpUSrCxLUhhKDUnKw', 'caption': ''}}
+msgid ""
+"Here’s each step of the daily programme with a suggested time limit:\r\n"
+"\r\n"
+"• Greeting time (10 minutes) \r\n"
+"• Message-board time (10 minutes)\r\n"
+"• Small-group time (15-20 minutes)\r\n"
+"• Planning time (10 minutes)\r\n"
+"• Playtime (60 minutes)\r\n"
+"• Cleanup time (10 minutes)\r\n"
+"• Recall time (10 minutes)\r\n"
+"• Big-group time (15 minutes)\r\n"
+"• Story time (10 minutes)\r\n"
+msgstr ""
+"Nali igadango lehlelo langemihla nesikhathi esiphakamisiweko:\r\n"
+"\r\n"
+"• Isikhathi sokulotjhisa (imizuzu eli -10) \r\n"
+"• Isikhathi sebhodi yomlayezo (imizuzu eli -10)\r\n"
+"• Isikhathi sesiqhema esincane (imizuzu eli -15-20)\r\n"
+"• Isikhathi sokuhlela (imizuzu eli -10)\r\n"
+"• Isikhathi sokudlala (imizuzu ema -60)\r\n"
+"• Isikhathi sokuhlwenga (imizuzu eli -10)\r\n"
+"• Isikhathi sokubuyelela (imizuzu eli - 10)\r\n"
+"• Isikhathi sesiqhema esukhulu (imizuzu eli -15)\r\n"
+"• Isikhathi seAwalwana (imizuzu eli -10)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'NEw6v2yRTce9k7GlP_mmAA', 'type': 'MSG'}, 'page': {'id': '3s7-QE2FSzORMPoLrIvmIw', 'caption': ''}}
+msgid ""
+"SmartStart has a clear 3-hour routine designed to help your children learn lots of new and exciting skills and concepts. 🌞\r\n"
+msgstr "I-SmartStart inerhrrho lama iri ama-3 enzelwe ukukurhelebha bona abantwana bakho bafunde amakghoAwa Awamcabango omutjha Awakarisako. 🌞"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'ureHj8thShSBvlIYO4wFyA', 'name': 'Greeting time'}, 'report': {'id': 'WstNBnPrR6uZ9tE3nzVYTA', 'type': 'MSG'}, 'page': {'id': 'FuQUjbRfRCeuBPXV-QsGCA', 'caption': '👋🏾 Greeting time (10 mins)'}}
+msgid "👋🏾 Greeting time (10 mins)"
+msgstr "👋🏾 Isikhathi sokulotjhisa (imizuzu eli -10)"
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'Ej_8nFoeSeWWPBr1BEdw8Q', 'name': 'Clean up time '}, 'report': {'id': 's1_hQJkqTqaaxrs6cG7bvw', 'type': 'MSG'}, 'page': {'id': 'JXDZoS3FRJ2UDcxmQRW1vQ', 'caption': '✨ Clean up time (10 min)'}, 'button': {'id': '4BDGEgcQR-apwKv66yTZGw', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'ureHj8thShSBvlIYO4wFyA', 'name': 'Greeting time'}, 'report': {'id': 'WstNBnPrR6uZ9tE3nzVYTA', 'type': 'MSG'}, 'page': {'id': 'FuQUjbRfRCeuBPXV-QsGCA', 'caption': '👋🏾 Greeting time (10 mins)'}, 'button': {'id': 'kIuuXeyFRjCD7HfifdKqOQ', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'n6wC5F8lRtWxAQz1465pYg', 'name': 'Large group time'}, 'report': {'id': 'CF4rppyrTMCYhJCEGQBHXA', 'type': 'MSG'}, 'page': {'id': 'k5PqDTffTB6xA8BD0A7fMg', 'caption': '👩\u200d👧\u200d👦 Large group time (15 min)'}, 'button': {'id': 'nVEKsNT5SPGB-l4N0sjhrA', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'xA0e4GQRTwOYTrQf0uCtzQ', 'name': 'Message board'}, 'report': {'id': '9MPCtfgrTs2XTq63D32bBg', 'type': 'MSG'}, 'page': {'id': 'hgOnd4i4RYynSrS_3R9XcA', 'caption': '💬 Message-board time (10 min)'}, 'button': {'id': 'h4y7zwwkR0yGkcf8nlgh9A', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '6tFTFaskRWWu9PWZl9UVxw', 'name': 'Planning time'}, 'report': {'id': 'aHy4x3crQY-yV-qvxWqkaw', 'type': 'MSG'}, 'page': {'id': 'ER14sBwLRNKV7uURY667kw', 'caption': '📝 Planning time (10 min)'}, 'button': {'id': 'PkXbhbJNSuiRBklpY3Z-9w', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'FMSobuW2RKCoL6hdOGS5wQ', 'name': 'Play time'}, 'report': {'id': 'Gk-OsGh_S1qWtaQHDTxzeg', 'type': 'MSG'}, 'page': {'id': 'C9H4lTgqQQ6XqWY165Fw6A', 'caption': '\U0001f9d2🏾 Play time (60 min)'}, 'button': {'id': 'aHz49Ym6RiSR3vsla78LAQ', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '5T5glu2kRUC6oxgbJaiPSg', 'name': 'Recall time'}, 'report': {'id': '4Ogp242-TsazHdC9MGLGGQ', 'type': 'MSG'}, 'page': {'id': 'dsRLXOxjRW6FGjfUayOu3g', 'caption': '\U0001f9e0 Recall time (10 mins)'}, 'button': {'id': '-5VS3uMNQJWmM-QB2GPw8w', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '4HZC7kRLR8WRKa_4kZ-IXQ', 'name': 'Small group time'}, 'report': {'id': '88alGx-dRBq9EoDYrnDr_A', 'type': 'MSG'}, 'page': {'id': 'AlgpWqYvSI2PMo35du30BQ', 'caption': '👩\u200d👧 Small-group time (15 min)'}, 'button': {'id': 'adq6yezpTwG_SwLWEIpd9g', 'label': 'See next step'}}
+msgid "See next step"
+msgstr "Qala igadango elilandelako"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '6tFTFaskRWWu9PWZl9UVxw', 'name': 'Planning time'}, 'report': {'id': 'aHy4x3crQY-yV-qvxWqkaw', 'type': 'MSG'}, 'page': {'id': 'ER14sBwLRNKV7uURY667kw', 'caption': '📝 Planning time (10 min)'}}
+msgid "📝 Planning time (10 min)"
+msgstr "📝 Isikhathi sokuhlela (imizuzu eli - 10)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'FMSobuW2RKCoL6hdOGS5wQ', 'name': 'Play time'}, 'report': {'id': 'Gk-OsGh_S1qWtaQHDTxzeg', 'type': 'MSG'}, 'page': {'id': 'C9H4lTgqQQ6XqWY165Fw6A', 'caption': '\U0001f9d2🏾 Play time (60 min)'}}
+msgid "🧒🏾 Play time (60 min)"
+msgstr "🧒🏾 Isikhathi sokudlala (imizuzu ema - 60)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '5T5glu2kRUC6oxgbJaiPSg', 'name': 'Recall time'}, 'report': {'id': '4Ogp242-TsazHdC9MGLGGQ', 'type': 'MSG'}, 'page': {'id': 'dsRLXOxjRW6FGjfUayOu3g', 'caption': '\U0001f9e0 Recall time (10 mins)'}}
+msgid "🧠 Recall time (10 mins)"
+msgstr "🧠 Isikhathi sokubuyelela (imizuzu eli - 10)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'n6wC5F8lRtWxAQz1465pYg', 'name': 'Large group time'}, 'report': {'id': 'CF4rppyrTMCYhJCEGQBHXA', 'type': 'MSG'}, 'page': {'id': 'k5PqDTffTB6xA8BD0A7fMg', 'caption': '👩\u200d👧\u200d👦 Large group time (15 min)'}}
+msgid "👩‍👧‍👦 Large group time (15 min)"
+msgstr "👩‍👧‍👦 Isikhathi sesiqhema esikhulu (imizuzu eli - 15)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'OD__6nL_TUi5w5DyP-b7Eg', 'type': 'MSG'}, 'page': {'id': '5encqPNvTYShKDuUgdOoHQ', 'caption': '📖 Story time (20 min)'}}
+msgid "📖 Story time (20 min)"
+msgstr "📖 Isikhathi seAwalwana (imizuzu ema - 20)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'xA0e4GQRTwOYTrQf0uCtzQ', 'name': 'Message board'}, 'report': {'id': '9MPCtfgrTs2XTq63D32bBg', 'type': 'MSG'}, 'page': {'id': 'hgOnd4i4RYynSrS_3R9XcA', 'caption': '💬 Message-board time (10 min)'}}
+msgid "Once everyone is there, gather around the message board to start the day. 💬 Use the message board to share news about that day and what they will be doing by pointing to the symbols and talking to the children."
+msgstr "Nasele bakhona boke thoma usuku ngokuthi uye nabo kubhodi yomlayezo. 💬 Sebenzisa ibhodi yomlayezo le ukwabelana iindaba zelanga Awakuthi bazokwenzani ngokukhomba amatshwayo Awakukhuluma nabantwana."
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}, 'button': {'id': '5PRQFvSjQhOxGon5T-IEOA', 'label': 'See activity ideas'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'V9GnVf_gT2iv_mT64lFxUQ', 'type': 'MSG'}, 'page': {'id': 'z7EPmK3qSrqCAnuOllneGw', 'caption': ''}, 'button': {'id': 'ux_zax8gTpCkYMVmoXPy5A', 'label': 'See activity ideas'}}
+msgid "See activity ideas"
+msgstr "Qala imiboAwa yeemfundo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'Ej_8nFoeSeWWPBr1BEdw8Q', 'name': 'Clean up time '}, 'report': {'id': 's1_hQJkqTqaaxrs6cG7bvw', 'type': 'MSG'}, 'page': {'id': 'JXDZoS3FRJ2UDcxmQRW1vQ', 'caption': '✨ Clean up time (10 min)'}}
+msgid "✨ Clean up time (10 min)"
+msgstr "✨ Isikhathi sokuhlwenga (imizuzu eli - 10)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '4HZC7kRLR8WRKa_4kZ-IXQ', 'name': 'Small group time'}, 'report': {'id': '88alGx-dRBq9EoDYrnDr_A', 'type': 'MSG'}, 'page': {'id': 'AlgpWqYvSI2PMo35du30BQ', 'caption': '👩\u200d👧 Small-group time (15 min)'}}
+msgid "👩‍👧 Small-group time (15 min)"
+msgstr "👩‍👧 Isikhathi sesiqhema esincane (imizuzu eli -15)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '4HZC7kRLR8WRKa_4kZ-IXQ', 'name': 'Small group time'}, 'report': {'id': '88alGx-dRBq9EoDYrnDr_A', 'type': 'MSG'}, 'page': {'id': 'AlgpWqYvSI2PMo35du30BQ', 'caption': '👩\u200d👧 Small-group time (15 min)'}}
+msgid ""
+"This is where children break into smaller groups to learn new skills. 👫\r\n"
+"\r\n"
+"First show the whole group what to do, then put them in groups. While the kids are busy, go around to each group to help, ask questions and use the activity to teach them something.\r\n"
+"\r\n"
+"I have lots of daily small-group activity ideas for you, if you ever need some inspiration. You can find them in the menu.\r\n"
+msgstr ""
+"La ngilapho abantwana bahlukana ngeenqhema ezincane bazokufunda amakghoAwa amatjha. 👫\r\n"
+"\r\n"
+"Kokuthoma batjengise baboke basiqhema sinye bona benzene bese uyabahlukanisa. Nabasebenzako khambakhamba uye esiqhemeni ngasinye ukubarhelebha, ubuze imibuzo begodu usebenzise isifundesi ukufundisa okuthile. \r\n"
+"\r\n"
+"NginemiboAwa eminengi yomsebenzi yeenqhema ezincane, nawuzitlhogako. Ungazithola erhelweni"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'Ej_8nFoeSeWWPBr1BEdw8Q', 'name': 'Clean up time '}, 'report': {'id': 's1_hQJkqTqaaxrs6cG7bvw', 'type': 'MSG'}, 'page': {'id': 'JXDZoS3FRJ2UDcxmQRW1vQ', 'caption': '✨ Clean up time (10 min)'}}
+msgid "*groan*☹ No one likes to clean up, but it’s important the kids learn the habit of tidying up after themselves, but also to learn about organization and order. So when playtime is over everyone must help pack up the toys and tidy their area before the next activity can start."
+msgstr "*Balisa*☹ Akakho othanda ukubhlwenga, kodwana kuqakathekile ukuthi abantwana bajwayele ukubutha ngemva kwabo, bafunde Awakuhlela. Ye – ke isikhathi sokudlala nasiphelile, kufuze bona woke umntwana abuthe amathoyisi begogu abuthe nendawo gade alalela kiyo ngaphambi kokuthoma isifundo esilandelako."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'FMSobuW2RKCoL6hdOGS5wQ', 'name': 'Play time'}, 'report': {'id': 'Gk-OsGh_S1qWtaQHDTxzeg', 'type': 'MSG'}, 'page': {'id': 'C9H4lTgqQQ6XqWY165Fw6A', 'caption': '\U0001f9d2🏾 Play time (60 min)'}}
+msgid ""
+"Playing is very important for a child’s development, plus they just love it. This time let’s them play freely, choosing their own games and toys from the interest areas. \r\n"
+"\r\n"
+"Use this time to ask questions, help them make friends, get them to try new things, and join in the game. Make sure you have put out lots of resources that children can reach and use to play with."
+msgstr ""
+"Ukudlala kuqakatheke khulu ekukhuleni komntwana, kanti ke bayakuthanda. Ngalesisikhathi masidlale ngokukhululeka, bazikhethele imidlalo namathoyisi abawathandako. \r\n"
+"\r\n"
+"Sebenzisa isikhathesi ukubuza imibuzo, barhelebhe benze abangani, wenze benze nezinto ezitja. Qinisekisa bona unazo iintlabageloabangazithola msinya begodu bakwazi ukudlala."
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}, 'button': {'id': '3BupnHVmQX6Yk9jP2ENTew', 'label': 'Explain steps'}}
+msgid "Explain steps"
+msgstr "Hlathulula amagadango"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'xA0e4GQRTwOYTrQf0uCtzQ', 'name': 'Message board'}, 'report': {'id': '9MPCtfgrTs2XTq63D32bBg', 'type': 'MSG'}, 'page': {'id': 'hgOnd4i4RYynSrS_3R9XcA', 'caption': '💬 Message-board time (10 min)'}}
+msgid "💬 Message-board time (10 min)"
+msgstr "💬 Isikhathi sebhodi yomlayezo (imizuzu eli -10)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '5T5glu2kRUC6oxgbJaiPSg', 'name': 'Recall time'}, 'report': {'id': '4Ogp242-TsazHdC9MGLGGQ', 'type': 'MSG'}, 'page': {'id': 'dsRLXOxjRW6FGjfUayOu3g', 'caption': '\U0001f9e0 Recall time (10 mins)'}}
+msgid "After everything is packed away, bring the children together and ask them about what they did during play time. Ask a few children to share what they did. Show interest and involve other children."
+msgstr "Nasele bapsuse yoke into babuze ukuthi gade benzani ngesikhathi sokudlala. Bawa abambalwa bona batjho ukuthi benzene. Tjengisa ikareko begodu ubabandakanye."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'ureHj8thShSBvlIYO4wFyA', 'name': 'Greeting time'}, 'report': {'id': 'WstNBnPrR6uZ9tE3nzVYTA', 'type': 'MSG'}, 'page': {'id': 'FuQUjbRfRCeuBPXV-QsGCA', 'caption': '👋🏾 Greeting time (10 mins)'}}
+msgid "Say hello to all children when they arrive, and help them find a friend or something to do while the other children arrive. "
+msgstr "Lotjhisa boke abantwana nabafikako, ubarhelebhe ukuthula umngani Awama ukwenza okuthile abanye nabasafikako."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'n6wC5F8lRtWxAQz1465pYg', 'name': 'Large group time'}, 'report': {'id': 'CF4rppyrTMCYhJCEGQBHXA', 'type': 'MSG'}, 'page': {'id': 'k5PqDTffTB6xA8BD0A7fMg', 'caption': '👩\u200d👧\u200d👦 Large group time (15 min)'}}
+msgid ""
+"This is a fun time for all to get together to play games, act out stories, play music, do exercise, sing songs or dance.\r\n"
+"\r\n"
+"You can repeat these activities more often than the small-group ones, especially if there’s a game the children enjoy. But just to keep things fresh I have some activity ideas for you in the menu. \r\n"
+msgstr ""
+"Lesi sikhathi esimnandi sokuthi badlale boke ndawonye imidlalo, balingise, balalele umculo, bazithabulule, bacule bebajide. \r\n"
+"\r\n"
+"Ungabuyelela imisebenzi le ukudlula yeenqhema ezincane, khulukhulu nange kuAwamdlalo abawuthandako. Kodwana qinisekisa ukuthi kutjha ngombana nginemiboAwa eminye erhelweni."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '6tFTFaskRWWu9PWZl9UVxw', 'name': 'Planning time'}, 'report': {'id': 'aHy4x3crQY-yV-qvxWqkaw', 'type': 'MSG'}, 'page': {'id': 'ER14sBwLRNKV7uURY667kw', 'caption': '📝 Planning time (10 min)'}}
+msgid ""
+"This is where give each child a chance to talk about what they are going to do in their play time. It lets them decide how they spend the next hour, share ideas and feel included. \r\n"
+"\r\n"
+"Use props to help them talk about their plans."
+msgstr ""
+"La kulapho unikela khona woke umntwana ithuba lokkhuluma ngalokhu abazokwenza ngesikhathi sabo sokudlala. Kubenza bakhethe ukuthi i-iri elilandelako bazakulichitha bunjani, babelane imiboAwa bazizwe babandakanyeka. \r\n"
+"\r\n"
+"Sebenzisa izinsiza ukurhelebha ukukhuluma ngamahlelo wabo."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'V9GnVf_gT2iv_mT64lFxUQ', 'type': 'MSG'}, 'page': {'id': 'z7EPmK3qSrqCAnuOllneGw', 'caption': ''}}
+msgid "I hope this helped you plan your day. You can come back anytime to go over the steps again. Would you like to see those activity ideas or go back to the main menu."
+msgstr "Ngithemba ukuthi lokhu kukwazile ukukurhelebha ukuhlela ilanga lakho.Ungabuya Awama yinini ubuyelele amagadango la godu. Ungathanda ukuqala leyo miboAwa Awama ubuyele erhelweni?"
+
+msgid ""
+"SmartStart has a clear 3-hour routine designed to help you children learn lots of new and exciting skills and concepts. 🌞\r\n"
+msgstr "I-SmartStart inerhrrho lama iri ama-3 enzelwe ukukurhelebha bona abantwana bakho bafunde amakghoAwa Awamcabango omutjha Awakarisako. 🌞"
+
+msgid "Once everyone is there, gather around the message board to start the day. 💬 use the message board to share news about that day and what they will be doing by pointing to the symbols and talking to the children."
+msgstr "Nasele bakhona boke thoma usuku ngokuthi uye nabo kubhodi yomlayezo. 💬 Sebenzisa ibhodi yomlayezo le ukwabelana iindaba zelanga Awakuthi bazokwenzani ngokukhomba amatshwayo Awakukhuluma nabantwana."
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'V9GnVf_gT2iv_mT64lFxUQ', 'type': 'MSG'}, 'page': {'id': 'z7EPmK3qSrqCAnuOllneGw', 'caption': ''}, 'button': {'id': 'reIlGVXcTRmN3wWPc8fxbQ', 'label': 'Go to main menu'}}
+msgid "Go to main menu"
+msgstr "Buyela erhelweni"
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}, 'button': {'id': '3w4ryNmHTeemjY6Xma4TFA', 'label': 'Go back to menu'}}
+msgid "Go back to menu"
+msgstr "Buyela erhelweni"
+
+msgid ""
+"\r\n"
+"Here’s each step of the daily programme with a suggested time limit:\r\n"
+"\r\n"
+"• Greeting time (10 minutes) \r\n"
+"• Message-board time (10 minutes)\r\n"
+"• Small-group time (15-20 minutes)\r\n"
+"• Planning time (10 minutes)\r\n"
+"• Playtime (60 minutes)\r\n"
+"• Cleanup time (10 minutes)\r\n"
+"• Recall time (10 minutes)\r\n"
+"• Big-group time (15 minutes)\r\n"
+"• Story time (10 minutes)\r\n"
+msgstr ""
+"Nali igadango lehlelo langemihla nesikhathi esiphakamisiweko:\r\n"
+"\r\n"
+"• Isikhathi sokulotjhisa (imizuzu eli -10) \r\n"
+"• Isikhathi sebhodi yomlayezo (imizuzu eli -10)\r\n"
+"• Isikhathi sesiqhema esincane (imizuzu eli -15-20)\r\n"
+"• Isikhathi sokuhlela (imizuzu eli -10)\r\n"
+"• Isikhathi sokudlala (imizuzu ema -60)\r\n"
+"• Isikhathi sokuhlwenga (imizuzu eli -10)\r\n"
+"• Isikhathi sokubuyelela (imizuzu eli - 10)\r\n"
+"• Isikhathi sesiqhema esukhulu (imizuzu eli -15)\r\n"
+"• Isikhathi seAwalwana (imizuzu eli -10)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}}
+msgid "Do you want me to explain the programme steps more, see some activity ideas, or go back to the menu?"
+msgstr "Ufuna ngihlathulule amagadango la ngokuzeleko, qala eminye imiboAwa yeemfundo Awama Buyela erhelweni?"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'OD__6nL_TUi5w5DyP-b7Eg', 'type': 'MSG'}, 'page': {'id': '5encqPNvTYShKDuUgdOoHQ', 'caption': '📖 Story time (20 min)'}}
+msgid ""
+"This is normally the last step of the day. \r\n"
+"\r\n"
+"After all the excitement of the day it’s nice to sit down together and hear a story. You can read it or tell it, make faces, do voices and ask the children questions about the story. 🎭\r\n"
+"\r\n"
+"Stories develop language skills as well as get the children thinking, imagining and concentrating.\r\n"
+msgstr ""
+"Kanengi leli ligadango lokugcina lelanga.  \r\n"
+"\r\n"
+"Nasele bathabile, kuhle bona bahlale phasi balalele iAwalwana. Ungabafundela Awama ubacocele yona, wenze ubuso, iphimbo bese ubuza abantwana imibuzo. 🎭\r\n"
+"\r\n"
+"IiAwalwana zithuthukisa amakghoAwa welimi, zenza abantwana bacabange, babone begodu balalelisise."
+

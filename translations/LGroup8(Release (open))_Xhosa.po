@@ -1,0 +1,119 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: xho\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '_UxrwmBRSOKKuNcvEKJaHg', 'name': 'Extra notes'}, 'report': {'id': 'kPK8WYYHQJen4Y_spJDRSQ', 'type': 'MSG'}, 'page': {'id': '5j4CUztrRkeS12LnLmV5vQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '05cEpsSrQQysrPjz98BaOA', 'name': 'How it works'}, 'report': {'id': 'LStslbVaR2a_XZ6RRMazyw', 'type': 'MSG'}, 'page': {'id': 'u9GA5J20R_mYkBw8Ye7G7Q', 'caption': 'See how it works'}, 'button': {'id': '7DNx5p11TmKRyQ4W60V-QA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanqaku"
+
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '_UxrwmBRSOKKuNcvEKJaHg', 'name': 'Extra notes'}, 'report': {'id': 'kPK8WYYHQJen4Y_spJDRSQ', 'type': 'MSG'}, 'page': {'id': '5j4CUztrRkeS12LnLmV5vQ', 'caption': 'Read the notes'}, 'button': {'id': '4bljWrCwQKq05mKbXBSJsA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kwimenyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'I5yFtlVEQECE2jak9cu7rg', 'name': 'Skills developed'}, 'report': {'id': 'uNmTA-ebQYqUGWfb7VzMjQ', 'type': 'MSG'}, 'page': {'id': 'ZZ-5yP_aTpeYLiK3_WCNCw', 'caption': 'This game develops'}, 'button': {'id': 'ttaDU4J8RNWFgDiLVmAfLQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'o0IXMgGZReytaJGTdaHalw', 'name': 'What you need'}, 'report': {'id': '9xmM8h3nS06DYMoFKAiN4A', 'type': 'MSG'}, 'page': {'id': 'XEdd9hyRSjqDzRM3IPs_gw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona okudingayo"
+
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'o0IXMgGZReytaJGTdaHalw', 'name': 'What you need'}, 'report': {'id': '9xmM8h3nS06DYMoFKAiN4A', 'type': 'MSG'}, 'page': {'id': 'XEdd9hyRSjqDzRM3IPs_gw', 'caption': 'See what you need'}, 'button': {'id': 'PHpMZZlCRZ-rNNsX_FhmGQ', 'label': 'See how it works'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '05cEpsSrQQysrPjz98BaOA', 'name': 'How it works'}, 'report': {'id': 'LStslbVaR2a_XZ6RRMazyw', 'type': 'MSG'}, 'page': {'id': 'u9GA5J20R_mYkBw8Ye7G7Q', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Jonga ukuba isebenza njani"
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'o0IXMgGZReytaJGTdaHalw', 'name': 'What you need'}, 'report': {'id': '9xmM8h3nS06DYMoFKAiN4A', 'type': 'MSG'}, 'page': {'id': 'XEdd9hyRSjqDzRM3IPs_gw', 'caption': 'See what you need'}}
+msgid ""
+"The most important thing about this list is that there has to be one per child so that no one feels left out.\r\n"
+"\r\n"
+"1. Clothing for dress up\r\n"
+"2. 1 hat per child\r\n"
+"3. 1 scarf per child\r\n"
+"4. 1 necklace per child\r\n"
+"5. 1 pair of sunglasses per child\r\n"
+"6. Whatever else you have, as long as there is one per child\r\n"
+"7. Music\r\n"
+"8. Space to dance\r\n"
+msgstr ""
+"Into ebalulekile ngoluluhlu kukuba kufuneka kubekho into ibenye kwinto yonke umntwana ngamnye ukuze ngabikho ozibona evaleleke ngapandle. \r\n"
+"\r\n"
+"1. Impahla zokunxiba kakuhle\r\n"
+"2. Umngqwazi om1 kumntwana ngamnye\r\n"
+"3. Isikhafu esi 1 umntwana ngamnye\r\n"
+"4. Ineyiklesi eyi 1 umntwana ngamnye\r\n"
+"5. Ipere yespekisi eyi 1 umntwana ngamnye\r\n"
+"6. Nantoni onayo, kuphela nje umntwana ngamnye abenayo\r\n"
+"7. Umculo\r\n"
+"8. Indawo yokudanisa"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'dLDAUgvJQcS3GpBXFDETaA', 'name': 'Start'}, 'report': {'id': 'Mb7ThifJQhKtXMek5SKh-A', 'type': 'MSG'}, 'page': {'id': 'oyhf_dc-T2elbchMncgxGw', 'caption': 'There’s nothing like a getting Dressed Up. 💅🏿'}}
+msgid "There’s nothing like a getting Dressed Up. 💅🏿"
+msgstr "Akhonto efana nokuNxiba Kakuhle. 💅🏿"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'I5yFtlVEQECE2jak9cu7rg', 'name': 'Skills developed'}, 'report': {'id': 'uNmTA-ebQYqUGWfb7VzMjQ', 'type': 'MSG'}, 'page': {'id': 'ZZ-5yP_aTpeYLiK3_WCNCw', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Lo mdlalo uphuhlisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'I5yFtlVEQECE2jak9cu7rg', 'name': 'Skills developed'}, 'report': {'id': 'uNmTA-ebQYqUGWfb7VzMjQ', 'type': 'MSG'}, 'page': {'id': 'ZZ-5yP_aTpeYLiK3_WCNCw', 'caption': 'This game develops'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Songs , Rhymes & Sounds\r\n"
+msgstr ""
+"✔️Izakhono zasekuhlaleni\r\n"
+"✔️Ingoma isingqi kunye nesandi"
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '05cEpsSrQQysrPjz98BaOA', 'name': 'How it works'}, 'report': {'id': 'LStslbVaR2a_XZ6RRMazyw', 'type': 'MSG'}, 'page': {'id': 'u9GA5J20R_mYkBw8Ye7G7Q', 'caption': 'See how it works'}}
+msgid ""
+"Parents love this game because it teaches children how to dress themselves.\r\n"
+"\r\n"
+"1. Choose 5 types of clothing or props, and make sure there’s enough for each child to have one.\r\n"
+"2. Put the items in the middle of the room. \r\n"
+"3. Make the children form a circle around the pile of clothes and props.\r\n"
+"4. Sing a rhyme or play music.\r\n"
+"5. Get the children to dance around. When the music stops, name an item.\r\n"
+"6. Each child has to grab one of what you’ve said and put it on, then keep dancing.\r\n"
+"7. Carry on until they’re all dressed up.\r\n"
+msgstr ""
+"Abazali bayawu thanda lomdlalo kuba ufundisa abantwana ukuba mabazi nxibise njani. \r\n"
+"\r\n"
+"1. Khetha indidi ezi 5 zamalaphu, kwaye uqinisekise ukuba wonke umntwana uyafuman.\r\n"
+"2. Beka izinto esphakathini sendlu. \r\n"
+"3. Yenza abantwana benze isangqa bejikeleze umqulu wee mpahla nee props.\r\n"
+"4. Cula into okanye udlale umculo.\r\n"
+"5. Funa abantwana badanise. Xa umculo uyeka babize into. \r\n"
+"6. Umntwana ngamnye kufuneka abambe into ubuyi bizile yinxibe, aqhubeleke adanise. \r\n"
+"7. Qhubeleka de bonke banxibe ngokupheleleyo."
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '_UxrwmBRSOKKuNcvEKJaHg', 'name': 'Extra notes'}, 'report': {'id': 'kPK8WYYHQJen4Y_spJDRSQ', 'type': 'MSG'}, 'page': {'id': '5j4CUztrRkeS12LnLmV5vQ', 'caption': 'Read the notes'}}
+msgid ""
+"Here are some clothing ideas:👓👛🧥👒👚👖👔👙👠🧦🧤🎩👕🧣👟🧢👜🕶🎒👗\r\n"
+"A rhyme you can sing:\r\n"
+"\r\n"
+"We are getting dressed\r\n"
+"We must look our best\r\n"
+"Dance dance dance\r\n"
+"And now’s you last chance\r\n"
+"To put your ___________ ON! \r\n"
+msgstr ""
+"Nazi ezinye izimvo ngempahla: 👓👛🧥👒👚👖👔👙👠🧦🧤🎩👕🧣👟🧢👜🕶🎒👗\r\n"
+"Isingqi ongasicula:\r\n"
+"\r\n"
+"Siyanxiba\r\n"
+"Kufuneka sibukeke sibahle ngokugqibeleleyo\r\n"
+"Danisa Danisa Danisa\r\n"
+"Ngoku lithuba lakho lokugqibela\r\n"
+"Ukufaka i ___________ Yakho!"
+

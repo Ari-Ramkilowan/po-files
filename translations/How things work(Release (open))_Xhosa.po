@@ -1,0 +1,94 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: xho\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'HzvaN2KcQxyUNapp4UJfXg', 'name': 'How things work'}, 'report': {'id': '-NrRLHH0S6yDYp7Ucugy8Q', 'type': 'MSG'}, 'page': {'id': 'GtYi-QpJQwe_ixxcHE8CgA', 'caption': ''}, 'button': {'id': 'ZSo6Wh3-Q4-CeVQSbsw-gA', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'MEZeonBfR9a2mJhhvSR7rg', 'name': 'How things work - Meeting attendance'}, 'report': {'id': 'Gnx6N0yTTayYYUsPaBrK8A', 'type': 'MSG'}, 'page': {'id': 'tzRLqv7XRhmeqj0ISc-Ghg', 'caption': ''}, 'button': {'id': 'QFLsEREgTFO2oWrg5kyLfA', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'UzpS749BTcWwi8k2B-JJhA', 'name': 'How things work - activity ideas'}, 'report': {'id': 'z0M77CXCQqKE4_jXdeV2_A', 'type': 'MSG'}, 'page': {'id': 'VeLj6sE4R2KQm4y5m_dmsA', 'caption': ''}, 'button': {'id': '9c9i-FsjSrCV0aNtXJNonQ', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'jGNJkU8jRZKmdjN-yI_SMQ', 'name': 'How things work - child attendance'}, 'report': {'id': 'k2O346EFTNWGLuq6MbaMKQ', 'type': 'MSG'}, 'page': {'id': 'ouKHrqnlT-qY1ZTHknnB2g', 'caption': 'SmartStart is designed to have very little paperwork, so you can focus on the kids. The first way we do that is filing the paperwork for you. 📄'}, 'button': {'id': 'UtryrY_XQv6DMIE1SEmuXw', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'hvH3Ev_GRxa-ogkygOKJQg', 'name': 'How things work - location'}, 'report': {'id': 'APCfIZX7Rje6RYtKi4cDfw', 'type': 'MSG'}, 'page': {'id': '8SpqsoFvTKqAYpxSlGRlFw', 'caption': ''}, 'button': {'id': 'Wm10A_C6TfC-I4ViLzzyww', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'M0uNRuG5TX-ob62oSAXmLQ', 'name': 'How things work - daily routine'}, 'report': {'id': '60nFaafWQu6JYRd5W3Cb5A', 'type': 'MSG'}, 'page': {'id': '_IopbMfbRkCg8o6ARr1gaw', 'caption': ''}, 'button': {'id': 'HgiJNj6aSyW74-NiSDYF1A', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': '1OQiqNACRk-WJPgw2V_k-w', 'name': 'How things work - my coach'}, 'report': {'id': 'D1vAHZAIQoKX3y6rFAWrXw', 'type': 'MSG'}, 'page': {'id': 'MEiHUgIwRxG-XblCWYxtIA', 'caption': ''}, 'button': {'id': 'f5NwkVz-Sq6NNIvdef4Wcw', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'ISAn_9i4QgGpPzXd_5Tfug', 'name': 'How things work - my league'}, 'report': {'id': 'tnVJky42QXu9QkKEEjQ63A', 'type': 'MSG'}, 'page': {'id': 'mLSB_NloSw6KBD-P-Qs6iw', 'caption': ''}, 'button': {'id': 'AeLJTuXoRWCL-50p9t07tg', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'GKqnReStSM2ItGrVHnAWwg', 'name': 'How things work - your details'}, 'report': {'id': 'RdEgw7LRSqKbuQdsC7TlHQ', 'type': 'MSG'}, 'page': {'id': 'FuhQlm99RGOXkbplEsvaqA', 'caption': ''}, 'button': {'id': 'P3p12_E0Q8O6pgA2-SmpRQ', 'label': 'Back to menu'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'g-J1QY67SbmqXabltwUygQ', 'name': 'how things work - child registration'}, 'report': {'id': 'BLlxg6yPQn2rQJ2AZB8RkQ', 'type': 'MSG'}, 'page': {'id': 'zA9Q8jFyQByo4Cg-R56Ulg', 'caption': 'New child registration'}, 'button': {'id': 'rsBzjYX9SvykRt5qT0WQ0A', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kwimenyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'g-J1QY67SbmqXabltwUygQ', 'name': 'how things work - child registration'}, 'report': {'id': 'BLlxg6yPQn2rQJ2AZB8RkQ', 'type': 'MSG'}, 'page': {'id': 'zA9Q8jFyQByo4Cg-R56Ulg', 'caption': 'New child registration'}}
+msgid "If a new child attends your class you can add them onto the register using WhatsApp. Just follow the instructions and take photos of the relevant documents when necessary."
+msgstr "Ukuba umntwana omtsha uye esikolweni sakho ungazifaka kwiRejista usebenzisa i-WhatsApp. Landela nje imiyalelo uze uthathe iifoto zamaphepha afanelekileyo xa kuyimfuneko."
+
+#f: {'context': 'caption', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'g-J1QY67SbmqXabltwUygQ', 'name': 'how things work - child registration'}, 'report': {'id': 'BLlxg6yPQn2rQJ2AZB8RkQ', 'type': 'MSG'}, 'page': {'id': 'zA9Q8jFyQByo4Cg-R56Ulg', 'caption': 'New child registration'}}
+msgid "New child registration"
+msgstr "Ukubhalisa umntwana"
+
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'HzvaN2KcQxyUNapp4UJfXg', 'name': 'How things work'}, 'report': {'id': '-NrRLHH0S6yDYp7Ucugy8Q', 'type': 'MSG'}, 'page': {'id': 'GtYi-QpJQwe_ixxcHE8CgA', 'caption': ''}, 'button': {'id': 'wmRcEn5OSgKW1RT3bfnx_Q', 'label': "Let's go!"}}
+msgid "Let's go!"
+msgstr "Masihambe!"
+
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'UzpS749BTcWwi8k2B-JJhA', 'name': 'How things work - activity ideas'}, 'report': {'id': 'z0M77CXCQqKE4_jXdeV2_A', 'type': 'MSG'}, 'page': {'id': 'VeLj6sE4R2KQm4y5m_dmsA', 'caption': ''}, 'button': {'id': 'ft73tnVmTxql6KwBCfNRBA', 'label': 'What else can I do here?'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'jGNJkU8jRZKmdjN-yI_SMQ', 'name': 'How things work - child attendance'}, 'report': {'id': 'k2O346EFTNWGLuq6MbaMKQ', 'type': 'MSG'}, 'page': {'id': 'ouKHrqnlT-qY1ZTHknnB2g', 'caption': 'SmartStart is designed to have very little paperwork, so you can focus on the kids. The first way we do that is filing the paperwork for you. 📄'}, 'button': {'id': 'VbF2zv2gQKyD2SlP2ycQPA', 'label': 'What else can I do here?'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'hvH3Ev_GRxa-ogkygOKJQg', 'name': 'How things work - location'}, 'report': {'id': 'APCfIZX7Rje6RYtKi4cDfw', 'type': 'MSG'}, 'page': {'id': '8SpqsoFvTKqAYpxSlGRlFw', 'caption': ''}, 'button': {'id': 'e6Ctr3s4Rki7Or9zu-LMOA', 'label': 'What else can I do here?'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'M0uNRuG5TX-ob62oSAXmLQ', 'name': 'How things work - daily routine'}, 'report': {'id': '60nFaafWQu6JYRd5W3Cb5A', 'type': 'MSG'}, 'page': {'id': '_IopbMfbRkCg8o6ARr1gaw', 'caption': ''}, 'button': {'id': 'EJlpiaH5QxqQt9lEjIqv4Q', 'label': 'What else can I do here?'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': '1OQiqNACRk-WJPgw2V_k-w', 'name': 'How things work - my coach'}, 'report': {'id': 'D1vAHZAIQoKX3y6rFAWrXw', 'type': 'MSG'}, 'page': {'id': 'MEiHUgIwRxG-XblCWYxtIA', 'caption': ''}, 'button': {'id': 'ffRrE7iETqaTNkaeBPDpKg', 'label': 'What else can I do here?'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'ISAn_9i4QgGpPzXd_5Tfug', 'name': 'How things work - my league'}, 'report': {'id': 'tnVJky42QXu9QkKEEjQ63A', 'type': 'MSG'}, 'page': {'id': 'mLSB_NloSw6KBD-P-Qs6iw', 'caption': ''}, 'button': {'id': '6CVIhO4sT4i72R35nKRpag', 'label': 'What else can I do here?'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'GKqnReStSM2ItGrVHnAWwg', 'name': 'How things work - your details'}, 'report': {'id': 'RdEgw7LRSqKbuQdsC7TlHQ', 'type': 'MSG'}, 'page': {'id': 'FuhQlm99RGOXkbplEsvaqA', 'caption': ''}, 'button': {'id': 'lpRljOa_SiaeLWcoA-2trQ', 'label': 'What else can I do here?'}}
+#f: {'context': 'label', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'g-J1QY67SbmqXabltwUygQ', 'name': 'how things work - child registration'}, 'report': {'id': 'BLlxg6yPQn2rQJ2AZB8RkQ', 'type': 'MSG'}, 'page': {'id': 'zA9Q8jFyQByo4Cg-R56Ulg', 'caption': 'New child registration'}, 'button': {'id': 'iOySo1A8T8qY5UidV3tWCQ', 'label': 'What else can I do here?'}}
+msgid "What else can I do here?"
+msgstr "Yintoni enye endingayenza apha?"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'MEZeonBfR9a2mJhhvSR7rg', 'name': 'How things work - Meeting attendance'}, 'report': {'id': 'Gnx6N0yTTayYYUsPaBrK8A', 'type': 'MSG'}, 'page': {'id': 'tzRLqv7XRhmeqj0ISc-Ghg', 'caption': ''}}
+msgid "You can tell me if you attended a meeting and received the right info. ℹ "
+msgstr "Ungandixelela ukuba uzimasa intlanganiso ufumane iinkcukacha ezilungileyo. ℹ"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'hvH3Ev_GRxa-ogkygOKJQg', 'name': 'How things work - location'}, 'report': {'id': 'APCfIZX7Rje6RYtKi4cDfw', 'type': 'MSG'}, 'page': {'id': '8SpqsoFvTKqAYpxSlGRlFw', 'caption': ''}}
+msgid "I might ask you to confirm where your SmartSchool school is by dropping a pin from time to time . 📍"
+msgstr "Ndingakucela ukuba wenze isiqinisekiso sesikolo sakho se SmartStart ngokushiya pin onke amaxesha. 📍"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'HzvaN2KcQxyUNapp4UJfXg', 'name': 'How things work'}, 'report': {'id': '-NrRLHH0S6yDYp7Ucugy8Q', 'type': 'MSG'}, 'page': {'id': 'GtYi-QpJQwe_ixxcHE8CgA', 'caption': ''}}
+msgid "First off {{trans.nickname}}, can I show you around?"
+msgstr "Okokuqala  {{trans.nickname}},ndingabonisa jikelele?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'jGNJkU8jRZKmdjN-yI_SMQ', 'name': 'How things work - child attendance'}, 'report': {'id': 'k2O346EFTNWGLuq6MbaMKQ', 'type': 'MSG'}, 'page': {'id': 'ouKHrqnlT-qY1ZTHknnB2g', 'caption': 'SmartStart is designed to have very little paperwork, so you can focus on the kids. The first way we do that is filing the paperwork for you. 📄'}}
+msgid "SmartStart is designed to have very little paperwork, so you can focus on the kids. The first way we do that is filing the paperwork for you. 📄"
+msgstr "ISmartStart yenzelwe ibenomsebenzi omncinci kakhulu wamaphepha, ukuze ujonane nbantwana. Indlela yokuqala esenza ngayo oku kukugcwalisa amaphepha. 📄"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'jGNJkU8jRZKmdjN-yI_SMQ', 'name': 'How things work - child attendance'}, 'report': {'id': 'k2O346EFTNWGLuq6MbaMKQ', 'type': 'MSG'}, 'page': {'id': 'ouKHrqnlT-qY1ZTHknnB2g', 'caption': 'SmartStart is designed to have very little paperwork, so you can focus on the kids. The first way we do that is filing the paperwork for you. 📄'}}
+msgid "You can update your child-attendance registers right here and upload a photo of the paper. 📷"
+msgstr "UsenokuYou can update your child-attendance registers right here and upload a photo of the paper. 📷"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'M0uNRuG5TX-ob62oSAXmLQ', 'name': 'How things work - daily routine'}, 'report': {'id': '60nFaafWQu6JYRd5W3Cb5A', 'type': 'MSG'}, 'page': {'id': '_IopbMfbRkCg8o6ARr1gaw', 'caption': ''}}
+msgid "Need a reminder about how the daily routine works? You can go through the steps anytime right here. 🕐"
+msgstr "Udinga isikhumbuzo sokuba isebenza njani i routin yemihla ngemihla? You can go through the steps anytime right here. 🕐"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'UzpS749BTcWwi8k2B-JJhA', 'name': 'How things work - activity ideas'}, 'report': {'id': 'z0M77CXCQqKE4_jXdeV2_A', 'type': 'MSG'}, 'page': {'id': 'VeLj6sE4R2KQm4y5m_dmsA', 'caption': ''}}
+msgid "I also have lots of ideas for small and large group activities, if you need ideas for how to run a great programme. 👩‍👩‍👧‍👦👩‍👩‍👦‍👦 "
+msgstr "Ndinazo nee mbono ezininzi zamaqela amancinci namakhulu activities, ukuba udinga iimbono zokuba ungayiqhuba njani  i program encomekayo ‍👩‍👧‍👦👩‍👩‍👦‍👦"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'ISAn_9i4QgGpPzXd_5Tfug', 'name': 'How things work - my league'}, 'report': {'id': 'tnVJky42QXu9QkKEEjQ63A', 'type': 'MSG'}, 'page': {'id': 'mLSB_NloSw6KBD-P-Qs6iw', 'caption': ''}}
+msgid "The My League function lets you share photos from your league to increase your points. 🖼"
+msgstr "I My League function ukuvumela ukuba u sherishe ii foto zakho kwi league ukunyusa amanqaku akho. 🖼"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': '1OQiqNACRk-WJPgw2V_k-w', 'name': 'How things work - my coach'}, 'report': {'id': 'D1vAHZAIQoKX3y6rFAWrXw', 'type': 'MSG'}, 'page': {'id': 'MEiHUgIwRxG-XblCWYxtIA', 'caption': ''}}
+msgid "I also have lots of helpful contacts like your coach and club members, in case you need some help. 👥 "
+msgstr "Ndinazo nee nombolo zonxibelelwano eziluncedo njengo mqeqeshi nabadlali beqela, xa unodinga uncedo. 👥"
+
+#f: {'context': 'text', 'workflow': {'id': 'f2P1dIHYR--WWY0gPbdZhA', 'name': 'How things work'}, 'state': {'id': 'GKqnReStSM2ItGrVHnAWwg', 'name': 'How things work - your details'}, 'report': {'id': 'RdEgw7LRSqKbuQdsC7TlHQ', 'type': 'MSG'}, 'page': {'id': 'FuhQlm99RGOXkbplEsvaqA', 'caption': ''}}
+msgid "You can also quickly and easily update your details if you change your number or move locations. 🏘"
+msgstr "Ngokukhawuleza  kwaye lula ungavuselela iinkcukacha zakho ukuba utshintsha inombolo yakho okanye utshintsa indawo yokuhlala. 🏘"
+

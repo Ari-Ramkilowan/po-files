@@ -1,0 +1,108 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'DFJBM6vfQxqkUxCDKq20sQ', 'name': 'Skills developed'}, 'report': {'id': 'MSkUyZiUQdeMJCjekF0ZTw', 'type': 'MSG'}, 'page': {'id': 'ny59qnqvTzCtTKInUa_myw', 'caption': 'This game develops:'}, 'button': {'id': 'V6Fx8AyRRkavHWn6HVrmKw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'E7ysHhKKTfW1g_iHfkNN8Q', 'name': 'What you need'}, 'report': {'id': 'au5AKky_TW2vsxTAZyJFeQ', 'type': 'MSG'}, 'page': {'id': 'EDzcuYBzSHmg_zktes-w4Q', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '2vmnVDAdSP2O84czgF0xPw', 'name': 'How it works'}, 'report': {'id': 'qHR2s4dMRmSYd95S-QX6lg', 'type': 'MSG'}, 'page': {'id': 'y67C7G26QGGGLWZph4b05w', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'E7ysHhKKTfW1g_iHfkNN8Q', 'name': 'What you need'}, 'report': {'id': 'au5AKky_TW2vsxTAZyJFeQ', 'type': 'MSG'}, 'page': {'id': 'EDzcuYBzSHmg_zktes-w4Q', 'caption': 'See what you need'}, 'button': {'id': 'CmwmatThQxWIFsGV8YhBvw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '2vmnVDAdSP2O84czgF0xPw', 'name': 'How it works'}, 'report': {'id': 'qHR2s4dMRmSYd95S-QX6lg', 'type': 'MSG'}, 'page': {'id': 'y67C7G26QGGGLWZph4b05w', 'caption': 'See how it works'}, 'button': {'id': 'mGBHCd3ySzCQmWkWuEcqTA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'PcVL9lrrSbCo-4b87Jxb1Q', 'name': 'Extra notes'}, 'report': {'id': 'nwUX57O1RZ2HaenB7mwj8Q', 'type': 'MSG'}, 'page': {'id': 'l8qPEubuSyCeSALiU0lCjQ', 'caption': 'This is the story, as well as Mandla’s actions and emotions:'}, 'button': {'id': 'DBC36XkiT4Ci6FrG1ilylQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'DFJBM6vfQxqkUxCDKq20sQ', 'name': 'Skills developed'}, 'report': {'id': 'MSkUyZiUQdeMJCjekF0ZTw', 'type': 'MSG'}, 'page': {'id': 'ny59qnqvTzCtTKInUa_myw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ena e ntshetsa pele:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '4wrLmNVPSECHjlzoOt0Olw', 'name': 'Start'}, 'report': {'id': 'N38II74ERWyBW2cuWhcyjg', 'type': 'MSG'}, 'page': {'id': 'OWZ8lf_1SgODloYMq2EUkg', 'caption': 'Why not tell The Feelings Story? 🎭'}}
+msgid "Why not tell The Feelings Story? 🎭"
+msgstr "Hobaneng o sa phete Pale ya Maikutlo? 🎭"
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'DFJBM6vfQxqkUxCDKq20sQ', 'name': 'Skills developed'}, 'report': {'id': 'MSkUyZiUQdeMJCjekF0ZTw', 'type': 'MSG'}, 'page': {'id': 'ny59qnqvTzCtTKInUa_myw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Emotional\r\n"
+msgstr ""
+"✔️Bokgoni ho tsa phedisano\r\n"
+"✔️Bokgoni ba maikutlo"
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'E7ysHhKKTfW1g_iHfkNN8Q', 'name': 'What you need'}, 'report': {'id': 'au5AKky_TW2vsxTAZyJFeQ', 'type': 'MSG'}, 'page': {'id': 'EDzcuYBzSHmg_zktes-w4Q', 'caption': 'See what you need'}}
+msgid "This game is all about imagination, so all you need is the children, and the story in the notes,or you can use puppets. "
+msgstr "Papadi ena e mabapi le ho inahanela, kahoo, seo o se hlokang ke bana, le pale e ho dinoutso, kapa o ka nna wa sebedisa diphapete."
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '2vmnVDAdSP2O84czgF0xPw', 'name': 'How it works'}, 'report': {'id': 'qHR2s4dMRmSYd95S-QX6lg', 'type': 'MSG'}, 'page': {'id': 'y67C7G26QGGGLWZph4b05w', 'caption': 'See how it works'}}
+msgid ""
+"Get ready for some acting! Lights, camera, action! 🎬\r\n"
+"\r\n"
+"1. Tell the children the story, using puppets if you have them.\r\n"
+"2. If not, use lots of actions, facial expressions and different voices to make it exciting. \r\n"
+"3. Then ask the children to stand up.\r\n"
+"4. Tell them the story again, one line at a time and ask the children to do the actions of the character Mandla.\r\n"
+"5. Also encourage them to do facial expressions by saying, “what does a sad face look like?” or “show me a happy face.”\r\n"
+"6. Encourage them to take part and do any action they want to, so that they’re a part of the story."
+msgstr ""
+"Itokisetse ho tshwantshisa! Mabone, khemera, Etsa! 🎬 \r\n"
+"\r\n"
+"1. Phetela bana pale, o sebedisa diphapete haeba o ena le tsona. \r\n"
+"2. Ho seng jwalo, sebedisa diketso tse ngata, dipontsho tsa sefahleho le mantswe a fapaneng ho e natefisa. \r\n"
+"3. Jwale kopa bana hore ba eme ka maoto.\r\n"
+"4. Ba phetele pale hape, mola o le mong ka nako mme o kope bana ho etsa diketso tsa mophetwa Mandla.\r\n"
+"5. Hape ba kgothaletse ho etsa dipontsho tsa sefahleho ka hore, “Sefahleho se hlonameng se shebeha jwang?” kapa “Mpontshe sefahleho se thabileng.”\r\n"
+"6. Ba kgothaletse ho nka karolo mme ba etse ketso efe kapa efe eo ba e batlang, ele hore ba tle ba be karolo ya pale."
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'PcVL9lrrSbCo-4b87Jxb1Q', 'name': 'Extra notes'}, 'report': {'id': 'nwUX57O1RZ2HaenB7mwj8Q', 'type': 'MSG'}, 'page': {'id': 'l8qPEubuSyCeSALiU0lCjQ', 'caption': 'This is the story, as well as Mandla’s actions and emotions:'}}
+msgid ""
+"1. Mandla wants to go and play with his friend Lebo (he’s excited) 😃\r\n"
+"2. Mandla’s mama says he can go (he’s happy) 🙂\r\n"
+"3. Mandla walks to Lebo’s house (he’s walking)🚶\r\n"
+"4. When he gets to Lebo’s house she’s not there (he’s sad) 😞\r\n"
+"5. So Mandla sits on the step and waits for her (he sits and feels tired) 😓  \r\n"
+"6. Lebo’s mama arrives (he’s pleased) 😁and Mandla asks where Lebo is (he’s polite) 🗣\r\n"
+"7. She says that Lebo has gone to Mandla’s house (he’s surprised) 😱\r\n"
+"8. Mandla runs home to find Lebo (he’s running). 🏃\r\n"
+"9. She is there and he is happy. 😆\r\n"
+"10. He hugs her. 🤗\r\n"
+"\r\n"
+"You can add to the story to make it more exciting and give the children more chances to mime actions or express feelings."
+msgstr ""
+"1. Mandla o batla ho ya bapala le motswalle wa hae Lebo (o nyakalletse.) 😃\r\n"
+"2. Mme wa Mandla o re a ka nna a tsamaya (o thabile). 🙂\r\n"
+"3. Mandla o ya habo Lebo (o a tsamaya).🚶\r\n"
+"4. Ha a fihla habo Lebo o fumana a le siyo (o hloname). 😞\r\n"
+"5. Kahoo Mandla o dula ditepising mme o emela Lebo (o a dula mme o utlwa a kgathetse). 😓  \r\n"
+"6. Mme wa Lebo o a fihla (Mandla o thabile) 😁 mme o botsa hore Lebo o kae (ka tlhompho). 🗣\r\n"
+"7. O re Lebo o ile habo Mandla (Mandla o maketse). 😱\r\n"
+"8. Mandla o mathela habo ho ya batla Lebo (o a matha). 🏃\r\n"
+"9. O teng mme Mandla o thabile. 😆\r\n"
+"10. O a mo haka. 🤗\r\n"
+"\r\n"
+"O ka nna wa eketsa paleng ena ho e natefisa haholwanyane mme wa fa bana menyetla e mmalwa ya ho etsisa diketso ba sa bue kapa ho bontsha maikutlo."
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'PcVL9lrrSbCo-4b87Jxb1Q', 'name': 'Extra notes'}, 'report': {'id': 'nwUX57O1RZ2HaenB7mwj8Q', 'type': 'MSG'}, 'page': {'id': 'l8qPEubuSyCeSALiU0lCjQ', 'caption': 'This is the story, as well as Mandla’s actions and emotions:'}}
+msgid "This is the story, as well as Mandla’s actions and emotions:"
+msgstr "Ena ke pale, esitana le diketso le maikutlo a Mandla:"
+

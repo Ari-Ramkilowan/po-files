@@ -1,0 +1,142 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nbl\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}}
+msgid ""
+"Need some inspiration? Keep the game going with questions like these:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• Look around and choose an item that everyone can see.\r\n"
+"• Don’t tell the others what it is.\r\n"
+"• Then say “I spy with my little eye, something that is green.”\r\n"
+"• Let the children guess what it is by calling out all the green things they see.\r\n"
+"• Try not to make it too difficult.\r\n"
+"\r\n"
+"Level 2\r\n"
+"• Then say “I spy with my little eye, something beginning with ‘w’.”\r\n"
+"• Use the sound “w”, not the letter.\r\n"
+"• Let the kids guess the item.\r\n"
+"• Give each child a turn to take a guess.\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Then say “I spy with my little eye, something beginning with ‘ch’.”\r\n"
+"• Use the sound “ch”, not the letter.\r\n"
+"• Let the kids guess the item.\r\n"
+"• Give each child a turn to take a guess.\r\n"
+"\r\n"
+msgstr ""
+"Udinga ukugcugcuzeleka? Gcina umdlalo ngokubuza imibuzo efana nale:\r\n"
+"\r\n"
+"Ileveli yoku - 1\r\n"
+"•Qala qala bese ukhetha into ebonwa ngiAwama ngubani.\r\n"
+"• Ungabatjeli abanye ukuthi khuyini.\r\n"
+"• Bese uthi “Ngiyahlola ngamehlwami amancane, into elaza.”\r\n"
+"• Balise baqagele ngokubiza zoke izinto ezihlaza abazibonako.\r\n"
+"• Zama ukewenza kungabi budisi khulu.\r\n"
+"\r\n"
+"Ileveli Iyei - 2\r\n"
+"• Bese uthi “Ngiyahlola ngamehlwami amancani, into ethoma ngo ‘w’.”\r\n"
+"• Yenza umsindo ka - “w”, Hhayi ihlamvu.\r\n"
+"• Balise baqagele.\r\n"
+"• Nikela woke umntwana ithuba lokuqagela.\r\n"
+"\r\n"
+"Ileveli Iyei - 3\r\n"
+"• Bese uthi “Ngiyahlola ngamehlwami amancane, into ethoma ngo ‘ch’.”\r\n"
+"• Sebenzisa umsindo “ch”, hhayi ihlamvu.\r\n"
+"• Balise baqagele.\r\n"
+"•.Nikela woke umntwana ithuba lokuqagela"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}}
+msgid ""
+"We’re taking I Spy to the next level with some eye glasses. Here’s what you’ll need 👓:\r\n"
+"• 2 used toilet rolls per child.\r\n"
+"• String.\r\n"
+"• Scissors.\r\n"
+"• 2 sticks per child.\r\n"
+"• Cellotape.\r\n"
+msgstr ""
+"Sithatha I - I Spy to the next level neembuko samehlo. Nakhu ozakutlhoga 👓:\r\n"
+"\r\n"
+"• amarolo ama -2 wethoyilethi asebenzile, umntwana ngamunye\r\n"
+"• Intambo\r\n"
+"• Iinkere\r\n"
+"• Iigodo ezi - 2 umntwana ngamunye\r\n"
+"• Isalotheyiphi"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}, 'button': {'id': 'jF2ukqmrTtWc9741rO1llQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amaAwathi"
+
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}, 'button': {'id': 'U-ibfIN3SDWjVTXDG5a2Hg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela erhelweni"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}}
+msgid ""
+"You’ll be showing these cool kids how to make a pair of glasses.😎\r\n"
+"\r\n"
+"1. Cut the toilet roll into 2 rings and tie them together to make glasses\r\n"
+"2. Attach the sticks to the sides of the glasses to make the ‘arms’ of the glasses.\r\n"
+"3. Support the younger kids.\r\n"
+"4. Encourage the older ones to this on their own.\r\n"
+"5. Ask the children to put their glasses on and talk about what glasses do.\r\n"
+"6. Play I Spy: Find something in the room that everyone can see, for example, a table.\r\n"
+"7. Say: “I Spy with my little eye, something beginning with ‘t’ (sound)”\r\n"
+"8. Let each child have a turn guessing.\r\n"
+"9. Walk around the room and tell them what you see through your glasses.\r\n"
+"10. Get them to walk with you, glasses on!\r\n"
+msgstr ""
+"Uzakutjengisa abantwana abahlakaniphileko laba ukwenza amarhalasi wamehlo.😎\r\n"
+"\r\n"
+"1.Sika irolo libe ziquntu ezimbilibese uyawabopha ukwenza ammarhalasi.\r\n"
+"2.Namathisela iiAwado emaqadi wamarhalasi ukwenza ‘imikhoAwa’ yamarhalasi.\r\n"
+"3.Thekga abantwana abancane.\r\n"
+"4.Khuthaza abantwana abakhulu bazenzele bona ngokwabo.\r\n"
+"5.Tjela abantwana bona bambathe amarhalasi wabo begodu batjho ukuthi ngewokwenzani.\r\n"
+"6.Dlala - I Spy (Ngiyahlola): Thola into ngekamureni engabowa Awama ngubani, isibonelo, itafula.\r\n"
+"7.Ithi: “I Spy ngamehlo wami amancane, into ethoma ngo ‘t’ (itjhada)”\r\n"
+"8.Vumela woke umntwana ukuthi aqagele.\r\n"
+"9.Khamba khamba ubatjele ukuthi 10.Khamba khambani Awake, nifake amarhalasi!"
+
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}, 'button': {'id': 'kTfYyGdGTqiNGc-K58FUYg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona ukuthi utlhoga ini"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}, 'button': {'id': 'fZG_NPWVQhS_B3nGtnHuoQ', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ukuthi isebenza bunjani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'qAj4_S_OTmyrRvPu5Fieow', 'name': 'Start'}, 'report': {'id': 'EyRB-WceRHyXm0L4tGl2cA', 'type': 'MSG'}, 'page': {'id': '4s_6m2keRL-5ILewiJwFEg', 'caption': ' We put a spin on the classic game, I Spy. 🔍'}}
+msgid " We put a spin on the classic game, I Spy. 🔍"
+msgstr "Sidlala ngobutjha umdlalo othi, I Spy. 🔍"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Umdlalo lo uthuthukisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Early Reading & Writing\r\n"
+msgstr ""
+"✔️Ophathelene Awamphakathi\r\n"
+"✔️Ukufunda Awakubhala kwekuseni"
+

@@ -1,0 +1,153 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: ven\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'FGcWYj5IT0WWyXHzJiXc1Q', 'name': 'Confirm Language'}, 'report': {'id': 'tQSp8UGiSoSwdrdTNDaCWw', 'type': 'MSG'}, 'page': {'id': '3OuVO2MXR9S0GtmSMglE-Q', 'caption': ''}}
+msgid "Please confirm that your preferred language of communication is *{{ perm.user_language|title }}* ?"
+msgstr "Vha takalela luambo lwa vhudavhidzani lufhio*{{ perm.user_language|title }}* ?"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'W-s_5IGBR9--YqW6GmyzOQ', 'name': 'New User'}, 'report': {'id': '_F5O47kzT4W2q7FnfnfUPQ', 'type': 'MSG'}, 'page': {'id': 'gr-GGbSqRnmjpIDI51Zmig', 'caption': ''}}
+msgid ""
+"What is your first name?\r\n"
+msgstr "Dzina ḽavho ndi ḽifhio?"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': '8RuvFI4dTgiyb_EDi6BFAw', 'name': 'Welcome'}, 'report': {'id': 'nN4tQrMUQUKreDcE-t7edw', 'type': 'MSG'}, 'page': {'id': 'AbI7jZgGTgOQsyET_-itnw', 'caption': ''}}
+msgid "Hi there 👋🏾"
+msgstr "Ri a vusa 👋🏾"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'DiovetabQp2AEzF7jfVa7w', 'name': "Congratulations you're verified"}, 'report': {'id': 'v61m2UbxSiekGHH5-5ukZg', 'type': 'MSG'}, 'page': {'id': 'SwrnywV4SZ2jzO5hfZDZWA', 'caption': ''}}
+msgid "Congratulations {{trans.nickname}}, You've joined Funda's SmartStart community."
+msgstr "Ri khou vha fhululedza Vho {{trans.nickname}}, vho dzhena kha tshitshavha tsha SmartStart tsha Funda."
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': '9B_V91hkQi28Tci0iF6VBg', 'name': 'Introduction'}, 'report': {'id': 'QbYsN492SBO6qnTazxSH6g', 'type': 'MSG'}, 'page': {'id': 'lj04t_5MRSigFIZ698mXLQ', 'caption': ''}}
+msgid "I'm Funda the SmartStart Chatbot."
+msgstr "Ndi nṋe Funda Chatbot ya SmartStart."
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': '-qk1GG9wSzGav76Ia8AE3Q', 'name': 'Not an ID number'}, 'report': {'id': 'n0U-0N0mRtiSUHpH3DDD0g', 'type': 'MSG'}, 'page': {'id': 'W8pnQKF3R_OHvLlWtZRmKg', 'caption': ''}}
+msgid "I'm sorry, that's not a real ID number please try again."
+msgstr "Pfarelo, iyi a si nomboro ya ID yavhukuma, kha vha lingedze hafhu."
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'jTOYhxnJSeOmJtg0MFZRfA', 'label': 'English'}}
+msgid "English"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'QP3313W0SNu7cuAR0Orvug', 'label': 'Zulu'}}
+msgid "Zulu"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'iL3a13VRQUeC4vrhMXBEag', 'label': 'Xhosa'}}
+msgid "Xhosa"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'WAFG-tHMT0KvHY-TY1y6Cw', 'label': 'Afrikaans'}}
+msgid "Afrikaans"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'TiAJpaAFSPmxEkhrrOE-7w', 'label': 'Northern Sotho'}}
+msgid "Northern Sotho"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': '3nm2r5-KQwiH1ezEOjCS3Q', 'label': 'Tswana'}}
+msgid "Tswana"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': '62XhF7tRR-C0QmdeT1lWrQ', 'label': 'Sesotho'}}
+msgid "Sesotho"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'IVVvKDBPT9-OY3vh6_kRuw', 'label': 'Tsonga'}}
+msgid "Tsonga"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'sLCdY2-6R7a2xIgAh9u6WQ', 'label': 'Venda'}}
+msgid "Venda"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': '9eMlFJ8XQoqtlN3SC6NLCA', 'label': 'Swati'}}
+msgid "Swati"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}, 'button': {'id': 'w4q-q_mvRMSnOs7rg7Wz-Q', 'label': 'Ndebele'}}
+msgid "Ndebele"
+msgstr ""
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': '9B_V91hkQi28Tci0iF6VBg', 'name': 'Introduction'}, 'report': {'id': 'QbYsN492SBO6qnTazxSH6g', 'type': 'MSG'}, 'page': {'id': '7p-iZUMeTJ6bTx2MRQFO2w', 'caption': ''}}
+msgid "I'm here to help you, to start I'd like to get to know you a little better."
+msgstr "Ndi fhano u vha thusa, tsha u thoma ndi ḓo tea u thoma nda vha ḓivha khwine"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'lf7Pp-83TKSx2xH-_sPBAw', 'name': 'Ask for Phone Number? (Web Only)'}, 'report': {'id': 'MUhqFBN1RW604q6jE1l_Zw', 'type': 'MSG'}, 'page': {'id': '4h8RqsyvTPeednij9UY-4A', 'caption': 'THIS IS FOR TESTING PURPOSES'}}
+msgid "What is your cellphone number ? {{trans.user_address}}"
+msgstr "Nomboro ya luṱingothendeleki lwavho ndi ifhio ? {{trans.user_address}}"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'iZdRWm1RQMua-7_j3PwXIw', 'name': 'Not an Username'}, 'report': {'id': 'tr1yX0MjSOasRlWMk5PJBQ', 'type': 'MSG'}, 'page': {'id': 'yHEbE9z6QWq-h3_DthBpOA', 'caption': ''}}
+msgid "I'm sorry your username should be a word, please retry."
+msgstr "Pfarelo username yavho i tea u vha ipfi, kha vha lingedze hafhu."
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'FGcWYj5IT0WWyXHzJiXc1Q', 'name': 'Confirm Language'}, 'report': {'id': 'tQSp8UGiSoSwdrdTNDaCWw', 'type': 'MSG'}, 'page': {'id': '3OuVO2MXR9S0GtmSMglE-Q', 'caption': ''}, 'button': {'id': 'g2Vs1LbVQPuPhhoxUzWcpA', 'label': 'No'}}
+msgid "No"
+msgstr "Hai"
+
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'FGcWYj5IT0WWyXHzJiXc1Q', 'name': 'Confirm Language'}, 'report': {'id': 'tQSp8UGiSoSwdrdTNDaCWw', 'type': 'MSG'}, 'page': {'id': '3OuVO2MXR9S0GtmSMglE-Q', 'caption': ''}, 'button': {'id': 'tWFJD4lURGSoTBsKKiV-rQ', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'zhrB_LOtSty1M9xRxbMkKw', 'name': "Can't verify you "}, 'report': {'id': 'FoHwE4S0TnKejIE6315PPA', 'type': 'MSG'}, 'page': {'id': 'FqxMqwMzQxShRPUWDyBJfA', 'caption': ''}, 'button': {'id': 'BUpupi95Q--BgrBLbphlIA', 'label': 'Yes'}}
+msgid "Yes"
+msgstr "Ee"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'FGcWYj5IT0WWyXHzJiXc1Q', 'name': 'Confirm Language'}, 'report': {'id': 'tQSp8UGiSoSwdrdTNDaCWw', 'type': 'MSG'}, 'page': {'id': 'IzPESQlFRzCvZYMpP7vptQ', 'caption': ''}}
+msgid ""
+"Note: that once your language is selected all future communication on Whatsapp will be in your prefered language.\r\n"
+"\r\n"
+"Tip: To change your language later go to Edit my Details ⚙ on the main menu and select Change my Language 🔡."
+msgstr ""
+"\"Kha vha dzhiele nzhele: uri musi vho no nanga luambo, vhudavhidzani hoṱhe ha tshifhinga tshiḓaho kha Whatsapp vhu ḓo itwa nga luambo lwe vha u nanga.\r\n"
+" \r\n"
+" Tsivhudzo: U shandukisa luambo nga murahu kha vha ye kha Edit my Details ⚙ kha menyu vha nange Change my Language 🔡\""
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'mODbIINwR5CIOtMdzZFAEA', 'name': 'Returning User'}, 'report': {'id': 'IZYXP3rzReWfoItSF3KNlA', 'type': 'MSG'}, 'page': {'id': 'WwvdwcLaQhmR5bnLG8ZAMQ', 'caption': ''}}
+msgid "Welcome back {{trans.nickname}} !"
+msgstr "Vho ṱanganedzwa hafhu Vho {{trans.nickname}} !"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'zQgi2GVnTmW05ed7bZyfkw', 'name': 'ID number'}, 'report': {'id': '4Kui8ZvSTy-SEHOWEFWs2w', 'type': 'MSG'}, 'page': {'id': 'YetTflz8Qs2ILtqrFkZZFg', 'caption': ''}}
+msgid "What is your ID number?"
+msgstr "Nomboro yavho ya ID ndi ifhio?"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'zhrB_LOtSty1M9xRxbMkKw', 'name': "Can't verify you "}, 'report': {'id': 'FoHwE4S0TnKejIE6315PPA', 'type': 'MSG'}, 'page': {'id': 'FqxMqwMzQxShRPUWDyBJfA', 'caption': ''}}
+msgid "Would you like to retry to register?"
+msgstr "Vha khou ṱoḓa u lingedza hafhu u ḓiṅwalisa?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'lf7Pp-83TKSx2xH-_sPBAw', 'name': 'Ask for Phone Number? (Web Only)'}, 'report': {'id': 'MUhqFBN1RW604q6jE1l_Zw', 'type': 'MSG'}, 'page': {'id': '4h8RqsyvTPeednij9UY-4A', 'caption': 'THIS IS FOR TESTING PURPOSES'}}
+msgid "THIS IS FOR TESTING PURPOSES"
+msgstr ""
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'zhrB_LOtSty1M9xRxbMkKw', 'name': "Can't verify you "}, 'report': {'id': 'FoHwE4S0TnKejIE6315PPA', 'type': 'MSG'}, 'page': {'id': 'W7cx0VbVRQmvCOtgmLos3w', 'caption': ''}}
+msgid "Remember that you have to be registered with SmartStart to use this system. Please phone our hotline on 0606536058."
+msgstr "Kha vha humbule uri vha tea u vha vho ḓiṅwalisa na SmartStart u itela u shumisa sisiṱeme iyi. Kha vha founele luṱingo lwashu kha 0606536058."
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'Ce-Cs_YsT1CjNbFgZapcTw', 'name': 'Error'}, 'report': {'id': 'b4t20vJyRpiWqaRPkblIfA', 'type': 'MSG'}, 'page': {'id': 'OH0OD-L5RsGyTSaqPJoGmw', 'caption': ''}}
+msgid "Sorry something went wrong, please retry"
+msgstr "Pfarelo, hu na zwi songo tshimbilaho zwavhuḓi, vha nga lingedza hafhu."
+
+#f: {'context': 'caption', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'QVskkjxiQOKPirqRCy4fcA', 'name': 'Check language'}, 'report': {'id': 'RtaQs3I0TkycVGFI30hnKA', 'type': 'MSG'}, 'page': {'id': 'U9bAXdpqReyDo4hujRLRCw', 'caption': 'What is your preferred language to communicate?'}}
+msgid "What is your preferred language to communicate?"
+msgstr "Vha takalela luambo lwa vhudavhidzani lufhio?"
+
+msgid "Please confirm that your preferred language of communication is *{{ perm.user_language }}* ?"
+msgstr "Vha takalela luambo lwa vhudavhidzani lufhio*{{ perm.user_language }}* ?"
+
+#f: {'context': 'text', 'workflow': {'id': 'QTjmpvmsTVqnBmKYgfTgqg', 'name': 'Registration'}, 'state': {'id': 'zhrB_LOtSty1M9xRxbMkKw', 'name': "Can't verify you "}, 'report': {'id': 'FoHwE4S0TnKejIE6315PPA', 'type': 'MSG'}, 'page': {'id': 'mQSpMSqaT4qH6VJ8ip33kg', 'caption': ''}}
+msgid "Sorry, we cannot verify you."
+msgstr "Pfarelo, a ri khou kona u vha khwaṱhisedza."
+

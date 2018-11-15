@@ -1,0 +1,142 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'wY14YMv8TBy1ehsvVNAwsw', 'name': 'Confirm Language'}, 'report': {'id': 'IFf7toMLS9eLrjVX5trgyA', 'type': 'MSG'}, 'page': {'id': 'thKnpyhKTGqpap2il-ls_Q', 'caption': ''}}
+msgid "Please confirm that your preferred language of communication is: *{{ perm.user_language|title }}* ?"
+msgstr "O kgopelwa go kgonthiša gore polelo ye o e ratago ya kgokagano ke: *{{ perm.user_language|title }}* ?"
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'JjnwNv2URX6lAImudyr_cQ', 'name': 'Show details'}, 'report': {'id': 'TAYvZhxzQFCzVBNL1hok2Q', 'type': 'MSG'}, 'page': {'id': 'cPN5OCFcS8eH_a4MQAtJ5A', 'caption': 'These are the details we have for you:'}, 'button': {'id': 'lID0gN0cSnGT_yDeJwVt2A', 'label': 'Change my Language 🔡'}}
+msgid "Change my Language 🔡"
+msgstr "Fetoša Polelo ya ka 🔡"
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'JjnwNv2URX6lAImudyr_cQ', 'name': 'Show details'}, 'report': {'id': 'TAYvZhxzQFCzVBNL1hok2Q', 'type': 'MSG'}, 'page': {'id': 'cPN5OCFcS8eH_a4MQAtJ5A', 'caption': 'These are the details we have for you:'}, 'button': {'id': 'F543NW4fTeqyv85eQ9dNIg', 'label': 'Edit address'}}
+msgid "Edit address"
+msgstr "Rulaganya atrese"
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'JjnwNv2URX6lAImudyr_cQ', 'name': 'Show details'}, 'report': {'id': 'TAYvZhxzQFCzVBNL1hok2Q', 'type': 'MSG'}, 'page': {'id': 'cPN5OCFcS8eH_a4MQAtJ5A', 'caption': 'These are the details we have for you:'}, 'button': {'id': 'urekyB94TJOOKJK_InMzWw', 'label': "That's right, go back"}}
+msgid "That's right, go back"
+msgstr "Go lokile, boela morago"
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'WQK1zH0MSsKBGJr5n6qzow', 'name': 'Error'}, 'report': {'id': 'l3gkq2loQpyP8z8EzrS9ww', 'type': 'MSG'}, 'page': {'id': 'rwdShoQpTz6796Ewu6wrxw', 'caption': ''}}
+msgid "I'm sorry, something went wrong there, please will you try again."
+msgstr "Ke maswabi, go na le seo se sa sepelago gabotse moo, naa o ka leka gape."
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'TkOH4Q7FQoGzZgd_u2RdZQ', 'label': 'English'}}
+msgid "English"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'Sz6lSlMbRGGlPcmWKoazRg', 'label': 'Zulu'}}
+msgid "Zulu"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'FZiMF8jrSPGmlajdpUj1sQ', 'label': 'Xhosa'}}
+msgid "Xhosa"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': '0YUaraUJSLaBReliXR1wqw', 'label': 'Afrikaans'}}
+msgid "Afrikaans"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'HHN8C9-aTGuCQXfY1uamXw', 'label': 'Northern Sotho'}}
+msgid "Northern Sotho"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'mbMk49hLRlaoVnPr_EBrPA', 'label': 'Tswana'}}
+msgid "Tswana"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'bieAt4vzRGWkx2D08-P-FQ', 'label': 'Sesotho'}}
+msgid "Sesotho"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'OYQwCWqATMGZVrkSQOHGEg', 'label': 'Tsonga'}}
+msgid "Tsonga"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'ESB3915fRMy6zO7YX5bSQA', 'label': 'Venda'}}
+msgid "Venda"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'BGuBTxpoQgmMEs1U06YPLw', 'label': 'Swati'}}
+msgid "Swati"
+msgstr ""
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}, 'button': {'id': 'Io-aPIxQQhKB-1jgl_Hwmw', 'label': 'Ndebele'}}
+msgid "Ndebele"
+msgstr ""
+
+#f: {'context': 'caption', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'jNxDtIA3SCGL4uVZ6d5t8g', 'name': 'Change Language'}, 'report': {'id': 'OTAyoVMLR7KpGe4uFqYQww', 'type': 'MSG'}, 'page': {'id': '6deB_JW_S2epc2w2fZOlng', 'caption': 'In what language would you like to communicate?'}}
+msgid "In what language would you like to communicate?"
+msgstr "Ke polelo/leleme efe yeo o ka ratago go kgokagana ka yona?"
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'wY14YMv8TBy1ehsvVNAwsw', 'name': 'Confirm Language'}, 'report': {'id': 'IFf7toMLS9eLrjVX5trgyA', 'type': 'MSG'}, 'page': {'id': 'thKnpyhKTGqpap2il-ls_Q', 'caption': ''}, 'button': {'id': 'xnHBzQydQ6ORPGLvJJUKOA', 'label': 'No'}}
+msgid "No"
+msgstr "Aowa"
+
+#f: {'context': 'label', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'wY14YMv8TBy1ehsvVNAwsw', 'name': 'Confirm Language'}, 'report': {'id': 'IFf7toMLS9eLrjVX5trgyA', 'type': 'MSG'}, 'page': {'id': 'thKnpyhKTGqpap2il-ls_Q', 'caption': ''}, 'button': {'id': 'arlXxlfmRiuCyoy600-lHw', 'label': 'Yes'}}
+msgid "Yes"
+msgstr "Ee"
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'wY14YMv8TBy1ehsvVNAwsw', 'name': 'Confirm Language'}, 'report': {'id': 'IFf7toMLS9eLrjVX5trgyA', 'type': 'MSG'}, 'page': {'id': 'Sx_ea7phQ0GzQlga6GouDg', 'caption': ''}}
+msgid "Note: that once your language is selected all future communication on Whatsapp will be in your prefered language."
+msgstr "Lemoga: morago ga gore o kgethe polelo/leleme ya gago, dikgokagano ka moka tša ka moso go Whatsapp di tla dirwa ka polelo ye o e ratago."
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'hLQjP6bTTryqk4GLn17_cg', 'name': 'Edit address line 3'}, 'report': {'id': 'vxlq-ivbQfm9A5AaVvMcEw', 'type': 'MSG'}, 'page': {'id': 'V9kzwQ-hQOmxULCEAlwWNw', 'caption': ''}}
+msgid "In what province do you live in?"
+msgstr "Profense ye o dulago go yona ke efe?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'JjnwNv2URX6lAImudyr_cQ', 'name': 'Show details'}, 'report': {'id': 'TAYvZhxzQFCzVBNL1hok2Q', 'type': 'MSG'}, 'page': {'id': 'cPN5OCFcS8eH_a4MQAtJ5A', 'caption': 'These are the details we have for you:'}}
+msgid "These are the details we have for you:"
+msgstr "Mo go latela tshedimošo ye re go swaretšego yona:"
+
+msgid "Please confirm that your preferred language of communication is: *{{ perm.user_language|capitalize }}* ?"
+msgstr "O kgopelwa go kgonthiša gore polelo ye o e ratago ya kgokagano ke: *{{ perm.user_language|title }}* ?"
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'HuiRou2kQxSBPbqdCx2LaA', 'name': 'Edit address line 2'}, 'report': {'id': 'ggpOpNDSRDaMMchg3HbAqw', 'type': 'MSG'}, 'page': {'id': 'XK7WdguZTDmnLeqURY0ltQ', 'caption': ''}}
+msgid "In which suburb and city do you reside in ?"
+msgstr "Motsesetoropo le toropongkgolo tšeo o dulago go tšona ke dife?"
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'JjnwNv2URX6lAImudyr_cQ', 'name': 'Show details'}, 'report': {'id': 'TAYvZhxzQFCzVBNL1hok2Q', 'type': 'MSG'}, 'page': {'id': 'cPN5OCFcS8eH_a4MQAtJ5A', 'caption': 'These are the details we have for you:'}}
+msgid ""
+"Preferred name: {{trans.nickname}}\r\n"
+"Language: {{trans.language|capitalize}}\r\n"
+"Mobile: {{trans.phone_number}}\r\n"
+"Address:\r\n"
+"{{trans.address_line_1}}\r\n"
+"{{trans.address_line_2}}\r\n"
+"{{trans.address_line_3}}\r\n"
+"Postal Code: {{trans.address_postal_code}}"
+msgstr ""
+"Leina la mmamoratwa:{{trans.nickname}}\r\n"
+"Polelo: {{trans.language|capitalize}}\r\n"
+"Sellathekeng:{{trans.phone_number}}\r\n"
+"Atrese:\r\n"
+"{{trans.address_line_1}}\r\n"
+"{{trans.address_line_2}}\r\n"
+"{{trans.address_line_3}}\r\n"
+"Khoute ya Poso:\r\n"
+"{{trans.address_postal_code}}"
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'WR4EWfDkRH-p05NeGH-HAA', 'name': 'Edit Postal code'}, 'report': {'id': 'lFR4ryT1Rfid8jNLUlniAA', 'type': 'MSG'}, 'page': {'id': '6poTGLSES1iCcKs8CAIslw', 'caption': ''}}
+msgid "What is your postal code?"
+msgstr "Naa khoute ya poso ya gago ke efe?"
+
+#f: {'context': 'text', 'workflow': {'id': 'P7ITtSftS7ik2I2FoWTD5g', 'name': 'Edit My Details'}, 'state': {'id': 'X9WcL-w3TsmMENhBa1STFQ', 'name': 'Edit address line 1'}, 'report': {'id': '8xYW2pwLS6yg_wsG68GkWw', 'type': 'MSG'}, 'page': {'id': 'PQRUAgfRTaCzbM2OBlMIfA', 'caption': ''}}
+msgid "What is your street number and street name?"
+msgstr "Nomoro ya seterata le leina la seterata sa gago ke dife?"
+

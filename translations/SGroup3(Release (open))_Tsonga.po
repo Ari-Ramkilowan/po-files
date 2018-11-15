@@ -1,0 +1,121 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'Enc7k9-7RVq1kBBF7n_GtQ', 'name': 'Start'}, 'report': {'id': '9SdFasfdSTeCM1NQrtyOxg', 'type': 'MSG'}, 'page': {'id': 'xfYB8NmmSJmUNDhxPbRHHw', 'caption': 'On a rainy day, or if you’ve got a very physical Large group activity planned, why not have some Puzzle Fun? 🌧= 🖼'}}
+msgid "On a rainy day, or if you’ve got a very physical Large group activity planned, why not have some Puzzle Fun? 🌧= 🖼"
+msgstr "Hi siku ra mpfula, kumbe loko u ri na kungu ra nghingiriko wo endla wa ntlawa lowukulu, hikwalahokayini vi na ku Tiphina hi Phazili? 🌧= 🖼"
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'jAqlTtX5TbiKnMzoERk7Fg', 'name': 'What you need'}, 'report': {'id': 'YViyIfLbS7aEfTnQHDfchQ', 'type': 'MSG'}, 'page': {'id': 'q-455HwqRWWz0OkSRNPYEg', 'caption': 'See what you need'}}
+msgid ""
+"You don’t even need to go buy puzzles, all you need is:\r\n"
+"\r\n"
+"1. 3 homemade puzzles made from pictures in magazines (choose pictures \t  that children enjoy).\r\n"
+"2. Ensure that there are some easier puzzles for younger children, but not too easy."
+msgstr ""
+"A wu kali u lava ku ya xava tiphazili, wo lava ntsena:\r\n"
+"\r\n"
+"1. Tiphazili ti 3 to endliwa ekaya leti nga endliwa hi swifaniso swa le ka timagazini (hlawula swifaniso leswi vana va swi tsakelaka).\r\n"
+"2. Vona leswaku ku na tiphazili to olova ta vana lavantsongo, kambe ti nga olovi ku hundza mpimo."
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'vz5UQMfLSYC6YIohGiZjXw', 'name': 'How it works'}, 'report': {'id': 'sD0IYFhpQt22mZLzCbHaGA', 'type': 'MSG'}, 'page': {'id': 'rAHd_tioQqeD-xQ3o2Foxw', 'caption': 'See how it works'}}
+msgid ""
+"Once you have your amazing, custom puzzles you can begin.\r\n"
+"\r\n"
+"1. Choose easier puzzles for young children and give more difficult puzzles to older children.\r\n"
+"2. Give each child a piece of a puzzle.\r\n"
+"3. Ask them to put their pieces down so that everyone can see.\r\n"
+"4. Then give them additional pieces, one by one.\r\n"
+"5. Slowly help them arrange the pieces so that they can make the puzzle.\r\n"
+"6. Talk about the picture.\r\n"
+"7. Repeat with the other puzzles.\r\n"
+"8. If you think they are able, mix up the 3 puzzles and see if they can sort them out, and build the 3 separate puzzles."
+msgstr ""
+"Loko se u ri na tiphazili ta wena leto hlamarisa leti u nga tiendlela tona u nga sungula. \r\n"
+"\r\n"
+"1. Hlawula tiphazili to olova u nyika vana lavantsongo na ku nyika vana lavakulu tiphazili leto tika.\r\n"
+"2. Nyika n’wana un’wana na un’wana xiphemu xa phazili.\r\n"
+"3. Va byeli ku veka swiphemu swa vona ehansi leswaku un’wana na un’wana a swi vona.\r\n"
+"4. Kutani u va nyika swiphemu swo engetela, ha xin’we xin’we.\r\n"
+"5. Va pfune ku veketela swiphemu swa vona hi ku nonoka leswaku va endla phazili.\r\n"
+"6. Vulavula hi xifaniso.\r\n"
+"7. Vuyelela hi tiphazili letin’wana.\r\n"
+"8. Loko u ehleketa leswaku va swi kota, katsakatsa tiphazili leti 3 u vona loko va kota ku tipaketela kahle, na ku aka tiphazili ti 3 to hambana."
+
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': '-3G97jdAQO6otStqDvO4Ow', 'name': 'Skills developed'}, 'report': {'id': 'vCX2Z8kiSROwD2YtvTnnNA', 'type': 'MSG'}, 'page': {'id': 'bTWcUPD0QNanRPkxYylFoQ', 'caption': 'This game develops:'}, 'button': {'id': 'p385KnseQ-KawyaUlvQFqg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'jAqlTtX5TbiKnMzoERk7Fg', 'name': 'What you need'}, 'report': {'id': 'YViyIfLbS7aEfTnQHDfchQ', 'type': 'MSG'}, 'page': {'id': 'q-455HwqRWWz0OkSRNPYEg', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'vz5UQMfLSYC6YIohGiZjXw', 'name': 'How it works'}, 'report': {'id': 'sD0IYFhpQt22mZLzCbHaGA', 'type': 'MSG'}, 'page': {'id': 'rAHd_tioQqeD-xQ3o2Foxw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'jAqlTtX5TbiKnMzoERk7Fg', 'name': 'What you need'}, 'report': {'id': 'YViyIfLbS7aEfTnQHDfchQ', 'type': 'MSG'}, 'page': {'id': 'q-455HwqRWWz0OkSRNPYEg', 'caption': 'See what you need'}, 'button': {'id': 'g-uVae_ERL2cOgTVONcseg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'AWFW8PsjRiGVPXl_XCGJnQ', 'name': 'Extra notes'}, 'report': {'id': 'KWR4H0dhTUqeTbiAO8Lw3Q', 'type': 'MSG'}, 'page': {'id': 'p1-fJUj8T7W_S2uJIfl5aA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'vz5UQMfLSYC6YIohGiZjXw', 'name': 'How it works'}, 'report': {'id': 'sD0IYFhpQt22mZLzCbHaGA', 'type': 'MSG'}, 'page': {'id': 'rAHd_tioQqeD-xQ3o2Foxw', 'caption': 'See how it works'}, 'button': {'id': '9-J_DfdRQNqZZj0XALgt3Q', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'AWFW8PsjRiGVPXl_XCGJnQ', 'name': 'Extra notes'}, 'report': {'id': 'KWR4H0dhTUqeTbiAO8Lw3Q', 'type': 'MSG'}, 'page': {'id': 'p1-fJUj8T7W_S2uJIfl5aA', 'caption': 'Read the notes'}, 'button': {'id': 'jBz4ACjeQ2OhsCpIzGVUQw', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': '-3G97jdAQO6otStqDvO4Ow', 'name': 'Skills developed'}, 'report': {'id': 'vCX2Z8kiSROwD2YtvTnnNA', 'type': 'MSG'}, 'page': {'id': 'bTWcUPD0QNanRPkxYylFoQ', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': '-3G97jdAQO6otStqDvO4Ow', 'name': 'Skills developed'}, 'report': {'id': 'vCX2Z8kiSROwD2YtvTnnNA', 'type': 'MSG'}, 'page': {'id': 'bTWcUPD0QNanRPkxYylFoQ', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Exploring & Finding out\r\n"
+"✔️Skills for Learning"
+msgstr ""
+"✔️Ku valanga na ku kuma\r\n"
+"✔️Swikili swo dyondza"
+
+#f: {'context': 'text', 'workflow': {'id': 'dqEbY089ReS8TexzEQbNlA', 'name': 'SGroup3'}, 'state': {'id': 'AWFW8PsjRiGVPXl_XCGJnQ', 'name': 'Extra notes'}, 'report': {'id': 'KWR4H0dhTUqeTbiAO8Lw3Q', 'type': 'MSG'}, 'page': {'id': 'p1-fJUj8T7W_S2uJIfl5aA', 'caption': 'Read the notes'}}
+msgid ""
+"And because this game is to help develop the children’s thinking skills, ask some questions along the way.\r\n"
+"\r\n"
+"For the easier puzzles: \r\n"
+"• What do you think this picture is?\r\n"
+"• Where do you think this piece goes?\r\n"
+"\r\n"
+"While putting the puzzle together:\r\n"
+"• Tell me about this picture?\r\n"
+"• What can you see?\r\n"
+"• Is this an edge or a middle piece?\r\n"
+"\r\n"
+"If you mix all three puzzles:\r\n"
+"• What happens if we mix up the puzzles?\r\n"
+"• Who has this piece?"
+msgstr ""
+"Hikwalahokaleswi ntlangu lowu wu faneleke ku pfuna hi ku hluvukisa swikili swa vana swo ehleketa, vutisa swivutiso loko va ri karhi va wu endla.\r\n"
+"\r\n"
+"Swivutiso swa tiphazili leto olova: \r\n"
+"• Xana u ehleketa leswaku xifaniso lexi i yini?\r\n"
+"• Xana u ehleketa leswaku xiphemu lexi xi ya kwihi?\r\n"
+"\r\n"
+"Loko va ri karhi va khomanisa phazili:\r\n"
+"• Xana u nga ndzi byela yini hi xifaniso lexi?\r\n"
+"• Xana u vona yini?\r\n"
+"• Xana lexi i xiphemu xa le makumu kumbe xa le xikarhi?\r\n"
+"\r\n"
+"Loko u hlanganisa tiphazili hinkwato ti ri tinharhu:\r\n"
+"• Xana ku humelela yini loko hihlanganisela tiphazili?\r\n"
+"• I mani a nga na xiphemu?"
+

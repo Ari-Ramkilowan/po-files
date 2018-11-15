@@ -1,0 +1,138 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: ssw\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'l3KWDOw5TxWpfBsFBnFNUA', 'name': 'Extra notes'}, 'report': {'id': '4nLNcEZ5QIGoLZgHJJ27QQ', 'type': 'MSG'}, 'page': {'id': 'ZbidzcvTTMeksrJbjS_awQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'R6ymGnhyQi2WMZf0NnYpIg', 'name': 'How it works'}, 'report': {'id': 'jfFEHt8NRyqXAQMXeXVSYQ', 'type': 'MSG'}, 'page': {'id': 'x2fipsVCS7iUG2pT8CIMjA', 'caption': 'See how it works'}, 'button': {'id': 'CiwsmVgURdyEJGsFzCLlAw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Fundza emanotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': '8OndV5K-RoiwCTkMWwT_iA', 'name': 'Skills developed'}, 'report': {'id': '86l0zt76Qeq52bz09hQpdA', 'type': 'MSG'}, 'page': {'id': 'vtBfsBICS-qCv9jD68KpOg', 'caption': 'This game develops:'}, 'button': {'id': 'DfQWtyX1Sgm_wm8UrPJvgQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'zH0dXRQkTHu_c3xji2LQgg', 'name': 'What you need'}, 'report': {'id': 'an9oyYQeTECIO9eIdACIbg', 'type': 'MSG'}, 'page': {'id': 'cmq0JGD9Qt6aNhBOBh0drw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Buka kutsi yini loyidzingako"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'R6ymGnhyQi2WMZf0NnYpIg', 'name': 'How it works'}, 'report': {'id': 'jfFEHt8NRyqXAQMXeXVSYQ', 'type': 'MSG'}, 'page': {'id': 'x2fipsVCS7iUG2pT8CIMjA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'zH0dXRQkTHu_c3xji2LQgg', 'name': 'What you need'}, 'report': {'id': 'an9oyYQeTECIO9eIdACIbg', 'type': 'MSG'}, 'page': {'id': 'cmq0JGD9Qt6aNhBOBh0drw', 'caption': 'See what you need'}, 'button': {'id': 'dqoVibwBT-Si87FiBlsQ_w', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Buka kutsi isebenta njani"
+
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'l3KWDOw5TxWpfBsFBnFNUA', 'name': 'Extra notes'}, 'report': {'id': '4nLNcEZ5QIGoLZgHJJ27QQ', 'type': 'MSG'}, 'page': {'id': 'ZbidzcvTTMeksrJbjS_awQ', 'caption': 'Read the notes'}, 'button': {'id': 'oBe4c6wdQQSdJZfVnWnrKw', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela emuva kumenyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'l3KWDOw5TxWpfBsFBnFNUA', 'name': 'Extra notes'}, 'report': {'id': '4nLNcEZ5QIGoLZgHJJ27QQ', 'type': 'MSG'}, 'page': {'id': 'ZbidzcvTTMeksrJbjS_awQ', 'caption': 'Read the notes'}}
+msgid ""
+"The lion is the king of the jungle, let’s see what the kids know about it:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What sound does a lion make?\r\n"
+"• Where do they live?\r\n"
+"• What do they eat?\r\n"
+"• What should you do if you see a lion?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What kind of animals are they? (Cats and mammals)\r\n"
+"• What do they look like?\r\n"
+"• How big are they?\r\n"
+"• What colour are they?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• What else can you tell me about lions?\r\n"
+"• What other animals live near lions?\r\n"
+"• Let’s talk about those – what do you know about elephants, or rhinos?\r\n"
+"• What sound does the word ‘lion’ start with?\r\n"
+"• What sound does the word ‘rhino’ start with?\r\n"
+"• What sound does the word ‘elephant’ start with?"
+msgstr ""
+"Libhubesi liyinkhosi yemahlatsi, ase sibuke kwekutsi bantfwana batini ngalo:\r\n"
+"\r\n"
+"Lizinga1\r\n"
+"• Libhubesi lenta muphi umsindvo?\r\n"
+"• Lihlala kuphi?\r\n"
+"• Lidlani?\r\n"
+"• Yini lekufanele uyenta uma ubona libhubesi?\r\n"
+"\r\n"
+"Lizinga2\r\n"
+"• Lisilwane lesinjani? (Emakati noma letimunyisako)\r\n"
+"• Abukeka njani?\r\n"
+"• Makhulu kangakanani?\r\n"
+"• Anembala lonjani?\r\n"
+"\r\n"
+"Lizinga3\r\n"
+"• Yini lenye longangitjela ngayo ngemabhubesi?\r\n"
+"• Ngutiphi letinye tilwane letihlala dvutane nemabhubesi?\r\n"
+"• Asikhulume ngaleto – Yini loyatiko ngetindlovu, noma bobhejane?\r\n"
+"• Leligama lelitsi ‘Libhubesi’ licala ngawuphi umsindvo?\r\n"
+"• Leligama lelitsi ‘bhejane’ licala ngawuphi umsindvo?\r\n"
+"• Leligama lelitsi ‘indlovu’ licala ngawuphi umsindvo?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': '8OndV5K-RoiwCTkMWwT_iA', 'name': 'Skills developed'}, 'report': {'id': '86l0zt76Qeq52bz09hQpdA', 'type': 'MSG'}, 'page': {'id': 'vtBfsBICS-qCv9jD68KpOg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Lomdlalo utfutfukisa:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'I5ScDc4kRMC3bVp_jY6muA', 'name': 'Start'}, 'report': {'id': '6Y1IB4IeRMWPGQp73qKEkw', 'type': 'MSG'}, 'page': {'id': 'KZNn7caPSHaOxCqxcShxng', 'caption': 'Have you made any Little Lions yet? 🦁'}}
+msgid "Have you made any Little Lions yet? 🦁"
+msgstr "Ngabe sewuke wawenta emabhubesi lamancane? 🦁"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': '8OndV5K-RoiwCTkMWwT_iA', 'name': 'Skills developed'}, 'report': {'id': '86l0zt76Qeq52bz09hQpdA', 'type': 'MSG'}, 'page': {'id': 'vtBfsBICS-qCv9jD68KpOg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Walking & Moving\r\n"
+"✔️Arm & Hand control\r\n"
+msgstr ""
+"✔️Kuhamba nekunyakata\r\n"
+"✔️Kulawula sandla nemkhono"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'zH0dXRQkTHu_c3xji2LQgg', 'name': 'What you need'}, 'report': {'id': 'an9oyYQeTECIO9eIdACIbg', 'type': 'MSG'}, 'page': {'id': 'cmq0JGD9Qt6aNhBOBh0drw', 'caption': 'See what you need'}}
+msgid ""
+"If you have time, get the children cut these things out themselves: ✂\r\n"
+"\r\n"
+"- 1 paper per child for the lion’s face\r\n"
+"- 2 black eyes per child cut out of paper\r\n"
+"- 1 nose per child cut out of paper\r\n"
+"- 2 ears per child cut out of paper\r\n"
+"- 1 plastic / onion bag per child\r\n"
+msgstr ""
+"Uma ngabe unesikhatsi, cela bantfwana kutsi bajube letintfo ngekwabo: ✂\r\n"
+"\r\n"
+"1. 1 liphepha emntfwaneni ngamunye lekwakha buso belibhubesi \r\n"
+"2. 2 emaphepha lamnyama lajutjwe ngulomntfwana \r\n"
+"3. 1 imphumulo yemntfwana ngamunye lejutjwe emphumulweni  \r\n"
+"4. 2 tindlebe ngemntfwana ngamunye letijutjwe kuleliphepha \r\n"
+"5. 1 liplastiki/umgodla longenalutfo wema-anyanisi lemntfwana munye"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'R6ymGnhyQi2WMZf0NnYpIg', 'name': 'How it works'}, 'report': {'id': 'jfFEHt8NRyqXAQMXeXVSYQ', 'type': 'MSG'}, 'page': {'id': 'x2fipsVCS7iUG2pT8CIMjA', 'caption': 'See how it works'}}
+msgid ""
+"You can use this activity as an opportunity to teach children about animals.\r\n"
+"\r\n"
+"1.Talk about lions before you make the lion face.\r\n"
+"2.Ask each child to cut out a circle to make the lions face.\r\n"
+"3.They can colour in the face of the lion and stick on eyes, nose and ears.\r\n"
+"4.Get them to cut strips of plastic or onion bag for the mane of the lion.\r\n"
+"5.Stick on the strips.\r\n"
+"6.If you have string, you could make holes in the eyes and turn the lion face into a mask.\r\n"
+"7.Get children to crawl around and roar like lions.\r\n"
+msgstr ""
+"Ungasebentisa lomsebenti njengelitfuba lekufundzisa bantfwana ngetilwane.  \r\n"
+"\r\n"
+"1. Khuluma ngetindlovu ngembi kwekutsi wakhe buso bendlovu.  \r\n"
+"2. Cela umntfwana ngamunye kutsi ajube indingilizi kute akhe lobuso belibhubesi.  \r\n"
+"3. Bangahlobisa lobuso balelibhubesi bese banamatsisela emehlweni, imphumulo nasetindlebeni.  \r\n"
+"4. Bacele bajube ipulastiki ibe ticucu noma lisaka lema-anyanisi kute bakhe tinwele talelibhubesi.  \r\n"
+"5. Uma ngabe unetintsambo, ungenta imigodzi emehlweni bese ujika lobuso balelibhubesi buba yimaskhi.  \r\n"
+"6. Tsani bantfwana abakhase banyakate bese babhodla njengelibhubesi."
+

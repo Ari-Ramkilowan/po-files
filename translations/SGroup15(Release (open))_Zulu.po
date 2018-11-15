@@ -1,0 +1,139 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: zul\n"
+
+#f: {'context': 'caption', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': '95N7OaboTgGMqvKBVm7wMQ', 'name': 'Extra notes'}, 'report': {'id': 'xS1qjVrVRv-jVznxwjGvXw', 'type': 'MSG'}, 'page': {'id': 'ZEtlzhMDTJW4kmEk3Lah3Q', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'pP9Rw0FwTQ-opRTTS_mt5g', 'name': 'How it works'}, 'report': {'id': 'IMX_CPBRQweQ56SNxEcTYQ', 'type': 'MSG'}, 'page': {'id': '6qeT8n8pSxCtOfobHqLOMw', 'caption': 'See how it works'}, 'button': {'id': 'gKiggglFTGWAy_iA_ZNEBA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanothi"
+
+#f: {'context': 'label', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': '95N7OaboTgGMqvKBVm7wMQ', 'name': 'Extra notes'}, 'report': {'id': 'xS1qjVrVRv-jVznxwjGvXw', 'type': 'MSG'}, 'page': {'id': 'ZEtlzhMDTJW4kmEk3Lah3Q', 'caption': 'Read the notes'}, 'button': {'id': 'wRIR0xO8Sym-PDbPAnA8mA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kumenyu"
+
+#f: {'context': 'label', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'o0Hbs8-ATXe7fx2HEAdU6Q', 'name': 'Skills developed'}, 'report': {'id': 'MOfN3pysRyyQhCV9-ciDnA', 'type': 'MSG'}, 'page': {'id': 'tByNMTtGQbuLTkCQTMFzvA', 'caption': 'This game develops:'}, 'button': {'id': 'xxLaFL4XTMW_kiHdg49RDw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'jEWg4rnYQbKhxalOxT2nUA', 'name': 'What you need'}, 'report': {'id': 'hO-S0_M8Sgm2R20oN35qpQ', 'type': 'MSG'}, 'page': {'id': 'fq12W9MsQNmnz1rXWm0yOQ', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bheka ukuthi yini oyidingayo"
+
+#f: {'context': 'caption', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'pP9Rw0FwTQ-opRTTS_mt5g', 'name': 'How it works'}, 'report': {'id': 'IMX_CPBRQweQ56SNxEcTYQ', 'type': 'MSG'}, 'page': {'id': '6qeT8n8pSxCtOfobHqLOMw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'jEWg4rnYQbKhxalOxT2nUA', 'name': 'What you need'}, 'report': {'id': 'hO-S0_M8Sgm2R20oN35qpQ', 'type': 'MSG'}, 'page': {'id': 'fq12W9MsQNmnz1rXWm0yOQ', 'caption': 'See what you need'}, 'button': {'id': 'OyiAWgEmS9qUMQ23A0OOYw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bheka ukuthi kusebenza kanjani"
+
+#f: {'context': 'text', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'o0Hbs8-ATXe7fx2HEAdU6Q', 'name': 'Skills developed'}, 'report': {'id': 'MOfN3pysRyyQhCV9-ciDnA', 'type': 'MSG'}, 'page': {'id': 'tByNMTtGQbuLTkCQTMFzvA', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Arm & hand control\r\n"
+"✔️Talking & Understanding"
+msgstr ""
+"✔️Amakhono okulawula izingalo nezandla\r\n"
+"✔️Ukukhuluma nokuqonda"
+
+#f: {'context': 'caption', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'pjlBgRwkRRa5ISp7E1pxiQ', 'name': 'Start'}, 'report': {'id': 'rvg3zyhJS0K9_7K_zYdkkQ', 'type': 'MSG'}, 'page': {'id': 'kXljwhgQQ_2aK8kuRSeoWA', 'caption': 'Have the kids given Pick it Up and Turn it Over a try yet?'}}
+msgid "Have the kids given Pick it Up and Turn it Over a try yet?"
+msgstr "Ingabe izingane sezike zazam i-Pick it Up ne-Turn it Over kuze kube manje?"
+
+#f: {'context': 'caption', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'o0Hbs8-ATXe7fx2HEAdU6Q', 'name': 'Skills developed'}, 'report': {'id': 'MOfN3pysRyyQhCV9-ciDnA', 'type': 'MSG'}, 'page': {'id': 'tByNMTtGQbuLTkCQTMFzvA', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Lo mdlalo uthuthukisa:"
+
+#f: {'context': 'text', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': '95N7OaboTgGMqvKBVm7wMQ', 'name': 'Extra notes'}, 'report': {'id': 'xS1qjVrVRv-jVznxwjGvXw', 'type': 'MSG'}, 'page': {'id': 'ZEtlzhMDTJW4kmEk3Lah3Q', 'caption': 'Read the notes'}}
+msgid ""
+"Running a bit low on ideas? Try giving the children some of these instructions:\r\n"
+"Level 1\r\n"
+"Use the peg to…\r\n"
+"• Put the block up.\r\n"
+"• Put it behind you.\r\n"
+"• Turn it over.\r\n"
+"• Put it in front of you.\r\n"
+"• Put it in your other hand.\r\n"
+"\r\n"
+"Level 2\r\n"
+"• Put it next to your knee.\r\n"
+"• Hold it high in the sky.\r\n"
+"• Put it in your pocket.\r\n"
+"• Put it under your shoe.\r\n"
+"• Walk around the room holding it.\r\n"
+"• Run around the room holding it above your head.\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Put it on your left hand side.\r\n"
+"• Put it on your right hand side.\r\n"
+"• Use the blocks to make the first letter of your name.\r\n"
+msgstr ""
+"Ingabe imibono iyancipha? Zama ukunikeza izingane eminye zale miyalelo:\r\n"
+"Izinga 1\r\n"
+"Sebenzisa ipheksi ukuba…\r\n"
+"• Uphakamise ibhuloki.\r\n"
+"• Ukulibeka emva kwakho.\r\n"
+"• Ukuliguqula.\r\n"
+"• Ukulibeka phambi kwakho.\r\n"
+"• Ukulibeka kwesinye isandla sakho.\r\n"
+"\r\n"
+"Izinga 2\r\n"
+"• Ukulibeka eduze kwedolo lakho.\r\n"
+"• Ukuligcina liphezulu esibhakabhakeni.\r\n"
+"• Ukulifaka ephaketheni lakho.\r\n"
+"• Ukulibeka ngaphansi kwesicathulo sakho.\r\n"
+"• Ukuhambahamba egumbini ulibambile.\r\n"
+"• Ukugijima egumbini ulibambe phezu kwekhanda lakho.\r\n"
+"\r\n"
+"Izinga 3\r\n"
+"• Ukulibeka ngasesandleni sakho sesokunxele.\r\n"
+"• Ukulibeka ngasesandleni sakho sesokudla.\r\n"
+"• Sebenzisa amabhuloki ukwenza uhlamvu lokuqala lwegama lakho."
+
+#f: {'context': 'text', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'jEWg4rnYQbKhxalOxT2nUA', 'name': 'What you need'}, 'report': {'id': 'hO-S0_M8Sgm2R20oN35qpQ', 'type': 'MSG'}, 'page': {'id': 'fq12W9MsQNmnz1rXWm0yOQ', 'caption': 'See what you need'}}
+msgid ""
+"You’ll only need two things before you can get going with this game:\r\n"
+"\r\n"
+"• Lego blocks\r\n"
+"• A clothing peg for each child\r\n"
+msgstr ""
+"Uzodinga izinto ezimbili kuphela ngaphambi kokuqhubeka nalo mdlalo:\r\n"
+"\r\n"
+"• Amabhuloki e-LEGO\r\n"
+"• Ipheksi lokuneka ingane ngayinye"
+
+#f: {'context': 'text', 'workflow': {'id': '7FB_vT8KQFee_chFyMqSbw', 'name': 'SGroup15'}, 'state': {'id': 'pP9Rw0FwTQ-opRTTS_mt5g', 'name': 'How it works'}, 'report': {'id': 'IMX_CPBRQweQ56SNxEcTYQ', 'type': 'MSG'}, 'page': {'id': '6qeT8n8pSxCtOfobHqLOMw', 'caption': 'See how it works'}}
+msgid ""
+"Our future surgeons will need steady hands. 🏥\r\n"
+"\r\n"
+"1. Give each child a peg.\r\n"
+"2. Ask them to choose a block from the pile and pick it up with a peg.\r\n"
+"3. Now ask them to put it down on the floor next to them.\r\n"
+"4. Ask them to turn the block upside down using the peg.\r\n"
+"5. Now ask them to put it behind the person sitting next to them using their peg.\r\n"
+"6. Next, ask them to put it in the middle of the circle using the peg.\r\n"
+"7. Continue with these kinds of instructions.\r\n"
+"8. Keep instructions simple for younger children.\r\n"
+"9. Make the instructions for the older kids more challenging.\r\n"
+"10. Ask the older kids to give their own instructions to the group.\r\n"
+msgstr ""
+"Odokotela bethu abahlinzayo bakusasa bazodinga izandla ezingaqhaqhazeli. 🏥\r\n"
+"\r\n"
+"1. Nikeza ingane ngayinye ipheksi.\r\n"
+"2. Bacele bakhethe ibhuloki enqwabeni bese beyiphakamise ngepheksi.\r\n"
+"3. Manje bacele ukuba balibeke phansi eduze kwabo.\r\n"
+"4. Bacele ukuthi baguqule ibhuloki besebenzisa ipheksi.\r\n"
+"5. Manje bacele ukuba balibeke ngemuva komuntu ohlezi eceleni kwabo besebenzisa ipheksi labo.\r\n"
+"6. Ngemva kwalokho, bacele ukuba balibeke phakathi kwesiyingi besebenzisa ipheksi.\r\n"
+"7.  Qhubeka nalezi zinhlobo zemiyalelo.\r\n"
+"8. Gcina imiyalo ilula wenzele izinganeni ezisencane.\r\n"
+"9. Yenza imiyalelo yezingane ezindadla ibe nzima kakhudlwana.\r\n"
+"10. Tshela izingane ezindadlana ukuthi zinikeze imiyalelo yazo eqenjini."
+

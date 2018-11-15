@@ -1,0 +1,115 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: zul\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'v_7yYFBXTnimWNV6DeUv8g', 'name': 'How it works'}, 'report': {'id': 'uMbwDG9KQ-aPuPQRIrZAQg', 'type': 'MSG'}, 'page': {'id': 'YNR6Y1H_QKq2mnGZG5iTDA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': '4_x1w26zSEGxAH3ftiduTg', 'name': 'What you need'}, 'report': {'id': 'yRN4K99gQo2Kb_n-6O3Xmw', 'type': 'MSG'}, 'page': {'id': 'IQSgMYsNQj2yE0xh6StgoA', 'caption': 'See what you need'}, 'button': {'id': '0-njkFJyQOaN8EM81a-Epg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bheka ukuthi kusebenza kanjani"
+
+#f: {'context': 'label', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'n7s-NIqqRaG7fwOSccHWzg', 'name': 'Skills developed'}, 'report': {'id': '8j3Ud-1KRda1-TOdAMi9bg', 'type': 'MSG'}, 'page': {'id': 'jZx79gMtS5uCStF6f5y77Q', 'caption': 'This game develops:'}, 'button': {'id': 'h-dTDECVTVSjs3NfQuFoSg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': '4_x1w26zSEGxAH3ftiduTg', 'name': 'What you need'}, 'report': {'id': 'yRN4K99gQo2Kb_n-6O3Xmw', 'type': 'MSG'}, 'page': {'id': 'IQSgMYsNQj2yE0xh6StgoA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bheka ukuthi yini oyidingayo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'byK3oaDES2Gr7j8R7IdYNQ', 'name': 'Extra notes'}, 'report': {'id': 'aNOTwsb2TliijEWThAK7Ig', 'type': 'MSG'}, 'page': {'id': '4cm_EV1fT9i13INC5YYP1Q', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'v_7yYFBXTnimWNV6DeUv8g', 'name': 'How it works'}, 'report': {'id': 'uMbwDG9KQ-aPuPQRIrZAQg', 'type': 'MSG'}, 'page': {'id': 'YNR6Y1H_QKq2mnGZG5iTDA', 'caption': 'See how it works'}, 'button': {'id': 'Uo5YpMtpTOuggrH7sNUb7Q', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanothi"
+
+#f: {'context': 'label', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'byK3oaDES2Gr7j8R7IdYNQ', 'name': 'Extra notes'}, 'report': {'id': 'aNOTwsb2TliijEWThAK7Ig', 'type': 'MSG'}, 'page': {'id': '4cm_EV1fT9i13INC5YYP1Q', 'caption': 'Read the notes'}, 'button': {'id': 's-QZR8U0TyGNcXCIfGeVAw', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kumenyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'jD895XmXRuKZEtiF8M2fRg', 'name': 'Start'}, 'report': {'id': 'BbpPGs7RS0GEFrZDlvI8Nw', 'type': 'MSG'}, 'page': {'id': '76jcv1yxSz6HrWJMKI7tTw', 'caption': 'It’s time to decorate your classroom by Making Flowers. 🌸'}}
+msgid "It’s time to decorate your classroom by Making Flowers. 🌸"
+msgstr "Sekuyisikhathi sokuhlobisa igumbi lethu lokufundela Ngokwenza Izimbali. 🌸"
+
+#f: {'context': 'text', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': '4_x1w26zSEGxAH3ftiduTg', 'name': 'What you need'}, 'report': {'id': 'yRN4K99gQo2Kb_n-6O3Xmw', 'type': 'MSG'}, 'page': {'id': 'IQSgMYsNQj2yE0xh6StgoA', 'caption': 'See what you need'}}
+msgid ""
+"This game doesn’t just let the the kids be creative byn painting, but also teaches them to be creative in how they make their brushes.\r\n"
+"\r\n"
+"1. A piece of paper per child\r\n"
+"2. 1 peg per child\r\n"
+"3. 1 small piece of sponge per child\r\n"
+"4. Paint\r\n"
+"5. Crayons"
+msgstr ""
+"Lo mdlalo awugcini nje ngokuthuthukisa ubuciko bezingane ngokupenda, kodwa uphinde ufundise izingane ukuba zibe nokuciko endleleni ezenza ngayo amabhulashi. 🔧\r\n"
+"\r\n"
+"Zizodinga:\r\n"
+"\r\n"
+"1. Ucezu lwephepha ingane ngayinye\r\n"
+"2. Ipheksi elilodwa ingane ngayinye\r\n"
+"3. Ucezu olulodwa lwesipontshi ingane ngayinye\r\n"
+"4. Upende\r\n"
+"5. Amakhrayoni"
+
+#f: {'context': 'text', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'v_7yYFBXTnimWNV6DeUv8g', 'name': 'How it works'}, 'report': {'id': 'uMbwDG9KQ-aPuPQRIrZAQg', 'type': 'MSG'}, 'page': {'id': 'YNR6Y1H_QKq2mnGZG5iTDA', 'caption': 'See how it works'}}
+msgid ""
+"This is the fun part. 😃\r\n"
+"\r\n"
+"1. Tell the children they are going to make flowers. \r\n"
+"2. Tell them to draw a few circles on their page. Circles are the centre of the flower. They can also draw stems.\r\n"
+"3. Help children to peg the small piece of sponge (making a paintbrush).\r\n"
+"4. Ask them to dip the sponges in paint and make petals around the circles.\r\n"
+"5. Encourage the older children to add other things to their paintings like the sun, grass or butterflies.\r\n"
+"6. Allow pictures to dry then hang them around your room.\r\n"
+"7. Extend learning while you work by asking questions."
+msgstr ""
+"Nayi-ke ingxenye emnandi. 😃\r\n"
+"\r\n"
+"1. Tshela izingane ukuthi zizokwenza izimbali. \r\n"
+"2. Zitshele ukuba zidwebe izindilinga ezimbalwa ekhasini lazo. Izindilinga ziyimaphakathi lembali. Zingaphinde zidwebe isizqu.\r\n"
+"3. Siza izingane zifake ipheksi ocezwini oluncane lwesipontshi (ukwenza ibhulashi lokupenda).\r\n"
+"4. Zitshele zicwilise izipontshi zazo kupende zakhe amaqabunga ezimbali azungeze izindilinga.\r\n"
+"5. Khuthaza izingane ezindadlana ukuba zifake ezinye izinto emidwebweni yazo njengelanga, utshani noma amabhebheshane.\r\n"
+"6. Izithombe mazilindwe zome bese zilengiswa egumbini lenu.\r\n"
+"7. Thuthukisa isikhathi sokufunda ngokubuza imibuzo ngenkathi nisebenza."
+
+#f: {'context': 'text', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'byK3oaDES2Gr7j8R7IdYNQ', 'name': 'Extra notes'}, 'report': {'id': 'aNOTwsb2TliijEWThAK7Ig', 'type': 'MSG'}, 'page': {'id': '4cm_EV1fT9i13INC5YYP1Q', 'caption': 'Read the notes'}}
+msgid ""
+"Make sure you talk to the kids about what they’re drawing and painting and help them if they get stuck. You can ask them some of these questions:\r\n"
+"\r\n"
+"• How many flowers will you make?\r\n"
+"• What colours will your petals be?\r\n"
+"• Is your flower tall or short?\r\n"
+"• Where does it grow?\r\n"
+"• What do flowers need to grow?\r\n"
+"• What else can you tell me about your flowers?"
+msgstr ""
+"Qinisekisa ukuthi uyakhuluma nezingane mayelana nalokho ezikudwebayo nezikupendayo, futhi uzisize lapho zixakeka. Ungazibuza eminye yale mibuzo:\r\n"
+"\r\n"
+"• Uzokwenza izimbali ezingaki?\r\n"
+"• Ingabe amacembe ezimbali zakho azoba mibala mini?\r\n"
+"• Ingabe imbali yakho yinde noma yimfishane?\r\n"
+"• Imila kuphi?\r\n"
+"• Izimbali zidingani ukuze zikhule?\r\n"
+"• Yini enye ongangitshela yona mayelana nezimbali zakho?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'n7s-NIqqRaG7fwOSccHWzg', 'name': 'Skills developed'}, 'report': {'id': '8j3Ud-1KRda1-TOdAMi9bg', 'type': 'MSG'}, 'page': {'id': 'jZx79gMtS5uCStF6f5y77Q', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Lo mdlalo uthuthukisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'xvU22jkoRiOGpK4BVO4juA', 'name': 'SGroup4'}, 'state': {'id': 'n7s-NIqqRaG7fwOSccHWzg', 'name': 'Skills developed'}, 'report': {'id': '8j3Ud-1KRda1-TOdAMi9bg', 'type': 'MSG'}, 'page': {'id': 'jZx79gMtS5uCStF6f5y77Q', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Arm & Hand Control\r\n"
+"✔️Talking & Understanding"
+msgstr ""
+"✔️Ukulawula ingalo nesandla\r\n"
+"✔️Ukukhuluma nokuqonda"
+

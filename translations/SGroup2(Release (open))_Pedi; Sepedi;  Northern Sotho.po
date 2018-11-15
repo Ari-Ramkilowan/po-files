@@ -1,0 +1,132 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}, 'button': {'id': 'RVVacVZyS5KDYPnMg1dPcw', 'label': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}, 'button': {'id': 'V2N5eA0UTWa2yr91Xi4dHA', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se hlokago"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}, 'button': {'id': 'ksjEuXXCRwixUPXlpYXCBg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutse"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}, 'button': {'id': 'Uk1r6YVKTCSrgJ0dJnzFqg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Re boela morago go menyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'yeM4eBb1RDiPjkg0PDcn6w', 'name': 'Start'}, 'report': {'id': 'rLdeHBu4R3GWHSYyDOk3lw', 'type': 'MSG'}, 'page': {'id': 'Fz47pc71Sne51acj7tMHzw', 'caption': 'It’s time to play Knock Down Skittles. 🎳'}}
+msgid "It’s time to play Knock Down Skittles. 🎳"
+msgstr "Ke nako ya go raloka papadi ya Thula Mehwidinyane. 🎳"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ye e kaonafatša:"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Arm & Hand Control\r\n"
+"✔️Numbers , Shapes and Sizes"
+msgstr ""
+"✔️Taolo ya letsogo le seatla\r\n"
+"✔️ Dinomoro, dibopego le bogolo"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid ""
+"This is a great to get the children playing in groups together so that they can make new friends.\r\n"
+"\r\n"
+"1. A set of skittles (3 to 5). You can make these out of empty drinking bottles, but not glass. \r\n"
+"2. A ball (you can make this out of plastic bags and onion bags).\r\n"
+"3. Space to play skittles.\r\n"
+"\r\n"
+msgstr ""
+"Se se a thabiša go bona bana ba raloka mmogo ka dihlopha gore ba kgone go ikhweletša bagwera ba bafsa.\r\n"
+"\r\n"
+"1. Sete ya mehwidinyane (ye 3 go fihla go 5). O ka dira e dira ka mabotlelo ao a se nago selo a dino, e sego a galase. \r\n"
+"2. Kgwele (o ka e dira ka mekotla ya polastiki le mekotla ya dieie).\r\n"
+"3. Sekgoba go ralokela mehwidinyane."
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ka moo e šomago ka gona"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid ""
+"It’s also really straightforward, and you can play it over and over. All you have to do is:\r\n"
+"\r\n"
+"1. Line the skittles up in a row.\r\n"
+"2. Line the children up in front of the skittles.\r\n"
+"3. Together take 5 steps back and count out loud as they step backwards.\r\n"
+"4. Give each child a turn to roll the ball towards the skittles.\r\n"
+"5. The ball should not leave the ground.\r\n"
+"6. Reset the skittles when they have been knocked over.\r\n"
+"7. This time take six steps back.\r\n"
+"8. Have the children throw under arm first.\r\n"
+"9. Then throw overarm.\r\n"
+"10. Throw ball with two hands.\r\n"
+"11. Throw ball with one hand."
+msgstr ""
+"E tloga e le bonolo, le gona le ka e raloka kgafetšakgafetša. Tšeo o swanetšego go di dira ke:\r\n"
+"\r\n"
+"1. Bea mehwidinyane ka go latelana mothalading.\r\n"
+"2. Bea bana ka go latelana ka pele ga mehwidinyane.\r\n"
+"3. Tšeang dikgato tše 5 le boela morago gomme o bale ka go hlaboša lentšu ge ba gatela morago.\r\n"
+"4. Efa ngwana yo mongwe le yo mongwe sebaka sa go kgokološetša kgwele go mehwidinyane.\r\n"
+"5. Kgwele e swanetše go kgokologa fase.\r\n"
+"6. Tsoša mehwidinyane ge e le gore e thutšwe ke kgwele.\r\n"
+"7. Mo nakong ye tšea dikgato tše tshela go ya morago.\r\n"
+"8. E re bana putliše kgwele ka mahwafeng a bona ge ba e foša.\r\n"
+"9. Morago ga moo ba e putliše sekgetleng.\r\n"
+"10. Foša kgwele ka diatla tše pedi.\r\n"
+"11. Foša kgwele ka seatla se tee."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+msgid ""
+"But it’s not just physical, you can also use these questions to help the kids learn more:\r\n"
+"\r\n"
+"Before you start:\r\n"
+"• How many skittles can you see?\r\n"
+"• What colours are they?\r\n"
+"\r\n"
+"While you’re taking turns:\r\n"
+"• How many did you knock over?\r\n"
+"• How many are left?\r\n"
+"• Can you catch the ball with 2 hands?\r\n"
+"\r\n"
+"Before you start the next round:\r\n"
+"• How many steps should we take now?\r\n"
+"• Is that more or less than last time?\r\n"
+"• Can you catch the ball 1-handed?\r\n"
+msgstr ""
+"Eupša ga se mmele fela wo o šomago. O ka šomiša le dipotšišo tše go thuša digotlane go ithuta go tsenelela:\r\n"
+"\r\n"
+"Pele o thoma:\r\n"
+"• Naa o bona mehwidinyane ye mekae?\r\n"
+"• Naa e na le mebala efe?\r\n"
+"\r\n"
+"Ge le le gare le šielana:\r\n"
+"• Ke tše kae tše o di thutšego?\r\n"
+"• Go šetše tše kae?\r\n"
+"• O ka swara kgwele ka diatla tše pedi?\r\n"
+"\r\n"
+"Pele le thomiša ka tikologo ya bobedi:\r\n"
+"• Ke dikgato tše kae tšeo re swanetšego go di tšea gabjale?\r\n"
+"• Di feta goba di fetwa ke dikgato tšeo di tšerwego la mafelelo?\r\n"
+"• O ka swara kgwele ka diatla tše pedi?"
+

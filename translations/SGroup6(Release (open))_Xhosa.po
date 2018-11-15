@@ -1,0 +1,138 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: xho\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}, 'button': {'id': 'tR2ITX2MRESw2w3xP4zTTw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanqaku"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}, 'button': {'id': 'dV65HDeESzi3NlDXJzp9vw', 'label': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona okudingayo"
+
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}, 'button': {'id': 'WgExlgPuQcClz1HYd8g-lg', 'label': 'See how it works'}}
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Jonga ukuba isebenza njani"
+
+#f: {'context': 'label', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}, 'button': {'id': 'Bh8XXVQCSLS0wDOPqfqSyQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kwimenyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'chAOGt5xS2G7c0GMU6atFA', 'name': 'Start'}, 'report': {'id': 'vuoHOFZ1QMChWMiX3Ab1pA', 'type': 'MSG'}, 'page': {'id': '3Wt612SfThWcdrAPd142Ig', 'caption': 'Find the budding scientists and engineers in the class with the game Making Tunnels. 👩🏿\u200d🔬👨🏿\u200d🔬'}}
+msgid "Find the budding scientists and engineers in the class with the game Making Tunnels. 👩🏿‍🔬👨🏿‍🔬"
+msgstr "Fumana iingcaphephe zobuhlobo nobunjineli eklasini ngeeNdlela zokwenza Amaqela. 👩🏿‍🔬👨🏿‍🔬"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'zs0MPgCjQOKOsJQm8cVK7g', 'name': 'How it works'}, 'report': {'id': 'iFSu-mAEQk-fO-D2bYR-xA', 'type': 'MSG'}, 'page': {'id': 'Z6s86hHrQ9KlKZ9arS2OLA', 'caption': 'See how it works'}}
+msgid ""
+"First you have to make the tunnel, then you show the children how it works. 🚇\r\n"
+"\r\n"
+"1. Give each child 2 or 3 toilet rolls.\r\n"
+"2. Help them to stick their toilet rolls together to make a long tunnel.\r\n"
+"3. They can decorate their tunnel with paper and crayons if they want to.\r\n"
+"4. Ask one of the children to hold the tunnel up straight.\r\n"
+"5. Place a little bowl at the bottom of the tunnel to catch the stones.\r\n"
+"6. Give other children stones and get them to ‘post’ the stones into the top of the tunnel. Use words like ‘up, down, through, top, bottom’ etc.\r\n"
+"7. Allow older children to make more complex tunnels if they want to."
+msgstr ""
+"Okokuqala kufuneka wenze i-tunnel, uze ubonise abantwana ukuba isebenza njani. 🚇\r\n"
+"\r\n"
+"1. Nika umntwana ngamnye 2 okanye 3 zangasese.\r\n"
+"2. Bancede ukuba banamathele kunye neendlwana zabo zangasese ukuze benze i-tunnel ende.\r\n"
+"3. Baya kuhobisa i-tunnel yabo kunye nephepha kunye neekrayoni ukuba zifuna.\r\n"
+"4. Buza omnye wabantwana ukuba abambe iqonde ngqo.\r\n"
+"5. Beka isitya esincinane kwinqanaba lokubamba amatye.\r\n"
+"6. Nika abanye abantwana ngamatye kwaye bawenze ukuba 'bathumele' amatye abe phezulu kwindlela.\r\n"
+"Sebenzisa amagama afana 'phezulu, phantsi, ngoku, phezulu, ngezantsi' njl\r\n"
+"7. Vumela abantwana abadala ukuba benze iingxube ezinzima xa zifuna."
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Exploring & Finding Out\r\n"
+"✔️Arm & hand control\r\n"
+msgstr ""
+"✔️Ukukhangela nokufumanisa\r\n"
+"✔️Ulawulo lwengalo kunye nesandla"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'AA29lQ8tRhCEEfcB2ATKdQ', 'name': 'Extra notes'}, 'report': {'id': 'FqkoIbQhQC2z43ejz7xoOw', 'type': 'MSG'}, 'page': {'id': '299zlafPTfW9hMXMzdk2NA', 'caption': 'Read the notes'}}
+msgid ""
+"Because you’re teaching kids about gravity, it’s a good idea to ask them lots of questions about how they think it works. ⚗\r\n"
+"\r\n"
+"Easiest version\r\n"
+"• How tall is our tunnel?\r\n"
+"• How many toilet rolls have we used?\r\n"
+"\r\n"
+"More advanced version\r\n"
+"• What will happen to this stone?\r\n"
+"• Where will it land?\r\n"
+"• Whose turn is it now?\r\n"
+"\r\n"
+"For older children\r\n"
+"• Do it 10 times\r\n"
+"• How many times did it land in the bowl?\r\n"
+"• How many times did it NOT land in the bowl?\r\n"
+"• Tell me about your decoration.\r\n"
+msgstr ""
+"Ngenxa yokuba ufundisa abantwana malunga nokuvumba, kuyisiphumo esihle sokubabuza imibuzo eninzi malunga nendlela abacinga ngayo isebenza. ⚗\r\n"
+"\r\n"
+"Umgangatho 1\r\n"
+"\r\n"
+"\t• Umde kangakanani umjelo wethu?\r\n"
+"\r\n"
+"\t• Zingaphi iindwangu zangasese esazisebenzisileyo?\r\n"
+"\r\n"
+"Umgangatho 2\r\n"
+"\r\n"
+"\t• Yintoni eya kwenzeka kweli litye?\r\n"
+"\r\n"
+"\t• Liya kuhlala phi?\r\n"
+"\r\n"
+"\t• Nguwuphi na umjikelo ngoku?\r\n"
+"\r\n"
+"Umgangatho 3\r\n"
+"\r\n"
+"\t• Yenza amaxesha angama-10\r\n"
+"\t• Zingaphi kangangexesha elithe zafika kwisitya?\r\n"
+"\r\n"
+"\t• Zingaphi kangangezinye izihlandlo ezingazange zihlale kwisitya?\r\n"
+"\r\n"
+"\tNdixelele ngomhlobiso wakho."
+
+#f: {'context': 'caption', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'dVwRuOmOQVeWCaDfdc0C_g', 'name': 'Skills developed'}, 'report': {'id': 'KlRJu0FvT8iuZ3qXZl1vig', 'type': 'MSG'}, 'page': {'id': 'wCUGcjNqSZOekMOpD8iWHw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Lo mdlalo uphuhlisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'u_CFE22SQmySWzEyaPjAwg', 'name': 'SGroup6'}, 'state': {'id': 'IOJ85eXzSeCcPYI00ameVg', 'name': 'What you need'}, 'report': {'id': '4l7jOKRkQp2i7zjIA1BJEw', 'type': 'MSG'}, 'page': {'id': 'bM9Wt5YGTwaxDQQKX3mcJw', 'caption': 'See what you need'}}
+msgid ""
+"This game is a fun way to combine crafts with learning, and let’s kids make their own toys.\r\n"
+"\r\n"
+"1. Empty toilet rolls (2 per child)\r\n"
+"2. Sticky tape\r\n"
+"3. Stones\r\n"
+"4. Paper (optional)\r\n"
+"5. Crayons (optional)"
+msgstr ""
+"Lo mdlalo uyindlela edibanisayo yokudibanisa ubugcisa kunye nokufunda, kwaye ivumela abantwana ukuba bazenzele amathoyizi abo. Uza kudinga: \r\n"
+"\r\n"
+"1. Iingcambu zokungcebeleka zangasese (2 ngomntwana)\r\n"
+"2. Iteyiphu encamathelayo\r\n"
+"3. Amatye\r\n"
+"4. Iphepha (ngokuzikhethela)\r\n"
+"5. Iikhrayoni (ukhetho)"
+

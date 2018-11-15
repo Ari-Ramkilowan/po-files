@@ -1,0 +1,35 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: zul\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'HXYx1RG4SE2APBy_RJ5gfw', 'name': 'Activity ideas'}, 'state': {'id': 'jHf5HQ_jSG2cKhN7fs6PIg', 'name': 'Activity ideas for every day'}, 'report': {'id': 'H_bD8koNSaSUD4I4vdFPcg', 'type': 'MSG'}, 'page': {'id': 'F4MX2hd7RG-QprHtzcEurw', 'caption': ''}}
+msgid ""
+"Do you need an idea for a big group or a small group activity? 💡\r\n"
+msgstr "Ingabe udinga umbono wokungenziwa yiqembu elikhulu noma elincane? 💡"
+
+#f: {'context': 'text', 'workflow': {'id': 'HXYx1RG4SE2APBy_RJ5gfw', 'name': 'Activity ideas'}, 'state': {'id': 'jHf5HQ_jSG2cKhN7fs6PIg', 'name': 'Activity ideas for every day'}, 'report': {'id': 'H3hj0ECBS8qO4l-VtYglWA', 'type': 'MSG'}, 'page': {'id': 'iqEy0k7fRx6_zd0astOL7w', 'caption': ''}}
+msgid "Everyday we need to plan our early learning programme with new activities, which is why we have lots of suggestions and instructions to help you plan a successful programme. 🤩"
+msgstr "Zonke izinsuku kudingeka sihlele uhlelo lwethu lwemfundo ephansi enemisebenzi emisha, nokuyingako sinemibono eminingi nemiyalelo yokukusiza ukwazi ukuhlela uhlelo oluyimpumelelo. 🤩"
+
+#f: {'context': 'label', 'workflow': {'id': 'HXYx1RG4SE2APBy_RJ5gfw', 'name': 'Activity ideas'}, 'state': {'id': 'jHf5HQ_jSG2cKhN7fs6PIg', 'name': 'Activity ideas for every day'}, 'report': {'id': 'H_bD8koNSaSUD4I4vdFPcg', 'type': 'MSG'}, 'page': {'id': 'F4MX2hd7RG-QprHtzcEurw', 'caption': ''}, 'button': {'id': 'S53FbwkFQr-snc8vh1G6gw', 'label': 'Small group idea'}}
+msgid "Small group idea"
+msgstr "Imibono yeqembu elincane"
+
+#f: {'context': 'label', 'workflow': {'id': 'HXYx1RG4SE2APBy_RJ5gfw', 'name': 'Activity ideas'}, 'state': {'id': 'jHf5HQ_jSG2cKhN7fs6PIg', 'name': 'Activity ideas for every day'}, 'report': {'id': 'H_bD8koNSaSUD4I4vdFPcg', 'type': 'MSG'}, 'page': {'id': 'F4MX2hd7RG-QprHtzcEurw', 'caption': ''}, 'button': {'id': 'ru1pBNQAT02-pPhOe5EsQA', 'label': 'Large group idea'}}
+msgid "Large group idea"
+msgstr "Imibono yeqembu elikhulu"
+

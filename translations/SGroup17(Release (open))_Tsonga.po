@@ -1,0 +1,133 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}, 'button': {'id': '8uigfAAjQgWPEPJN3qDYjA', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}, 'button': {'id': 'yq38n3KaREOQC0Mjf0aODw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}, 'button': {'id': 'pevMWDdYRa2JWcAFG1-1PQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}, 'button': {'id': 'X-RI1iLWSai6qIfEUbaPWg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'l-9IDUbKTkqNjcn0W6a5eQ', 'name': 'What you need'}, 'report': {'id': '0n9Yn00STFyN2A5J8b43dA', 'type': 'MSG'}, 'page': {'id': 'Rhsyjno5Sb-eXjYrjMtT1Q', 'caption': 'See what you need'}}
+msgid ""
+"Here’s what you’ll need to keep the kids busy:\r\n"
+"\r\n"
+"1. A pre-drawn picture of a dinosaur for each child.\r\n"
+"2. Squares about the size of a stamp in 2 or 3 different colours. \r\n"
+"3. Glue.\r\n"
+"4. Scissors.\r\n"
+msgstr ""
+"Hi leswi leswi u nga ta swi lava ku endla leswaku vana va va bizi:\r\n"
+"\r\n"
+"1. Xifaniso lexi nga dirowiwa xa dayinaso xa n’wana un’wana na un’wana \r\n"
+"2. Swikwere swa sayizi ya xitembe hi mihlovo yi 2 kumbe yi 3 yo hambana\r\n"
+"3. Dlilu\r\n"
+"4. Xikero"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'eGYsmy1bT2Wp__Vgx7cNoA', 'name': 'Start'}, 'report': {'id': 'vSt4G_pHTJ-Lg3jpbnYTPQ', 'type': 'MSG'}, 'page': {'id': 'oDAtMnaTQm2bc2r4Kqh-dw', 'caption': 'We started from the ground up by making dinosaur footprints in the last activity, so how about we move on to Making Dinosaurs? \U0001f995'}}
+msgid "We started from the ground up by making dinosaur footprints in the last activity, so how about we move on to Making Dinosaurs? 🦕"
+msgstr "Hi sungule ehansi ku ya ehenhla hi ku endla minkandziyiso ya minkondzo ya dayinaso eka nghingiriko lowu nga hundza, swi nga va njhani loko hi hundzela eka ku Endla Tidayinaso? 🦕"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '7w3uLibaSo-rmckXeNY20Q', 'name': 'Skills developed'}, 'report': {'id': 'dpqrExQiRYKfqMbN3XCSxg', 'type': 'MSG'}, 'page': {'id': 'uvAoTJ6yQra0wwULRcETyg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Numbers , Shapes & Sizes\r\n"
+"✔️Skills for Learning\r\n"
+msgstr ""
+"✔️ Tinomboro, swivumbeko na tisayizi\r\n"
+"✔️Swikili swo dyondza"
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': '_D6TR3YeRgKFVi8kTrYVTA', 'name': 'How it works'}, 'report': {'id': '377dbJaETZm5k5HWv7i13A', 'type': 'MSG'}, 'page': {'id': '_DhqngH6SEybTlNS0PSGcg', 'caption': 'See how it works'}}
+msgid ""
+"Keep the kids wide awake by encouraging them to make dinosaur noises while they work. 🦖🦕\r\n"
+"\r\n"
+"1. Give each child a picture of a dinosaur.\r\n"
+"2. Cut out the colourful squares for younger children.\r\n"
+"3. Let older children cut their own little squares.\r\n"
+"4. Sort the little squares into piles depending on their colour.\r\n"
+"5. Show the children how to stick the squares onto their dinosaurs.\r\n"
+"6. Help the younger ones while encouraging the older ones.\r\n"
+"7. Help them make a pattern using colours (red, blue, red, blue, red, etc).\r\n"
+msgstr ""
+"Vona leswaku vana va nga etleli hi ku va khutaza ku ba huwa ya tidayinaso loko va ri karhi va tirha. 🦖🦕\r\n"
+"\r\n"
+"1. Nyika n’wana un’wana na un’wana xifaniso xa dayinaso.\r\n"
+"2. Tsemela vana lavantsongo swikwere swa mihlovohlovo.\r\n"
+"3. Endla leswaku vana lavakulu va titsemela swikwere swa vona.\r\n"
+"4. Hambanyisa swikwere leswintsongo swi va tiphayili ku ya hi muhlovo wa swona.\r\n"
+"5. Komba vana madamarhetele ya swikwere eka tidayinaso.\r\n"
+"6. Pfuna vana lavantsongo loko u ri karhi u khutaza lavakulu.\r\n"
+"7. Va pfuni ku endla phetheni hi ku tirhisa mihlovo (tshwuka, wasi, tehwuka, wasi, tshwuka, na swin’wana)."
+
+#f: {'context': 'text', 'workflow': {'id': 'T-b0Uc6RSziqVAD8XOvFlQ', 'name': 'SGroup17'}, 'state': {'id': 'H9X_gnOlT9Cg7nGJx9hnbA', 'name': 'Extra notes'}, 'report': {'id': '3lZS5hFMTeCVU1f5bqYYig', 'type': 'MSG'}, 'page': {'id': 'nWknjjssSHKcUBy480TIjQ', 'caption': 'Read the notes'}}
+msgid ""
+"Not sure what to ask the children next? Here are some ideas:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What does this dinosaur need?\r\n"
+"• Where will these spikes go?\r\n"
+"• How many do you need?\r\n"
+"• What colours will you choose?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What pattern will you make?\r\n"
+"• Which one shall we start with?\r\n"
+"• When did dinosaurs live? (The answer can be something like: a long, long time ago).\r\n"
+"• Are there still dinosaurs on earth? (Answer: no, they have all died).\r\n"
+"• What do they eat? (Answer: some eat plants, some eat other animals).\r\n"
+"\r\n"
+"Level 3\r\n"
+"• What sound does dinosaur start with? (da)\r\n"
+"• What else starts with ‘da’?\r\n"
+"• Do you know the names of different types of dinosaurs? (Answer: T. rex, brontosaurus, triceratops).\r\n"
+msgstr ""
+"A wu tivi leswaku u nga landzela ku vutisa vana yini? Hi leyi mianakanyo yin’wana:\r\n"
+"\r\n"
+"Levhele ya 1\r\n"
+"• Xana dayinaso leyi yi lava yini?\r\n"
+"• Xana swinondwana leswi swi ta ya kwihi?\r\n"
+"• Xana u lava swingani?\r\n"
+"• Xana u ta hlawula mihlovo yihi?\r\n"
+"\r\n"
+"Levhele ya 2\r\n"
+"• Xana u ta endla tiphetheni tihi?\r\n"
+"• Xana hi sungula hi yihi?\r\n"
+"• Xana tiadyinaso ti hanye rini? (Nhlamulo yi nga va swin’wana swo fana na: khale ka khaleni).\r\n"
+"• Xana tidayinaso ta ha ri kona emisaveni? (Nhlamulo: e-e, ti file hinkwato naswona a ta ha ri kona).\r\n"
+"• Xana ti dya yini? (Nhlamulo: tin’wana ti dya swimila, tin’wana ti dya nyama kumbe swihari swin’wana).\r\n"
+"\r\n"
+"Levhele ya 3\r\n"
+"• Xana dayinaso yi sungula hi mpfumawulo wihi? (da)\r\n"
+"• Xana i yini xin’wana xi sungulaka hi ‘da’?\r\n"
+"• Xana wa ti tiva tinxaka to hamaba hambana ta tidayinaso? (Nhlamulo: T. rex, brontosaurus, triceratops)."
+

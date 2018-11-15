@@ -1,0 +1,120 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'sKzYl0mBQqa3LyuyqHl2_g', 'name': 'Start'}, 'report': {'id': 'GaPDxUY6TIulxGyjkSgd2w', 'type': 'MSG'}, 'page': {'id': 'dwL3ziirQWuiv2g1AhBW-A', 'caption': 'If the children haven’t tried Pass the Cube yet, now could be the perfect time! ⏰'}}
+msgid "If the children haven’t tried Pass the Cube yet, now could be the perfect time! ⏰"
+msgstr "Haeba bana ba eso ka ba leka Fetisa Tjhubu(Pass the Cube), jwale e ka ba nako e loketseng! ⏰"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}, 'button': {'id': 'Rd9L5im2TImHPhAGMpHU7A', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}, 'button': {'id': '9u9X6B-iTyKq6TPMt8T2Ug', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}, 'button': {'id': 'L2qLLAReQtGOGKB_0DCRkQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}, 'button': {'id': 'qGupzHmiSUO07hngI8KgSw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ena e ntshetsa pele:"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'iSFx-jOFS5Wen3_kw-rCmQ', 'name': 'Skills developed'}, 'report': {'id': 'FeHAbuliQ8ey8bAUvp5L_Q', 'type': 'MSG'}, 'page': {'id': 'Fl6yB99bQESo4HlcCg4CcA', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Walking & Moving\r\n"
+"✔️Arm & Hand Control\r\n"
+msgstr ""
+"✔️Ho tsamaya le ho sisinyeha\r\n"
+"✔️Taolo ya sephaka le letsoho"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': '5mEtHJgfT4e1f0jqGUaO-A', 'name': 'What you need'}, 'report': {'id': '3WYqRBhzSQeAx5TBWmMM9w', 'type': 'MSG'}, 'page': {'id': 'RMxtF3feQ4yb-7DS19NXtA', 'caption': 'See what you need'}}
+msgid ""
+"There’s only one item on the list! You’ll need:\r\n"
+"1. LEGO blocks\r\n"
+msgstr ""
+"Ho na le ntho e le nngwe feela lenaneng! O tla hloka:\r\n"
+"1. Diboloko tsa LEGO"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'CchiweUrR9GJ_B3Ee52n0g', 'name': 'Extra notes'}, 'report': {'id': 'kyOHBgYxQIaRYo4_FutjuQ', 'type': 'MSG'}, 'page': {'id': 'V78obkNdQheqC7KEgHxdBA', 'caption': 'Read the notes'}}
+msgid ""
+"Take the learning to the next level by getting the children to multitask and asking them some questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What are all the ways we can pass the cube?\r\n"
+"• Who has any other ideas on how we could pass the cube? (Eg, through their legs, under their arms, they could skip a person, etc.)\r\n"
+"\r\n"
+"Level 2\r\n"
+"Here’s an example of rhyme you could sing:\r\n"
+"This is the way we pass the cube\r\n"
+"Through our legs, through our legs\r\n"
+"This is the way we pass the cube \r\n"
+"On a sunny Monday morning…\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Ask the older children to come up with ideas as to how to pass the cube next. (Eg, over their head, with a sound, with a jump, etc.)\r\n"
+"\r\n"
+msgstr ""
+"Fetisetsa  ho ithuta mohatong o latelang ka ho etsa hore bana ba etse diketso tse mengata ka nako e le nngwe mme o ba botse dipotso:\r\n"
+"\r\n"
+"Mohato wa 1\r\n"
+"• Ke ditsela dife tsohle tseo re ka neheletsanang ka tjhubu ka tsona?\r\n"
+"• Ke mang ya ka tlang ka ditsela tse ding tseo re ka neheletsanang ka tjhubu ka tsona? (Mohlala, ka tlasa menoto, ka tlasa diphaka, ba ka nna ba tlodisa motho a le mong, jj.) \r\n"
+"\r\n"
+"Mohato wa 2\r\n"
+"Mohlala wa raeme eo le ka e binang ke ena:\r\n"
+"Re neheletsana tjhubu tjena\r\n"
+"Ka tlasa maoto, ka tlasa maoto a rona\r\n"
+"Re neheletsana tjhubu tjena \r\n"
+"Ka Mantaha hosing ho tjhesa…\r\n"
+"\r\n"
+"Mohato wa 3\r\n"
+"• Kopa bana ba baholwanyane ho fana ka mehopolo ya kamoo ho ka neheletsanwang ka tjhubu e latelang ka teng. (mohlala, ka hodima dihlooho tsa bona, ka modumo o itseng, ba tlola, jj.)"
+
+#f: {'context': 'text', 'workflow': {'id': 'p7jBlWHcQzar5mm9iVhJXg', 'name': 'SGroup10'}, 'state': {'id': 'nVODDot8QByOoIDOfLyJxQ', 'name': 'How it works'}, 'report': {'id': 'd8YN249iTlKtrPU5tr307w', 'type': 'MSG'}, 'page': {'id': '4QnUHEVXQQ-7uZ9sCnGlzQ', 'caption': 'See how it works'}}
+msgid ""
+"Take this chance to teach the children about teamwork. \r\n"
+"\r\n"
+"1. Together, use six blocks of Duplo LEGO to build a cube. It should be the right size for children to hold in one hand.\r\n"
+"2. Get the children to sit in a circle or stand in a line, and pass it from one to another.\r\n"
+"3. Tell them to change direction and pass the cube the other way.\r\n"
+"4. Ask them to pass it with one hand.\r\n"
+"5. You can then ask them to pass it with the other hand.\r\n"
+"6. Ask the children to pass the cube with their eyes closed.\r\n"
+"7. They can then pass it over their heads.\r\n"
+"8. You can also sing a little rhyme to go with your actions.\r\n"
+msgstr ""
+"Nka monyetla ona ho ruta bana mabapi le ho sebetsa ka dihlopha. \r\n"
+"\r\n"
+"1. Mmoho, sebedisang diboloko tse tsheletseng tsa DUPLO LEGO ho aha tjhupu. E lokela ho ba boholo bo lekaneng hore bana ba kgone ho e tshwara ka letsoho le le leng.\r\n"
+"2. Ere bana ba dule ka sedikadikwe kapa ba eme ka mola, mme ba nne ba e neheletsane.\r\n"
+"3. Ere ba fetole tsela ka ho neheletsana tjhubu e kgutlela morao.\r\n"
+"4. Ere ba e neheletsane ka letsoho le le leng.\r\n"
+"5. Jwale o ka ba kopa hore ba neheletsane ka yona ba sebedisa letsoho le leng.\r\n"
+"6. Kopa bana ho neheletsana tjhubu ba tutubetse.\r\n"
+"7. Jwale ba ka nna ba e neheletsana ka hodima dihlooho tsa bona.\r\n"
+"8. Hape le ka nna la bina raemenyana e tsamaisanang le diketso tsa lona."
+

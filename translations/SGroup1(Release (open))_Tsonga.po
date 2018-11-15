@@ -1,0 +1,110 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '07Cdau8kSvmCFJc-VxlL6Q', 'name': 'Extra notes'}, 'report': {'id': '7IB9MIjiSx6_J_oJ10BcQA', 'type': 'MSG'}, 'page': {'id': 'wFpsVJXvT6OQFzQ_N2cwYQ', 'caption': 'Read the notes'}}
+msgid ""
+"This is the story, as well as Mandla’s actions and emotions:\r\n"
+"\r\n"
+"1. Mandla wants to go and play with his friend Lebo (he’s excited) 😃\r\n"
+"2. Mandla’s mama says he can go (he’s happy) 🙂\r\n"
+"3. Mandla walks to Lebo’s house (he’s walking)🚶\r\n"
+"4. When he gets to Lebo’s house she’s not there (he’s sad) 😞\r\n"
+"5. So Mandla sits on the step and waits for her (he sits and feels tired) 😓  \r\n"
+"6. Lebo’s mama arrives (he’s pleased) 😁and Mandla asks where Lebo is (he’s polite) 🗣\r\n"
+"7. She says that Lebo has gone to Mandla’s house (he’s surprised) 😱\r\n"
+"8. Mandla runs home to find Lebo (he’s running). 🏃\r\n"
+"9. She is there and he is happy. 😆\r\n"
+"10. He hugs her. 🤗\r\n"
+"\r\n"
+"You can add to the story to make it more exciting and give the children more chances to mime actions or express feelings.\r\n"
+msgstr ""
+"Hi lexi xitori, xikan’we na swendlo swa Mandla na mitlhaveko:\r\n"
+"\r\n"
+"1. Mandla u lava ku ya huhwa na munghana wa yena Lebo (u nyanyukile). 😃\r\n"
+"2. Mhani wa Mandla va ri a nga famba (u tsakile). 🙂\r\n"
+"3. Mandla u ya endlwini ya ka va Lebo (u le ku fambeni). 🚶\r\n"
+"4. Loko a fika endlwini ya ka va Lebo u kuma a nga ri kona (wa tsana). 😞\r\n"
+"5. Kutani Mandla u tshama eswitepisini a n’wi yimela kona (wa tshama na ku twa a karhele). 😓  \r\n"
+"6. Mhana Lebo wa fika (u tsakile) 😁kutani Mandla a vutisa leswaku Lebo u kwihi (u komba xichavo). 🗣\r\n"
+"7. U ri Lebo u ye endlwini ya ka va Mandla (wa hlamala). 😱 \r\n"
+"8. Mandla u tsustsumela ekaya ku ya kuma Lebo (u le ku tsutsumeni). 🏃\r\n"
+"9. U kuma a ri kona kutani wa tsaka. 😆\r\n"
+"10. Wa n’wi angarha. 🤗\r\n"
+"\r\n"
+"U nga ha engetela swin’wana eka xitori ku endla leswaku xi tsakisa na ku nyika vana minkarhi yo tala yo encenyeta swendlo na ku kombisa matitwelo ya vona."
+
+#f: {'context': 'caption', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': 'rakGOjNoRzSPAcOldaFIGQ', 'name': 'Start'}, 'report': {'id': 'z0JOt97QSpOKirIWhFHeNQ', 'type': 'MSG'}, 'page': {'id': '99nh4LqRT9K1eIhxsTaaxg', 'caption': 'Why not do The Feelings Story activity? 🎭'}}
+msgid "Why not do The Feelings Story activity? 🎭"
+msgstr "Hikwalahokayini u nga endli nghingiriko wa Xitori xa Matiwelo? 🎭"
+
+#f: {'context': 'label', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '8AtG3VMHQRO8EFHvpwcMhQ', 'name': 'Skills developed'}, 'report': {'id': 'MeESKAtNRXW5-jQME6t7Qw', 'type': 'MSG'}, 'page': {'id': 'dVkQlvdBS_OlQ5-SxK1-Eg', 'caption': 'This game develops:'}, 'button': {'id': 'tnELm48qQLGgO_p8KBQRqw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': 'NIIEVqb0TCaAChjD8ETsrw', 'name': 'What you need'}, 'report': {'id': 'Iu6qHADiR6SusnUazk2NOQ', 'type': 'MSG'}, 'page': {'id': 'lrS9aPKVSiq9KmrqXQ3_0A', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '7gCEHQh8S7CAt17QUsfReQ', 'name': 'How it works'}, 'report': {'id': 'vsA9uth_QaqzI2wNa1Vpvg', 'type': 'MSG'}, 'page': {'id': 'Znl3yv9OSu-k4C5rT12x0g', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': 'NIIEVqb0TCaAChjD8ETsrw', 'name': 'What you need'}, 'report': {'id': 'Iu6qHADiR6SusnUazk2NOQ', 'type': 'MSG'}, 'page': {'id': 'lrS9aPKVSiq9KmrqXQ3_0A', 'caption': 'See what you need'}, 'button': {'id': 'GooxIeRlQbmzNZ-TSjnJ_g', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '07Cdau8kSvmCFJc-VxlL6Q', 'name': 'Extra notes'}, 'report': {'id': '7IB9MIjiSx6_J_oJ10BcQA', 'type': 'MSG'}, 'page': {'id': 'wFpsVJXvT6OQFzQ_N2cwYQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '7gCEHQh8S7CAt17QUsfReQ', 'name': 'How it works'}, 'report': {'id': 'vsA9uth_QaqzI2wNa1Vpvg', 'type': 'MSG'}, 'page': {'id': 'Znl3yv9OSu-k4C5rT12x0g', 'caption': 'See how it works'}, 'button': {'id': 't5qHsMegTtyDAzK9Widb4g', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '07Cdau8kSvmCFJc-VxlL6Q', 'name': 'Extra notes'}, 'report': {'id': '7IB9MIjiSx6_J_oJ10BcQA', 'type': 'MSG'}, 'page': {'id': 'wFpsVJXvT6OQFzQ_N2cwYQ', 'caption': 'Read the notes'}, 'button': {'id': 'QyM_Crf0S9CFXiHSdKxJag', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '7gCEHQh8S7CAt17QUsfReQ', 'name': 'How it works'}, 'report': {'id': 'vsA9uth_QaqzI2wNa1Vpvg', 'type': 'MSG'}, 'page': {'id': 'Znl3yv9OSu-k4C5rT12x0g', 'caption': 'See how it works'}}
+msgid ""
+"Get ready for some acting. Lights, camera, action! 🎬 \r\n"
+"\r\n"
+"1. Tell the children the story, using puppets if you have them. \r\n"
+"2. If not, use lots of actions, facial expressions and different voices to make it exciting. \r\n"
+"3. Then ask the children to stand up.\r\n"
+"4. Tell them the story again, one line at a time and ask the children to do the actions of the character Mandla.\r\n"
+"5. Also encourage them to do facial expressions by saying, “What does a sad face look like?” or “Show me a happy face.”\r\n"
+"6. Encourage them to take part and do any action they want to, so that they’re a part of the story.\r\n"
+msgstr ""
+"Tilulamisele ku tlanga. Mavoni, khamera, ntlangu! 🎬 \r\n"
+"\r\n"
+"1. Byela vana xitori, hi ku tirhisa tiphaphete loko u ri na tona. \r\n"
+"2. Loko u ri nga ri na tona, tirhisa ku tlanga ko hlaya, ku vulavula hi xikandza na marito yo hambanahambana ku endla leswaku swi nyanyula. \r\n"
+"3. Kutani u byela vana va suka va yima.\r\n"
+"4. Va byeli xitori nakambe, ntila wun’we hi nkarhi wun’we kutani u byela vana ku tlanga ximunuhutwa Mandla.\r\n"
+"5. Tlhela u va khutaza ku vulavula hi xikandza hikuva u ku, “Xana xikandza lexi nga tsana xi languteka njhani?” kumbe, “Ndzi kombe xikandza lexi nga tsaka.”\r\n"
+"6. Va khutazi ku va na xiave na ku endla ntlangu wihi kumbe wihi lowu va tsakelaka ku wu endla, leswaku va va xiphemu xa xitori."
+
+#f: {'context': 'caption', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '8AtG3VMHQRO8EFHvpwcMhQ', 'name': 'Skills developed'}, 'report': {'id': 'MeESKAtNRXW5-jQME6t7Qw', 'type': 'MSG'}, 'page': {'id': 'dVkQlvdBS_OlQ5-SxK1-Eg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'text', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': '8AtG3VMHQRO8EFHvpwcMhQ', 'name': 'Skills developed'}, 'report': {'id': 'MeESKAtNRXW5-jQME6t7Qw', 'type': 'MSG'}, 'page': {'id': 'dVkQlvdBS_OlQ5-SxK1-Eg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Social skills\r\n"
+"✔️Emotional skills\r\n"
+msgstr ""
+"✔️Swikili swo hanyisana na vanhu\r\n"
+"✔️Swikili swa ntlhaveko"
+
+#f: {'context': 'text', 'workflow': {'id': 'tCljt2-DTlegxlKST5cvLA', 'name': 'SGroup1'}, 'state': {'id': 'NIIEVqb0TCaAChjD8ETsrw', 'name': 'What you need'}, 'report': {'id': 'Iu6qHADiR6SusnUazk2NOQ', 'type': 'MSG'}, 'page': {'id': 'lrS9aPKVSiq9KmrqXQ3_0A', 'caption': 'See what you need'}}
+msgid ""
+"This game is all about imagination, so all you need is the children, and the story in the notes. But you can use puppets\r\n"
+msgstr "Ntlangu lowu wu hi mayelana na ku anakanya, kutani ke leswi u swi lavaka i vana, na xitori lexi nga eka tinotsi. Kambe u nga ha tirhisa tiphaphete."
+

@@ -1,0 +1,120 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '_UxrwmBRSOKKuNcvEKJaHg', 'name': 'Extra notes'}, 'report': {'id': 'kPK8WYYHQJen4Y_spJDRSQ', 'type': 'MSG'}, 'page': {'id': '5j4CUztrRkeS12LnLmV5vQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '05cEpsSrQQysrPjz98BaOA', 'name': 'How it works'}, 'report': {'id': 'LStslbVaR2a_XZ6RRMazyw', 'type': 'MSG'}, 'page': {'id': 'u9GA5J20R_mYkBw8Ye7G7Q', 'caption': 'See how it works'}, 'button': {'id': '7DNx5p11TmKRyQ4W60V-QA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '_UxrwmBRSOKKuNcvEKJaHg', 'name': 'Extra notes'}, 'report': {'id': 'kPK8WYYHQJen4Y_spJDRSQ', 'type': 'MSG'}, 'page': {'id': '5j4CUztrRkeS12LnLmV5vQ', 'caption': 'Read the notes'}, 'button': {'id': '4bljWrCwQKq05mKbXBSJsA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'I5yFtlVEQECE2jak9cu7rg', 'name': 'Skills developed'}, 'report': {'id': 'uNmTA-ebQYqUGWfb7VzMjQ', 'type': 'MSG'}, 'page': {'id': 'ZZ-5yP_aTpeYLiK3_WCNCw', 'caption': 'This game develops'}, 'button': {'id': 'ttaDU4J8RNWFgDiLVmAfLQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'o0IXMgGZReytaJGTdaHalw', 'name': 'What you need'}, 'report': {'id': '9xmM8h3nS06DYMoFKAiN4A', 'type': 'MSG'}, 'page': {'id': 'XEdd9hyRSjqDzRM3IPs_gw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'label', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'o0IXMgGZReytaJGTdaHalw', 'name': 'What you need'}, 'report': {'id': '9xmM8h3nS06DYMoFKAiN4A', 'type': 'MSG'}, 'page': {'id': 'XEdd9hyRSjqDzRM3IPs_gw', 'caption': 'See what you need'}, 'button': {'id': 'PHpMZZlCRZ-rNNsX_FhmGQ', 'label': 'See how it works'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '05cEpsSrQQysrPjz98BaOA', 'name': 'How it works'}, 'report': {'id': 'LStslbVaR2a_XZ6RRMazyw', 'type': 'MSG'}, 'page': {'id': 'u9GA5J20R_mYkBw8Ye7G7Q', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'o0IXMgGZReytaJGTdaHalw', 'name': 'What you need'}, 'report': {'id': '9xmM8h3nS06DYMoFKAiN4A', 'type': 'MSG'}, 'page': {'id': 'XEdd9hyRSjqDzRM3IPs_gw', 'caption': 'See what you need'}}
+msgid ""
+"The most important thing about this list is that there has to be one per child so that no one feels left out.\r\n"
+"\r\n"
+"1. Clothing for dress up\r\n"
+"2. 1 hat per child\r\n"
+"3. 1 scarf per child\r\n"
+"4. 1 necklace per child\r\n"
+"5. 1 pair of sunglasses per child\r\n"
+"6. Whatever else you have, as long as there is one per child\r\n"
+"7. Music\r\n"
+"8. Space to dance\r\n"
+msgstr ""
+"Die belangrikste aspek van hierdie lys is dat daar een van alles per kind moet wees sodat niemand voel hulle word uitgelaat nie. \r\n"
+"\r\n"
+"1. Klere vir aantrek\r\n"
+"2. 1 hoed per kind\r\n"
+"3. 1 serp per kind\r\n"
+"4. 1 halssnoer per kind\r\n"
+"5. 1 sonbril per kind\r\n"
+"6. Wat jy ook al het, solank daar een vir elke kind is\r\n"
+"7. Musiek\r\n"
+"8. Ruimte om te dans"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'dLDAUgvJQcS3GpBXFDETaA', 'name': 'Start'}, 'report': {'id': 'Mb7ThifJQhKtXMek5SKh-A', 'type': 'MSG'}, 'page': {'id': 'oyhf_dc-T2elbchMncgxGw', 'caption': 'There’s nothing like a getting Dressed Up. 💅🏿'}}
+msgid "There’s nothing like a getting Dressed Up. 💅🏿"
+msgstr "Daar is niks soos Speel-speel Aantrek (Dressed Up) nie. 💅🏿"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'I5yFtlVEQECE2jak9cu7rg', 'name': 'Skills developed'}, 'report': {'id': 'uNmTA-ebQYqUGWfb7VzMjQ', 'type': 'MSG'}, 'page': {'id': 'ZZ-5yP_aTpeYLiK3_WCNCw', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': 'I5yFtlVEQECE2jak9cu7rg', 'name': 'Skills developed'}, 'report': {'id': 'uNmTA-ebQYqUGWfb7VzMjQ', 'type': 'MSG'}, 'page': {'id': 'ZZ-5yP_aTpeYLiK3_WCNCw', 'caption': 'This game develops'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Songs , Rhymes & Sounds\r\n"
+msgstr ""
+"✔️Sosiale vaardighede\r\n"
+"✔️Liedjies, rympies en klanke"
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '05cEpsSrQQysrPjz98BaOA', 'name': 'How it works'}, 'report': {'id': 'LStslbVaR2a_XZ6RRMazyw', 'type': 'MSG'}, 'page': {'id': 'u9GA5J20R_mYkBw8Ye7G7Q', 'caption': 'See how it works'}}
+msgid ""
+"Parents love this game because it teaches children how to dress themselves.\r\n"
+"\r\n"
+"1. Choose 5 types of clothing or props, and make sure there’s enough for each child to have one.\r\n"
+"2. Put the items in the middle of the room. \r\n"
+"3. Make the children form a circle around the pile of clothes and props.\r\n"
+"4. Sing a rhyme or play music.\r\n"
+"5. Get the children to dance around. When the music stops, name an item.\r\n"
+"6. Each child has to grab one of what you’ve said and put it on, then keep dancing.\r\n"
+"7. Carry on until they’re all dressed up.\r\n"
+msgstr ""
+"Ouers hou van hierdie speletjie omdat dit kinders leer hoe om hulself aan te trek. \r\n"
+"\r\n"
+"1. Kies 5 soorte klere of rekwisiete, en maak seker daar’s genoeg vir elke kind om een van alles te hê.\r\n"
+"2. Plaas die items in die middel van die kamer. \r\n"
+"3. Laat die kinders ’n sirkel rondom die stapel klere en rekwisiete vorm.\r\n"
+"4. Sing ’n rympie of speel musiek.\r\n"
+"5. Laat die kinders ronddans. Wanneer die musiek stop, noem ’n item.\r\n"
+"6. Elke kind moet een van die items gryp wat jy genoem het en dit aantrek, en dan aanhou dans.\r\n"
+"7. Hou aan totdat hulle almal aangetrek is."
+
+#f: {'context': 'text', 'workflow': {'id': 'ThbZXDb7SbaK0i-d3aODwA', 'name': 'LGroup8'}, 'state': {'id': '_UxrwmBRSOKKuNcvEKJaHg', 'name': 'Extra notes'}, 'report': {'id': 'kPK8WYYHQJen4Y_spJDRSQ', 'type': 'MSG'}, 'page': {'id': '5j4CUztrRkeS12LnLmV5vQ', 'caption': 'Read the notes'}}
+msgid ""
+"Here are some clothing ideas:👓👛🧥👒👚👖👔👙👠🧦🧤🎩👕🧣👟🧢👜🕶🎒👗\r\n"
+"A rhyme you can sing:\r\n"
+"\r\n"
+"We are getting dressed\r\n"
+"We must look our best\r\n"
+"Dance dance dance\r\n"
+"And now’s you last chance\r\n"
+"To put your ___________ ON! \r\n"
+msgstr ""
+"Hier is ’n paar idees vir klere: 👓👛🧥👒👚👖👔👙👠🧦🧤🎩👕🧣👟🧢👜🕶🎒👗\r\n"
+"\r\n"
+"’n Rympie wat jy kan sing:\r\n"
+"\r\n"
+"Ons trek aan\r\n"
+"Ons moet ons beste lyk\r\n"
+"Dans dans dans\r\n"
+"En nou is jou laaste kans\r\n"
+"Om jou ___________ aan te trek!"
+

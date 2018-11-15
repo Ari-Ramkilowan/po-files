@@ -1,0 +1,108 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'DFJBM6vfQxqkUxCDKq20sQ', 'name': 'Skills developed'}, 'report': {'id': 'MSkUyZiUQdeMJCjekF0ZTw', 'type': 'MSG'}, 'page': {'id': 'ny59qnqvTzCtTKInUa_myw', 'caption': 'This game develops:'}, 'button': {'id': 'V6Fx8AyRRkavHWn6HVrmKw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'E7ysHhKKTfW1g_iHfkNN8Q', 'name': 'What you need'}, 'report': {'id': 'au5AKky_TW2vsxTAZyJFeQ', 'type': 'MSG'}, 'page': {'id': 'EDzcuYBzSHmg_zktes-w4Q', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '2vmnVDAdSP2O84czgF0xPw', 'name': 'How it works'}, 'report': {'id': 'qHR2s4dMRmSYd95S-QX6lg', 'type': 'MSG'}, 'page': {'id': 'y67C7G26QGGGLWZph4b05w', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'E7ysHhKKTfW1g_iHfkNN8Q', 'name': 'What you need'}, 'report': {'id': 'au5AKky_TW2vsxTAZyJFeQ', 'type': 'MSG'}, 'page': {'id': 'EDzcuYBzSHmg_zktes-w4Q', 'caption': 'See what you need'}, 'button': {'id': 'CmwmatThQxWIFsGV8YhBvw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '2vmnVDAdSP2O84czgF0xPw', 'name': 'How it works'}, 'report': {'id': 'qHR2s4dMRmSYd95S-QX6lg', 'type': 'MSG'}, 'page': {'id': 'y67C7G26QGGGLWZph4b05w', 'caption': 'See how it works'}, 'button': {'id': 'mGBHCd3ySzCQmWkWuEcqTA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'label', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'PcVL9lrrSbCo-4b87Jxb1Q', 'name': 'Extra notes'}, 'report': {'id': 'nwUX57O1RZ2HaenB7mwj8Q', 'type': 'MSG'}, 'page': {'id': 'l8qPEubuSyCeSALiU0lCjQ', 'caption': 'This is the story, as well as Mandla’s actions and emotions:'}, 'button': {'id': 'DBC36XkiT4Ci6FrG1ilylQ', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'DFJBM6vfQxqkUxCDKq20sQ', 'name': 'Skills developed'}, 'report': {'id': 'MSkUyZiUQdeMJCjekF0ZTw', 'type': 'MSG'}, 'page': {'id': 'ny59qnqvTzCtTKInUa_myw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '4wrLmNVPSECHjlzoOt0Olw', 'name': 'Start'}, 'report': {'id': 'N38II74ERWyBW2cuWhcyjg', 'type': 'MSG'}, 'page': {'id': 'OWZ8lf_1SgODloYMq2EUkg', 'caption': 'Why not tell The Feelings Story? 🎭'}}
+msgid "Why not tell The Feelings Story? 🎭"
+msgstr "Waarom vertel jy nie Die Storie oor Gevoelens (The Feelings Story) nie? 🎭"
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'DFJBM6vfQxqkUxCDKq20sQ', 'name': 'Skills developed'}, 'report': {'id': 'MSkUyZiUQdeMJCjekF0ZTw', 'type': 'MSG'}, 'page': {'id': 'ny59qnqvTzCtTKInUa_myw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Emotional\r\n"
+msgstr ""
+"✔️Sosiale vaardighede\r\n"
+"✔️Emosionele vaardighede"
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'E7ysHhKKTfW1g_iHfkNN8Q', 'name': 'What you need'}, 'report': {'id': 'au5AKky_TW2vsxTAZyJFeQ', 'type': 'MSG'}, 'page': {'id': 'EDzcuYBzSHmg_zktes-w4Q', 'caption': 'See what you need'}}
+msgid "This game is all about imagination, so all you need is the children, and the story in the notes,or you can use puppets. "
+msgstr "Hierdie speletjie gaan oor die verbeelding en al wat jy dus nodig het, is die kinders en die storie in die notas, of jy kan handpoppe gebruik."
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': '2vmnVDAdSP2O84czgF0xPw', 'name': 'How it works'}, 'report': {'id': 'qHR2s4dMRmSYd95S-QX6lg', 'type': 'MSG'}, 'page': {'id': 'y67C7G26QGGGLWZph4b05w', 'caption': 'See how it works'}}
+msgid ""
+"Get ready for some acting! Lights, camera, action! 🎬\r\n"
+"\r\n"
+"1. Tell the children the story, using puppets if you have them.\r\n"
+"2. If not, use lots of actions, facial expressions and different voices to make it exciting. \r\n"
+"3. Then ask the children to stand up.\r\n"
+"4. Tell them the story again, one line at a time and ask the children to do the actions of the character Mandla.\r\n"
+"5. Also encourage them to do facial expressions by saying, “what does a sad face look like?” or “show me a happy face.”\r\n"
+"6. Encourage them to take part and do any action they want to, so that they’re a part of the story."
+msgstr ""
+"Kry reg vir toneelspel. Ligte, kamera, aksie!  🎬\r\n"
+"\r\n"
+"1. Vertel die kinders ’n storie, gebruik handpoppe as jy het. \r\n"
+"2. Indien nie, gebruik baie aksies, gesigsuitdrukkings en verskillende stemtone om dit opwindend te maak. \r\n"
+"3. Vra dan die kinders om op te staan.\r\n"
+"4. Vertel weer die storie, een reël op ’n slag en vra die kinders om die aksies van die karakter Mandla te doen.\r\n"
+"5. Spoor hulle ook aan om gesigsuitdrukkings te gebruik deur te sê, “Hoe lyk ’n hartseer gesig?” of “Wys my hoe lyk ’n gelukkige gesig”.\r\n"
+"6. Moedig hulle aan om deel te neem en enige aksie te doen wat hulle wil sodat hulle deel van die storie is."
+
+#f: {'context': 'text', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'PcVL9lrrSbCo-4b87Jxb1Q', 'name': 'Extra notes'}, 'report': {'id': 'nwUX57O1RZ2HaenB7mwj8Q', 'type': 'MSG'}, 'page': {'id': 'l8qPEubuSyCeSALiU0lCjQ', 'caption': 'This is the story, as well as Mandla’s actions and emotions:'}}
+msgid ""
+"1. Mandla wants to go and play with his friend Lebo (he’s excited) 😃\r\n"
+"2. Mandla’s mama says he can go (he’s happy) 🙂\r\n"
+"3. Mandla walks to Lebo’s house (he’s walking)🚶\r\n"
+"4. When he gets to Lebo’s house she’s not there (he’s sad) 😞\r\n"
+"5. So Mandla sits on the step and waits for her (he sits and feels tired) 😓  \r\n"
+"6. Lebo’s mama arrives (he’s pleased) 😁and Mandla asks where Lebo is (he’s polite) 🗣\r\n"
+"7. She says that Lebo has gone to Mandla’s house (he’s surprised) 😱\r\n"
+"8. Mandla runs home to find Lebo (he’s running). 🏃\r\n"
+"9. She is there and he is happy. 😆\r\n"
+"10. He hugs her. 🤗\r\n"
+"\r\n"
+"You can add to the story to make it more exciting and give the children more chances to mime actions or express feelings."
+msgstr ""
+"1. Mandla wil met sy maatjie Lebo gaan speel (hy is opgewonde). 😃\r\n"
+"2. Mandla se mamma sê hy mag gaan (hy is gelukkig). 🙂\r\n"
+"3. Mandla stap na Lebo se huis (hy loop). 🚶\r\n"
+"4. Wanneer hy by Lebo se huis kom, is sy nie daar nie (hy is hartseer). 😞\r\n"
+"5. Mandla gaan sit op die trappie en wag op haar (hy sit en voel moeg).   😓  \r\n"
+"6. Lebo se mamma kom tuis (hy is bly) 😁 en Mandla vra waar Lebo is (hy is beleefd). 🗣\r\n"
+"7. Sy sê Lebo het na Mandla se huis toe gegaan (hy is verras). 😱\r\n"
+"8. Mandla hardloop huis toe om Lebo te vind (hy hardloop). 🏃\r\n"
+"9. Sy is daar en hy is gelukkig. 😆\r\n"
+"10. Hy gee haar ’n drukkie. 🤗\r\n"
+"\r\n"
+"Jy kan uitbrei op die storie om dit meer opwindend te maak en die kinders kans te gee om meer aksies na te boots of gevoelens uit te druk."
+
+#f: {'context': 'caption', 'workflow': {'id': 'B3iVazNFRtyYwyn6c6owEg', 'name': 'LGroup2'}, 'state': {'id': 'PcVL9lrrSbCo-4b87Jxb1Q', 'name': 'Extra notes'}, 'report': {'id': 'nwUX57O1RZ2HaenB7mwj8Q', 'type': 'MSG'}, 'page': {'id': 'l8qPEubuSyCeSALiU0lCjQ', 'caption': 'This is the story, as well as Mandla’s actions and emotions:'}}
+msgid "This is the story, as well as Mandla’s actions and emotions:"
+msgstr "This is the story, as well as Mandla’s actions and emotions:"
+

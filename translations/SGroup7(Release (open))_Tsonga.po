@@ -1,0 +1,139 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'l3KWDOw5TxWpfBsFBnFNUA', 'name': 'Extra notes'}, 'report': {'id': '4nLNcEZ5QIGoLZgHJJ27QQ', 'type': 'MSG'}, 'page': {'id': 'ZbidzcvTTMeksrJbjS_awQ', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'R6ymGnhyQi2WMZf0NnYpIg', 'name': 'How it works'}, 'report': {'id': 'jfFEHt8NRyqXAQMXeXVSYQ', 'type': 'MSG'}, 'page': {'id': 'x2fipsVCS7iUG2pT8CIMjA', 'caption': 'See how it works'}, 'button': {'id': 'CiwsmVgURdyEJGsFzCLlAw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': '8OndV5K-RoiwCTkMWwT_iA', 'name': 'Skills developed'}, 'report': {'id': '86l0zt76Qeq52bz09hQpdA', 'type': 'MSG'}, 'page': {'id': 'vtBfsBICS-qCv9jD68KpOg', 'caption': 'This game develops:'}, 'button': {'id': 'DfQWtyX1Sgm_wm8UrPJvgQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'zH0dXRQkTHu_c3xji2LQgg', 'name': 'What you need'}, 'report': {'id': 'an9oyYQeTECIO9eIdACIbg', 'type': 'MSG'}, 'page': {'id': 'cmq0JGD9Qt6aNhBOBh0drw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'R6ymGnhyQi2WMZf0NnYpIg', 'name': 'How it works'}, 'report': {'id': 'jfFEHt8NRyqXAQMXeXVSYQ', 'type': 'MSG'}, 'page': {'id': 'x2fipsVCS7iUG2pT8CIMjA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'zH0dXRQkTHu_c3xji2LQgg', 'name': 'What you need'}, 'report': {'id': 'an9oyYQeTECIO9eIdACIbg', 'type': 'MSG'}, 'page': {'id': 'cmq0JGD9Qt6aNhBOBh0drw', 'caption': 'See what you need'}, 'button': {'id': 'dqoVibwBT-Si87FiBlsQ_w', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'label', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'l3KWDOw5TxWpfBsFBnFNUA', 'name': 'Extra notes'}, 'report': {'id': '4nLNcEZ5QIGoLZgHJJ27QQ', 'type': 'MSG'}, 'page': {'id': 'ZbidzcvTTMeksrJbjS_awQ', 'caption': 'Read the notes'}, 'button': {'id': 'oBe4c6wdQQSdJZfVnWnrKw', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'l3KWDOw5TxWpfBsFBnFNUA', 'name': 'Extra notes'}, 'report': {'id': '4nLNcEZ5QIGoLZgHJJ27QQ', 'type': 'MSG'}, 'page': {'id': 'ZbidzcvTTMeksrJbjS_awQ', 'caption': 'Read the notes'}}
+msgid ""
+"The lion is the king of the jungle, let’s see what the kids know about it:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What sound does a lion make?\r\n"
+"• Where do they live?\r\n"
+"• What do they eat?\r\n"
+"• What should you do if you see a lion?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What kind of animals are they? (Cats and mammals)\r\n"
+"• What do they look like?\r\n"
+"• How big are they?\r\n"
+"• What colour are they?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• What else can you tell me about lions?\r\n"
+"• What other animals live near lions?\r\n"
+"• Let’s talk about those – what do you know about elephants, or rhinos?\r\n"
+"• What sound does the word ‘lion’ start with?\r\n"
+"• What sound does the word ‘rhino’ start with?\r\n"
+"• What sound does the word ‘elephant’ start with?"
+msgstr ""
+"Nghala i hosi ya le kwhatini, a hi voni leswi vana va swi tivaka hi mhaka leyi:\r\n"
+"\r\n"
+"Levhele ya 1\r\n"
+"• Xana nghala yi endla mpfumawulo wihi?\r\n"
+"• Xana tinghala ti tshama kwihi?\r\n"
+"• Xana ti dya yini?\r\n"
+"• I yini leswi u faneleke ku swi endla loko u vona nghala?\r\n"
+"\r\n"
+"Levhele ya 2\r\n"
+"• Xana i swiharhi swa njhani? (Swimanga na leswi mamisaka)\r\n"
+"• Xana ti languteka njhani?\r\n"
+"• Xana ti ku le ku fika kwihi?\r\n"
+"• Xana i ta muhlovo muni?\r\n"
+"\r\n"
+"Levhele ya 3\r\n"
+"• Xana i yini swin’wana u nga ndzi byelaka hi tinghala?\r\n"
+"• Xana hi swihi swifuwo swin’wana leswi hanyaka ekusuhi na tinghala?\r\n"
+"• A hi vulavuleni hi swona – xana u tiva yini hi tindlopfu, kumbe timhelembe?\r\n"
+"• Xana rito ‘nghala’ ri sungula hi mpfumawulo wihi?\r\n"
+"• Xana rito ‘mhelembe’ ri sungula hi mpfumawulo wihi\r\n"
+"• Xana rito ‘ndlopfu’ ri sungula hi mpfumawulo wihi?"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': '8OndV5K-RoiwCTkMWwT_iA', 'name': 'Skills developed'}, 'report': {'id': '86l0zt76Qeq52bz09hQpdA', 'type': 'MSG'}, 'page': {'id': 'vtBfsBICS-qCv9jD68KpOg', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'I5ScDc4kRMC3bVp_jY6muA', 'name': 'Start'}, 'report': {'id': '6Y1IB4IeRMWPGQp73qKEkw', 'type': 'MSG'}, 'page': {'id': 'KZNn7caPSHaOxCqxcShxng', 'caption': 'Have you made any Little Lions yet? 🦁'}}
+msgid "Have you made any Little Lions yet? 🦁"
+msgstr "Xana u ve se u endlile swinghalana ke? 🦁"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': '8OndV5K-RoiwCTkMWwT_iA', 'name': 'Skills developed'}, 'report': {'id': '86l0zt76Qeq52bz09hQpdA', 'type': 'MSG'}, 'page': {'id': 'vtBfsBICS-qCv9jD68KpOg', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Walking & Moving\r\n"
+"✔️Arm & Hand control\r\n"
+msgstr ""
+"✔️Ku famba na ku fambafamba\r\n"
+"✔️Ku lawula voko na xandla"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'zH0dXRQkTHu_c3xji2LQgg', 'name': 'What you need'}, 'report': {'id': 'an9oyYQeTECIO9eIdACIbg', 'type': 'MSG'}, 'page': {'id': 'cmq0JGD9Qt6aNhBOBh0drw', 'caption': 'See what you need'}}
+msgid ""
+"If you have time, get the children cut these things out themselves: ✂\r\n"
+"\r\n"
+"- 1 paper per child for the lion’s face\r\n"
+"- 2 black eyes per child cut out of paper\r\n"
+"- 1 nose per child cut out of paper\r\n"
+"- 2 ears per child cut out of paper\r\n"
+"- 1 plastic / onion bag per child\r\n"
+msgstr ""
+"Loko u ri na nkarhi, endla leswaku vana va titsemela swilo leswi landzelaka: ✂\r\n"
+"\r\n"
+"1. Phepha ri 1 hi n’wana ro endla xikandza xa nghala\r\n"
+"2. Matihlo ma 2 lama nga tsemiwa eka phepha hi n’wana \r\n"
+"3. Nhompfu yi 1 leyi nga tsemiwa eka phepha hi n’wana\r\n"
+"4. Tindleve ti 2 leti nga tsemiwa eka phepha hi n’wana \r\n"
+"5. Pulasitiki kumbe xisakana xi 1 xa tinyala hi n’wana"
+
+#f: {'context': 'text', 'workflow': {'id': 'u61hj3QiTl2kvod-yDqzgw', 'name': 'SGroup7'}, 'state': {'id': 'R6ymGnhyQi2WMZf0NnYpIg', 'name': 'How it works'}, 'report': {'id': 'jfFEHt8NRyqXAQMXeXVSYQ', 'type': 'MSG'}, 'page': {'id': 'x2fipsVCS7iUG2pT8CIMjA', 'caption': 'See how it works'}}
+msgid ""
+"You can use this activity as an opportunity to teach children about animals.\r\n"
+"\r\n"
+"1.Talk about lions before you make the lion face.\r\n"
+"2.Ask each child to cut out a circle to make the lions face.\r\n"
+"3.They can colour in the face of the lion and stick on eyes, nose and ears.\r\n"
+"4.Get them to cut strips of plastic or onion bag for the mane of the lion.\r\n"
+"5.Stick on the strips.\r\n"
+"6.If you have string, you could make holes in the eyes and turn the lion face into a mask.\r\n"
+"7.Get children to crawl around and roar like lions.\r\n"
+msgstr ""
+"U nga ha tirhisa nghingiriko lowu tanihi nkarhi wo dyondzisa n’wana hi swihari.\r\n"
+"\r\n"
+"1. Vulavula hi tinghala u nga se endla xikandza xa nghala.\r\n"
+"2. Byela n’wana un’wana na un’wana ku tsema sekele a endla xikandza xa nghala.\r\n"
+"3. Va nga ha khalara xikandza xa nghala na ku damarheta mahlo, nhompfu na tindleve.\r\n"
+"4. Endla leswaku va tsema switiripi swa pulasitiki kumbe xisakana xa tinyala ku endla ntshiva wa nghala.\r\n"
+"5. Damarheta switiripi.\r\n"
+"6. Loko u ri na ntambu, u nga endla timbhovo emtihlweni u cinca xikandza xa nghala xi va maski.\r\n"
+"7. Endla leswaku vana va kasa va rhendzeleka na ku bonga ku fana na tinghala."
+

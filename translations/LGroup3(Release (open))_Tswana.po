@@ -1,0 +1,104 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tsn\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'DJuPbTHdS36Sd3j96XgQYw', 'name': 'Extra notes'}, 'report': {'id': '5sFxJI6TRliadoOjLM38EA', 'type': 'MSG'}, 'page': {'id': 'K4s0Mx6IQx2TjeFtNoJksA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'q2O0thXdRl6yj0vQ4NtGIg', 'name': 'How it works'}, 'report': {'id': 'qY472h6YQiC79ShDxIWV2g', 'type': 'MSG'}, 'page': {'id': 'ttqES5HHSR-FvnehouzZ_A', 'caption': 'See how it works'}, 'button': {'id': '0WluwP8bTsaW6eKlixHBBg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dintlha"
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': '-Uhjyrh7QoaAoTvnefHZZA', 'name': 'What you need'}, 'report': {'id': '5uXoWPkWSYqziW9vslyqRw', 'type': 'MSG'}, 'page': {'id': '6oAAGZCgSGOxZ2nEU_zGTA', 'caption': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'OYSLT1lqTN2jQ66QhtVEzg', 'name': 'Skills developed'}, 'report': {'id': 'TLdho7OXRtKdM7ZY1NJr0g', 'type': 'MSG'}, 'page': {'id': 'OJxuWpHiT7-MyJzqR88OzQ', 'caption': 'This game develops'}, 'button': {'id': 'z0rkpe8oR_Kl2D2s-v9_kA', 'label': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se tlhokang"
+
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'DJuPbTHdS36Sd3j96XgQYw', 'name': 'Extra notes'}, 'report': {'id': '5sFxJI6TRliadoOjLM38EA', 'type': 'MSG'}, 'page': {'id': 'K4s0Mx6IQx2TjeFtNoJksA', 'caption': 'Read the notes'}, 'button': {'id': 'dM41lVNtQMa5jIuppaei_w', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Boela kwa mmenyung"
+
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': '-Uhjyrh7QoaAoTvnefHZZA', 'name': 'What you need'}, 'report': {'id': '5uXoWPkWSYqziW9vslyqRw', 'type': 'MSG'}, 'page': {'id': '6oAAGZCgSGOxZ2nEU_zGTA', 'caption': 'See what you need'}, 'button': {'id': 'Xvy4TLYlT9yhg0Yv0yl-mg', 'label': 'See how it works'}}
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'q2O0thXdRl6yj0vQ4NtGIg', 'name': 'How it works'}, 'report': {'id': 'qY472h6YQiC79ShDxIWV2g', 'type': 'MSG'}, 'page': {'id': 'ttqES5HHSR-FvnehouzZ_A', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona kafa o tshamekiwang ka teng"
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': '-Uhjyrh7QoaAoTvnefHZZA', 'name': 'What you need'}, 'report': {'id': '5uXoWPkWSYqziW9vslyqRw', 'type': 'MSG'}, 'page': {'id': '6oAAGZCgSGOxZ2nEU_zGTA', 'caption': 'See what you need'}}
+msgid ""
+"I meant it when I said it was easy. All you need is:\r\n"
+"\r\n"
+"1. A big space to play \r\n"
+"2. A blindfold\r\n"
+msgstr ""
+"Ke ne ke bua boammaaruri fa ke ne ke re go bonolo. Se o se tlhokang fela ke:\r\n"
+"\r\n"
+"1. Lebala le legolo le go ka tshamekelwang mo go lone \r\n"
+"2. Sebipamatlho"
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'OYSLT1lqTN2jQ66QhtVEzg', 'name': 'Skills developed'}, 'report': {'id': 'TLdho7OXRtKdM7ZY1NJr0g', 'type': 'MSG'}, 'page': {'id': 'OJxuWpHiT7-MyJzqR88OzQ', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Motshameko o o a tswelela:"
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'DJuPbTHdS36Sd3j96XgQYw', 'name': 'Extra notes'}, 'report': {'id': '5sFxJI6TRliadoOjLM38EA', 'type': 'MSG'}, 'page': {'id': 'K4s0Mx6IQx2TjeFtNoJksA', 'caption': 'Read the notes'}}
+msgid ""
+"Here are a few handy hints\r\n"
+"1. Walk around with your arms out in front of you so that you don’t bump into anything or anyone.\r\n"
+"2. Ask if you are hot 🔥 or cold ❄ so that the children can give you clues.\r\n"
+"3. Let the older children have a turn with the blindfold if they want.\r\n"
+msgstr ""
+"Ditlhabobotlhale dingwe ke tse:\r\n"
+"\r\n"
+"1. Nna o tsamaye mabogo a gago a le fa pele  gore o se ka wa thula sepe kgotsa ope.\r\n"
+"2. Botsa gore a o mogote  kgotsa o tsididi ❄ e le gore bana ba kgone go go tlhaba botlhale.\r\n"
+"3. Dira gore bana ba bagolwane ba nne le tshono ya go ipipa sefatlhego fa ba batla."
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'E5R69tJ9T62AjlTWPpG-PA', 'name': 'Start'}, 'report': {'id': 'BzD4n4hzSQqOjtoJPfLWLg', 'type': 'MSG'}, 'page': {'id': '09yMQUNWRRuw4cpWJKjZbA', 'caption': 'Have you played The Blind Man with the children? It’s really easy. 🙈 '}}
+msgid "Have you played The Blind Man with the children? It’s really easy. 🙈 "
+msgstr "A o kile wa tshameka motshameko wa Monna wa Sefofu le bana? Go bonolo fela.🙈"
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'q2O0thXdRl6yj0vQ4NtGIg', 'name': 'How it works'}, 'report': {'id': 'qY472h6YQiC79ShDxIWV2g', 'type': 'MSG'}, 'page': {'id': 'ttqES5HHSR-FvnehouzZ_A', 'caption': 'See how it works'}}
+msgid ""
+"Here’s how you play the game:\r\n"
+"\r\n"
+"1. Tell the children you are going to play The Blind Man.\r\n"
+"2. Say that you’re going to put a blindfold on so that you can’t see, and show them the blindfold.\r\n"
+"3. Find a big space. \r\n"
+"4. Ask the children to find a place to stand.\r\n"
+"5. They are not allowed to move from that spot.\r\n"
+"6. Move through the space with your blindfold on. \r\n"
+"7. If you get close to a child, they must shout “hot!”\r\n"
+"8. If you are far away, they must shout “cold!”\r\n"
+"9. When you find a child, feel their faces and guess who it is. \r\n"
+msgstr ""
+"Motshamelo ono o tshamekiwa ka tsela e e latelang: \r\n"
+"\r\n"
+"1. Bolelela bana gore o tlile go tshameka Motshameko wa Sefofu.\r\n"
+"2. Ba bolelele gore o tlile go ipipa matlho gore o se ka wa kgona go bona, o bo o ba bontsha sebipamatlho\r\n"
+"3. Batla sebaka sa seka lebala. \r\n"
+"4. Kopa bana go batla lefelo le ba ka emang mo go lone.\r\n"
+"5. Ga ba letlelelwe go tswa mo lefelong leo.\r\n"
+"6. Nna o tsamaye mo lefelong leo o tswetse matlho. \r\n"
+"7. Fa o atamela ngwana mongwe, ngwana oo o tshwanetse go goa a re “go mogote!”\r\n"
+"8. Fa e le gore o kgakala thata, ba tshwanetse go goa ba re “go tsididi thata”\r\n"
+"9. Fa o bona ngwana, mo tshware sefatlhego o bo o fopholetsa gore ke mang."
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'OYSLT1lqTN2jQ66QhtVEzg', 'name': 'Skills developed'}, 'report': {'id': 'TLdho7OXRtKdM7ZY1NJr0g', 'type': 'MSG'}, 'page': {'id': 'OJxuWpHiT7-MyJzqR88OzQ', 'caption': 'This game develops'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Walking & Moving\r\n"
+msgstr ""
+"✔️Bokgoni jwa batho\r\n"
+"✔️Go tsamaya le go  suta"
+

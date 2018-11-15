@@ -1,0 +1,133 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'fzMnIXxCRHCIxyU66fb7Eg', 'name': 'How it works'}, 'report': {'id': 'OORC5_AqTaiEEoGvsaz0Fw', 'type': 'MSG'}, 'page': {'id': '-dIFUH9ZQPugnbgI35lJ_Q', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'O6tJ3O8tQmuqfIOwksIThQ', 'name': 'What you need'}, 'report': {'id': 'bTI64YEBTI6apkfAqLmW8A', 'type': 'MSG'}, 'page': {'id': 'b60QJEhASyS5UVVGGFy8Bw', 'caption': 'See what you need'}, 'button': {'id': 'n5Hhg5b6T2qpU3rQq9W56A', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '3LMnG7yWRySfwAx8OjSiwQ', 'name': 'Start'}, 'report': {'id': 'vaI2U8qwQM6PYVAShZvGMQ', 'type': 'MSG'}, 'page': {'id': 'mE-x3fv9Rb-DA09Fn2UYwQ', 'caption': 'Animal Pond'}}
+msgid "Animal Pond"
+msgstr "As jy nog nie vandag vir die kinders ’n storie vertel het nie, kan Diere by die Dammetjie (Animal Pond) die perfekte aktiwiteit wees. 🐘🐂🐪"
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '5U64DfzNSW-b1secpZhgUg', 'name': 'Extra notes'}, 'report': {'id': 'YPMaD3C5RlC5K26evsHsAQ', 'type': 'MSG'}, 'page': {'id': 'D1wp6lUISweYJ-nZZ6gSYw', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'fzMnIXxCRHCIxyU66fb7Eg', 'name': 'How it works'}, 'report': {'id': 'OORC5_AqTaiEEoGvsaz0Fw', 'type': 'MSG'}, 'page': {'id': '-dIFUH9ZQPugnbgI35lJ_Q', 'caption': 'See how it works'}, 'button': {'id': 'j890_rkMT_KrsIuoCTyAwA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die notas"
+
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '5U64DfzNSW-b1secpZhgUg', 'name': 'Extra notes'}, 'report': {'id': 'YPMaD3C5RlC5K26evsHsAQ', 'type': 'MSG'}, 'page': {'id': 'D1wp6lUISweYJ-nZZ6gSYw', 'caption': 'Read the notes'}, 'button': {'id': 'vDk8efP8SpCe1zmCW3albA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'label', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'zM7xIFJTRGGDmpeLbPzTjA', 'name': 'Skills developed'}, 'report': {'id': 'hX94SFiyRgqQyCSBBx8PeA', 'type': 'MSG'}, 'page': {'id': 'poww2IeLQq-UHCxcOHdB0g', 'caption': 'This game develops: '}, 'button': {'id': '5rARERu0RFqJwqL16PtNxw', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'O6tJ3O8tQmuqfIOwksIThQ', 'name': 'What you need'}, 'report': {'id': 'bTI64YEBTI6apkfAqLmW8A', 'type': 'MSG'}, 'page': {'id': 'b60QJEhASyS5UVVGGFy8Bw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig het"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': '5U64DfzNSW-b1secpZhgUg', 'name': 'Extra notes'}, 'report': {'id': 'YPMaD3C5RlC5K26evsHsAQ', 'type': 'MSG'}, 'page': {'id': 'D1wp6lUISweYJ-nZZ6gSYw', 'caption': 'Read the notes'}}
+msgid ""
+"Let the children build on their brilliant stories by asking them these questions:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What animal do you have?\r\n"
+"• Where does he want to go?\r\n"
+"• How will you help him?\r\n"
+"• What will you build?\r\n"
+"• How will you build it?\r\n"
+"• How will the animal cross?\r\n"
+"• Where is he going now?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• How does your goat feel?\r\n"
+"• What does he feel that way?\r\n"
+"• What will make him feel scared?\r\n"
+"• What will make him feel safe and happy?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Tell me the story of your little goat.\r\n"
+msgstr ""
+"Vra die kinders hierdie vrae om verder op hul oulike stories uit te brei.\r\n"
+"\r\n"
+"Vlak 1\r\n"
+"• Watter diertjie het jy?\r\n"
+"• Waarheen wil hy gaan?\r\n"
+"• Hoe sal jy hom help?\r\n"
+"• Wat sal jy bou?\r\n"
+"• Hoe sal jy dit bou?\r\n"
+"• Hoe sal die diertjie die dammetjie oorsteek?\r\n"
+"• Waarheen gaan hy nou?\r\n"
+"\r\n"
+"Vlak 2\r\n"
+"• Hoe voel jou bokkie?\r\n"
+"• Hoekom voel hy so?\r\n"
+"• Wat sal hom bang maak?\r\n"
+"• Wat sal hom veilig en gelukkig laat voel?\r\n"
+"\r\n"
+"Vlak 3\r\n"
+"• Vertel my die storie van jou bokkie."
+
+#f: {'context': 'caption', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'zM7xIFJTRGGDmpeLbPzTjA', 'name': 'Skills developed'}, 'report': {'id': 'hX94SFiyRgqQyCSBBx8PeA', 'type': 'MSG'}, 'page': {'id': 'poww2IeLQq-UHCxcOHdB0g', 'caption': 'This game develops: '}}
+msgid "This game develops: "
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'zM7xIFJTRGGDmpeLbPzTjA', 'name': 'Skills developed'}, 'report': {'id': 'hX94SFiyRgqQyCSBBx8PeA', 'type': 'MSG'}, 'page': {'id': 'poww2IeLQq-UHCxcOHdB0g', 'caption': 'This game develops: '}}
+msgid ""
+"✔️Skills for Learning\r\n"
+"✔️Exploring & Finding Out "
+msgstr ""
+"✔️Skills for Learning\r\n"
+"✔️Exploring & Finding Out"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'O6tJ3O8tQmuqfIOwksIThQ', 'name': 'What you need'}, 'report': {'id': 'bTI64YEBTI6apkfAqLmW8A', 'type': 'MSG'}, 'page': {'id': 'b60QJEhASyS5UVVGGFy8Bw', 'caption': 'See what you need'}}
+msgid ""
+"So many benefits, so few items needed:\r\n"
+"\r\n"
+"1. Duplo LEGO blocks\r\n"
+"2. Plastic animals\r\n"
+"3. Blue paper\r\n"
+"4. Scissors\r\n"
+msgstr ""
+"Soveel voordele, so min items nodig:\r\n"
+"\r\n"
+"1. DUPLO LEGO-blokke\r\n"
+"2. Plastiese diere\r\n"
+"3. Blou papier\r\n"
+"4. ’n Skêr"
+
+#f: {'context': 'text', 'workflow': {'id': 'hzoId-qjSamZr22qQg8rfA', 'name': 'SGroup20'}, 'state': {'id': 'fzMnIXxCRHCIxyU66fb7Eg', 'name': 'How it works'}, 'report': {'id': 'OORC5_AqTaiEEoGvsaz0Fw', 'type': 'MSG'}, 'page': {'id': '-dIFUH9ZQPugnbgI35lJ_Q', 'caption': 'See how it works'}}
+msgid ""
+"How does it work?\r\n"
+"\r\n"
+"1. Cut a circle out of the blue paper and use it as the pond.\r\n"
+"2. Tell the story about a little animal who is trying to get across the pond to see its mommy.\r\n"
+"3. It can’t swim and it’s too far to walk around the pond.\r\n"
+"4. Divide the children into pairs and give them some duplo blocks.\r\n"
+"5. Ask them to build a bridge for the little animal.\r\n"
+"6. Once they have finished, ask them to show you how their animal crosses the bridge\r\n"
+"7. Get them to tell you the story in their own way\r\n"
+msgstr ""
+"Hoe werk dit?\r\n"
+"\r\n"
+"1. Gebruik die blou papier om ’n sirkel uit te knip en gebruik dit as die dammetjie.\r\n"
+"2. Vertel die storie oor ’n diertjie wat die dammetjie probeer oorsteek om by sy mamma te kom.\r\n"
+"3. Hy kan nie swem nie en die pad rondom die dammetjie is vir hom te lank.\r\n"
+"4. Verdeel die kinders in pare en gee hulle ’n paar DUPLO-blokke.\r\n"
+"5. Vra hulle om ’n brug vir die diertjie te bou.\r\n"
+"6. Sodra hulle klaar is, vra hulle om jou te wys hoe hul diertjie die brug oorsteek.\r\n"
+"7. Laat hulle jou die storie op hul eie manier vertel."
+

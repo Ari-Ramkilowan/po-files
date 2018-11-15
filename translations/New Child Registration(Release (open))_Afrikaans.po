@@ -1,0 +1,95 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Qqhy8omNRoeBa7Ah34yEkA', 'name': 'Upload parent ID document?'}, 'report': {'id': '0qR6bLk4RMKow7ld12jt-A', 'type': 'MSG'}, 'page': {'id': '3I7ym5_HTX2qGrHIexXHDA', 'caption': ''}}
+msgid "Would you like to upload the primary caregiver ID document?"
+msgstr "Wil jy die primêre versorger se ID-dokument oplaai?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'CrkrB4iWQdudMtI2UogjxQ', 'name': 'Info'}, 'report': {'id': 'M6XKHKerQ6qv-qSuSZ-WTQ', 'type': 'MSG'}, 'page': {'id': 'rDAT8zmKRtCBsEkYYx_zow', 'caption': ''}}
+msgid "Please take a clear photo of each page of the new child's registration form."
+msgstr "Neem asseblief ’n duidelike foto van elke bladsy van die nuwe kind se registrasievorm."
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': '-HgTwFzGQdSeAyO83vxZ2A', 'name': "Child's parent ID"}, 'report': {'id': 'ld4p6eDFT-WhpwHxdcBQxw', 'type': 'MSG'}, 'page': {'id': 'dJ4RxBRgS3uumeAUmGU9VQ', 'caption': ''}}
+msgid "What is the child's parent's ID number?"
+msgstr "Wat is die kind se ouer se ID-nommer?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': '0niEfoqqRmuW2CKFOxUXdA', 'name': "Child's parent name"}, 'report': {'id': 'GD0S90ujRKmW6vBlS94SIg', 'type': 'MSG'}, 'page': {'id': 'mgWGTRo5Rie-Z7uryjWB1g', 'caption': ''}}
+msgid "What is the child's parent's name?"
+msgstr "Wat is die kind se ouer se naam?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Gd_PQAltRzyDfJXCS7EzFg', 'name': "Child's parent surname"}, 'report': {'id': 'IFs7_zScQJy4kb_dLFO0qg', 'type': 'MSG'}, 'page': {'id': 'WtiMLlmOQ_e3SAMLk2wxfw', 'caption': ''}}
+msgid "What is the child's parent's surname?"
+msgstr "Wat is die kind se ouer se van?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'ckPztxBSQJCZMZfLhHvgEA', 'name': 'Upload child ID document?'}, 'report': {'id': '41Gq9-RCRTWrKVgsxUJOeQ', 'type': 'MSG'}, 'page': {'id': 'NeYcsOd1QdaR_AHxYXYJ_g', 'caption': ''}}
+msgid "Would you like to upload the child's ID document?"
+msgstr "Wil jy die kind se ID-dokument oplaai?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'BiS-CmvbR-q6JLLNSO6fZg', 'name': 'Confirmation'}, 'report': {'id': 'HUSCfjdGQzeQjyu3DbwgYw', 'type': 'MSG'}, 'page': {'id': '_6aqyNKLT8CPQWW9qrjlYg', 'caption': ''}}
+msgid "Great 👌🏾 Your SmartStart Coach will be in touch if there are any questions."
+msgstr "Wonderlik 👌🏾 Jou SmartStart-afrigter sal jou kontak as daar enige vrae is."
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'mwkGv8exS9SsHMgAcyIGrg', 'name': 'Error'}, 'report': {'id': '08ky31cwQ8KejknSPaKSqg', 'type': 'MSG'}, 'page': {'id': 'Gq0qVHADQ8eSqtCd83sJ5w', 'caption': ''}}
+msgid "Invalid input, would you like to try again?"
+msgstr "Ongeldige inset; wil jy weer probeer?"
+
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Qqhy8omNRoeBa7Ah34yEkA', 'name': 'Upload parent ID document?'}, 'report': {'id': '0qR6bLk4RMKow7ld12jt-A', 'type': 'MSG'}, 'page': {'id': '3I7ym5_HTX2qGrHIexXHDA', 'caption': ''}, 'button': {'id': 'XbUDBtjgR7-26YeTAE8WpA', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'nv5ggUWSTTiKyyFvBIWBfQ', 'name': 'Timeout Error'}, 'report': {'id': 'bkEnCbJiTbSu7rVwXUS7Vg', 'type': 'MSG'}, 'page': {'id': '2vTgzNwPSquigMAtEg-36g', 'caption': ''}, 'button': {'id': 'i7HT6BjyQE2ekSGt4g3Jfw', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'mwkGv8exS9SsHMgAcyIGrg', 'name': 'Error'}, 'report': {'id': '08ky31cwQ8KejknSPaKSqg', 'type': 'MSG'}, 'page': {'id': 'Gq0qVHADQ8eSqtCd83sJ5w', 'caption': ''}, 'button': {'id': 'YC_fZ2-9T7-zwQbCR3dl5Q', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'ckPztxBSQJCZMZfLhHvgEA', 'name': 'Upload child ID document?'}, 'report': {'id': '41Gq9-RCRTWrKVgsxUJOeQ', 'type': 'MSG'}, 'page': {'id': 'NeYcsOd1QdaR_AHxYXYJ_g', 'caption': ''}, 'button': {'id': 'oZuM1C1nQ9K6TD-p29hcsQ', 'label': 'No'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Z2Cz1PGzSiOhyiHgypEPeg', 'name': 'Child registration'}, 'report': {'id': 'EXAjpo3oQu-duoHhLzzORQ', 'type': 'MSG'}, 'page': {'id': 'j8W52YLLT4C_pb7TORQyNA', 'caption': ''}, 'button': {'id': 'J4IiS2GKR9aHza2hG6evIg', 'label': 'No'}}
+msgid "No"
+msgstr "Nee"
+
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Qqhy8omNRoeBa7Ah34yEkA', 'name': 'Upload parent ID document?'}, 'report': {'id': '0qR6bLk4RMKow7ld12jt-A', 'type': 'MSG'}, 'page': {'id': '3I7ym5_HTX2qGrHIexXHDA', 'caption': ''}, 'button': {'id': 'xHShDKPqQYKtoX5GqJI5Fg', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'nv5ggUWSTTiKyyFvBIWBfQ', 'name': 'Timeout Error'}, 'report': {'id': 'bkEnCbJiTbSu7rVwXUS7Vg', 'type': 'MSG'}, 'page': {'id': '2vTgzNwPSquigMAtEg-36g', 'caption': ''}, 'button': {'id': 'RL8gON3US7yJQ0yvTnT_iA', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'mwkGv8exS9SsHMgAcyIGrg', 'name': 'Error'}, 'report': {'id': '08ky31cwQ8KejknSPaKSqg', 'type': 'MSG'}, 'page': {'id': 'Gq0qVHADQ8eSqtCd83sJ5w', 'caption': ''}, 'button': {'id': 'qaARtGabRVSRkMKQ6izqyw', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'ckPztxBSQJCZMZfLhHvgEA', 'name': 'Upload child ID document?'}, 'report': {'id': '41Gq9-RCRTWrKVgsxUJOeQ', 'type': 'MSG'}, 'page': {'id': 'NeYcsOd1QdaR_AHxYXYJ_g', 'caption': ''}, 'button': {'id': 'gbqqlm7rQVezLb0SF9hOnw', 'label': 'Yes'}}
+#f: {'context': 'label', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Z2Cz1PGzSiOhyiHgypEPeg', 'name': 'Child registration'}, 'report': {'id': 'EXAjpo3oQu-duoHhLzzORQ', 'type': 'MSG'}, 'page': {'id': 'j8W52YLLT4C_pb7TORQyNA', 'caption': ''}, 'button': {'id': '9wh5PufOS9GeTO4CkU5E3w', 'label': 'Yes'}}
+msgid "Yes"
+msgstr "Ja"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'nv5ggUWSTTiKyyFvBIWBfQ', 'name': 'Timeout Error'}, 'report': {'id': 'bkEnCbJiTbSu7rVwXUS7Vg', 'type': 'MSG'}, 'page': {'id': '2vTgzNwPSquigMAtEg-36g', 'caption': ''}}
+msgid "Sorry, something went wrong, would you like to try again?"
+msgstr "Jammer, iets het skeefgeloop; wil jy weer probeer?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'iIqItm_ART-djCb5WcNG-A', 'name': 'Upload registration document'}, 'report': {'id': 'KVZ-Hd-_QPaj1BmlFEVFMg', 'type': 'MSG'}, 'page': {'id': 'QQAiGBfpQaSrKZhiZzMuYg', 'caption': ''}}
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'tbekN6QdR7CXLJXqEK9BvA', 'name': 'Upload parent ID document'}, 'report': {'id': 'hFV0qGLFQ8K1LScViFwe9w', 'type': 'MSG'}, 'page': {'id': 'aAOq_iO3RlmJU5S37wQ5tQ', 'caption': ''}}
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Ao-3323qTd-4zzDTgPXWZg', 'name': 'Upload ID document'}, 'report': {'id': 'fy6tY0tJSxuyrgvEuQJUvA', 'type': 'MSG'}, 'page': {'id': 'n-UY7VDBRJmx0rCJjjHa6Q', 'caption': ''}}
+msgid "Please upload your picture now 📸"
+msgstr "Laai asseblief nou jou foto op📸"
+
+msgid "Would you like to upload the primarycaregiver ID document?"
+msgstr "Wil jy die primêre versorger se ID-dokument oplaai?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': '9IOGpbp-R6e2NPGXedk4kg', 'name': "Child's ID number"}, 'report': {'id': 'CxErlgaSRLGH44PCrYtXig', 'type': 'MSG'}, 'page': {'id': 'wki8ei0RTrWX3PS63T69Tw', 'caption': ''}}
+msgid "What is the child's ID number?"
+msgstr "Wat is die kind se ID-nommer?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'Z2Cz1PGzSiOhyiHgypEPeg', 'name': 'Child registration'}, 'report': {'id': 'EXAjpo3oQu-duoHhLzzORQ', 'type': 'MSG'}, 'page': {'id': 'j8W52YLLT4C_pb7TORQyNA', 'caption': ''}}
+msgid "Did you have any new children in your programme today? 👶🏾"
+msgstr "Het jy vandag enige nuwe kinders in jou program gehad? 👶🏾"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 'fiGV_KQKTVatASdQbk7E2Q', 'name': "Child's name"}, 'report': {'id': '_4BXr1ciQXW-FKkALoKqvA', 'type': 'MSG'}, 'page': {'id': '2_CO8PHzSJus0kCGU0OKlw', 'caption': ''}}
+msgid "Great, let’s get them registered and ready to learn! If there’s more than one new face we’ll do one-by-one. Let’s start with the first child: what is her/his first name?"
+msgstr "Dis goed. Kom ons kry hulle geregistreer en gereed om te leer! As daar meer as een nuwe kind is, sal ons hulle een-vir-een behandel. Kom ons begin met die eerste kind: wat is sy/haar voornaam?"
+
+#f: {'context': 'text', 'workflow': {'id': 'p4_rEsr1R1SomkWXfadkMg', 'name': 'New Child Registration'}, 'state': {'id': 's-6dp45oTRSn_bJLGMmq-g', 'name': "Child's surname"}, 'report': {'id': 'v7lR9hC5SIy35A-1xiyrWg', 'type': 'MSG'}, 'page': {'id': 'xFi64ordSTu9F-t5XPLLOA', 'caption': ''}}
+msgid "And last name?"
+msgstr "En sy/haar van?"
+

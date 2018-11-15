@@ -1,0 +1,143 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}}
+msgid ""
+"Need some inspiration? Keep the game going with questions like these:\r\n"
+"\r\n"
+"Level 1\r\n"
+"• Look around and choose an item that everyone can see.\r\n"
+"• Don’t tell the others what it is.\r\n"
+"• Then say “I spy with my little eye, something that is green.”\r\n"
+"• Let the children guess what it is by calling out all the green things they see.\r\n"
+"• Try not to make it too difficult.\r\n"
+"\r\n"
+"Level 2\r\n"
+"• Then say “I spy with my little eye, something beginning with ‘w’.”\r\n"
+"• Use the sound “w”, not the letter.\r\n"
+"• Let the kids guess the item.\r\n"
+"• Give each child a turn to take a guess.\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Then say “I spy with my little eye, something beginning with ‘ch’.”\r\n"
+"• Use the sound “ch”, not the letter.\r\n"
+"• Let the kids guess the item.\r\n"
+"• Give each child a turn to take a guess.\r\n"
+"\r\n"
+msgstr ""
+"Naa o nyaka tlhohleletšo? Tšwetša pele papadi ka go botšiša dipotšišo tše di swanago le tše:\r\n"
+"\r\n"
+"Kgato ya 1\r\n"
+"• Lebelela mo tikologong le go kgetha selo seo mang le mang a ka se bonago.\r\n"
+"• O se ke wa botša ba bangwe gore ke efe.\r\n"
+"• Ke moka e re “Ke dira tša botlhodi ka leihlo la ka le lennyane, ke bona selo se sengwe se se talamorago.”\r\n"
+"• E re bana ba akanye gore ke eng ka go bitša dilo ka moka tše talamorago tšeo ba di bonago.\r\n"
+"• Leka gore e se be bothata kudu.\r\n"
+"\r\n"
+"Kgato ya 2\r\n"
+"• Ke moka e re “Ke dira tša botlhodi ka leihlo la ka le lennyane, ke bona se sengwe se se thomago ka ‘w’.”\r\n"
+"• Šomiša modumo wa “w, e se go tlhaka.\r\n"
+"• E re digotlane di akanye selo.\r\n"
+"• Efa ngwana yo mongwe le yo mongwe sebaka sa go akanya.\r\n"
+"\r\n"
+"Kgato ya 3\r\n"
+"• Ke moka e re “Ke dira tša botlhodi ka leihlo la ka le le nnyane, ke bona se sengwe se se thomago ka ‘tšh’.”\r\n"
+"• Šomiša modumo wa “ch”, e se go tlhaka.\r\n"
+"• E re digotlane di akanye selo.\r\n"
+"• Efa ngwana yo mongwe le yo mongwe sebaka sa go akanya."
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}}
+msgid ""
+"We’re taking I Spy to the next level with some eye glasses. Here’s what you’ll need 👓:\r\n"
+"• 2 used toilet rolls per child.\r\n"
+"• String.\r\n"
+"• Scissors.\r\n"
+"• 2 sticks per child.\r\n"
+"• Cellotape.\r\n"
+msgstr ""
+"Re iša papadi ya Ke dira tša Botlhodi legatong le le latelago ka go dira dipeketsane. Tše ke tšeo o tla di hlokago 👓:\r\n"
+"\r\n"
+"• Dithoileterolo tše 2 tše di šomišitšwego go ngwana yo mongwe le yo mongwe\r\n"
+"• Thapo\r\n"
+"• Sekero\r\n"
+"• Diphate tše 2 go ngwana yo mongwe le yo mongwe\r\n"
+"• Sekgomaretši"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}, 'button': {'id': 'jF2ukqmrTtWc9741rO1llQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutse"
+
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ryRvP97XQY2w13HC0Cw_kw', 'name': 'Extra notes'}, 'report': {'id': 'Q0s1SQjmQIyWNghfsK8AQw', 'type': 'MSG'}, 'page': {'id': 'D3R4AG1FQtGai_kizG6xAA', 'caption': 'Read the notes'}, 'button': {'id': 'U-ibfIN3SDWjVTXDG5a2Hg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Re boela morago go menyu"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}}
+msgid ""
+"You’ll be showing these cool kids how to make a pair of glasses.😎\r\n"
+"\r\n"
+"1. Cut the toilet roll into 2 rings and tie them together to make glasses\r\n"
+"2. Attach the sticks to the sides of the glasses to make the ‘arms’ of the glasses.\r\n"
+"3. Support the younger kids.\r\n"
+"4. Encourage the older ones to this on their own.\r\n"
+"5. Ask the children to put their glasses on and talk about what glasses do.\r\n"
+"6. Play I Spy: Find something in the room that everyone can see, for example, a table.\r\n"
+"7. Say: “I Spy with my little eye, something beginning with ‘t’ (sound)”\r\n"
+"8. Let each child have a turn guessing.\r\n"
+"9. Walk around the room and tell them what you see through your glasses.\r\n"
+"10. Get them to walk with you, glasses on!\r\n"
+msgstr ""
+"O tla be o laetša digotlane tše tše bohlale ka moo dipeketsane di dirwago ka gona.😎\r\n"
+"\r\n"
+"1. Ripa thoileterolo ka diripa tše 2, gomme o di tlemaganye go dira dipeketsane.\r\n"
+"2. Kgomaretša diphate ka mahlakoreng a dipeketsane go dira ‘matsogwana’ a dipeketsane.\r\n"
+"3. Thuša bana ba digotlane.\r\n"
+"4. Hlohleletša bana ba bagolo go itirela ka bobona.\r\n"
+"5. Kgopela bana go apara dipeketsane le go bolela gore dipeketsane di dira eng.\r\n"
+"6. Raloka Ke dira tša Botlhodi: Hwetša se sengwe ka phapošing seo mang le mang a tla se bonago, mohlala, tafola.\r\n"
+"7. E re: “Ke dira tša Botlhodi ka mahlo a ka a mannyane, se sengwe se se thomago ka ‘t’ (modumo)”\r\n"
+"8. Efa ngwana yo mongwe le yo mongwe sebaka sa go akanya.\r\n"
+"9. Sepelasepela ka phapošing o ba botše seo o se bonago ka dipeketsane.\r\n"
+"10. E re ba sepele le wena, ba apere dipeketsane!"
+
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}, 'button': {'id': 'kTfYyGdGTqiNGc-K58FUYg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona se o se hlokago"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'uDd6pJFTRE6aO0XAELmTmQ', 'name': 'How it works'}, 'report': {'id': 'A8haI1vwReeKlRn-B7IzHA', 'type': 'MSG'}, 'page': {'id': 'a1mHkykyTm2lmKHBX1OUCA', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'CU5PAad3TMuKkoYBI8Sx0w', 'name': 'What you need'}, 'report': {'id': 'WcALmWJCS6uOqbQ5Y3-X4g', 'type': 'MSG'}, 'page': {'id': 'j_ECpRoQSW2Aidd7w8R-0g', 'caption': 'See what you need'}, 'button': {'id': 'fZG_NPWVQhS_B3nGtnHuoQ', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ka moo e šomago ka gona"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'qAj4_S_OTmyrRvPu5Fieow', 'name': 'Start'}, 'report': {'id': 'EyRB-WceRHyXm0L4tGl2cA', 'type': 'MSG'}, 'page': {'id': '4s_6m2keRL-5ILewiJwFEg', 'caption': ' We put a spin on the classic game, I Spy. 🔍'}}
+msgid " We put a spin on the classic game, I Spy. 🔍"
+msgstr "Re a šielana go papadi ye bonolo, Ke dira tša Botlhodi. 🔍"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ye e kaonafatša:"
+
+#f: {'context': 'text', 'workflow': {'id': 'QkpmBYFPQai5_HGjTUPujg', 'name': 'SGroup18'}, 'state': {'id': 'ZIMyMDOkSdyGlP8TFdHMlA', 'name': 'Skills developed'}, 'report': {'id': 'dJqf7DOZTrSg69ltjD_H3Q', 'type': 'MSG'}, 'page': {'id': '7vyDc7QSRr2Mqyvk6DQJ8g', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Early Reading & Writing\r\n"
+msgstr ""
+"✔️Leago\r\n"
+"✔️Go ithuta go bala le go ngwala bonnyaneng"
+

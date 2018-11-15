@@ -1,0 +1,144 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: afr\n"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'ws3axKQLRYyRiGMZ9NmosQ', 'name': 'How it works'}, 'report': {'id': 'KKT0a0gMSQqz7hEPhyg9vA', 'type': 'MSG'}, 'page': {'id': '6YM1RnpOQvOzQSgaIgUBtw', 'caption': 'See how it works'}}
+msgid ""
+"It’s time for these budding entrepreneurs to learn about the value of money. \r\n"
+"\r\n"
+"1. Give each child their coin rubbings from the previous activity.\r\n"
+"2. Ask them to cut out the coins.\r\n"
+"3. Help those that need it.\r\n"
+"4. Help them to fold over their piece of paper to make a purse.\r\n"
+"5. Ask the children to put their coins into their new purse for safekeeping.\r\n"
+"6. Set up a shop.\r\n"
+"7. Talk about the items in your shop as you set up.\r\n"
+"8. Have words under your items. Eg, milk, bread, cereal, etc.\r\n"
+"9. Ask each child to come to your shop and buy something.\r\n"
+"10. When they give you their money, tell them what they can buy with it.\r\n"
+"11. Talk as you play and ask questions to help the children learn.\r\n"
+"12. For the older children, ask them for money and give them change.\r\n"
+msgstr ""
+"Dis tyd vir hierdie ontluikende entrepreneurs om oor die waarde van geld te leer. \r\n"
+"\r\n"
+"1. Gee elke kind hul uitgekrapte muntstukke van die vorige aktiwiteit.\r\n"
+"2. Vra hulle om die muntstukke uit te knip.\r\n"
+"3. Help diegene wat hulp nodig het.\r\n"
+"4. Help hulle om hul vel papier om te vou om ’n beursie te maak.\r\n"
+"5. Vra die kinders om die muntstukke vir veilige bewaring in hulle nuwe beursie te sit.\r\n"
+"6. Maak ’n winkel.\r\n"
+"7. Praat oor die items in jou winkel terwyl jy dit regkry.\r\n"
+"8. Plaas woorde onder jou items. Byvoorbeeld, melk, brood, graan.\r\n"
+"9. Vra elke kind om iets by jou winkel te kom koop.\r\n"
+"10. Wanneer hulle hul geld vir jou gee, sê vir hulle wat hulle daarmee kan koop.\r\n"
+"11. Praat terwyl julle speel en vra vrae om die kinders te help leer.\r\n"
+"12. Vra die ouer kinders om vir iets te betaal en gee hulle kleingeld."
+
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'xlSLboJUTjqVs1NU9Fz25g', 'name': 'Skills developed'}, 'report': {'id': '62Cmvl1mRPOtGMubXSKkSQ', 'type': 'MSG'}, 'page': {'id': 'NCpiHquiSaKsbuXdzT6hoA', 'caption': 'This game develops:'}, 'button': {'id': 'lmfNQ8OuRkODJ9BMoLecEQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '-s5gd88rQTa-3ehxcIMhyA', 'name': 'What you need'}, 'report': {'id': 'chAefg8KTPmLkLKWyXNGpQ', 'type': 'MSG'}, 'page': {'id': 'NOvPYosLSYGSPvpnnqtxhw', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Kyk wat jy nodig he"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'ws3axKQLRYyRiGMZ9NmosQ', 'name': 'How it works'}, 'report': {'id': 'KKT0a0gMSQqz7hEPhyg9vA', 'type': 'MSG'}, 'page': {'id': '6YM1RnpOQvOzQSgaIgUBtw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '-s5gd88rQTa-3ehxcIMhyA', 'name': 'What you need'}, 'report': {'id': 'chAefg8KTPmLkLKWyXNGpQ', 'type': 'MSG'}, 'page': {'id': 'NOvPYosLSYGSPvpnnqtxhw', 'caption': 'See what you need'}, 'button': {'id': 'JIzM_Wo8Sui8GgzEHhTWdw', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Kyk hoe dit werk"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'nvgZsDdQR0yxHbzlMK21kw', 'name': 'Extra notes'}, 'report': {'id': '5bXyzJnRTZORqZsNYvH7HA', 'type': 'MSG'}, 'page': {'id': 'P5udb28FR5CrCmaPRGCEKA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'ws3axKQLRYyRiGMZ9NmosQ', 'name': 'How it works'}, 'report': {'id': 'KKT0a0gMSQqz7hEPhyg9vA', 'type': 'MSG'}, 'page': {'id': '6YM1RnpOQvOzQSgaIgUBtw', 'caption': 'See how it works'}, 'button': {'id': 'zuz-3d8HQc-NwCj0SEDLoA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Lees die nota"
+
+#f: {'context': 'label', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'nvgZsDdQR0yxHbzlMK21kw', 'name': 'Extra notes'}, 'report': {'id': '5bXyzJnRTZORqZsNYvH7HA', 'type': 'MSG'}, 'page': {'id': 'P5udb28FR5CrCmaPRGCEKA', 'caption': 'Read the notes'}, 'button': {'id': '5A8Ag72aRA-sEnBkJPR5_Q', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Terug na spyskaart"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'nvgZsDdQR0yxHbzlMK21kw', 'name': 'Extra notes'}, 'report': {'id': '5bXyzJnRTZORqZsNYvH7HA', 'type': 'MSG'}, 'page': {'id': 'P5udb28FR5CrCmaPRGCEKA', 'caption': 'Read the notes'}}
+msgid ""
+"Spending money is easy, it’s saving money that’s hard. Try remind the children how important saving is while you talk to them. 🏦\r\n"
+"\r\n"
+"Level 1\r\n"
+"• Where do you keep your money?\r\n"
+"• What do you want to buy at my shop?\r\n"
+"• What are you going to cook with these things…?\r\n"
+"• What else would you like to buy?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• How much money have you got?\r\n"
+"• That will cost…\r\n"
+"\r\n"
+"Level 3\r\n"
+"• Have you got any money left?\r\n"
+"• Would you like to use that money to buy something else?\r\n"
+"• Do you have enough?\r\n"
+"• Or would you rather save it for next time?\r\n"
+"• What sounds does milk start with? (mmmm)\r\n"
+"• What sound does fish start with? (ffff)\r\n"
+"\r\n"
+msgstr ""
+"Dis maklik om geld te spandeer, maar dis moeilik om geld te spaar. Terwyl jy met die kinders praat, herinner hulle hoe belangrik dit is om te spaar. 🏦\r\n"
+"\r\n"
+"Vlak 1\r\n"
+"• Waar hou jy jou geld?\r\n"
+"• Wat wil jy by my winkel koop?\r\n"
+"• Wat gaan jy met hierdie items kook?\r\n"
+"• Is daar nog iets wat jy wil koop?\r\n"
+"\r\n"
+"Vlak 2\r\n"
+"• Hoeveel geld het jy?\r\n"
+"• Dit sal ..... kos.\r\n"
+"\r\n"
+"Vlak 3\r\n"
+"• Het jy enige geld oor?\r\n"
+"• Wil jy daardie geld gebruik om iets anders te koop?\r\n"
+"• Het jy genoeg?\r\n"
+"• Of wil jy dit eerder vir die volgende keer spaar?\r\n"
+"• Met watter klank begin melk? (Mmmm)\r\n"
+"• Met watter klank begin vis? (Ffff)"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '2PHE_EcGRFS9iVB1A-fqZA', 'name': 'Start'}, 'report': {'id': 'x4hNRVLiTJ-yd6TTYtpkcg', 'type': 'MSG'}, 'page': {'id': '1dV2N1CDSIGgJiSyzCJbuw', 'caption': 'Let’s put the Money Rubs the children did to good use with Spending Coins!💰'}}
+msgid "Let’s put the Money Rubs the children did to good use with Spending Coins!💰"
+msgstr "Laat ons die Muntstuk-uitkrap (Money Rubs) wat die kinders gedoen het goed gebruik met Spandeer Muntstukke (Spending Coins)! 💰"
+
+#f: {'context': 'caption', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'xlSLboJUTjqVs1NU9Fz25g', 'name': 'Skills developed'}, 'report': {'id': '62Cmvl1mRPOtGMubXSKkSQ', 'type': 'MSG'}, 'page': {'id': 'NCpiHquiSaKsbuXdzT6hoA', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Hierdie speletjie ontwikkel:"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': 'xlSLboJUTjqVs1NU9Fz25g', 'name': 'Skills developed'}, 'report': {'id': '62Cmvl1mRPOtGMubXSKkSQ', 'type': 'MSG'}, 'page': {'id': 'NCpiHquiSaKsbuXdzT6hoA', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Talking & Understanding \r\n"
+"✔️Social"
+msgstr ""
+"✔️Praat en verstaan \r\n"
+"✔️Sosiale vaardighede"
+
+#f: {'context': 'text', 'workflow': {'id': '6tmoErbKRlCIe3ZCNpKEDQ', 'name': 'SGroup12'}, 'state': {'id': '-s5gd88rQTa-3ehxcIMhyA', 'name': 'What you need'}, 'report': {'id': 'chAefg8KTPmLkLKWyXNGpQ', 'type': 'MSG'}, 'page': {'id': 'NOvPYosLSYGSPvpnnqtxhw', 'caption': 'See what you need'}}
+msgid ""
+"Now that the children have created their own money during the previous activity, it’s time to give them something to spend it on. You’ll need:\r\n"
+"\r\n"
+"1. Coin drawings from the previous Small Group Activity.\r\n"
+"2. Scissors.\r\n"
+"3. A piece of paper for each child to make a purse.\r\n"
+"4. Empty food containers such as cereal boxes, milk bottles, egg boxes, etc. Have enough for each child to “buy” a few items. 🍞🥔🥚\r\n"
+msgstr ""
+"Noudat die kinders tydens die vorige aktiwiteit hul eie geld gemaak het, is dit tyd om hulle iets te gee om daarmee te koop. Wat jy nodig sal hê:\r\n"
+"\r\n"
+"1. Tekeninge van muntstukke uit die vorige Aktiwiteit vir Klein Groepe.\r\n"
+"2. ’n Skêr.\r\n"
+"3. ’n Vel papier vir elke kind om ’n beursie mee te maak.\r\n"
+"4. Leë koshouers soos graankosbokse, melkbottels en eierbokse. Daar moet genoeg wees vir elke kind om ’n paar items te “koop”. 🍞🥔🥚"
+

@@ -1,0 +1,132 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: tso\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}, 'button': {'id': 'RVVacVZyS5KDYPnMg1dPcw', 'label': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}, 'button': {'id': 'V2N5eA0UTWa2yr91Xi4dHA', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Vona leswi u swi lavaka"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}, 'button': {'id': 'ksjEuXXCRwixUPXlpYXCBg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Hlaya tinotsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}, 'button': {'id': 'Uk1r6YVKTCSrgJ0dJnzFqg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Ku tlhelela eka menyu"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'yeM4eBb1RDiPjkg0PDcn6w', 'name': 'Start'}, 'report': {'id': 'rLdeHBu4R3GWHSYyDOk3lw', 'type': 'MSG'}, 'page': {'id': 'Fz47pc71Sne51acj7tMHzw', 'caption': 'It’s time to play Knock Down Skittles. 🎳'}}
+msgid "It’s time to play Knock Down Skittles. 🎳"
+msgstr "I nkarhi wo tlanga Wisela Swikitele ehansi. 🎳"
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Ntlangu lowu wu ya emahlweni:"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'cku4HO9pQ-Ke9VSU_0noPg', 'name': 'Skills developed'}, 'report': {'id': 'F4FKHOaSSGW5TMsOnnUD_A', 'type': 'MSG'}, 'page': {'id': '7Kc4ik_ZR9-v-f2w-8c8rQ', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Arm & Hand Control\r\n"
+"✔️Numbers , Shapes and Sizes"
+msgstr ""
+"✔️Ku lawula voko na xandla\r\n"
+"✔️Tinomboro, swivumbeko na tisayizi"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'N67h9p0BSUquLFcxwi4a9A', 'name': 'What you need'}, 'report': {'id': 'T9Ws6T6rSjenEfHe5YN2xA', 'type': 'MSG'}, 'page': {'id': 'n_mpJg_eQDGek09x8mkqzA', 'caption': 'See what you need'}}
+msgid ""
+"This is a great to get the children playing in groups together so that they can make new friends.\r\n"
+"\r\n"
+"1. A set of skittles (3 to 5). You can make these out of empty drinking bottles, but not glass. \r\n"
+"2. A ball (you can make this out of plastic bags and onion bags).\r\n"
+"3. Space to play skittles.\r\n"
+"\r\n"
+msgstr ""
+"Leswi swi kahle ku endla vana va tlanga hi mitlawa leswaku va kota ku kuma vanghana lavantshwa.\r\n"
+"\r\n"
+"1. Sete ya swikitele (3 ku fika 5). U nga swi endla hi ku tirhisa mabodhlela yo n’wela lama nga riki na nchumu endzeni, kambe ku nga ri nghilazi. \r\n"
+"2. Bolo (u nga yi endla hi ku tirhisa tibeke ta tipulasitiki kumbe swisakana swa tinyala).\r\n"
+"3. Ndhawu yo tlangela swikitele."
+
+#f: {'context': 'caption', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Vona leswaku swi tirha njhani"
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'VeVAVgqgTx2-Aq-gHCqc1g', 'name': 'How it works'}, 'report': {'id': 'Mrsoyc1KR32num0xOD6Evw', 'type': 'MSG'}, 'page': {'id': '-eSfOu74QXOWEbFuGURZhw', 'caption': 'See how it works'}}
+msgid ""
+"It’s also really straightforward, and you can play it over and over. All you have to do is:\r\n"
+"\r\n"
+"1. Line the skittles up in a row.\r\n"
+"2. Line the children up in front of the skittles.\r\n"
+"3. Together take 5 steps back and count out loud as they step backwards.\r\n"
+"4. Give each child a turn to roll the ball towards the skittles.\r\n"
+"5. The ball should not leave the ground.\r\n"
+"6. Reset the skittles when they have been knocked over.\r\n"
+"7. This time take six steps back.\r\n"
+"8. Have the children throw under arm first.\r\n"
+"9. Then throw overarm.\r\n"
+"10. Throw ball with two hands.\r\n"
+"11. Throw ball with one hand."
+msgstr ""
+"Swi olovile, naswona u nga swi tlanga hi ku vuyelela. Leswi u faneleke ku endla swona i ku:\r\n"
+"\r\n"
+"1. Longoloxa swikitele hi rheyi.\r\n"
+"2. Longoloxa vana emahlweni ka swikitele.\r\n"
+"3. Tekani swin’we magoza ya 5 ku ya endzhaku na ku hlayelela ehenhla loko va teka magoza yo ya endzhaku.\r\n"
+"4. Nyika n’wana un’wana na un’wana nkarhi wo khunguluxela bolo eka swikitele.\r\n"
+"5. Bolo a yi fanelanga ku suka ehansi.\r\n"
+"6. Tlhela u veketela swikitele loko swi wele ehansi.\r\n"
+"7. Sweswi tekani magoza ya tsevu ku ya enzhaku.\r\n"
+"8. Endla leswaku vana va rhanga hi ku hoxa ehansi ka voko.\r\n"
+"9. Kutani va hoxa ehenhla ka voko.\r\n"
+"10. Hoxa bolo hi mavoko mambirhi.\r\n"
+"11. Hoxa bolo hi voko rin’we."
+
+#f: {'context': 'text', 'workflow': {'id': 'ZAPz2rmITh-_cmPu1PRBEA', 'name': 'SGroup2'}, 'state': {'id': 'D9A3DKo_QQyQg-_SfNh5gg', 'name': 'Extra notes'}, 'report': {'id': 'z09y3tvwS1ilyobGbHvNOw', 'type': 'MSG'}, 'page': {'id': 't-Poc2D7RAan8vnqw42W_g', 'caption': 'Read the notes'}}
+msgid ""
+"But it’s not just physical, you can also use these questions to help the kids learn more:\r\n"
+"\r\n"
+"Before you start:\r\n"
+"• How many skittles can you see?\r\n"
+"• What colours are they?\r\n"
+"\r\n"
+"While you’re taking turns:\r\n"
+"• How many did you knock over?\r\n"
+"• How many are left?\r\n"
+"• Can you catch the ball with 2 hands?\r\n"
+"\r\n"
+"Before you start the next round:\r\n"
+"• How many steps should we take now?\r\n"
+"• Is that more or less than last time?\r\n"
+"• Can you catch the ball 1-handed?\r\n"
+msgstr ""
+"Kambe a ko va swo endliwa ntsena. U nga ha tlhela u tirhisa swivutiso leswi ku pfuna vana ku va va dyondza swotala:\r\n"
+"\r\n"
+"Loko u nga se sungula:\r\n"
+"• Xana u vona swikitele swingani?\r\n"
+"• Xana i swa muhlovo muni?\r\n"
+"\r\n"
+"Loko mi ri karhi mi cincana:\r\n"
+"• Xana u wise swingani?\r\n"
+"• Xana ku sele swingani?\r\n"
+"• Xana u nga khoma bolo hi mavoko ma 2?\r\n"
+"\r\n"
+"Loko u nga se sungula rhawundi leyi landzelaka:\r\n"
+"• Xana hi fanele ku teka magoza mangani sweswi?\r\n"
+"• Xana matele kumbe ma le hansi ka lama nkarhi lowu nga hundza?\r\n"
+"• Xana u nga khoma bolo hi voko ri 1?"
+

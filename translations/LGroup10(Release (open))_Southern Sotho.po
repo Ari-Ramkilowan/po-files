@@ -1,0 +1,106 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'label', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': '_BzCT3s1QEO01E9NO0Eagw', 'name': 'Skills developed'}, 'report': {'id': 'jJ_2Q5KEStalGfXwUvCq-A', 'type': 'MSG'}, 'page': {'id': 'PmGxh-q0TUSs79kg87KCdw', 'caption': 'This game develops'}, 'button': {'id': 'OGRusapxQuGS9ObPOLe_Qg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'LCDpMWOqQyuY3s3-ZGzUBw', 'name': 'What you need'}, 'report': {'id': '6d1JeGL3Tn-JCFE2vMWjHA', 'type': 'MSG'}, 'page': {'id': 'JVK2BekCRSKvW-aoHbFA7Q', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'pXPF3AQuQjii9Duu773fNQ', 'name': 'How it works'}, 'report': {'id': 'JOcVv3qGRxy11JStjI9FmQ', 'type': 'MSG'}, 'page': {'id': 'BS242a8MTP-kw9nAp5xd6Q', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'LCDpMWOqQyuY3s3-ZGzUBw', 'name': 'What you need'}, 'report': {'id': '6d1JeGL3Tn-JCFE2vMWjHA', 'type': 'MSG'}, 'page': {'id': 'JVK2BekCRSKvW-aoHbFA7Q', 'caption': 'See what you need'}, 'button': {'id': 'J7gGRrXzRY-3b4yTdykzeA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'label', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'pXPF3AQuQjii9Duu773fNQ', 'name': 'How it works'}, 'report': {'id': 'JOcVv3qGRxy11JStjI9FmQ', 'type': 'MSG'}, 'page': {'id': 'BS242a8MTP-kw9nAp5xd6Q', 'caption': 'See how it works'}, 'button': {'id': 'Re000FJ3TyGhSTjuhqyQaw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'label', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'ALRIwgGpRuid3T1d-OEZnw', 'name': 'Extra notes'}, 'report': {'id': '3JX1jOH8Rdqmth3Si0mt4A', 'type': 'MSG'}, 'page': {'id': 'f6gTLbaWQNWP-xUVs9KnKA', 'caption': 'Read teh notes'}, 'button': {'id': 'SCew4ZrSQoWqHexNyPl27w', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'text', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'LCDpMWOqQyuY3s3-ZGzUBw', 'name': 'What you need'}, 'report': {'id': '6d1JeGL3Tn-JCFE2vMWjHA', 'type': 'MSG'}, 'page': {'id': 'JVK2BekCRSKvW-aoHbFA7Q', 'caption': 'See what you need'}}
+msgid "Put your creativity to the test and build 1 fun creature out of Lego. 🦖It’s best to build it before class so that all of the time is spent on the activity"
+msgstr "Bea boqapi ba hao tekong mme o ahe sebopuwa se le seng se thabisang ka  LEGO. 🦖 Ho molemo ho se aha pele ho tlelase ele hore nako yohle e sebedisetswe ketsahalo."
+
+#f: {'context': 'caption', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': '_BzCT3s1QEO01E9NO0Eagw', 'name': 'Skills developed'}, 'report': {'id': 'jJ_2Q5KEStalGfXwUvCq-A', 'type': 'MSG'}, 'page': {'id': 'PmGxh-q0TUSs79kg87KCdw', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Papadi ena e ntshetsa pele:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'WcZDcjuVQLavEWY07q9uoA', 'name': 'Start'}, 'report': {'id': 'm1Nd9V4LT_qZ8rtGQ2fPXw', 'type': 'MSG'}, 'page': {'id': '73-bg_uqQquXfCVPXgU1xg', 'caption': 'See who’s the best explorer with Hide the Toy. 🤠'}}
+msgid "See who’s the best explorer with Hide the Toy. 🤠"
+msgstr "Bona hore mosibolli e moholo ke mang ka Pata Thoye (Hide the Toy). 🤠"
+
+#f: {'context': 'text', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': '_BzCT3s1QEO01E9NO0Eagw', 'name': 'Skills developed'}, 'report': {'id': 'jJ_2Q5KEStalGfXwUvCq-A', 'type': 'MSG'}, 'page': {'id': 'PmGxh-q0TUSs79kg87KCdw', 'caption': 'This game develops'}}
+msgid ""
+"✔️Skills for Learning\r\n"
+"✔️Songs , Rhymes & Sounds\r\n"
+msgstr ""
+"✔️Bokgoni bakeng sa ho ithuta\r\n"
+"✔️Dipina, diraeme le medumo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'ALRIwgGpRuid3T1d-OEZnw', 'name': 'Extra notes'}, 'report': {'id': '3JX1jOH8Rdqmth3Si0mt4A', 'type': 'MSG'}, 'page': {'id': 'f6gTLbaWQNWP-xUVs9KnKA', 'caption': 'Read teh notes'}}
+msgid "Read teh notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'text', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'pXPF3AQuQjii9Duu773fNQ', 'name': 'How it works'}, 'report': {'id': 'JOcVv3qGRxy11JStjI9FmQ', 'type': 'MSG'}, 'page': {'id': 'BS242a8MTP-kw9nAp5xd6Q', 'caption': 'See how it works'}}
+msgid ""
+"Once you have your unique creation:\r\n"
+"\r\n"
+"1. Show it to all the children.\r\n"
+"2. Choose a child to hide the creature.\r\n"
+"3. Tell the other children to go outside or close their eyes while it’s being hidden.\r\n"
+"4. When hiding, the top of the creature must be showing to make it easier to find.\r\n"
+"5. Bring the other children in to look for the creature.\r\n"
+"6. Say “hot”, if anyone comes close to it.\r\n"
+"7. Say “cold”, when they are far from it.\r\n"
+"8. Sing a finding rhyme as they go.\r\n"
+"9. Whoever finds it must shout ‘I found it!’ and the game repeats.\r\n"
+msgstr ""
+"Hang ha o se o ena le popo ya hao e ikgethileng:\r\n"
+"\r\n"
+"1. E bontshe bana bohle.\r\n"
+"2. Kgetha ngwana ya ka patang sebopuwa seo.\r\n"
+"3. Bolella bana ba bang hore ba ye ka ntle kapa ba tutubale ha se ntse se patwa. \r\n"
+"4. Ha se patwa, bokahodimo ba sebopuwa bo lokela ho hlahella ho nolofaletsa ba bang ho se fumana.\r\n"
+"5. Ere bana ba bang ba kgutlele ka tlelaseng ho tla batlana le sebopuwa seo.\r\n"
+"6. Ere “o a tjhesa” haeba motho a atamela ho sona.\r\n"
+"7. Ere “o a bata”, ha ba le hole le sona.\r\n"
+"8. Binang raeme ya ho fumana ha ba ntse ba batlana le sona.\r\n"
+"9. Motho ya se fumanang o lokela ho hoeletsa “ke e fumane!” mme papadi e phetwa hape."
+
+#f: {'context': 'text', 'workflow': {'id': 'QQvBkyn0QqeGy7NV1aka9Q', 'name': 'LGroup10'}, 'state': {'id': 'ALRIwgGpRuid3T1d-OEZnw', 'name': 'Extra notes'}, 'report': {'id': '3JX1jOH8Rdqmth3Si0mt4A', 'type': 'MSG'}, 'page': {'id': 'f6gTLbaWQNWP-xUVs9KnKA', 'caption': 'Read teh notes'}}
+msgid ""
+"If you don’t have Lego blocks or are running out of time use a funky toy. 👾 Make sure you give lots of children chances to hide the toy and help them by giving them clues.\r\n"
+"\r\n"
+"The Finding Rhyme\r\n"
+"\r\n"
+"Can you spy, with your little eye\r\n"
+"The creature that’s hiding away?\r\n"
+"Look with your eyes and you will see\r\n"
+"What you will find it today.\r\n"
+msgstr ""
+"Haeba o se na diboloko tsa LEGO kapa di sa lekana, sebedisa thoye e qabolang. 👾 Etsa bonnete ba hore o fa bana ba bangata monyetla wa ho pata thoye mme o ba thuse ka ho ba fa mehlala.\r\n"
+"\r\n"
+"Raeme ya ho Fumana\r\n"
+"\r\n"
+"Na o ka sheba, ka mahlwana a hao\r\n"
+"Sebopuwa se ipatileng?\r\n"
+"Sheba ka mahlo a hao mme o tla bona\r\n"
+"Seo o tlang hose fumana kajeno."
+

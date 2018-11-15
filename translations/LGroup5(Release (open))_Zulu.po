@@ -1,0 +1,86 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: zul\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'jG5Zu1oCQbK8rZ6tYocnKw', 'name': 'Extra notes'}, 'report': {'id': 'lITn1iltT4qmvcuCPXKaYA', 'type': 'MSG'}, 'page': {'id': '7r5Vl-7nTBmdfB7fCk1hTg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'e-mMes-DRs-hi1qfzZz2fw', 'name': 'How it works'}, 'report': {'id': 'ht0e72rCQUq7LMs5KsneSg', 'type': 'MSG'}, 'page': {'id': 'PK6TUmhtTjKxupdZyE7wGg', 'caption': 'See how it works'}, 'button': {'id': 'xeuw3kxrTQqDzFladmiWCQ', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanothi"
+
+#f: {'context': 'label', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'jG5Zu1oCQbK8rZ6tYocnKw', 'name': 'Extra notes'}, 'report': {'id': 'lITn1iltT4qmvcuCPXKaYA', 'type': 'MSG'}, 'page': {'id': '7r5Vl-7nTBmdfB7fCk1hTg', 'caption': 'Read the notes'}, 'button': {'id': 'BODFHj8_ROieC11CBnnS_g', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kumenyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'OjU6u2V4RRS7CtIp89sxLw', 'name': 'Skills developed'}, 'report': {'id': 'oUtFZ-gMRrycOERG1qVHGQ', 'type': 'MSG'}, 'page': {'id': 'tozMsshkTZaaQmKra8P7Og', 'caption': 'This game develops'}, 'button': {'id': 'BYfsFMusTZ-yL_6JpCnJ4w', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'ysSlvmF3SC-8zFDskY8EMQ', 'name': 'What you need'}, 'report': {'id': 'EVR7S5gORQONHvqoSEJ0_w', 'type': 'MSG'}, 'page': {'id': 'JVViBLj7QrO0X4qiIkA3jQ', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bheka ukuthi yini oyidingayo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'e-mMes-DRs-hi1qfzZz2fw', 'name': 'How it works'}, 'report': {'id': 'ht0e72rCQUq7LMs5KsneSg', 'type': 'MSG'}, 'page': {'id': 'PK6TUmhtTjKxupdZyE7wGg', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'ysSlvmF3SC-8zFDskY8EMQ', 'name': 'What you need'}, 'report': {'id': 'EVR7S5gORQONHvqoSEJ0_w', 'type': 'MSG'}, 'page': {'id': 'JVViBLj7QrO0X4qiIkA3jQ', 'caption': 'See what you need'}, 'button': {'id': 'M1erlIGeTZO2XLZoGQRsCA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bheka ukuthi kusebenza kanjani"
+
+#f: {'context': 'text', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'e-mMes-DRs-hi1qfzZz2fw', 'name': 'How it works'}, 'report': {'id': 'ht0e72rCQUq7LMs5KsneSg', 'type': 'MSG'}, 'page': {'id': 'PK6TUmhtTjKxupdZyE7wGg', 'caption': 'See how it works'}}
+msgid ""
+"It’s a fun game that’s a little like tag or touchers, but with a twist — you can’t run.\r\n"
+"1. You are Gogo.\r\n"
+"2. Stand with your back to everyone.\r\n"
+"3. Children line up on the other side of the room.\r\n"
+"4. When your back is turned, everyone creeps towards you quietly.\r\n"
+"5. When you turn around, everyone must freeze where they are. If anyone moves they have to go back to the beginning.\r\n"
+"6. You then turn back and let them and get close to you again. \r\n"
+"7. The first person who taps you wins. \r\n"
+"\r\n"
+"You can even give other children a turn at being Gogo.\r\n"
+msgstr ""
+"Umdlalo omnandi ofana ne-tag noma touchers, kodwa uhlukile – awuvunyelwe ukubaleka.\r\n"
+"\r\n"
+"1. UnguGogo.\r\n"
+"2. Yima ufulathele wonke umuntu.\r\n"
+"3. Izingane zima ulayini kolunye uhlangothi lwegumbi.\r\n"
+"4. Uma ufulathele, wonke umuntu uyakunyonyobela buthule.\r\n"
+"5. Uma uphenduka, wonke umuntu kufanele ame anganyakazi lapho ekhona. Uma kukhon aoke wanyakaza kufanele aphinde emuva aqale phansi.\r\n"
+"6. Uyaphenduka futhi ubayeke basondele futhi. \r\n"
+"7. Umuntu wokuqala ozokuthinta uyawina. \r\n"
+"\r\n"
+"Unganikeza ngisho nezinye izingane ithuba lokuba uGogo."
+
+#f: {'context': 'text', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'jG5Zu1oCQbK8rZ6tYocnKw', 'name': 'Extra notes'}, 'report': {'id': 'lITn1iltT4qmvcuCPXKaYA', 'type': 'MSG'}, 'page': {'id': '7r5Vl-7nTBmdfB7fCk1hTg', 'caption': 'Read the notes'}}
+msgid "And that’s it. Easy peazy."
+msgstr "Yilokho nje. Kulula kakhulu."
+
+#f: {'context': 'caption', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'OjU6u2V4RRS7CtIp89sxLw', 'name': 'Skills developed'}, 'report': {'id': 'oUtFZ-gMRrycOERG1qVHGQ', 'type': 'MSG'}, 'page': {'id': 'tozMsshkTZaaQmKra8P7Og', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Lo mdlalo uthuthukisa:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': '8jKsMdatQPqR-KRviq6qLA', 'name': 'Start'}, 'report': {'id': 'QeKE-iBjSnawJ7HjQjhMbg', 'type': 'MSG'}, 'page': {'id': 'LT4bifK5TG6kcIYOFegz3w', 'caption': 'Sometimes the simplest game is best, like Tap Gogo! 👵🏾'}}
+msgid "Sometimes the simplest game is best, like Tap Gogo! 👵🏾"
+msgstr "Kwesinye isikhathi umdlalo olula yiwo ohamba phambili, njengo-Tap Gogo! 👵🏾"
+
+#f: {'context': 'text', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'OjU6u2V4RRS7CtIp89sxLw', 'name': 'Skills developed'}, 'report': {'id': 'oUtFZ-gMRrycOERG1qVHGQ', 'type': 'MSG'}, 'page': {'id': 'tozMsshkTZaaQmKra8P7Og', 'caption': 'This game develops'}}
+msgid ""
+"✔️Walking & Moving \r\n"
+"✔️Social"
+msgstr ""
+"✔️Ukuhamba nokunyakaza \r\n"
+"✔️Amakhono okuphilisana emphakathini"
+
+#f: {'context': 'text', 'workflow': {'id': 'qi2_WFL7SMuQRWoMUdBAuA', 'name': 'LGroup5'}, 'state': {'id': 'ysSlvmF3SC-8zFDskY8EMQ', 'name': 'What you need'}, 'report': {'id': 'EVR7S5gORQONHvqoSEJ0_w', 'type': 'MSG'}, 'page': {'id': 'JVViBLj7QrO0X4qiIkA3jQ', 'caption': 'See what you need'}}
+msgid "All you need is a big space to move in!"
+msgstr "Udinga indawo enkulu ozokwazi ukunyakaza kuyona!"
+

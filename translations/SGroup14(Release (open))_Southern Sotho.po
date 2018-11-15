@@ -1,0 +1,130 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: sot\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'iZupVI9hR2K04pQA4T3vYg', 'name': 'Extra notes'}, 'report': {'id': 'KVfXx-RjRjOi7A75S_hYLQ', 'type': 'MSG'}, 'page': {'id': 'ExEefiM6RFiINUO-b3CT1A', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'b2qFCBFfRZmEfjKCA8TmdA', 'name': 'How it works'}, 'report': {'id': 'YqsoJR6GTky4oQ6yPoUQ1w', 'type': 'MSG'}, 'page': {'id': 'lmtSjYs1RN2S07c8spWq_g', 'caption': 'See how it works'}, 'button': {'id': 'ZyvC2KtuQTiPryVGEZuGRw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Bala dinoutso"
+
+#f: {'context': 'label', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'QmbPmu9uQAiIof3AlVcGiQ', 'name': 'Skills developed'}, 'report': {'id': 'tuoykPAkT7W-F2Y3ppvkKQ', 'type': 'MSG'}, 'page': {'id': 'GJ3KIVaVRpqXHytCnLzDOw', 'caption': 'This game develops:'}, 'button': {'id': 'aZzRoRAoQZi17Oyn2HZptQ', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'amli-ZtlT8ewC0RxqHDN5g', 'name': 'What you need'}, 'report': {'id': '3NBzlwvxShKbG5wj4DR1DA', 'type': 'MSG'}, 'page': {'id': 'nNwkDoVPRLO06vm8vmjyAg', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Sheba seo o se hlokang"
+
+#f: {'context': 'caption', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'b2qFCBFfRZmEfjKCA8TmdA', 'name': 'How it works'}, 'report': {'id': 'YqsoJR6GTky4oQ6yPoUQ1w', 'type': 'MSG'}, 'page': {'id': 'lmtSjYs1RN2S07c8spWq_g', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'amli-ZtlT8ewC0RxqHDN5g', 'name': 'What you need'}, 'report': {'id': '3NBzlwvxShKbG5wj4DR1DA', 'type': 'MSG'}, 'page': {'id': 'nNwkDoVPRLO06vm8vmjyAg', 'caption': 'See what you need'}, 'button': {'id': 'LYiaaO9oRNeDElu_mFM1UQ', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona hore e sebetsa jwang"
+
+#f: {'context': 'label', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'iZupVI9hR2K04pQA4T3vYg', 'name': 'Extra notes'}, 'report': {'id': 'KVfXx-RjRjOi7A75S_hYLQ', 'type': 'MSG'}, 'page': {'id': 'ExEefiM6RFiINUO-b3CT1A', 'caption': 'Read the notes'}, 'button': {'id': '3tdsdT4mRniy16pmLZMGDA', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kgutlela ho menu"
+
+#f: {'context': 'text', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'iZupVI9hR2K04pQA4T3vYg', 'name': 'Extra notes'}, 'report': {'id': 'KVfXx-RjRjOi7A75S_hYLQ', 'type': 'MSG'}, 'page': {'id': 'ExEefiM6RFiINUO-b3CT1A', 'caption': 'Read the notes'}}
+msgid ""
+"While their creative juices are flowing, get their brains going by asking them some questions.\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What colour is this?\r\n"
+"• What shape is this\r\n"
+"• How many colours can you see?\r\n"
+"• Where will you stick this?\r\n"
+"\r\n"
+"Level 2\r\n"
+"• How many pieces do you have? \r\n"
+"• What pattern is this?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• How will you use these pieces to make a picture?\r\n"
+"• What is your picture?\r\n"
+"• Can you tell me about it?\r\n"
+"• Can you make your name?\r\n"
+msgstr ""
+"Ha ba ntse ba bontsha boqapi, etsa hore dikelello tsa bona di sebetse ka ho ba botsa dipotso.\r\n"
+"\r\n"
+"Mohato wa 1\r\n"
+"• Ke mmala ofe oo?\r\n"
+"• Ke sebopeho sefe see?\r\n"
+"• O bona mebala e mekae?\r\n"
+"• O tlo manamisa see hokae?\r\n"
+"\r\n"
+"Mohato wa 2\r\n"
+"• O na le dikgetjhana tse kae? \r\n"
+"• Ke paterone efe ee?\r\n"
+"\r\n"
+"Mohato wa 3\r\n"
+"• O tlo sebedisa dikgetjhana tsee jwang ho etsa setshwantsho?\r\n"
+"• Setshwantsho sa hao ke sa eng?\r\n"
+"• Na o ka nqoqela ka sona?\r\n"
+"• Na o ka etsa lebitso la hao?"
+
+#f: {'context': 'text', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'QmbPmu9uQAiIof3AlVcGiQ', 'name': 'Skills developed'}, 'report': {'id': 'tuoykPAkT7W-F2Y3ppvkKQ', 'type': 'MSG'}, 'page': {'id': 'GJ3KIVaVRpqXHytCnLzDOw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Arm & Hand Control\r\n"
+"✔️Numbers , Shapes & Sizes\r\n"
+msgstr ""
+"✔️Taolo ya sephaka le letsoho\r\n"
+"✔️Dinomoro, dibopeho le boholo"
+
+#f: {'context': 'text', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'b2qFCBFfRZmEfjKCA8TmdA', 'name': 'How it works'}, 'report': {'id': 'YqsoJR6GTky4oQ6yPoUQ1w', 'type': 'MSG'}, 'page': {'id': 'lmtSjYs1RN2S07c8spWq_g', 'caption': 'See how it works'}}
+msgid ""
+"Now it’s time to turn trash into treasure. \r\n"
+"\r\n"
+"1. Make sure the chip packets are clean.\r\n"
+"2. Ask the kids to share the chip packets between themselves.\r\n"
+"3. Then ask them to cut or tear up chip packets into small pieces or shapes.\r\n"
+"4. Get them to stick these pieces of chip packet onto the paper.\r\n"
+"5. Encourage creativity as they make their pictures.\r\n"
+"6. Talk about shapes, sizes, colour, texture, patterns, etc.\r\n"
+"7. Help them to cut and stick as is needed.\r\n"
+"8. Older children can even make spell their names out with the pieces.\r\n"
+msgstr ""
+"Jwale ke nako ya ho fetola matlakala ho a etsa letlotlo. \r\n"
+"\r\n"
+"1. Netefatsa hore dipakana tsa ditjhipse di hlwekile.\r\n"
+"2. Kopa bana ho abelana ka dipakana tsa ditjhipse.\r\n"
+"3. Jwale ba kope ho seha kapa ho tabola dipakana tsa ditjhipse ba dietse dikgetjhana kapa dibopeho tse nyane.\r\n"
+"4. Ere ba kgomaretse dikgetjhana tsena tsa pakana ya ditjhipse hodima pampiri.\r\n"
+"5. Kgothaletse boqapi ha ba ntse ba etsa ditshwantsho tsa bona.\r\n"
+"6. Buang ka dibopeho, boholo, mmala, boamo, dipaterone, jj.\r\n"
+"7. Ba thuse ho seha le ho manamisa kamoo ho hlokehang.\r\n"
+"8. Bana ba baholwanyane ba ka ba ba peleta mabitso a bona ka dikgetjhana tseo."
+
+#f: {'context': 'caption', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'sBMXJbJSSwu8ZRcYrcMc6w', 'name': 'Start'}, 'report': {'id': 'sgz9-snvTSiUUFUgpypCKA', 'type': 'MSG'}, 'page': {'id': '2wk5GOJCRvKSDc4pXl_ycQ', 'caption': 'Use Chip Packet Fun to teach the kids about not only making art, but recycling too.🥔'}}
+msgid "Use Chip Packet Fun to teach the kids about not only making art, but recycling too.🥔"
+msgstr "Sebedisa Monate wa Pakana ya Ditjhipsi ho ruta bana eseng ka ho etsa bonono feela, empa le ka ho resaekela. 🥔"
+
+#f: {'context': 'text', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'amli-ZtlT8ewC0RxqHDN5g', 'name': 'What you need'}, 'report': {'id': '3NBzlwvxShKbG5wj4DR1DA', 'type': 'MSG'}, 'page': {'id': 'nNwkDoVPRLO06vm8vmjyAg', 'caption': 'See what you need'}}
+msgid ""
+"If there’s litter in the area, why not get the kids to collect it and throw it away while they look for chip packets? This is what you’ll for this game:\r\n"
+"\r\n"
+"• A clean chip packet per child\r\n"
+"• Piece of paper per child\r\n"
+"• Glue and scissors\r\n"
+msgstr ""
+"Haeba ho ena le matlakala sebakeng seo, hobaneng o sa re bana ba a bokelle mme ba a lahle ha ba ntse ba batlana le dipakana tsa ditjhipse? Sena ke seo o tlang ho se hloka bakeng sa papadi ena:\r\n"
+"\r\n"
+"• Pakana ya ditjhipse e hlwekileng bakeng sa ngwana ka mong\r\n"
+"• Sekgetjhana sa pampiri ngwana ka mong\r\n"
+"• Sekgomaretsi\r\n"
+"• Dikere"
+
+#f: {'context': 'caption', 'workflow': {'id': 'XVSApQd3TsCy-cJAy6dcIw', 'name': 'SGroup14'}, 'state': {'id': 'QmbPmu9uQAiIof3AlVcGiQ', 'name': 'Skills developed'}, 'report': {'id': 'tuoykPAkT7W-F2Y3ppvkKQ', 'type': 'MSG'}, 'page': {'id': 'GJ3KIVaVRpqXHytCnLzDOw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Papadi ena e ntshetsa pele:"
+

@@ -1,0 +1,135 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nbl\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'KZSWSnEuSj2uFQ9QlTqYeQ', 'name': 'Extra notes'}, 'report': {'id': 'ZbAirEIBSmSeSWe0CeL6ZA', 'type': 'MSG'}, 'page': {'id': 'OaRZA4zkQd2xogDhUtv2Vg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '6ha_88moTzeC-WOGSMv3Fw', 'name': 'How it works'}, 'report': {'id': 'l72zsBoCSPykB_U4Ri5JLg', 'type': 'MSG'}, 'page': {'id': '-uBMfr_bTS-fsiiuunT3uw', 'caption': 'See how it works'}, 'button': {'id': 'u6B9MdYXTmm1ygqWAnNxyw', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amaAwathi"
+
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'tIRyBmKBQaGrXEHts34ISQ', 'name': 'Skills developed'}, 'report': {'id': 'jFSoWiJ9QIyVr0FYAICOiw', 'type': 'MSG'}, 'page': {'id': 'YnbNtpEkRwKLvxIQEwf_Fw', 'caption': 'This game develops:'}, 'button': {'id': 'aG3LWMT6ToOmRZQK7g2n5Q', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'eJaEsD7XRWmPwlskT7F21A', 'name': 'What you need'}, 'report': {'id': 'CxJuFWIlRMGXATMJhFqpfQ', 'type': 'MSG'}, 'page': {'id': 'SCtW-xo-SG-TDEF6RKkchQ', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona ukuthi utlhoga ini"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '6ha_88moTzeC-WOGSMv3Fw', 'name': 'How it works'}, 'report': {'id': 'l72zsBoCSPykB_U4Ri5JLg', 'type': 'MSG'}, 'page': {'id': '-uBMfr_bTS-fsiiuunT3uw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'eJaEsD7XRWmPwlskT7F21A', 'name': 'What you need'}, 'report': {'id': 'CxJuFWIlRMGXATMJhFqpfQ', 'type': 'MSG'}, 'page': {'id': 'SCtW-xo-SG-TDEF6RKkchQ', 'caption': 'See what you need'}, 'button': {'id': 'yt6OO_1JSAmKa5pJL1priQ', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Bona ukuthi isebenza bunjani"
+
+#f: {'context': 'label', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'KZSWSnEuSj2uFQ9QlTqYeQ', 'name': 'Extra notes'}, 'report': {'id': 'ZbAirEIBSmSeSWe0CeL6ZA', 'type': 'MSG'}, 'page': {'id': 'OaRZA4zkQd2xogDhUtv2Vg', 'caption': 'Read the notes'}, 'button': {'id': 'nLHh1p_USICg5ckrT3O6_A', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela erhelweni"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '6ha_88moTzeC-WOGSMv3Fw', 'name': 'How it works'}, 'report': {'id': 'l72zsBoCSPykB_U4Ri5JLg', 'type': 'MSG'}, 'page': {'id': '-uBMfr_bTS-fsiiuunT3uw', 'caption': 'See how it works'}}
+msgid ""
+"Make sure the children don’t get too excited and take a bite out of their playdough! 🤢\r\n"
+"\r\n"
+"1. Tell the children that they’re going to make an ice cream.\r\n"
+"2. Talk about ice creams.\r\n"
+"3. Show them how to roll the play dough into long, thin sausages, and then roll them round and round, making a circle.\r\n"
+"4. Put a stick in to make an ice cream.\r\n"
+"5. Show them the other kinds of ice creams you can make by rolling balls and decorating them.\r\n"
+"6. Have fun, ask questions, and talk to help the children learn more as they play.\r\n"
+"7. Set up an ice cream shop to sell the ice creams.\r\n"
+"8. Put up pictures of the different kinds of flavours there are.\r\n"
+"9. Sing a rhyme about ice cream if you want to.\r\n"
+"\r\n"
+"RHYME: I scream, you scream, we ALL scream for ice cream!\r\n"
+msgstr ""
+"Qinisekisa ukuthi abantwana abathabi khulu bese uluma kancani ihlama yabo! 🤢\r\n"
+"\r\n"
+"1.Tjela abantwana ukuthi bazoyenza i-ayisikhrimu.\r\n"
+"2.Coca ngama –ayisikhrimu.\r\n"
+"3.Batjengise bona ihlama bayirola njani ibe yide, ibe masoseji, ibe rondo bese yenza isiyingi.\r\n"
+"4.Faka isgodo e-ayiskhrimini.\r\n"
+"5.Batjengise eminye imihlobo ye-ayisikhrimu ongayenza ngokurola amabholo bese uwakghabisa.\r\n"
+"6.Thokoza, ubuze imibuzo bese uyakhuluma ukubarhelebha nabafundako.\r\n"
+"7.Yenza isitolo se-ayisikhrimu uzokuthengisa ama-ayisikhrimu.\r\n"
+"8.Beka iinthombe zemihlobo ehlukeneko ezikhona.\r\n"
+"9.Vuma ingoma nge-ayisikhrimu nawuthandako.\r\n"
+"\r\n"
+"Ingoma: Ngiyarhuwelela, uyarhuwelela, SOKE sirhuwelelela i-ayisikhrimu!"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'KZSWSnEuSj2uFQ9QlTqYeQ', 'name': 'Extra notes'}, 'report': {'id': 'ZbAirEIBSmSeSWe0CeL6ZA', 'type': 'MSG'}, 'page': {'id': 'OaRZA4zkQd2xogDhUtv2Vg', 'caption': 'Read the notes'}}
+msgid ""
+"Ask the children some questions to help their imaginations run wild.\r\n"
+"\r\n"
+"Level 1\r\n"
+"• What ice creams do you like?\r\n"
+"• When do you eat them?\r\n"
+"• How do you feel when you have an ice cream?\r\n"
+"• What colour are you going to make?\r\n"
+"• What shape do you like?\r\n"
+"• Etc.\r\n"
+"\r\n"
+"Level 2\r\n"
+"• What flavour are your ice creams?\r\n"
+"• How many do we have now?\r\n"
+"• Should we set up and ice cream shop?\r\n"
+"\r\n"
+"Level 3\r\n"
+"• How much do your ice creams cost?\r\n"
+"• I only have this amount of money. Do I need change?\r\n"
+msgstr ""
+"Buza abantwana imibuzo ukubarhelebha bona imicabango yabo igijime.\r\n"
+"\r\n"
+"Ileveli yoku - 1\r\n"
+"• Uthanada maphi ama-ayisikhrimu?\r\n"
+"• Uwadla nini?\r\n"
+"• Uzizwa njani nawudla i-ayisikhrimu?\r\n"
+"• Uzokwenza umbala onjani?\r\n"
+"• Uthanda ejame njame njani?\r\n"
+"• Njll.\r\n"
+"\r\n"
+"Ileveli Iyei - 2\r\n"
+"• Ngimiphi imihlobo yama-ayisikhrimu wakho?\r\n"
+"• Sinemingaki nje?\r\n"
+"• Sisenze isitolo sama-ayisikhrimu?\r\n"
+"\r\n"
+"Ileveli Iyei - 3\r\n"
+"• Ama-ayisikhrimakho abiza malini?\r\n"
+"• Nginalemali kwaphela. Ngabe ngithloga itjintji?"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'tIRyBmKBQaGrXEHts34ISQ', 'name': 'Skills developed'}, 'report': {'id': 'jFSoWiJ9QIyVr0FYAICOiw', 'type': 'MSG'}, 'page': {'id': 'YnbNtpEkRwKLvxIQEwf_Fw', 'caption': 'This game develops:'}}
+msgid ""
+"✔️Talking & Understanding\r\n"
+"✔️Arm & hand control"
+msgstr ""
+"✔️Ukukhuluma Awakuzwisisana\r\n"
+"✔️Ukulawula umkhoAwa nesandla"
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': '7RrXiZVXRpmLKp42e_IDZw', 'name': 'Start'}, 'report': {'id': 'Ms1WVrLrSpK5L1xpuDgwsQ', 'type': 'MSG'}, 'page': {'id': 'KCXdkJ1qSRWP4_LA9fRqBg', 'caption': 'This is a great game to play during summer, and the good news is that these Playdough Ice Creams won’t melt. 🍦'}}
+msgid "This is a great game to play during summer, and the good news is that these Playdough Ice Creams won’t melt. 🍦"
+msgstr "Umdlalo lo umnandi khulu ukuwudlala ehlobo, futhi iindaba ezimnandi ngukuthi i - Playdough Ice Creams ngeze yancibilika. 🍦"
+
+#f: {'context': 'text', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'eJaEsD7XRWmPwlskT7F21A', 'name': 'What you need'}, 'report': {'id': 'CxJuFWIlRMGXATMJhFqpfQ', 'type': 'MSG'}, 'page': {'id': 'SCtW-xo-SG-TDEF6RKkchQ', 'caption': 'See what you need'}}
+msgid ""
+"This one is super simple! All that’s needed is:\r\n"
+"\r\n"
+"1. Playdough in a few different colours.\r\n"
+"2. Ice cream sticks or something that could be used as an ice cream stick.\r\n"
+msgstr ""
+"Le ilula khulu. Ozokutlhoga ngilokhu:\r\n"
+"\r\n"
+"1.Ihlala yemibala eyahlukeneko.\r\n"
+"2.Isigodo se – ayisikhrimu Awama ngabe yini ogayisebenzisa njengaso."
+
+#f: {'context': 'caption', 'workflow': {'id': 'T0O3w3h7RzKCKL-Be-D7Hg', 'name': 'SGroup13'}, 'state': {'id': 'tIRyBmKBQaGrXEHts34ISQ', 'name': 'Skills developed'}, 'report': {'id': 'jFSoWiJ9QIyVr0FYAICOiw', 'type': 'MSG'}, 'page': {'id': 'YnbNtpEkRwKLvxIQEwf_Fw', 'caption': 'This game develops:'}}
+msgid "This game develops:"
+msgstr "Umdlalo lo uthuthukisa:"
+

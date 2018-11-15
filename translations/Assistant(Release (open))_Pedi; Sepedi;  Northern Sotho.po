@@ -1,0 +1,228 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: nso\n"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'nkx5H5hzTAeqGFfNl3jvkA', 'type': 'MSG'}, 'page': {'id': '9kliRNpUSrCxLUhhKDUnKw', 'caption': ''}}
+msgid ""
+"Here’s each step of the daily programme with a suggested time limit:\r\n"
+"\r\n"
+"• Greeting time (10 minutes) \r\n"
+"• Message-board time (10 minutes)\r\n"
+"• Small-group time (15-20 minutes)\r\n"
+"• Planning time (10 minutes)\r\n"
+"• Playtime (60 minutes)\r\n"
+"• Cleanup time (10 minutes)\r\n"
+"• Recall time (10 minutes)\r\n"
+"• Big-group time (15 minutes)\r\n"
+"• Story time (10 minutes)\r\n"
+msgstr ""
+"Mo go latela kgato ka kgato ya lenaneo la tšatši ka tšatši leo le nago le nako ye e šišinywago:\r\n"
+"\r\n"
+"• Nako ya go dumediša (metsotso ye 10) \r\n"
+"• Nako ya molaetša wa letlapeng (metsotso ye 10)\r\n"
+"• Nako ya sehlopha se sennyane (metsotso ye 15-20)\r\n"
+"• Nako ya peakanyo (metsotso ye 10)\r\n"
+"• Nako ya go raloka (metsotso ye 60)\r\n"
+"• Nako ya go hlwekiša (metsotso ye 10)\r\n"
+"• Nako ya go gopodišiša (metsotso ye 10)\r\n"
+"• Nako ya sehlopha se segolo (metsotso ye 15)\r\n"
+"• Nako ya kanegelo (metsotso ye 10)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'NEw6v2yRTce9k7GlP_mmAA', 'type': 'MSG'}, 'page': {'id': '3s7-QE2FSzORMPoLrIvmIw', 'caption': ''}}
+msgid ""
+"SmartStart has a clear 3-hour routine designed to help your children learn lots of new and exciting skills and concepts. 🌞\r\n"
+msgstr "SmartStart e na le mediro ya diiri tše 3 ye e hlametšwego go thuša bana ba gago go ithuta mabokgoni le mareo a mantši le ao a thabišago. 🌞"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'ureHj8thShSBvlIYO4wFyA', 'name': 'Greeting time'}, 'report': {'id': 'WstNBnPrR6uZ9tE3nzVYTA', 'type': 'MSG'}, 'page': {'id': 'FuQUjbRfRCeuBPXV-QsGCA', 'caption': '👋🏾 Greeting time (10 mins)'}}
+msgid "👋🏾 Greeting time (10 mins)"
+msgstr "👋🏾 Nako ya go dumediša (metsotso ye 10)"
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'Ej_8nFoeSeWWPBr1BEdw8Q', 'name': 'Clean up time '}, 'report': {'id': 's1_hQJkqTqaaxrs6cG7bvw', 'type': 'MSG'}, 'page': {'id': 'JXDZoS3FRJ2UDcxmQRW1vQ', 'caption': '✨ Clean up time (10 min)'}, 'button': {'id': '4BDGEgcQR-apwKv66yTZGw', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'ureHj8thShSBvlIYO4wFyA', 'name': 'Greeting time'}, 'report': {'id': 'WstNBnPrR6uZ9tE3nzVYTA', 'type': 'MSG'}, 'page': {'id': 'FuQUjbRfRCeuBPXV-QsGCA', 'caption': '👋🏾 Greeting time (10 mins)'}, 'button': {'id': 'kIuuXeyFRjCD7HfifdKqOQ', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'n6wC5F8lRtWxAQz1465pYg', 'name': 'Large group time'}, 'report': {'id': 'CF4rppyrTMCYhJCEGQBHXA', 'type': 'MSG'}, 'page': {'id': 'k5PqDTffTB6xA8BD0A7fMg', 'caption': '👩\u200d👧\u200d👦 Large group time (15 min)'}, 'button': {'id': 'nVEKsNT5SPGB-l4N0sjhrA', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'xA0e4GQRTwOYTrQf0uCtzQ', 'name': 'Message board'}, 'report': {'id': '9MPCtfgrTs2XTq63D32bBg', 'type': 'MSG'}, 'page': {'id': 'hgOnd4i4RYynSrS_3R9XcA', 'caption': '💬 Message-board time (10 min)'}, 'button': {'id': 'h4y7zwwkR0yGkcf8nlgh9A', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '6tFTFaskRWWu9PWZl9UVxw', 'name': 'Planning time'}, 'report': {'id': 'aHy4x3crQY-yV-qvxWqkaw', 'type': 'MSG'}, 'page': {'id': 'ER14sBwLRNKV7uURY667kw', 'caption': '📝 Planning time (10 min)'}, 'button': {'id': 'PkXbhbJNSuiRBklpY3Z-9w', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'FMSobuW2RKCoL6hdOGS5wQ', 'name': 'Play time'}, 'report': {'id': 'Gk-OsGh_S1qWtaQHDTxzeg', 'type': 'MSG'}, 'page': {'id': 'C9H4lTgqQQ6XqWY165Fw6A', 'caption': '\U0001f9d2🏾 Play time (60 min)'}, 'button': {'id': 'aHz49Ym6RiSR3vsla78LAQ', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '5T5glu2kRUC6oxgbJaiPSg', 'name': 'Recall time'}, 'report': {'id': '4Ogp242-TsazHdC9MGLGGQ', 'type': 'MSG'}, 'page': {'id': 'dsRLXOxjRW6FGjfUayOu3g', 'caption': '\U0001f9e0 Recall time (10 mins)'}, 'button': {'id': '-5VS3uMNQJWmM-QB2GPw8w', 'label': 'See next step'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '4HZC7kRLR8WRKa_4kZ-IXQ', 'name': 'Small group time'}, 'report': {'id': '88alGx-dRBq9EoDYrnDr_A', 'type': 'MSG'}, 'page': {'id': 'AlgpWqYvSI2PMo35du30BQ', 'caption': '👩\u200d👧 Small-group time (15 min)'}, 'button': {'id': 'adq6yezpTwG_SwLWEIpd9g', 'label': 'See next step'}}
+msgid "See next step"
+msgstr "Lebelela kgato ye e latelago"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '6tFTFaskRWWu9PWZl9UVxw', 'name': 'Planning time'}, 'report': {'id': 'aHy4x3crQY-yV-qvxWqkaw', 'type': 'MSG'}, 'page': {'id': 'ER14sBwLRNKV7uURY667kw', 'caption': '📝 Planning time (10 min)'}}
+msgid "📝 Planning time (10 min)"
+msgstr "📝 Nako ya go beakanya (metsotso ye 10)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'FMSobuW2RKCoL6hdOGS5wQ', 'name': 'Play time'}, 'report': {'id': 'Gk-OsGh_S1qWtaQHDTxzeg', 'type': 'MSG'}, 'page': {'id': 'C9H4lTgqQQ6XqWY165Fw6A', 'caption': '\U0001f9d2🏾 Play time (60 min)'}}
+msgid "🧒🏾 Play time (60 min)"
+msgstr "🧒🏾 Nako ya go raloka (metsotso ye 60)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '5T5glu2kRUC6oxgbJaiPSg', 'name': 'Recall time'}, 'report': {'id': '4Ogp242-TsazHdC9MGLGGQ', 'type': 'MSG'}, 'page': {'id': 'dsRLXOxjRW6FGjfUayOu3g', 'caption': '\U0001f9e0 Recall time (10 mins)'}}
+msgid "🧠 Recall time (10 mins)"
+msgstr "🧠 Nako ya go gopodišiša (metsotso ye 10)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'n6wC5F8lRtWxAQz1465pYg', 'name': 'Large group time'}, 'report': {'id': 'CF4rppyrTMCYhJCEGQBHXA', 'type': 'MSG'}, 'page': {'id': 'k5PqDTffTB6xA8BD0A7fMg', 'caption': '👩\u200d👧\u200d👦 Large group time (15 min)'}}
+msgid "👩‍👧‍👦 Large group time (15 min)"
+msgstr "👩‍👧‍👦 Nako ya sehlopha se segolo (metsotso ye 15)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'OD__6nL_TUi5w5DyP-b7Eg', 'type': 'MSG'}, 'page': {'id': '5encqPNvTYShKDuUgdOoHQ', 'caption': '📖 Story time (20 min)'}}
+msgid "📖 Story time (20 min)"
+msgstr "📖 Nako ya kanegelo (metsotso ye 20)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'xA0e4GQRTwOYTrQf0uCtzQ', 'name': 'Message board'}, 'report': {'id': '9MPCtfgrTs2XTq63D32bBg', 'type': 'MSG'}, 'page': {'id': 'hgOnd4i4RYynSrS_3R9XcA', 'caption': '💬 Message-board time (10 min)'}}
+msgid "Once everyone is there, gather around the message board to start the day. 💬 Use the message board to share news about that day and what they will be doing by pointing to the symbols and talking to the children."
+msgstr "Morago ga gore ba be moo ka moka, rarelang letlapa la go ngwalela molaetša go thomiša ka letšatši. 💬 Somiša letlapa la go ngwalela melaetša go abelana ka ditaba mabapi le letšatši le gore ba tla be ba dira eng ka go šupa godimo ga maswao le go bolela le bana."
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}, 'button': {'id': '5PRQFvSjQhOxGon5T-IEOA', 'label': 'See activity ideas'}}
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'V9GnVf_gT2iv_mT64lFxUQ', 'type': 'MSG'}, 'page': {'id': 'z7EPmK3qSrqCAnuOllneGw', 'caption': ''}, 'button': {'id': 'ux_zax8gTpCkYMVmoXPy5A', 'label': 'See activity ideas'}}
+msgid "See activity ideas"
+msgstr "Bona dikgopolo tša mošomo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'Ej_8nFoeSeWWPBr1BEdw8Q', 'name': 'Clean up time '}, 'report': {'id': 's1_hQJkqTqaaxrs6cG7bvw', 'type': 'MSG'}, 'page': {'id': 'JXDZoS3FRJ2UDcxmQRW1vQ', 'caption': '✨ Clean up time (10 min)'}}
+msgid "✨ Clean up time (10 min)"
+msgstr "✨ Nako ya go hlwekiša (metsotso ye 10)"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '4HZC7kRLR8WRKa_4kZ-IXQ', 'name': 'Small group time'}, 'report': {'id': '88alGx-dRBq9EoDYrnDr_A', 'type': 'MSG'}, 'page': {'id': 'AlgpWqYvSI2PMo35du30BQ', 'caption': '👩\u200d👧 Small-group time (15 min)'}}
+msgid "👩‍👧 Small-group time (15 min)"
+msgstr "👩‍👧 Nako ya dihlopha tše nnyane (metsotso ye 15)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '4HZC7kRLR8WRKa_4kZ-IXQ', 'name': 'Small group time'}, 'report': {'id': '88alGx-dRBq9EoDYrnDr_A', 'type': 'MSG'}, 'page': {'id': 'AlgpWqYvSI2PMo35du30BQ', 'caption': '👩\u200d👧 Small-group time (15 min)'}}
+msgid ""
+"This is where children break into smaller groups to learn new skills. 👫\r\n"
+"\r\n"
+"First show the whole group what to do, then put them in groups. While the kids are busy, go around to each group to help, ask questions and use the activity to teach them something.\r\n"
+"\r\n"
+"I have lots of daily small-group activity ideas for you, if you ever need some inspiration. You can find them in the menu.\r\n"
+msgstr ""
+"Moo ke moo bana bana ba itlhophago ka dihlopha tše nnyane go ithuta bokgoni bjo bofsa. 👫\r\n"
+"\r\n"
+"Sa pele bontšha sehlopha ka botlalo seo se swanetšego go dirwa, gomme o ba bee ka dihlopha. Ge digotlane di tsene fase, sepelasepela le dihlopha ka moka go thuša, botšiša dipotšišo le go šomiša mošomo go ba ruta se sengwe.\r\n"
+"\r\n"
+"Ke na le dikgopolo tše ntši tša dihlopha tše nnyane, ge e le gore o nyaka tlhohleletšo. O ka di hwetša ka gare ga menyu."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'Ej_8nFoeSeWWPBr1BEdw8Q', 'name': 'Clean up time '}, 'report': {'id': 's1_hQJkqTqaaxrs6cG7bvw', 'type': 'MSG'}, 'page': {'id': 'JXDZoS3FRJ2UDcxmQRW1vQ', 'caption': '✨ Clean up time (10 min)'}}
+msgid "*groan*☹ No one likes to clean up, but it’s important the kids learn the habit of tidying up after themselves, but also to learn about organization and order. So when playtime is over everyone must help pack up the toys and tidy their area before the next activity can start."
+msgstr "*Go gwaba*☹ Ga go na yo a ratago go hlwekiša, eupša go bohlokwa gore digotlane di ithute setlwaedi sa go itlhwekiša, le go ithuta mabapi le tša peakanyo le bothakga. Ge nako ya meraloko e fedile, bana ka moka ba swanetše go thuša go phutha dibapadišwa le go hlwekiša lefelo la bona pele go ka thomišwa ka mošomo wo o latelago."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'FMSobuW2RKCoL6hdOGS5wQ', 'name': 'Play time'}, 'report': {'id': 'Gk-OsGh_S1qWtaQHDTxzeg', 'type': 'MSG'}, 'page': {'id': 'C9H4lTgqQQ6XqWY165Fw6A', 'caption': '\U0001f9d2🏾 Play time (60 min)'}}
+msgid ""
+"Playing is very important for a child’s development, plus they just love it. This time let’s them play freely, choosing their own games and toys from the interest areas. \r\n"
+"\r\n"
+"Use this time to ask questions, help them make friends, get them to try new things, and join in the game. Make sure you have put out lots of resources that children can reach and use to play with."
+msgstr ""
+"Go raloka go bohlokwa kudu go kgolo ya ngwana yo mongwe le yo mongwe, ebile ba go rata kudu. Mo nakong ye ba raloka ka go lokologa, ba kgetha dipapadi tša bona le dibapadišwa go tšwa mafapheng ao a kgahlišago. \r\n"
+"\r\n"
+"šomiša nako ye go botšiša dipotšišo, o ba thuše go ikhweletša bagwera, ba leke dilo tše mpsha, le go ba karolo papading. Kgonthiša gore o beile methopo ye mentši yeo bana ba ka e fihlelelago le go raloka ka yona."
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}, 'button': {'id': '3BupnHVmQX6Yk9jP2ENTew', 'label': 'Explain steps'}}
+msgid "Explain steps"
+msgstr "Hlaloša dikgato"
+
+#f: {'context': 'caption', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'xA0e4GQRTwOYTrQf0uCtzQ', 'name': 'Message board'}, 'report': {'id': '9MPCtfgrTs2XTq63D32bBg', 'type': 'MSG'}, 'page': {'id': 'hgOnd4i4RYynSrS_3R9XcA', 'caption': '💬 Message-board time (10 min)'}}
+msgid "💬 Message-board time (10 min)"
+msgstr "💬 Nako ya molaetšwa wa letlapeng (metsotso ye 10)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '5T5glu2kRUC6oxgbJaiPSg', 'name': 'Recall time'}, 'report': {'id': '4Ogp242-TsazHdC9MGLGGQ', 'type': 'MSG'}, 'page': {'id': 'dsRLXOxjRW6FGjfUayOu3g', 'caption': '\U0001f9e0 Recall time (10 mins)'}}
+msgid "After everything is packed away, bring the children together and ask them about what they did during play time. Ask a few children to share what they did. Show interest and involve other children."
+msgstr "Morago ga gore ba phuthe dilo ka moka, kopanya bana felo gotee o ba botšiše seo ba se dirilego nakong ya meraloko. Kgopela bana ba mmalwa go abelana ka seo ba se dirilego. Bontšha kgahlego le go akaretša bana ba bangwe."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'ureHj8thShSBvlIYO4wFyA', 'name': 'Greeting time'}, 'report': {'id': 'WstNBnPrR6uZ9tE3nzVYTA', 'type': 'MSG'}, 'page': {'id': 'FuQUjbRfRCeuBPXV-QsGCA', 'caption': '👋🏾 Greeting time (10 mins)'}}
+msgid "Say hello to all children when they arrive, and help them find a friend or something to do while the other children arrive. "
+msgstr "Dumediša bana ka moka ge ba fihla, le go ba thuša go hwetša mogwera goba se sengwe seo ba ka se dirago ge bana ba bangwe ba fihla."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': 'n6wC5F8lRtWxAQz1465pYg', 'name': 'Large group time'}, 'report': {'id': 'CF4rppyrTMCYhJCEGQBHXA', 'type': 'MSG'}, 'page': {'id': 'k5PqDTffTB6xA8BD0A7fMg', 'caption': '👩\u200d👧\u200d👦 Large group time (15 min)'}}
+msgid ""
+"This is a fun time for all to get together to play games, act out stories, play music, do exercise, sing songs or dance.\r\n"
+"\r\n"
+"You can repeat these activities more often than the small-group ones, especially if there’s a game the children enjoy. But just to keep things fresh I have some activity ideas for you in the menu. \r\n"
+msgstr ""
+"Ye ka nako ya boithabišo moo bana ba kopanago ba raloka dipapadi mmogo, ba raloka ditiragatšo, ba raloka mmino, ba itšhidulla, ba opela dikoša goba go bina.\r\n"
+"\r\n"
+"O ka bušeletša mešomo ye kgafetšakgafetša go feta ge o na le dihlopha tše nnyane, gagologolo ge e le gore go na le papadi yeo bana ba ipshinago ka yona. Go tšwetša pele dilo tše bose pele, ke go swaretše dikgopolo tša mešomo ka gare ga menyu."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '6tFTFaskRWWu9PWZl9UVxw', 'name': 'Planning time'}, 'report': {'id': 'aHy4x3crQY-yV-qvxWqkaw', 'type': 'MSG'}, 'page': {'id': 'ER14sBwLRNKV7uURY667kw', 'caption': '📝 Planning time (10 min)'}}
+msgid ""
+"This is where give each child a chance to talk about what they are going to do in their play time. It lets them decide how they spend the next hour, share ideas and feel included. \r\n"
+"\r\n"
+"Use props to help them talk about their plans."
+msgstr ""
+"Mo ke moo ngwana yo mongwe le yo mongwe a fiwago sebaka sa go bolela mabapi le seo ba tlilego go se dira nakong ya bona ya go raloka. E ba dumelela go tšea sephetho mabapi le ka moo ba šomišago iri ye e latelago, go abelana dikgopolo le go kwa ba sa kgethollwa. \r\n"
+"\r\n"
+"šomiša dikokwane go ba thuša go bolela ka dipeakanyo tša bona."
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'V9GnVf_gT2iv_mT64lFxUQ', 'type': 'MSG'}, 'page': {'id': 'z7EPmK3qSrqCAnuOllneGw', 'caption': ''}}
+msgid "I hope this helped you plan your day. You can come back anytime to go over the steps again. Would you like to see those activity ideas or go back to the main menu."
+msgstr "Ke tshepha gore se se go thušitše go beakanya letšatši la gago. O ka boa gape nako efe goba efe go bušeletša dikgato gape. O rata go bona dikgopolo tšeo tša mošomo goba go boela morago go menyu."
+
+msgid ""
+"SmartStart has a clear 3-hour routine designed to help you children learn lots of new and exciting skills and concepts. 🌞\r\n"
+msgstr "SmartStart e na le mediro ya diiri tše 3 ye e hlametšwego go thuša bana ba gago go ithuta mabokgoni le mareo a mantši le ao a thabišago. 🌞"
+
+msgid "Once everyone is there, gather around the message board to start the day. 💬 use the message board to share news about that day and what they will be doing by pointing to the symbols and talking to the children."
+msgstr "Morago ga gore ba be moo ka moka, rarelang letlapa la go ngwalela molaetša go thomiša ka letšatši. 💬 šomiša letlapa la go ngwalela melaetša go abelana ka ditaba mabapi le letšatši le gore ba tla be ba dira eng ka go šupa godimo ga maswao le go bolela le bana."
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'V9GnVf_gT2iv_mT64lFxUQ', 'type': 'MSG'}, 'page': {'id': 'z7EPmK3qSrqCAnuOllneGw', 'caption': ''}, 'button': {'id': 'reIlGVXcTRmN3wWPc8fxbQ', 'label': 'Go to main menu'}}
+msgid "Go to main menu"
+msgstr "Boela morago go menyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}, 'button': {'id': '3w4ryNmHTeemjY6Xma4TFA', 'label': 'Go back to menu'}}
+msgid "Go back to menu"
+msgstr "Boela morago go menyu"
+
+msgid ""
+"\r\n"
+"Here’s each step of the daily programme with a suggested time limit:\r\n"
+"\r\n"
+"• Greeting time (10 minutes) \r\n"
+"• Message-board time (10 minutes)\r\n"
+"• Small-group time (15-20 minutes)\r\n"
+"• Planning time (10 minutes)\r\n"
+"• Playtime (60 minutes)\r\n"
+"• Cleanup time (10 minutes)\r\n"
+"• Recall time (10 minutes)\r\n"
+"• Big-group time (15 minutes)\r\n"
+"• Story time (10 minutes)\r\n"
+msgstr ""
+"Mo go latela kgato ka kgato ya lenaneo la tšatši ka tšatši leo le nago le nako ye e šišinywago:\r\n"
+"\r\n"
+"• Nako ya go dumediša (metsotso ye 10) \r\n"
+"• Nako ya molaetša wa letlapeng (metsotso ye 10)\r\n"
+"• Nako ya sehlopha se sennyane (metsotso ye 15-20)\r\n"
+"• Nako ya peakanyo (metsotso ye 10)\r\n"
+"• Nako ya go raloka (metsotso ye 60)\r\n"
+"• Nako ya go hlwekiša (metsotso ye 10)\r\n"
+"• Nako ya go gopodišiša (metsotso ye 10)\r\n"
+"• Nako ya sehlopha se segolo (metsotso ye 15)\r\n"
+"• Nako ya kanegelo (metsotso ye 10)"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '3AlDUNKLT9a6xpK53aaZKQ', 'name': 'Daily routine start'}, 'report': {'id': 'z_kLSzDyQfeg-NjO3_YIRA', 'type': 'MSG'}, 'page': {'id': 'Ql3slYfnTuWtYdS_dSWmTw', 'caption': ''}}
+msgid "Do you want me to explain the programme steps more, see some activity ideas, or go back to the menu?"
+msgstr "Naa o nyaka ke hlaloša dikgato tša lenaneo go tsenelela, bona dikgopolo tše dingwe tša mošomo, goba boela go menyu?"
+
+#f: {'context': 'text', 'workflow': {'id': 'wQL4TQy9TH-tvsGUTz_NMA', 'name': 'Assistant'}, 'state': {'id': '8X9CbBsOSWewIGzLpR9LdQ', 'name': 'Story time'}, 'report': {'id': 'OD__6nL_TUi5w5DyP-b7Eg', 'type': 'MSG'}, 'page': {'id': '5encqPNvTYShKDuUgdOoHQ', 'caption': '📖 Story time (20 min)'}}
+msgid ""
+"This is normally the last step of the day. \r\n"
+"\r\n"
+"After all the excitement of the day it’s nice to sit down together and hear a story. You can read it or tell it, make faces, do voices and ask the children questions about the story. 🎭\r\n"
+"\r\n"
+"Stories develop language skills as well as get the children thinking, imagining and concentrating.\r\n"
+msgstr ""
+"Ye gantši ke kgato ya mafelelo ya letšatši. \r\n"
+"\r\n"
+"Morago ga boipshino ka moka bja letšatši, go bose go dula fase mmogo gomme le kwa kanegelo. O ka e bala goba wa e anega, wa dira difahlogo, le go botšiša bana dipotšišo mabapi le kanegelo. 🎭\r\n"
+"\r\n"
+"Dikanegelo di hlabolla bokgoni bja polelo le gore bana ba nagane, ba akanye le go ela tlhoko."
+

@@ -1,0 +1,78 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: xho\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'm96U_wZ1SFO9I-98OAUSfg', 'name': 'How it works'}, 'report': {'id': 'y6nz-0e7RT-4duUMA2OteA', 'type': 'MSG'}, 'page': {'id': 'XRR6qDDBRwifKrMenLuyMw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'tshnL4BpRlOl9uCNlzOo4g', 'name': 'What you need'}, 'report': {'id': 'OWLj9OS-TWOQ28Rk5GkRxQ', 'type': 'MSG'}, 'page': {'id': '8sNGscsvRzuV5sUTEJpIVg', 'caption': 'See what you need'}, 'button': {'id': 'MBPg-LKeQcq7kWwrgRBCGA', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Jonga ukuba isebenza njani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': '4kRVwc44RE-klnz_yxQsfQ', 'name': 'Extra notes'}, 'report': {'id': '50XXYBowTFqwlOxZYh0SMw', 'type': 'MSG'}, 'page': {'id': '6pNRuJbBQ_6Hrj8jHUCYNg', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'm96U_wZ1SFO9I-98OAUSfg', 'name': 'How it works'}, 'report': {'id': 'y6nz-0e7RT-4duUMA2OteA', 'type': 'MSG'}, 'page': {'id': 'XRR6qDDBRwifKrMenLuyMw', 'caption': 'See how it works'}, 'button': {'id': 'WXgtUkSkQ7G0YgfLqrHBVA', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Funda amanqaku"
+
+#f: {'context': 'label', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': '4kRVwc44RE-klnz_yxQsfQ', 'name': 'Extra notes'}, 'report': {'id': '50XXYBowTFqwlOxZYh0SMw', 'type': 'MSG'}, 'page': {'id': '6pNRuJbBQ_6Hrj8jHUCYNg', 'caption': 'Read the notes'}, 'button': {'id': '_a9kXpRKSU-DUBADlgT2aw', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela kwimenyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'yUabLQVRRBW1v6dbMkMhvg', 'name': 'Skills developed'}, 'report': {'id': 'AxYqt9nEQa6cE7DiyER9MQ', 'type': 'MSG'}, 'page': {'id': 'tG5exQpaTQW6tUDcMRequw', 'caption': 'This game develops'}, 'button': {'id': '2emyCX2LRDO4Wc-0yDCm3A', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'tshnL4BpRlOl9uCNlzOo4g', 'name': 'What you need'}, 'report': {'id': 'OWLj9OS-TWOQ28Rk5GkRxQ', 'type': 'MSG'}, 'page': {'id': '8sNGscsvRzuV5sUTEJpIVg', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Bona okudingayo"
+
+#f: {'context': 'caption', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'A6r3eXgPSVSUxlEmpVWPSg', 'name': 'Start'}, 'report': {'id': 'jlIWwwOTRQGsfq7GtDwwxQ', 'type': 'MSG'}, 'page': {'id': 'QPfRxzhzTMCsz7vbYh2G-g', 'caption': 'It’s a classic game: Follow the Leader.'}}
+msgid "It’s a classic game: Follow the Leader."
+msgstr "Ngumdlalo ophucukile: Landelani inkokheli."
+
+#f: {'context': 'text', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'yUabLQVRRBW1v6dbMkMhvg', 'name': 'Skills developed'}, 'report': {'id': 'AxYqt9nEQa6cE7DiyER9MQ', 'type': 'MSG'}, 'page': {'id': 'tG5exQpaTQW6tUDcMRequw', 'caption': 'This game develops'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Emotional"
+msgstr ""
+"✔️Izakhono zasekuhlaleni\r\n"
+"✔️Izakhono zasemoyeni"
+
+#f: {'context': 'text', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': '4kRVwc44RE-klnz_yxQsfQ', 'name': 'Extra notes'}, 'report': {'id': '50XXYBowTFqwlOxZYh0SMw', 'type': 'MSG'}, 'page': {'id': '6pNRuJbBQ_6Hrj8jHUCYNg', 'caption': 'Read the notes'}}
+msgid ""
+"But it’s not just copying, it’s fun so try using actions and sound effects to make the children laugh. 🤡\r\n"
+"Here are some action suggestions: Hop, jump, fly, bend down, turn around, put your hands up, hands crossed, quack, moo."
+msgstr ""
+"Kodwa ayikokukopa nje, kukonwaba ukuzama ukusebenzisa iintshukumo nezandi ukwenza abantwana bahleke. 🤡\r\n"
+"Nazi ezinye intshukumo ezicetyiswayo: ukutsiba ngomlenze omnye, ukutsibatsiba, ukubhabha, ukuguqa phantsi, uphakamise izandlaa zakho, izandla ziphithanisiwe, kwak, moo."
+
+#f: {'context': 'text', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'tshnL4BpRlOl9uCNlzOo4g', 'name': 'What you need'}, 'report': {'id': 'OWLj9OS-TWOQ28Rk5GkRxQ', 'type': 'MSG'}, 'page': {'id': '8sNGscsvRzuV5sUTEJpIVg', 'caption': 'See what you need'}}
+msgid "All you need is wide, open space, you can even play this outside. 🏞"
+msgstr "Konke okudingayo sisithuba esikhulu, esivulekile,ungadlala noku phandle. 🏞"
+
+#f: {'context': 'caption', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'yUabLQVRRBW1v6dbMkMhvg', 'name': 'Skills developed'}, 'report': {'id': 'AxYqt9nEQa6cE7DiyER9MQ', 'type': 'MSG'}, 'page': {'id': 'tG5exQpaTQW6tUDcMRequw', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Lo mdlalo uphuhlisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'pxXNgwMYQcago-0hRjbTRQ', 'name': 'LGroup9'}, 'state': {'id': 'm96U_wZ1SFO9I-98OAUSfg', 'name': 'How it works'}, 'report': {'id': 'y6nz-0e7RT-4duUMA2OteA', 'type': 'MSG'}, 'page': {'id': 'XRR6qDDBRwifKrMenLuyMw', 'caption': 'See how it works'}}
+msgid ""
+"Let’s see who’s the best copy cat. 😸\r\n"
+"1. Get the children to follow a leader, starting with an adult.\r\n"
+"2. They have to copy whatever the leader does as they move around, like hopping, putting hands on heads, jumping, running, skipping, doing silly walks, spinning round, waving their arms.\r\n"
+"3. Give every child a chance to be the leader.\r\n"
+msgstr ""
+"Masibone ukuba ngubani ikati ekopayo. 😸\r\n"
+"\r\n"
+"1. Yenza abantwana balandele umkhokeli, Uqale ngomdala.\r\n"
+"2. Kufuneka balinganise yonke into umkhokeli ayenzayo njengoko beshukuma, betsibatsiba, bebeka izandla entloko, bexhumaxhuma, bebaleka, betsiba, besenza indlela yokuhamba egezayo, bejikeleza kwalapha, bephekuzelisa ingalo zabo. \r\n"
+"3. Nika wonke umntwana ithuba lokuba abengu mkhokeli."
+

@@ -1,0 +1,106 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: ven\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '4UKxkb_UTj68aLIHIUnr6Q', 'name': 'Extra notes'}, 'report': {'id': 'P8Vg9mEaT_CNe9-BnwTZ4w', 'type': 'MSG'}, 'page': {'id': '8wRnzf10TVuLBCfC3UI90w', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'Fzrm5mY6Rw-YGdN6Vz9bjA', 'name': 'How it works'}, 'report': {'id': 'a-wa4WFWRb-Zh6tdjdz22g', 'type': 'MSG'}, 'page': {'id': 'OtUw3fzeR9KcW6umHF3OSw', 'caption': 'See how it works'}, 'button': {'id': '3xQOtTbhSRiLZeyl7Sv2xg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Kha vha vhale notsi"
+
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '4UKxkb_UTj68aLIHIUnr6Q', 'name': 'Extra notes'}, 'report': {'id': 'P8Vg9mEaT_CNe9-BnwTZ4w', 'type': 'MSG'}, 'page': {'id': '8wRnzf10TVuLBCfC3UI90w', 'caption': 'Read the notes'}, 'button': {'id': '0diuF4MRRt2CElLgCowuPg', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Kha vha humele murahu kha zwirengomu"
+
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '3pmbs0ECS0KrSPC1rTu9mQ', 'name': 'Skills developed'}, 'report': {'id': 'obl9Eyg5R32_qi8ae8xDjQ', 'type': 'MSG'}, 'page': {'id': 'm1mSUMAqQgiVRnuNudYvkw', 'caption': 'This game develops'}, 'button': {'id': 'E3CIYAWtQSqbI2nQLW8UCg', 'label': 'See what you need'}}
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'dPW1Z2jbTpC2f6VgDmgsiA', 'name': 'What you need'}, 'report': {'id': 'PfmYQSPlQzCvf2G3s_vxCQ', 'type': 'MSG'}, 'page': {'id': 'noJoSP94STKJYo2iss22zA', 'caption': 'See what you need'}}
+msgid "See what you need"
+msgstr "Zwine vha ṱoḓa"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'Fzrm5mY6Rw-YGdN6Vz9bjA', 'name': 'How it works'}, 'report': {'id': 'a-wa4WFWRb-Zh6tdjdz22g', 'type': 'MSG'}, 'page': {'id': 'OtUw3fzeR9KcW6umHF3OSw', 'caption': 'See how it works'}}
+#f: {'context': 'label', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'dPW1Z2jbTpC2f6VgDmgsiA', 'name': 'What you need'}, 'report': {'id': 'PfmYQSPlQzCvf2G3s_vxCQ', 'type': 'MSG'}, 'page': {'id': 'noJoSP94STKJYo2iss22zA', 'caption': 'See what you need'}, 'button': {'id': 'FIdhuZtTSw620iywYBCFpg', 'label': 'See how it works'}}
+msgid "See how it works"
+msgstr "Zwi shumisa hani"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '3pmbs0ECS0KrSPC1rTu9mQ', 'name': 'Skills developed'}, 'report': {'id': 'obl9Eyg5R32_qi8ae8xDjQ', 'type': 'MSG'}, 'page': {'id': 'm1mSUMAqQgiVRnuNudYvkw', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Mutambo u bveledza:"
+
+#f: {'context': 'caption', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'uBQXBOzeRcyyZfGXaeMP3A', 'name': 'Start'}, 'report': {'id': 'Id_Wv6SPQYqp0zf4bElJ9Q', 'type': 'MSG'}, 'page': {'id': '3vDI2NbdSwOM6LePOvi-7w', 'caption': 'There’s too much bad news in the newspaper, so let’s cut it up and Make a Papier Mache Bowl. ✂📰= \U0001f963'}}
+msgid "There’s too much bad news in the newspaper, so let’s cut it up and Make a Papier Mache Bowl. ✂📰= 🥣"
+msgstr "Hu na mafhungo a si avhuḓi mannzhi kha gurannḓa, zwenezwo kha ri a gere ri ite Tshidongo nga Mabammbiri Nga Suko. ✂📰= 🥣"
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'dPW1Z2jbTpC2f6VgDmgsiA', 'name': 'What you need'}, 'report': {'id': 'PfmYQSPlQzCvf2G3s_vxCQ', 'type': 'MSG'}, 'page': {'id': 'noJoSP94STKJYo2iss22zA', 'caption': 'See what you need'}}
+msgid ""
+"To make 6 bowls of mache you will need:\r\n"
+"* 2 cups flour \r\n"
+"* 2 cups of water\r\n"
+"* 1 tablespoon of salt\r\n"
+"* A mixing bowl and spoon\r\n"
+"* Strips of newspaper\r\n"
+"* Paint to decorate\r\n"
+msgstr ""
+"U ita zwidongo zwa rathi (6)nga suko vha ḓo ṱoḓa:\r\n"
+"1. Khaphu mbili (2) dza fuḽauru \r\n"
+"2. Khaphu mbili (2) dza maḓi\r\n"
+"3. Tshipuni tshiṱuku tshithihi (1)tsha muṋo\r\n"
+"4. Tshidongo tsha u ṱanganyisela na lebula\r\n"
+"5. Zwibammbiri zwisekene zwa gurannḓa\r\n"
+"6. Pennde ya u khavhisa"
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '4UKxkb_UTj68aLIHIUnr6Q', 'name': 'Extra notes'}, 'report': {'id': 'P8Vg9mEaT_CNe9-BnwTZ4w', 'type': 'MSG'}, 'page': {'id': '8wRnzf10TVuLBCfC3UI90w', 'caption': 'Read the notes'}}
+msgid ""
+"The most important note is don’t eat out of this bowl, because it will fall apart. Also:\r\n"
+"1. You can do this to make bowls for the pretend area, or you can do it as an art activity with each child. Make sure you have enough small bowls for each child.\r\n"
+"2. You can make other things out of paper mache: A bee using a balloon and cardboard, or get the children to make a papier mache hat or some funny animals.\r\n"
+msgstr ""
+"Tsha ndemesa ndi tshauri a hu na ane a tea u ḽela kha tshidongo itsho, ngauri tshi ḓo pwashekana. Zwiṅwe hafhu:\r\n"
+"\r\n"
+"1. Vha ite izwi u vhumba zwidongo zwa u khavhisa kha vhuṅwe vhupo, kana u zwi ita sa mushumo wa vhutsila na ṅwana muṅwe na muṅwe. Kha vha vhone uri vha na zwidongo zwiṱuku u itela ṅwana muṅwe na muṅwe\r\n"
+"2. Vha nga dovha vha ita na zwiṅwe zwithu nga suko iḽi. Ṋotshi vha tshi khou shumisa baḽoni na khathibogisi, kana uri vhana vha ite muṅadzi nga suko kana zwiṅwe zwipuka zwi seisaho."
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': '3pmbs0ECS0KrSPC1rTu9mQ', 'name': 'Skills developed'}, 'report': {'id': 'obl9Eyg5R32_qi8ae8xDjQ', 'type': 'MSG'}, 'page': {'id': 'm1mSUMAqQgiVRnuNudYvkw', 'caption': 'This game develops'}}
+msgid ""
+"✔️Exploring & Finding out\r\n"
+"✔️Arm & Hand Control"
+msgstr ""
+"✔️U ṱoḓisisa na u wanulusa\r\n"
+"✔️Ndaulo ya tshanḓa tshoṱhe"
+
+#f: {'context': 'text', 'workflow': {'id': 'KRbWcIz9SJqQSOxq5FxxbA', 'name': 'LGroup11'}, 'state': {'id': 'Fzrm5mY6Rw-YGdN6Vz9bjA', 'name': 'How it works'}, 'report': {'id': 'a-wa4WFWRb-Zh6tdjdz22g', 'type': 'MSG'}, 'page': {'id': 'OtUw3fzeR9KcW6umHF3OSw', 'caption': 'See how it works'}}
+msgid ""
+"I should give you a heads up now, that this is a messy business. 👩🏿‍🎨\r\n"
+"\r\n"
+"1. Tear 5 large pieces of newspaper into strips.\r\n"
+"2. Mix flour, water and salt in big bowl to make a paste.\r\n"
+"3. Take a small bowl – plastic is best.\r\n"
+"4. Dip newspaper strips into the paste and layer over the bowl.\r\n"
+"5. Do 3 or 4 more layers.\r\n"
+"6. Leave to dry for 2 days, or until it’s hard.\r\n"
+"7. Gently press it out the bowl. It will pop out.\r\n"
+"8. Paint and decorate.\r\n"
+msgstr ""
+"Tsivhudzo ndi ya uri, uyu ndi mushumo wo tangananaho. 👩🏿‍🎨\r\n"
+"\r\n"
+"1. Kha vha dzhie zwipiḓa zwiṱanu (5) zwa gurannḓa vha zwi gere zwi vhe zwi sekene.\r\n"
+"2. Kha vha ṱanganyise fulauru, maḓi na muṋo kha tshidongo tshihulwane vha ite bwindi.\r\n"
+"3. Kha vha dzhie tshidongo tshiṱuku – tsha puḽasiṱiki ndi tshone tsha khwine.\r\n"
+"4. Kha vha mbwandamedze gurannḓa kha bwindi vha ite mbemba nga tshidongo.\r\n"
+"5. Kha vha ite ngauralo zwi ite mbemba 3 kana nṋa kana dzi fhiraho idzo.\r\n"
+"6. Kha vha litshe zwi ome lwa maḓuvha mavhili, kana u swika vha tshi pfa uri zwo oma.\r\n"
+"7. Kha vha bvise zwavhuḓi kha tshidongo. Zwi ḓo bva.\r\n"
+"8. Kha vha pennde vha khavhise."
+

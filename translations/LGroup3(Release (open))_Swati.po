@@ -1,0 +1,104 @@
+
+# FEERSUM TRANSLATION FILE
+# Copyright (C) Feersum
+# devs@praekelt.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-15 09:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Feersum 0.14.4\n"
+"Language: ssw\n"
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'DJuPbTHdS36Sd3j96XgQYw', 'name': 'Extra notes'}, 'report': {'id': '5sFxJI6TRliadoOjLM38EA', 'type': 'MSG'}, 'page': {'id': 'K4s0Mx6IQx2TjeFtNoJksA', 'caption': 'Read the notes'}}
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'q2O0thXdRl6yj0vQ4NtGIg', 'name': 'How it works'}, 'report': {'id': 'qY472h6YQiC79ShDxIWV2g', 'type': 'MSG'}, 'page': {'id': 'ttqES5HHSR-FvnehouzZ_A', 'caption': 'See how it works'}, 'button': {'id': '0WluwP8bTsaW6eKlixHBBg', 'label': 'Read the notes'}}
+msgid "Read the notes"
+msgstr "Fundza emanotsi"
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': '-Uhjyrh7QoaAoTvnefHZZA', 'name': 'What you need'}, 'report': {'id': '5uXoWPkWSYqziW9vslyqRw', 'type': 'MSG'}, 'page': {'id': '6oAAGZCgSGOxZ2nEU_zGTA', 'caption': 'See what you need'}}
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'OYSLT1lqTN2jQ66QhtVEzg', 'name': 'Skills developed'}, 'report': {'id': 'TLdho7OXRtKdM7ZY1NJr0g', 'type': 'MSG'}, 'page': {'id': 'OJxuWpHiT7-MyJzqR88OzQ', 'caption': 'This game develops'}, 'button': {'id': 'z0rkpe8oR_Kl2D2s-v9_kA', 'label': 'See what you need'}}
+msgid "See what you need"
+msgstr "Buka kutsi yini loyidzingako"
+
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'DJuPbTHdS36Sd3j96XgQYw', 'name': 'Extra notes'}, 'report': {'id': '5sFxJI6TRliadoOjLM38EA', 'type': 'MSG'}, 'page': {'id': 'K4s0Mx6IQx2TjeFtNoJksA', 'caption': 'Read the notes'}, 'button': {'id': 'dM41lVNtQMa5jIuppaei_w', 'label': 'Back to menu'}}
+msgid "Back to menu"
+msgstr "Buyela emuva kumenyu"
+
+#f: {'context': 'label', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': '-Uhjyrh7QoaAoTvnefHZZA', 'name': 'What you need'}, 'report': {'id': '5uXoWPkWSYqziW9vslyqRw', 'type': 'MSG'}, 'page': {'id': '6oAAGZCgSGOxZ2nEU_zGTA', 'caption': 'See what you need'}, 'button': {'id': 'Xvy4TLYlT9yhg0Yv0yl-mg', 'label': 'See how it works'}}
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'q2O0thXdRl6yj0vQ4NtGIg', 'name': 'How it works'}, 'report': {'id': 'qY472h6YQiC79ShDxIWV2g', 'type': 'MSG'}, 'page': {'id': 'ttqES5HHSR-FvnehouzZ_A', 'caption': 'See how it works'}}
+msgid "See how it works"
+msgstr "Buka kutsi isebenta njani"
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': '-Uhjyrh7QoaAoTvnefHZZA', 'name': 'What you need'}, 'report': {'id': '5uXoWPkWSYqziW9vslyqRw', 'type': 'MSG'}, 'page': {'id': '6oAAGZCgSGOxZ2nEU_zGTA', 'caption': 'See what you need'}}
+msgid ""
+"I meant it when I said it was easy. All you need is:\r\n"
+"\r\n"
+"1. A big space to play \r\n"
+"2. A blindfold\r\n"
+msgstr ""
+"Bengicinisile uma ngitsi kulula. Udzinga loku:\r\n"
+"\r\n"
+"1. Indzawo lenkhulu yekudlalela\r\n"
+"2. Kwekuvala buso"
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'OYSLT1lqTN2jQ66QhtVEzg', 'name': 'Skills developed'}, 'report': {'id': 'TLdho7OXRtKdM7ZY1NJr0g', 'type': 'MSG'}, 'page': {'id': 'OJxuWpHiT7-MyJzqR88OzQ', 'caption': 'This game develops'}}
+msgid "This game develops"
+msgstr "Lomdlalo utfutfukisa:"
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'DJuPbTHdS36Sd3j96XgQYw', 'name': 'Extra notes'}, 'report': {'id': '5sFxJI6TRliadoOjLM38EA', 'type': 'MSG'}, 'page': {'id': 'K4s0Mx6IQx2TjeFtNoJksA', 'caption': 'Read the notes'}}
+msgid ""
+"Here are a few handy hints\r\n"
+"1. Walk around with your arms out in front of you so that you don’t bump into anything or anyone.\r\n"
+"2. Ask if you are hot 🔥 or cold ❄ so that the children can give you clues.\r\n"
+"3. Let the older children have a turn with the blindfold if they want.\r\n"
+msgstr ""
+"Naku lokutecwayiso longakusebentisa:\r\n"
+"\r\n"
+"1. Hamba hamba uvule tandla tingembikwakho kute kutsi ungatishayisi noma ushayise umuntfu.  \r\n"
+"2. Buta kwekutsi ngabe uyashisa 🔥 noma uyabandza ❄ kute kutsi labantfwana bakunikete emasu.\r\n"
+"3. Labantfwana lesebabadzadlana nabo bangativala emehlo uma ngabe bafuna."
+
+#f: {'context': 'caption', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'E5R69tJ9T62AjlTWPpG-PA', 'name': 'Start'}, 'report': {'id': 'BzD4n4hzSQqOjtoJPfLWLg', 'type': 'MSG'}, 'page': {'id': '09yMQUNWRRuw4cpWJKjZbA', 'caption': 'Have you played The Blind Man with the children? It’s really easy. 🙈 '}}
+msgid "Have you played The Blind Man with the children? It’s really easy. 🙈 "
+msgstr "Uke wadlala Indzodza Leyimphumphutse nalabantfwana? Kulula kakhulu. 🙈"
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'q2O0thXdRl6yj0vQ4NtGIg', 'name': 'How it works'}, 'report': {'id': 'qY472h6YQiC79ShDxIWV2g', 'type': 'MSG'}, 'page': {'id': 'ttqES5HHSR-FvnehouzZ_A', 'caption': 'See how it works'}}
+msgid ""
+"Here’s how you play the game:\r\n"
+"\r\n"
+"1. Tell the children you are going to play The Blind Man.\r\n"
+"2. Say that you’re going to put a blindfold on so that you can’t see, and show them the blindfold.\r\n"
+"3. Find a big space. \r\n"
+"4. Ask the children to find a place to stand.\r\n"
+"5. They are not allowed to move from that spot.\r\n"
+"6. Move through the space with your blindfold on. \r\n"
+"7. If you get close to a child, they must shout “hot!”\r\n"
+"8. If you are far away, they must shout “cold!”\r\n"
+"9. When you find a child, feel their faces and guess who it is. \r\n"
+msgstr ""
+"Lomdlalo udlalwa ngaloluhlobo: \r\n"
+"\r\n"
+"1. Tjela bantfwana kutsi nitawudlala Indvodza Leyimphumphutse.\r\n"
+"2. Batjele kutsi utativala emehlo ngendvwangu kute kutsi ungaboni, bese ubabonisa loku lotativala ngako.\r\n"
+"3. Tfola indzawo lenkhulu. \r\n"
+"4. Cela labantfwana batfole indzawo labatawuma kuyo. \r\n"
+"5. Abakavumeleki kutsi basuke kuleyo ndzawo.\r\n"
+"6. Hamba hamba kuleyo ndzawo uvalwe emehlo. \r\n"
+"7. Uma sewusedvute nemtfwana, kufanele bamemete batsi “kuyashisa!”\r\n"
+"8. Uma ukhashane kakhulu, kufanele bamemete batsi “kuyabandza!”\r\n"
+"9. Uma utfola umntfwana, bamba buso babo bese uyacambela kutsi ngubani."
+
+#f: {'context': 'text', 'workflow': {'id': 'rkxfsafHRFq5JEsQuR2OUw', 'name': 'LGroup3'}, 'state': {'id': 'OYSLT1lqTN2jQ66QhtVEzg', 'name': 'Skills developed'}, 'report': {'id': 'TLdho7OXRtKdM7ZY1NJr0g', 'type': 'MSG'}, 'page': {'id': 'OJxuWpHiT7-MyJzqR88OzQ', 'caption': 'This game develops'}}
+msgid ""
+"✔️Social\r\n"
+"✔️Walking & Moving\r\n"
+msgstr ""
+"✔️Emakhono ekuphila\r\n"
+"✔️Kuhamba nekunyakata"
+
